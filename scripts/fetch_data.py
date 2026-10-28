@@ -96,15 +96,22 @@ def fetch_news(query, kind, when):
     return items
 
 
-def update_news(queries, path):
+def classify(item, match):
+    """検索結果には他社の記事も混ざるので、タイトルに社名がない「会社」記事は「業界」に回す。"""
+    if match and item["kind"] == "company" and not any(m in item["title"] for m in match):
+        item["kind"] = "sector"
+    return item
+
+
+def update_news(queries, path, match=None):
     old = load_json(path, {"items": []})
-    merged = {i["id"]: i for i in old["items"]}
+    merged = {i["id"]: classify(i, match) for i in old["items"]}
     when = "14d" if merged else "60d"
     ok = False
     for spec in queries:
         try:
             for item in fetch_news(spec["q"], spec["kind"], when):
-                merged.setdefault(item["id"], item)
+                merged.setdefault(item["id"], classify(item, match))
             ok = True
         except Exception as e:  # noqa: BLE001 - 1件の失敗で全体を止めない
             print("news failed:", spec["q"], e, file=sys.stderr)
@@ -130,7 +137,7 @@ def main():
             failures += 1
             print("prices failed:", symbol, e, file=sys.stderr)
     for s in cfg["stocks"]:
-        update_news(s["queries"], DATA / "news" / (s["code"] + ".json"))
+        update_news(s["queries"], DATA / "news" / (s["code"] + ".json"), s.get("match"))
     update_news(cfg["market"]["queries"], DATA / "news" / "market.json")
     if failures == len(jobs):
         sys.exit("株価をひとつも取得できませんでした")
