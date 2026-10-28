@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>株ノート</title>
+<meta name="theme-color" content="#1f3a5f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="株ノート">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <h1>📒 株ノート</h1>
+  <div id="updated" class="updated"></div>
+</header>
+<p class="notice" id="notice">なお、このアプリは学習用です。ニュースと株価の関係を整理して、自分で考えるための道具として作ります。売買を判断するものではありません。</p>
+<nav id="tabs" class="tabs" aria-label="銘柄"></nav>
+<main id="view"></main>
+<footer class="foot">
+  <p>なお、このアプリは学習用です。ニュースと株価の関係を整理して、自分で考えるための道具として作ります。売買を判断するものではありません。</p>
+  <p class="small">株価：Yahoo!ファイナンス／ニュース：Googleニュース（RSS）。いずれも遅延・欠落があり得ます。メモとタグはこの端末のブラウザ内に保存されます。</p>
+  <div class="row">
+    <button id="exportBtn" type="button">メモを書き出す</button>
+    <label class="btn">メモを読み込む<input id="importFile" type="file" accept="application/json" hidden></label>
+  </div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{
+  "name": "株ノート",
+  "short_name": "株ノート",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1f3a5f",
+  "icons": [{ "src": "icon-180.png", "sizes": "180x180", "type": "image/png" }]
+}

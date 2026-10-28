@@ -1,0 +1,44 @@
+{
+  "stocks": [
+    {
+      "code": "9101",
+      "symbol": "9101.T",
+      "name": "日本郵船",
+      "sector": "海運業",
+      "queries": [
+        { "q": "日本郵船", "kind": "company" },
+        { "q": "海運 運賃 市況", "kind": "sector" }
+      ]
+    },
+    {
+      "code": "4204",
+      "symbol": "4204.T",
+      "name": "積水化学工業",
+      "sector": "化学・住宅",
+      "queries": [
+        { "q": "積水化学工業", "kind": "company" },
+        { "q": "化学 素材 住宅 市況", "kind": "sector" }
+      ]
+    },
+    {
+      "code": "3205",
+      "symbol": "3205.T",
+      "name": "ダイドーリミテッド",
+      "sector": "アパレル",
+      "queries": [
+        { "q": "ダイドーリミテッド", "kind": "company" },
+        { "q": "アパレル 衣料 消費 市況", "kind": "sector" }
+      ]
+    }
+  ],
+  "market": {
+    "indices": [
+      { "key": "topix", "symbol": "1306.T", "name": "TOPIX連動ETF(1306)" },
+      { "key": "n225", "symbol": "^N225", "name": "日経平均" }
+    ],
+    "queries": [
+      { "q": "日経平均 東京株式市場", "kind": "market" },
+      { "q": "日銀 金利 円相場", "kind": "market" }
+    ]
+  }
+}
