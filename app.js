@@ -17,7 +17,7 @@ const PAGE = 40;
 const state = {
   cfg: null, prices: {}, news: {}, updated: '',
   tab: null, range: '6M', compare: false, sel: null,
-  kind: 'all', tag: 'all', shown: PAGE, draft: { date: '', text: '' },
+  kind: 'all', tag: 'all', shown: PAGE, draft: { date: '', text: '' }, addDraft: { code: '', name: '', sector: '' },
 };
 
 // ---------- 保存（この端末のみ） ----------
@@ -156,6 +156,7 @@ async function load() {
 function tabsHtml() {
   const t = state.cfg.stocks.map(s => `<button type="button" data-act="tab" data-v="${s.code}" class="${state.tab === s.code ? 'on' : ''}">${esc(s.name)}</button>`);
   t.push(`<button type="button" data-act="tab" data-v="market" class="${state.tab === 'market' ? 'on' : ''}">市場全体</button>`);
+  t.push(`<button type="button" data-act="tab" data-v="add" class="${state.tab === 'add' ? 'on' : ''}">＋銘柄を追加</button>`);
   return t.join('');
 }
 
@@ -326,6 +327,18 @@ function marketView() {
     + `<div id="selected">${selectedHtml('market', c)}</div>` + list + memoHtml('market', c);
 }
 
+function addView() {
+  const d = state.addDraft;
+  return `<div class="card"><h2>＋ 銘柄を追加</h2>
+    <p class="sub">国内株の証券コード・名前・業種を入れて「GitHubで申請」を押すと、GitHubの画面が開きます。緑の「Create」を押すと、1〜2分で株価とニュースが取得され、アプリを開き直すとタブに増えます。</p>
+    <label class="sub">証券コード（4桁）<br><input type="text" id="aCode" inputmode="text" maxlength="4" placeholder="例：7203" value="${esc(d.code)}"></label>
+    <label class="sub">名前（ニュース検索に使います。正式名称がおすすめ）<br><input type="text" id="aName" maxlength="30" placeholder="例：トヨタ自動車" value="${esc(d.name)}"></label>
+    <label class="sub">業種（業界ニュース検索に使います）<br><input type="text" id="aSector" maxlength="20" placeholder="例：自動車" value="${esc(d.sector)}"></label>
+    <div class="row" style="margin-top:8px"><button type="button" class="on" data-act="addOpen">GitHubで申請</button></div>
+    <p class="sub" id="addMsg"></p>
+    <p class="sub">登録済み：${state.cfg.stocks.map(x => esc(x.name) + '(' + x.code + ')').join('、')}</p></div>`;
+}
+
 function draw() {
   if (!state.cfg) return;
   const text = $('#mText');
@@ -333,6 +346,7 @@ function draw() {
   const y = window.scrollY;
   $('#tabs').innerHTML = tabsHtml();
   $('#updated').textContent = state.updated ? '更新 ' + state.updated.replace('T', ' ') : '';
+  if (state.tab === 'add') { $('#view').innerHTML = addView(); window.scrollTo(0, y); return; }
   const stock = state.cfg.stocks.find(s => s.code === state.tab);
   $('#view').innerHTML = stock ? stockView(stock) : marketView();
   mountChart('main', state.tab, ctxFor(state.tab));
@@ -345,6 +359,17 @@ document.addEventListener('click', ev => {
   if (!b || b.tagName === 'SELECT') return;
   const v = b.dataset.v, act = b.dataset.act;
   if (act === 'tab') { Object.assign(state, { tab: v, sel: null, kind: 'all', tag: 'all', shown: PAGE }); state.draft = { date: '', text: '' }; }
+  else if (act === 'addOpen') {
+    const d = state.addDraft = { code: $('#aCode').value.trim().toUpperCase(), name: $('#aName').value.trim(), sector: $('#aSector').value.trim() };
+    const msg = $('#addMsg');
+    if (!/^[0-9]{3}[0-9A-Z]$/.test(d.code)) { msg.textContent = '証券コードは4桁で入力してください（例：7203）。'; return; }
+    if (!d.name || !d.sector) { msg.textContent = '名前と業種を入力してください。'; return; }
+    if (state.cfg.stocks.some(x => x.code === d.code)) { msg.textContent = d.code + ' はすでに登録されています。'; return; }
+    const url = `https://github.com/${state.cfg.repo}/issues/new?title=${encodeURIComponent('銘柄追加 ' + d.code)}&body=${encodeURIComponent(`コード: ${d.code}\n名前: ${d.name}\n業種: ${d.sector}\n`)}`;
+    msg.textContent = 'GitHubの画面が開きます。緑の「Create」を押してください。';
+    window.open(url, '_blank', 'noopener');
+    return;
+  }
   else if (act === 'range') state.range = v;
   else if (act === 'cmp') state.compare = !state.compare;
   else if (act === 'kind') { state.kind = v; state.shown = PAGE; }

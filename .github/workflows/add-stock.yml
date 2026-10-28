@@ -1,0 +1,51 @@
+name: add-stock
+
+# アプリの「銘柄を追加」が開く Issue（タイトルが「銘柄追加」で始まる）を受けて銘柄を追加する。
+# 公開リポジトリなので、リポジトリの持ち主が作った Issue だけを受け付ける。
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: github.event.issue.user.login == github.repository_owner && startsWith(github.event.issue.title, '銘柄追加')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      RESULT_FILE: ${{ runner.temp }}/result.txt
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Add stock to config
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scripts/add_stock.py
+      - name: Fetch prices and news
+        if: steps.add.outputs.ok == 'true'
+        run: python scripts/fetch_data.py
+      - name: Commit
+        if: steps.add.outputs.ok == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Add stock from issue #${{ github.event.issue.number }}"
+          git pull --rebase origin "${{ github.event.repository.default_branch }}"
+          git push
+      - name: Reply and close
+        if: always()
+        run: |
+          if [ -f "$RESULT_FILE" ]; then MSG="$(cat "$RESULT_FILE")"; else MSG="処理に失敗しました。Actions のログを確認してください。"; fi
+          gh issue comment "${{ github.event.issue.number }}" --repo "${{ github.repository }}" --body "$MSG"
+          gh issue close "${{ github.event.issue.number }}" --repo "${{ github.repository }}"
