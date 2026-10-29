@@ -18,7 +18,7 @@ const state = {
   cfg: null, prices: {}, news: {}, updated: '',
   tab: null, range: '6M', compare: false, sel: null,
   kind: 'all', tag: 'all', shown: PAGE, draft: { date: '', text: '' }, addDraft: { code: '', name: '', sector: '' },
-  pdraft: { dir: '', days: 5, text: '' }, ai: { mode: 'all', q: '' },
+  pdraft: { dir: '', days: 5, text: '' }, ai: { mode: 'all', q: '' }, ma: false,
 };
 const DIRS = { up: '上がる', flat: '横ばい', down: '下がる' };
 const FLAT = 0.02; // 横ばい＝±2%以内
@@ -75,6 +75,27 @@ function reaction(series, eff) {
   const at = k => (i + k - 1 < series.closes.length ? series.closes[i + k - 1] / base - 1 : null);
   return { idx: i, r1: at(1), r3: at(3), r5: at(5) };
 }
+// 直近 n 営業日の騰落率の平均と標準偏差（不偏）。z = (その日の騰落率 − 平均) / 標準偏差
+function retStats(series, endIdx, n = 250) {
+  const c = series.closes, e = endIdx == null ? c.length - 1 : endIdx;
+  const r = [];
+  for (let i = Math.max(1, e - n + 1); i <= e; i++) r.push(c[i] / c[i - 1] - 1);
+  if (r.length < 20) return null;
+  const m = mean(r);
+  const sd = Math.sqrt(r.reduce((s, v) => s + (v - m) ** 2, 0) / (r.length - 1));
+  return { m, sd };
+}
+const zOf = (series, i) => {
+  if (i < 1) return null;
+  const st = retStats(series, i - 1);
+  return st && st.sd ? (series.closes[i] / series.closes[i - 1] - 1 - st.m) / st.sd : null;
+};
+const zTxt = z => z == null ? '' : `z=${z >= 0 ? '+' : ''}${z.toFixed(1)}`;
+function movingAvg(vals, k) {
+  let sum = 0;
+  return vals.map((v, i) => { sum += v; if (i >= k) sum -= vals[i - k]; return i >= k - 1 ? sum / k : null; });
+}
+
 function alignTo(dates, ms) {
   let j = 0, last = null;
   return dates.map(d => {
@@ -91,7 +112,7 @@ function drawChart(el, o) {
   const cmp = !!(o.mkt && o.compare);
   const a = cmp ? o.vals.map(v => v / o.vals[0] * 100) : o.vals;
   const b = cmp ? o.mkt.map(v => v / o.mkt[0] * 100) : null;
-  const all = a.concat(b || []).filter(v => v != null);
+  const all = a.concat(b || [], o.ma && !cmp ? o.ma : []).filter(v => v != null);
   let min = Math.min(...all), max = Math.max(...all);
   const pad = (max - min) * 0.06 || 1;
   min -= pad; max += pad;
@@ -108,6 +129,10 @@ function drawChart(el, o) {
     s += `<text x="${x(i)}" y="${H - B + 14}" font-size="10" fill="var(--sub)" text-anchor="${k === 0 ? 'start' : k === 2 ? 'end' : 'middle'}">${fmtDate(o.dates[i])}</text>`;
   });
   if (b) s += `<path d="${path(b)}" fill="none" stroke="var(--market)" stroke-width="1.5" stroke-dasharray="4 3"/>`;
+  if (o.ma && !cmp) {
+    const seg = o.ma.map((v, i) => v == null ? '' : (i && o.ma[i - 1] != null ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(v).toFixed(1)).join('');
+    if (seg) s += `<path d="${seg}" fill="none" stroke="var(--ma)" stroke-width="1.5"/>`;
+  }
   s += `<path d="${path(a)}" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round"/>`;
   o.markers.forEach((m, i) => {
     if (m.news) s += `<circle cx="${x(i)}" cy="${H - 16}" r="${3 + Math.min(m.news, 4)}" fill="var(--news)" opacity=".85"/>`;
@@ -160,6 +185,7 @@ async function load() {
 function tabsHtml() {
   const t = state.cfg.stocks.map(s => `<button type="button" data-act="tab" data-v="${s.code}" class="${state.tab === s.code ? 'on' : ''}">${esc(s.name)}</button>`);
   t.push(`<button type="button" data-act="tab" data-v="market" class="${state.tab === 'market' ? 'on' : ''}">市場全体</button>`);
+  t.push(`<button type="button" data-act="tab" data-v="learn" class="${state.tab === 'learn' ? 'on' : ''}">📐 学習</button>`);
   t.push(`<button type="button" data-act="tab" data-v="add" class="${state.tab === 'add' ? 'on' : ''}">＋銘柄を追加</button>`);
   return t.join('');
 }
@@ -467,7 +493,8 @@ function selectedHtml(tab, c) {
   const ms = memos.filter(m => m.code === tab && m.date === state.sel);
   const prev = i > 0 ? s.closes[i] / s.closes[i - 1] - 1 : null;
   return `<div class="card"><h2>${state.sel} の記録</h2>
-    <div>終値 <b>${num(s.closes[i])}</b> <span class="${cls(prev)}">(前日比 ${pct(prev)})</span></div>
+    <div>終値 <b>${num(s.closes[i])}</b> <span class="${cls(prev)}">(前日比 ${pct(prev)})</span> ${zTxt(zOf(s, i))}</div>
+    <p class="sub">z は、その日の動きが直近1年のふだんの動き（標準偏差）の何倍かを表します。±2を超えると大きめ、±3を超えるとかなり珍しい動きです。</p>
     <p class="sub">15:30以降に出たニュースと休日のニュースは、次の営業日に入ります。</p>
     ${day.length ? day.map(n => newsHtml(n, c)).join('') : '<div class="empty">この日のニュースは記録されていません。</div>'}
     ${ms.map(m => `<div class="memo"><span class="tag">メモ</span><p>${esc(m.text)}</p></div>`).join('')}</div>`;
@@ -476,16 +503,19 @@ function selectedHtml(tab, c) {
 function chartCard(id, title, c, extra) {
   return `<div class="card"><h2>${title}</h2>${extra || ''}
     <div class="row">${Object.keys(RANGES).map(r => `<button type="button" data-act="range" data-v="${r}" class="${state.range === r ? 'on' : ''}">${r}</button>`).join('')}
-    ${c.mkt ? `<button type="button" data-act="cmp" class="${state.compare ? 'on' : ''}">市場と比較</button>` : ''}</div>
+    ${c.mkt ? `<button type="button" data-act="cmp" class="${state.compare ? 'on' : ''}">市場と比較</button>` : ''}
+    <button type="button" data-act="ma" class="${state.ma ? 'on' : ''}">25日移動平均</button></div>
     <div class="readout" id="ro-${id}">&nbsp;</div><div class="chart" id="chart-${id}"></div>
     <div class="legend"><span><i class="dot" style="background:var(--accent)"></i>株価${state.compare && c.mkt ? '（開始日=100）' : ''}</span>
     ${state.compare && c.mkt ? '<span><i class="dot" style="background:var(--market)"></i>TOPIX連動ETF（開始日=100）</span>' : ''}
+    ${state.ma && !(state.compare && c.mkt) ? '<span><i class="dot" style="background:var(--ma)"></i>25日移動平均</span>' : ''}
     <span><i class="dot" style="background:var(--news)"></i>ニュースあり</span><span><i class="dot" style="background:var(--memo)"></i>メモあり</span></div></div>`;
 }
 
 function mountChart(id, tab, c) {
   const s = c.series, from = rangeSlice(s);
   const dates = s.dates.slice(from), vals = s.closes.slice(from);
+  const ma = state.ma ? movingAvg(s.closes, 25).slice(from) : null;
   const mkt = c.mkt ? alignTo(dates, c.mkt) : null;
   const markers = new Map();
   const mark = (d, key) => {
@@ -499,12 +529,12 @@ function mountChart(id, tab, c) {
   const ro = $('#ro-' + id);
   const read = i => {
     const prev = i > 0 ? vals[i] / vals[i - 1] - 1 : null;
-    let t = `${dates[i]}　終値 ${num(vals[i])}　前日比 <b class="${cls(prev)}">${pct(prev)}</b>`;
+    let t = `${dates[i]}　終値 ${num(vals[i])}　前日比 <b class="${cls(prev)}">${pct(prev)}</b> <small>${zTxt(zOf(s, from + i))}</small>`;
     if (state.compare && mkt) t += `　市場 ${num(mkt[i])}`;
     ro.innerHTML = t;
   };
   drawChart($('#chart-' + id), {
-    dates, vals, mkt, compare: state.compare, markers,
+    dates, vals, mkt, ma, compare: state.compare, markers,
     selIdx: state.sel ? dates.indexOf(state.sel) : null,
     onHover: read,
     onSelect: i => { state.sel = dates[i]; state.draft.date = dates[i]; draw(); $('#selected') && $('#selected').scrollIntoView({ block: 'nearest', behavior: 'smooth' }); },
@@ -516,7 +546,7 @@ function stockView(stock) {
   const c = ctxFor(stock.code), s = c.series, last = s.closes.length - 1;
   const prev = last > 0 ? s.closes[last] / s.closes[last - 1] - 1 : null;
   const head = `<div class="card"><div class="sub">${stock.code} ・ ${esc(stock.sector)}</div>
-    <div><span class="price">${num(s.closes[last])}</span><span class="chg ${cls(prev)}">${pct(prev)}</span></div>
+    <div><span class="price">${num(s.closes[last])}</span><span class="chg ${cls(prev)}">${pct(prev)}</span> <span class="sub">${zTxt(zOf(s, last))}</span></div>
     <div class="sub">${s.dates[last] ? s.dates[last] + ' 終値' : '株価データはまだありません（GitHub の Actions「update-data」を実行すると取得されます）'}</div></div>`;
   let items = c.news.filter(n => (state.kind === 'all' || n.kind === state.kind) && (state.tag === 'all' || tagOf(n) === state.tag));
   const total = items.length;
@@ -570,6 +600,12 @@ function draw() {
   $('#tabs').innerHTML = tabsHtml();
   $('#updated').textContent = state.updated ? '更新 ' + state.updated.replace('T', ' ') : '';
   if (state.tab === 'add') { $('#view').innerHTML = addView(); window.scrollTo(0, y); return; }
+  if (state.tab === 'learn') {
+    $('#view').innerHTML = window.KN.learn ? window.KN.learn.html() : '<div class="card">読み込み中です。</div>';
+    if (window.KN.learn) window.KN.learn.mount();
+    window.scrollTo(0, y);
+    return;
+  }
   const stock = state.cfg.stocks.find(s => s.code === state.tab);
   $('#view').innerHTML = stock ? stockView(stock) : marketView();
   mountChart('main', state.tab, ctxFor(state.tab));
@@ -623,6 +659,8 @@ document.addEventListener('click', ev => {
     window.open(url, '_blank', 'noopener');
     return;
   }
+  else if (act.startsWith('L')) { if (!(window.KN.learn && window.KN.learn.click(act, b))) return; }
+  else if (act === 'ma') state.ma = !state.ma;
   else if (act === 'range') state.range = v;
   else if (act === 'cmp') state.compare = !state.compare;
   else if (act === 'kind') { state.kind = v; state.shown = PAGE; }
@@ -649,6 +687,7 @@ document.addEventListener('click', ev => {
 });
 document.addEventListener('change', ev => {
   const e = ev.target;
+  if (e.dataset.lact) { if (window.KN.learn && window.KN.learn.change(e)) draw(); return; }
   if (e.dataset.act === 'tagSel') { tagOverride[e.dataset.id] = e.value; store.set('kabu.tags', tagOverride); draw(); }
   else if (e.id === 'mDate') state.draft.date = e.value;
   else if (e.id === 'pDays') state.pdraft.days = Number(e.value) || 5;
@@ -657,7 +696,7 @@ document.addEventListener('change', ev => {
 });
 
 $('#exportBtn').addEventListener('click', () => {
-  const blob = new Blob([JSON.stringify({ memos, tags: tagOverride, preds }, null, 1)], { type: 'application/json' });
+  const blob = new Blob([JSON.stringify({ memos, tags: tagOverride, preds, ahp: store.get('kabu.ahp', null) }, null, 1)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
   a.download = 'kabu-note-memos.json';
@@ -674,6 +713,7 @@ $('#importFile').addEventListener('change', async ev => {
     Object.assign(tagOverride, d.tags || {});
     const haveP = new Set(preds.map(p => p.id));
     (d.preds || []).forEach(p => { if (p && p.id && !haveP.has(p.id)) preds.push(p); });
+    if (d.ahp && !store.get('kabu.ahp', null)) store.set('kabu.ahp', d.ahp);
     store.set('kabu.memos', memos); store.set('kabu.tags', tagOverride); store.set('kabu.preds', preds);
     draw();
     alert('読み込みました。');
@@ -685,6 +725,13 @@ window.addEventListener('resize', () => {
   if (window.innerWidth === lastW) return;
   lastW = window.innerWidth;
   clearTimeout(rz); rz = setTimeout(draw, 200);
+});
+
+// 学習タブ（learn.js）から使う道具
+window.KN = Object.assign(window.KN || {}, {
+  state, store, $, esc, num, pct, cls, mean, mkSeries, firstOnOrAfter, lastOnOrBefore,
+  reaction, effDate, tagOf, TAGS, KIND, DIRS, FLAT, ctxFor, predResult, retStats, draw,
+  preds: () => preds,
 });
 
 load();

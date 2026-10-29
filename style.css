@@ -1,13 +1,13 @@
 :root {
   --bg: #f5f7fa; --card: #fff; --text: #1d2733; --sub: #667385; --line: #dde3ea;
   --accent: #1f5fa8; --market: #8a94a3; --up: #c62828; --down: #1565c0;
-  --news: #e08a00; --memo: #7b3fa0; --notice-bg: #fff6e0; --notice-text: #5b4300;
+  --news: #e08a00; --memo: #7b3fa0; --ma: #2e8b57; --notice-bg: #fff6e0; --notice-text: #5b4300;
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #11161c; --card: #1a222c; --text: #e6ebf1; --sub: #9aa7b6; --line: #2c3745;
     --accent: #6aa9ee; --market: #8794a6; --up: #ef6b6b; --down: #6aa9ee;
-    --news: #f0a53a; --memo: #c08be0; --notice-bg: #2c2612; --notice-text: #e8d9a8;
+    --news: #f0a53a; --memo: #c08be0; --ma: #5fc28a; --notice-bg: #2c2612; --notice-text: #e8d9a8;
   }
 }
 * { box-sizing: border-box; }
@@ -72,3 +72,25 @@ input[type=text] { width: 100%; margin: 2px 0 10px; font-size: 16px; }
 #aiMode { width: 100%; margin-top: 2px; }
 details summary { cursor: pointer; margin-top: 6px; }
 .aitext { min-height: 200px; font-size: 12px; margin-top: 6px; }
+
+/* 学習タブ */
+.lec { display: inline-block; font-size: 11px; font-weight: 500; color: var(--sub); border: 1px solid var(--line); border-radius: 6px; padding: 0 6px; margin-left: 4px; vertical-align: middle; }
+.lsvg { width: 100%; height: auto; display: block; margin: 6px 0; }
+.scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+th.l, td.l { text-align: left; }
+table.kv th { text-align: left; color: var(--sub); font-weight: 500; }
+table.mat td, table.mat th { text-align: center; white-space: nowrap; font-size: 12px; }
+.chk { display: inline-flex; align-items: center; gap: 4px; margin-right: 10px; font-size: 14px; }
+.chk input { width: 18px; height: 18px; }
+.pair { margin: 6px 0; }
+.pair select { width: 100%; }
+.bars { margin: 8px 0; }
+.bar { display: grid; grid-template-columns: 7.5em 1fr 3.5em; align-items: center; gap: 6px; font-size: 12px; margin: 3px 0; }
+.bar span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar i { display: block; height: 10px; background: var(--accent); border-radius: 3px; min-width: 1px; }
+.bar b { text-align: right; font-weight: 600; }
+button.link { border: 0; background: none; padding: 0; min-height: 0; color: var(--accent); text-decoration: underline; border-radius: 0; font-size: inherit; }
+input[type=number] { font: inherit; font-size: 16px; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; width: 100%; }
+.scroll table th, .scroll table td { white-space: nowrap; }
+.scroll table td.l { white-space: normal; min-width: 11em; }
+.scroll table th.l, .scroll table td.l:first-child { min-width: 5.5em; }

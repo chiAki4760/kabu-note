@@ -56,17 +56,41 @@ def fetch_prices(symbol, rng):
     return out
 
 
+def drop_spikes(series, jump=2.5, back=1.43, look=5):
+    """無料の株価データには、桁がずれた値（例：380 が 37.6）が数日だけ混ざることがある。
+    前の値から 2.5倍以上／2.5分の1以下に飛び、数日以内に元の水準（±30%）へ戻る点を取り除く。
+    戻らない大きな変化（本当の急落や、調整されていない株式分割）は残す。"""
+    out, dropped, i = [], [], 0
+    while i < len(series):
+        if out:
+            prev = out[-1][1]
+            ratio = series[i][1] / prev if prev else 1
+            if ratio >= jump or ratio <= 1 / jump:
+                back_at = next((k for k in range(i + 1, min(len(series), i + 1 + look))
+                                if 1 / back <= series[k][1] / prev <= back), None)
+                if back_at is not None:
+                    dropped += [d for d, _ in series[i:back_at]]
+                    i = back_at
+                    continue
+        out.append(series[i])
+        i += 1
+    return out, dropped
+
+
 def update_prices(symbol, path):
     old = load_json(path, {"series": []})
     merged = {d: v for d, v in old["series"]}
     rng = "10d" if merged else "2y"
     merged.update(fetch_prices(symbol, rng))
+    series, dropped = drop_spikes(sorted([d, v] for d, v in merged.items()))
+    if dropped:
+        print("prices: dropped suspicious values", symbol, dropped, file=sys.stderr)
     save_json(path, {
         "symbol": symbol,
         "updated": now_jst(),
-        "series": sorted([d, v] for d, v in merged.items()),
+        "series": series,
     })
-    print("prices ok:", symbol, len(merged))
+    print("prices ok:", symbol, len(series))
 
 
 def fetch_news(query, kind, when):
