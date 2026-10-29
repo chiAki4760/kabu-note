@@ -20,7 +20,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ github.token }}
-      RESULT_FILE: ${{ runner.temp }}/result.txt
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -30,6 +29,7 @@ jobs:
         id: add
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
+          RESULT_FILE: ${{ runner.temp }}/result.txt
         run: python scripts/add_stock.py
       - name: Fetch prices and news
         if: steps.add.outputs.ok == 'true'
@@ -45,6 +45,8 @@ jobs:
           git push
       - name: Reply and close
         if: always()
+        env:
+          RESULT_FILE: ${{ runner.temp }}/result.txt
         run: |
           if [ -f "$RESULT_FILE" ]; then MSG="$(cat "$RESULT_FILE")"; else MSG="処理に失敗しました。Actions のログを確認してください。"; fi
           gh issue comment "${{ github.event.issue.number }}" --repo "${{ github.repository }}" --body "$MSG"
