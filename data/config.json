@@ -62,6 +62,26 @@
           "kind": "sector"
         }
       ]
+    },
+    {
+      "code": "9107",
+      "symbol": "9107.T",
+      "name": "川崎汽船",
+      "sector": "貨物",
+      "match": [
+        "川崎汽船",
+        "9107"
+      ],
+      "queries": [
+        {
+          "q": "\"川崎汽船\"",
+          "kind": "company"
+        },
+        {
+          "q": "貨物 市況",
+          "kind": "sector"
+        }
+      ]
     }
   ],
   "market": {
