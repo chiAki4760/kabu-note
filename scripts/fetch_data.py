@@ -96,22 +96,30 @@ def fetch_news(query, kind, when):
     return items
 
 
-def classify(item, match):
-    """検索結果には他社の記事も混ざるので、タイトルに社名がない「会社」記事は「業界」に回す。"""
-    if match and item["kind"] == "company" and not any(m in item["title"] for m in match):
+def classify(item, match, company_qs=()):
+    """検索結果には他社の記事も混ざるので、タイトルに社名がない「会社」記事は「業界」に回す。
+    会社名の検索で取れた記事は毎回判定し直すので、match（略称など）を増やすと過去の記事にも反映される。"""
+    if not match:
+        return item
+    if item.get("q") in company_qs:
+        item["kind"] = "company" if any(m in item["title"] for m in match) else "sector"
+    elif item["kind"] == "company" and not any(m in item["title"] for m in match):
         item["kind"] = "sector"
     return item
 
 
 def update_news(queries, path, match=None):
     old = load_json(path, {"items": []})
-    merged = {i["id"]: classify(i, match) for i in old["items"]}
-    when = "14d" if merged else "60d"
+    company_qs = {q["q"] for q in queries if q["kind"] == "company"}
+    merged = {i["id"]: classify(i, match, company_qs) for i in old["items"]}
+    seen_qs = {i.get("q") for i in merged.values()}
     ok = False
     for spec in queries:
+        # 初めて使う検索語（新しい銘柄や、検索語を変えたとき）は60日分さかのぼる
+        when = "14d" if spec["q"] in seen_qs else "60d"
         try:
             for item in fetch_news(spec["q"], spec["kind"], when):
-                merged.setdefault(item["id"], classify(item, match))
+                merged.setdefault(item["id"], classify(item, match, company_qs))
             ok = True
         except Exception as e:  # noqa: BLE001 - 1件の失敗で全体を止めない
             print("news failed:", spec["q"], e, file=sys.stderr)
