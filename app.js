@@ -52,6 +52,12 @@ function addDay(d) {
   t.setUTCDate(t.getUTCDate() + 1);
   return t.toISOString().slice(0, 10);
 }
+// 土日なら次の月曜へ（祝日は判定できないので、株価が入るまでは祝日のまま表示される）
+function nextWeekday(d) {
+  let t = d;
+  while ([0, 6].includes(new Date(t + 'T00:00:00Z').getUTCDay())) t = addDay(t);
+  return t;
+}
 const effDate = n => n.published.slice(11) >= CLOSE_TIME ? addDay(n.published.slice(0, 10)) : n.published.slice(0, 10);
 
 // ---------- 株価系列 ----------
@@ -413,7 +419,7 @@ function buildPrompt(tab, c, mode, q) {
   const byDay = new Map();
   c.news.forEach(n => {
     const i = firstOnOrAfter(s.dates, effDate(n));
-    const d = i >= 0 ? s.dates[i] : effDate(n);
+    const d = i >= 0 ? s.dates[i] : nextWeekday(effDate(n));
     if (d < fromDate) return;
     if (!byDay.has(d)) byDay.set(d, []);
     byDay.get(d).push(n);
