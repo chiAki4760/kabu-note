@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-30T23:06",
+ "updated": "2026-10-31T01:49",
  "items": [
+  {
+   "id": "077e8df6f3a4",
+   "title": "タンカー運賃急騰、石油メジャーの四半期決算を圧迫",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGNuREYzbDdxNXNLdzlpNERnbHBZM3JOY2NMcVVrOTlfdk5wdkdtR2xtTWliUi1KU3dBU3Q1aGE2U0dEYWo5TlZqLUtjaHVxYnlZT1d0LXpQOFFFcFJsbjc1RjhPUXg4MUI1WHk5OFF4Z3dwNFpBSEgyMlJRaHJQY3pMSFNXZHZ3MTlnbFo4cFRhaEJwaktn?oc=5",
+   "published": "2026-10-30T20:00",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
+  },
   {
    "id": "ef18195fec2a",
    "title": "話題株ピックアップ【夕刊】（2）：ＡＮＡＨＤ、日本郵船、資生堂(株探ニュース)",
@@ -15,6 +24,15 @@
    "title": "話題株ピックアップ【夕刊】（2）：ＡＮＡＨＤ、日本郵船、資生堂",
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vVGtlVGtReHFkWTlyR2M2UXRYbDNNTDVqdWd6bFhQU29PcFNGYzY1T3hDZ3pKV0xsZWJPdGlSRTB6aVRZSERJb204N09kdVdzTkE?oc=5",
+   "published": "2026-10-30T15:45",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "a0ff54c0b085",
+   "title": "話題株ピックアップ【夕刊】（2）：ＡＮＡＨＤ、日本郵船、資生堂",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwU1FoTV9kWmQ2dmRadndYOHI1LTU4cXpDS1hxbzVIT05UY3hNUHo5NVBIVzhhX3JjaFIwbFZRQ1Fqb2I3SkFXR0lTTWc5MGE1UHZiOTFiNVQxV1hacExRQQ?oc=5",
    "published": "2026-10-30T15:45",
    "kind": "company",
    "q": "\"日本郵船\""
@@ -52,6 +70,15 @@
    "source": "LOGI-BIZ online",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pOGc0dGZac3EwcmFpV2gyUmptM0g0V3lhNHlYYks0bmJ4aS1GUURSMUhFX1FiZ245N1JfVG1WQUVoQTJGYW84NzA4aw?oc=5",
    "published": "2026-10-29T22:38",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "5c2e238d6d3e",
+   "title": "【移転】アルコタワーに郵船ロジスティクス、一部オフィスを集約",
+   "source": "日経不動産マーケット情報",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mQUhDampQZ01ibGtBUzU2UFdWRG4yN0hXVTVBeGNLdk1QN2pWYXpDc3dmWExfYUNlQXpUQ2RHeUR6ZDBPYVBaR0ZaTURYWkt5WllCX3AydXFCMEJxUjRqS0lB?oc=5",
+   "published": "2026-10-29T20:56",
    "kind": "company",
    "q": "\"日本郵船\""
   },
@@ -497,6 +524,24 @@
    "q": "\"日本郵船\""
   },
   {
+   "id": "3874c5085b09",
+   "title": "◎アンモニア船普及へ日本連合",
+   "source": "時事通信ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02U0s4bFhFVFB6NVFwMTVuWjJoTGZ4Q2pwSHpoSWZweFI1UlF2YzRNMzhwZkhVZXdkWDQ3cW9mZjU1WHpRRzBDVExtSjVEQ0p4MzJqMFNGNC05ZmxrbFE?oc=5",
+   "published": "2026-10-27T17:15",
+   "kind": "sector",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "9734cba32ff1",
+   "title": "アンモニア船普及へ日本連合",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2NTRnY5OTFjWTFza3hUTWp6eWQ1YzJfOGxKazUzSVc4Z0w3Qk5TVElnaUczMlFKd3V3ZnlXN0lRNFFCMTJTVE0tNUZ0Qjd3T21zMTAzNmx3SGd4Qm01VlllbVlFR25JWHNPd1doNW1zR3JiYloxak1DbUVnVk5sUEo2VdIBiAFBVV95cUxOSHp3NXhyR3ZJQUlEU0xuQldGMG1DUVdjT0RWS3pjRHFoQ25BZFpyMzFwdXNqSnpwdHZ2T3pBMFBpc3FpSFQzY1FlNmVtRDd1WFFsM3VKS1NiQXJScUlzVHNUby1KX1RvYmppOFZyQUNoLTJOOXdSZ0s3VENfZUIwOE5aR3BGUEVP?oc=5",
+   "published": "2026-10-27T17:15",
+   "kind": "sector",
+   "q": "\"日本郵船\""
+  },
+  {
    "id": "05865f70a15b",
    "title": "アンモニア船普及へ日本連合 日本郵船、ＪＥＲＡなど７社",
    "source": "時事ドットコム",
@@ -573,6 +618,15 @@
    "title": "アンモニア船普及へ、７社連携 脱炭素、日本郵船や今治造船",
    "source": "山陽新聞",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXFaU0lLQmVQLTNtQm45U01jSWRyOGpPemRIcmlMMXVzcjE5cGF5SERoenE1MVZ3NDYxMGI5Mkx3QW1EczZvdnVWVklYd3MyYjZJRnBfMng4M3dqSWI2VmN2X2lrdlNSVlRCN1RZdzNyMFF4RVF5MGRRaU14b0JkZnVIaDdvVkF5?oc=5",
+   "published": "2026-10-27T16:45",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "66104ea539fa",
+   "title": "アンモニア船普及へ、７社連携 脱炭素、日本郵船や今治造船",
+   "source": "山陽新聞",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3Ylp2eVB3Q0N5YXM4LW52OXI2S24tMG4xTE5MZTFSclNxUERlLVhfNWJzWGJBcXkwR3A3Y3JiR3ZlZnBLVWtVb3FCV0Qwa1hTRjBzYUpKNGRsbTNvS3FTV3hmak56N1JOS09WdW51VmpmQQ?oc=5",
    "published": "2026-10-27T16:45",
    "kind": "company",
    "q": "\"日本郵船\""

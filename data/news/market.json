@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-30T23:06",
+ "updated": "2026-10-31T01:49",
  "items": [
+  {
+   "id": "73cc435a0cf7",
+   "title": "日銀、10月は利上げ見送りか 12月行動確率は9割に迫る",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sSWNPam5OMGJ5NGJlNzdJYTJSRHpST1Z3LURFQjVCMXNXV0JoemFXQUZCeGdLSV9XZEZuUjNsbTdjMGUySmg2c2FUSzgyTHdUc2diMTVnb3lZbXN1V2xFTF9LZHhpUlNoMG1jQnhTVEJaUmpF?oc=5",
+   "published": "2026-10-30T23:48",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
   {
    "id": "f27d7f60f63e",
    "title": "日銀の金利据え置き後、米ドル／円は横ばい：USD/JPYはさらなる下落を回避できるか？",
@@ -27,6 +36,15 @@
    "published": "2026-10-30T18:20",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "7971cf0dcf28",
+   "title": "日銀会合に市場は「予想通り」ETF売却加速の公表後も動きは限定的",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xeVFQN2UwZGxabF84TTB2UE9Kc2Z3ajdiY2xvLXVZbXpSUUxWY3FnN0p0X3JtQWVqdEgza3AzR3lCREJaVGRmRmItWEkybExNXzgwNWZiYWE4djhzdUlNZlRha2diSVE?oc=5",
+   "published": "2026-10-30T18:05",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "f9a4c7fee706",
@@ -79,6 +97,15 @@
    "source": "読売新聞",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11eWt4NVVRbVVoLXdzQTdiOUJROXRWb0d6QnN5SVZzbjlmSVlzSTc3bVpfUElyX1hGdVJlTmc0dF9LYXNfLTJVQ1dVYXBPOUlLVFpRZ0Q3YnhhdGVrWUhZRnJVY1M?oc=5",
    "published": "2026-10-30T15:42",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "10f309da042e",
+   "title": "１３６９円安の６万３２９０円１１銭 ３０日の平均株価",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xR1BxUkgxWjdjNUtRZVN3RFpqQ3hWTDd3U0xtR3pWXy0zTTVBaTJLZk1Ybko1RFlpQ0pvZVlrdHFQODFwc25DQVBrb1gyY2NSelpVMmUxdmF2b1FTcVZMNjgtOA?oc=5",
+   "published": "2026-10-30T15:40",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -641,6 +668,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "93ec2e8aef46",
+   "title": "【↑】日経平均 大引け｜ 3日続伸、一時マイナス圏も後場切り返す (10月29日)",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTMW5TU1NTLVV5ZVZVcGRCT2JKbVoxczdVSHV0am1tenJYTjJRVWRrU1VOb01USzhBcHdZMjJHeERFb3FOOFpiXzJILUdycldoeE85bjJwQ0Roci1QajI3Vw?oc=5",
+   "published": "2026-10-29T16:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "8096d823a98a",
    "title": "野村HD反発、4〜9月27%増益を好感（29日の株式市場）",
    "source": "日本経済新聞",
@@ -866,11 +902,29 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "956d386a5d94",
+   "title": "日経平均、800円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYk5iTFh5b2RDeVVoU3F0dmFtUkZsUjNwNTNfc2Y1ZVh5QlVMc0oyZmxMV3kwdWhwckRVQ1ltU2M0TzlBeVpjVnBNbWxRc1RpbUNpeFcwRGtLbTRud2FfX1RRTUN6NExFdk1BcU1HRURZZmRfSDFkc3p1RW0zRjRadkoyclRTd1E?oc=5",
+   "published": "2026-10-29T09:49",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "38aca5b2d20e",
    "title": "日経平均、700円超高＝東京株式(時事通信)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXViVVVyQVdhNHJlbzUwUFBybUNZdTJSWUp4Si1qSl9OV2dTZFFISWkyZzQ0cUlYRTlNNEtIeWVPQzNCNDF2YV9zQS1VRGZiQVliQl9rVEJUTU1pTTF1UkhrbnFNTWlfajFWQzVjT1M1NEJjRG1uVzE0SnNJdUJLSHB6NFJoT0U?oc=5",
    "published": "2026-10-29T09:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "41671a510931",
+   "title": "日経平均は172円高でスタート、アドバンテストやキオクシアHDなどが上昇／寄り付き概況(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbnVvLVI2WG9od0diMnp0SEhOTEU5RmkyQVA3VlFHWWNaTWtjdmktSk10SURUYkhmR2dGM1BVUktUSXctaWk1bGF3bjUxTXo5aTJHelN1V3U1RDVYWWlURlVlLWpjd0I5RlZLekNvbW5lN1BKMDBKQ0N0MmVHcXRiTDhBamdpVnM?oc=5",
+   "published": "2026-10-29T09:41",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -902,11 +956,47 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "1e4274fa0420",
+   "title": "日経平均、172円06銭高の6万4126円25銭で始まる＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MR05Yc3hjMGp5NlprVWhBcjduVHN4dk1icUhlSFk4VVEtRGpfdFR2aUNPMkMzUUZIeVhWeHlBc1FDcDYyd2JYS0duWnJnTTliRjBjaTN6V1gtdFVOX1RJQk0zU3RGVDZfT2tJTkdqa3RYRU1fNEowUnNBSTFTbk0?oc=5",
+   "published": "2026-10-29T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ca077d1177cb",
+   "title": "日経平均、300円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeTA2OTNxLWtJdFBtVnZ6Sk10SGk3OW1xakFMVHNoRGEyTk1obm1sZzhESl9EM3llck8tNFRpakl1c3lLc1hZMVpjYkh3Z1lRU2VKZjdicWtPMk5fY2liZEYwbWJVQ3pMSHdvQjNxa2ZGM1h2YmdiOTVlMUF2R28?oc=5",
+   "published": "2026-10-29T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a19b0ec72996",
+   "title": "日経平均、600円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWRGQ3p0QVQzcVpJcVBBMHQ0VzJnWXN3M2VNSWZYRWJsUUxPR0FYWmlFVG5pUkxiYW5kSm80elBxeWVqc2w2Tm9QSzdSa1pGVnNIS3N0UmZmak01X2EwdjlsTmp1Z0E4cTdMVUJpN0M1M0lmOUNaR0RiS2JQLWotdEJlVEdVdEU?oc=5",
+   "published": "2026-10-29T09:26",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "17b8fbc54e59",
    "title": "日経平均は小幅続伸で寄り付く、半導体関連株がしっかり",
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS2NYRk1VNzYzdHJBWERaZTNJWUNOOUlXSDVldkUybVZWY1JnRFpjWmpmZjRNUktTd0p3VThQREEweGFmMUwzN056T3NwbC13Y3l0cHZici1wYTdZdmtSaEJWM3pXVWpfR0FSUWk3UzZvMnRvQWZtR2xtWWdXcFQ3TmNPRGc1QQ?oc=5",
    "published": "2026-10-29T09:18",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4db2ece14753",
+   "title": "日経平均は３日続伸スタート、米テック決算明暗もＡＩや半導体関連株に買い＝２９日寄り付き(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcm1Nb1FKM1VZdGtObWlkVGdtVDBGeVFwNDV0WExyTkxJVUJNSTh0Wmp0UFF2enREc05PcTVtcVBGaXVteDV2TjJVM3Nqb3c1SnYyQnpJSGh6bFZCRzhUclR0d05OTXhFUFJCcVMyOU1wSUI3NVRFOXZMWTFnV3pJU2pKRXdaLVk?oc=5",
+   "published": "2026-10-29T09:15",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -1001,6 +1091,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "f8cf3edf4e59",
+   "title": "２９日の株式相場見通し＝続伸か、ＦＯＭＣ通過で安心感もアルファベット決算懸念",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlWkVUcUhRMGx0dVNCRFRoVGdTZF9QZERJbzRMUW8zUEluTXdCVHZjeXlDbmdYSUdIN2pVdnZlVWlUVGdlcUNLWUYxWENCbi1zUWw5dXpmSklXY3piSUE3Mw?oc=5",
+   "published": "2026-10-29T08:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "712250a8c849",
    "title": "２９日の東京株式市場見通し＝上値の重い展開か(ウエルスアドバイザー)",
    "source": "Yahoo!ファイナンス",
@@ -1073,6 +1172,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "aca5557a7cef",
+   "title": "日経平均終値、６８５円高の６万３９５４円…ＡＩ関連銘柄を中心に買い（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DdXJGZ0FFSV9RREhLQTg2TndHQVF0YjZSMk1yck9lRlk4S3NLdjd6Vk9rRVhKb2hxMWxIbmZPcHdEUkU3c1BENUVtU1hONllWaTlvM0l6NWVRNEJyYzJsV3IyOERpU0tlTVUyT1ZrQ2NvRVdhaFRPTEpNaEZMLTg?oc=5",
+   "published": "2026-10-28T16:01",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "332f710a3a3a",
    "title": "日経平均、685円82銭高の6万3954円19銭で終了＝東京株式（時事通信）",
    "source": "Yahoo!ニュース",
@@ -1087,6 +1195,15 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44cVFMSEVzdk9KQW5Ec3NIYW45OFhmbl9hemNacURFRjYwdThQS0xSTFUwSFdpZEM5YjhNdnpNWk1NdzJ3elVWMDdrTHpvN0tWUHRCQm14a2k0MjRKNkNmcU1qOWkzcFUtdnk5bA?oc=5",
    "published": "2026-10-28T15:52",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "bf57f1abc6b2",
+   "title": "日経平均、685円82銭高の6万3954円19銭で終了＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3E2R2RtbkgxLURtY0tlZWtURlFtREVZMnBjdGFiNUVxdmliMTNZMk5OQTk3R2FkQmFNbXBrcXlxTGZDZDdNV2cxZlRaemR4cW9WOGhxRTdVVGRBMExOc3FaNXVsR1lEYXp6SkVxWHdtMU1sdlNoWTZITi0xN1JFczlITTlqNkk?oc=5",
+   "published": "2026-10-28T15:31",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -1249,6 +1366,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xc0JxN2xrMXdiZ3QtQ245Vl9OSnRVTHpBcmkxa0JuQWVneUc3TElkOHNhQ3JqTUthcHREVFhtRkNpOXkzUkJaTkhBNm9yNy15aHN5U3pLbzNvQnB2VUVlMlBfbGI5Tk11amZrakcwUDBmN2Q1VkR5WjgyejN4N1E?oc=5",
    "published": "2026-10-28T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "82256c85e23f",
+   "title": "日経平均、900円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNlWFNDVTFaSVRFUmRTQXJianV3SUdqNVZ4Mm5ZN3FuRWZxVVpfamx6a1ZqYlhPZ1U0Z1FKdFhzMmRzRzQzcVVHQXhELVBKUmZjaEZHSnpFSzVQNGVlZTd0SmJHN05LcUNqUjZRVUpMWnJ1aldLVEk5X3pNemI0b2o0TFlYbjQ?oc=5",
+   "published": "2026-10-28T09:17",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -2502,6 +2628,15 @@
    "published": "2026-10-19T16:00",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "dffb46551658",
+   "title": "日経平均、600円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVHpXY2lyU01sNXA0cDUwMzJoeWJFbnVVbXZRREExbzJVVTBfWFNsSEoxRWZHTEdZVVk3ZUx4cU9VaGpfMVljODJVR2p4aUI4SmxxMnhlLTJqYkFJQW1ZVHB2c2ZIVDhTOTZ2dFY4N19MMjBrYmQ3c2lTaGFYYS1rT3JmMFVsdEE?oc=5",
+   "published": "2026-10-19T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "1e09fc11f9e6",
