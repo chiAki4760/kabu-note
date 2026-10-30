@@ -686,7 +686,8 @@ document.addEventListener('click', ev => {
     const all = Object.values(state.news).flatMap(r => (r && r.items) || []);
     const n = all.find(x => x.id === b.dataset.id);
     if (!n) return;
-    state.draft = { date: effDate(n), text: `【ニュース】${n.title}\n仮説：` };
+    state.draft = { date: nextWeekday(effDate(n)), text: `【ニュース】${n.title}\n仮説：` };
+    if ($('#mText')) $('#mText').value = state.draft.text; // draw() が空の入力欄で下書きを上書きしないように
   } else return;
   draw();
   if (act === 'memoFrom') { const t = $('#mText'); if (t) { t.scrollIntoView({ block: 'center' }); t.focus(); } }
