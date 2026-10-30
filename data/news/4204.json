@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-30T11:18",
+ "updated": "2026-10-30T16:12",
  "items": [
+  {
+   "id": "2bba7578487a",
+   "title": "積水化",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwUElEOG5sZU9wLXlYUWpXbi1wXzBzbGRnYWlNNkE2MkZ0eVdDMldpUWlWT3pXbmlTQmtyZU1XbUI4dTlLcG9qRFowRllFOEhDQTBCLVlTbHA0ZUhZQ0dKSTdIeDIzTEhDcEE?oc=5",
+   "published": "2026-10-30T15:30",
+   "kind": "sector",
+   "q": "\"積水化学工業\""
+  },
+  {
+   "id": "3bbe566ff11b",
+   "title": "積水化学工業[4204]：剰余金の配当（中間配当）に関するお知らせ 2026年10月30日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sQXFrVkVBM1lCVzlQRk9DMk9UYU1xZFlKalFBTDkyeUZpcWJRS3hWSHdlOE5YT2hsa2RyTHRydHpfbFdvMG5rRm0yalNrTmZEbWFIV3F6cVVXWm9EMjJCbWVrMHNTaGNYRGc?oc=5",
+   "published": "2026-10-30T15:30",
+   "kind": "company",
+   "q": "\"積水化学工業\""
+  },
   {
    "id": "f5d0a239aec0",
    "title": "積水化学工業(株)【4204】：現物信用売買内訳時系列",
@@ -72,6 +90,15 @@
    "published": "2026-10-27T16:51",
    "kind": "company",
    "q": "積水化学工業"
+  },
+  {
+   "id": "f4ad429caab2",
+   "title": "ハッキングなき「機密情報流出」の真因──地政学リスクが突く内部の盲点",
+   "source": "Forbes JAPAN",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxT0R3WEdMS2VUY0lQenJRakhTQXRLNmFZd2JwTUdlVlQ5MzZscHFWQ0V3d2V2YWlYc081Sl9KNUxrTVBjQ2JHMHFtS2hzMWJpaGp3eVpXaGROZw?oc=5",
+   "published": "2026-10-27T14:15",
+   "kind": "sector",
+   "q": "\"積水化学工業\""
   },
   {
    "id": "77fbcb649c4c",
@@ -233,6 +260,15 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FUEVNS19oZTdiN1dfcmZmaFlVdHdUMFBsMWdELUQwN3NJZnF4V1JJV3Z3Q3JKdmdPRjRqSzktUEdneXJCc0tyYXhoUzcyczhFZGtpM0FHeFJGZmdNUnc?oc=5",
    "published": "2026-10-20T16:00",
    "kind": "company",
+   "q": "\"積水化学工業\""
+  },
+  {
+   "id": "c9b50a8faf11",
+   "title": "積水ハウス×センコー=再エネ由来電気で住宅部品を配送、関東工場で取組開始",
+   "source": "住宅産業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhY3dvdXBObEtBWlBiaHNYTlJEVjF4Sk1MV0VKeDBmQnRKRkdJVWdIT3JIWGpXTHoxRnc3QjRRTmI2eUVucjNDMDZsc2LSAUxBVV95cUxQYWN3b3VwTmxLQVpQYmhzWE5SRFYxeEpNTFdFSngwZkJ0SkZHSVVnSE9ySFhqV0x6MUZ3N0I0UU5iNnlFbnIzQzA2bHNi?oc=5",
+   "published": "2026-10-20T16:00",
+   "kind": "sector",
    "q": "\"積水化学工業\""
   },
   {
