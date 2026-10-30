@@ -24,7 +24,7 @@
 
 - 画面は `index.html` / `app.js` / `style.css` だけ（ビルド不要）。
 - `scripts/fetch_data.py` が株価（Yahoo!ファイナンス）とニュース（Googleニュース RSS）を取得し、`data/` に積み上げます。
-- GitHub Actions（`.github/workflows/update.yml`）が平日の16:30（日本時間）に自動実行し、`data/` を更新します。
+- GitHub Actions（`.github/workflows/update.yml`）が平日の16:17（日本時間）に自動実行し、`data/` を更新します。
 - メモとタグは、使っている端末のブラウザ内（localStorage）に保存されます。GitHubには送られません。
 
 ## 使い始める
