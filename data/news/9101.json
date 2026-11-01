@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-31T01:49",
+ "updated": "2026-11-01T15:00",
  "items": [
+  {
+   "id": "fe1463a1ceea",
+   "title": "日本郵船(株)【NPNYY】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSeFBNOW5HUmFRa3BGa1NsYmZzTnNNZm1wZGxtNVJkQTVWZS1PY0w1OHV5UF90VC0wTTlBZkNsdWVsdzhTV21PWGxMcl9PWEtp?oc=5",
+   "published": "2026-11-01T12:04",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "0285f6c8ec11",
+   "title": "日本郵船・旭洋造船・新来島どっく・JERAなど７社、中部地区にアンモニア燃料SC構築、アンモニア燃料自動車専用船４隻建造・運航で合意",
+   "source": "シンガポール新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oZ00tT3dsMWpKZlJpNGszUGxQMlhUdjNPMDVGUXZqOWlyYkQ2eDlldS1wYXBfdDZmdDRIX2ZvNWptVktRNG8yaWtzdGVGNUVkUnh6dVR3?oc=5",
+   "published": "2026-10-31T21:37",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
   {
    "id": "077e8df6f3a4",
    "title": "タンカー運賃急騰、石油メジャーの四半期決算を圧迫",
@@ -1053,6 +1071,15 @@
    "published": "2026-10-22T11:00",
    "kind": "sector",
    "q": "日本郵船"
+  },
+  {
+   "id": "58c7c3e7c125",
+   "title": "アンモニア燃料の車運搬船を建造 日本郵船やJERAなど",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WSXRxZVh1dTBscnN0SGhRNHhBUzNBSWpjcDJ6c2lDX3dXV3dKRkRjVVN5OFRSOWhWeTU4MHhYUVNGdld1M1FHX2pKa0txc3diemlvSGtEcndzNU5OakQwbmtsZTFoREJleEV2LUhDb2pycnlvaUY0?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "company",
+   "q": "\"日本郵船\""
   },
   {
    "id": "0b40db2c0408",
