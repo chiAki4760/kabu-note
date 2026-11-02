@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:03",
+ "updated": "2026-11-03T05:31",
  "items": [
   {
    "id": "3fe71684081e",
@@ -34,6 +34,15 @@
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wajF4Z1JiZzBGQkhmTGR5SzkzMExER2FFVmx3MkZhV0hTSjhDREhuU1pQS0I0Q051ZnQyV05RS2VCTjBQRklKQXhUZlQxenpXT3JleU1Kanl2YVNaaG83eA?oc=5",
    "published": "2026-11-02T18:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "af7428fe46a2",
+   "title": "円相場 いくぶん値下がり",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NR1gwZFp4ZVNrZ3UzaExBU29zNV9PVjBWNG9PaGRtWE51d0NjTGx0OWpZTlJKNDRwNXNpSlBOSC1Lb0ZqbmRLdHd2amRycXRCcmRZa0k2c2RfX2p4eFBR?oc=5",
+   "published": "2026-11-02T18:27",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -128,6 +137,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "df1bb977f277",
+   "title": "東京株式（大引け）＝２０８円安、キオクシア大幅下落でリスクオフ継続",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mbm92b2k3THJ0YVJwRWRPT29XLWRyX3RKdkZ2ZXJEY2doNF9yT21RV2R1V0Q1dTdBT1BnMlltRF9iVFRRb0tZSkw5S2szaVo4TEt6MUhncHZBcGx5aFRodg?oc=5",
+   "published": "2026-11-02T16:13",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "3de5724175e3",
    "title": "将来より足元 「予想並み」業績でしぼむ先行き期待 ヴェリタスEYE（11月2日）",
    "source": "日本経済新聞",
@@ -209,6 +227,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "e4dab7d98932",
+   "title": "日経平均大引け 続落 208円安の6万3081円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELW40UkoxTFFVYVhHY0x4QWFjTFI5cUpWWnV4Q2RvRl84blZrV2lBVFBMc0MyZnRPNXhIUDZjaFZDY1dIWUlOV1E2TTQ5NDRsd3h3bXZlSW11Y21Bd3Z0VHNua0s4dk5xN0hMdA?oc=5",
+   "published": "2026-11-02T15:35",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "80a69abad918",
    "title": "日経平均2日大引け＝続落、208円安の6万3081円",
    "source": "株探",
@@ -232,6 +259,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkdGdwcjg1LTdCWk84NmQ0c1NWZ2NpT0tDYXhaaVI0NXJWQ1ZqWW9BUGM3aUVmSUJRaVNQUjA4bVZnb0RvRDQtdkJvUGxKVzdvWFdsZEZ1bU5Pb3NkdWZXNUs3cE5CbjJUSHVsbEVsQWFNTmdGckdhbWVZUU1QcnM?oc=5",
    "published": "2026-11-02T14:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "845ba3787972",
+   "title": "東証14時 日経平均は小安い 米中間選挙控え様子見",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RNXVQd3FMUnpUa3VGSlNTclpmMTgwN2xZTzlSeE1WU25EOFhYMGI5d1RyRFctTGxDbUFnRG9kbldYNHNuSVFRZ1lPNDF3elV1dnZfN1prUjl2RlZBVkNmd0hMcENFNldfMmRnNg?oc=5",
+   "published": "2026-11-02T14:14",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -531,6 +567,15 @@
    "published": "2026-11-02T09:27",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "4cf57f7c2639",
+   "title": "日経平均は続落スタート、ＡＩ・半導体関連株の売り根強く＝１１月２日寄り付き(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTVPQlk4TDF0SGpwaXVickR0OGdJQUxfd2ZZajBfbm9XM2pnazA1bzA5ajhQZGwzWnFXT2VsSXc5TGxTNG1hNVRYN2tZLWM3UDNtdUFTdXc3SmN6Mm9lNXpqaENaWF9oMW5nUlQzQm9JQnA1aERtYjFNR3pmbklZNWNOajNXSXM?oc=5",
+   "published": "2026-11-02T09:13",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "c19712fcd1ed",
@@ -893,6 +938,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "345b343f5289",
+   "title": "日本銀行、ETF売却を約3倍に加速 全売却期間は112年から43年に短縮",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pR1RTclJQZ0UyY3h1aE9lcEcybHROdC1ZWFFYbkhqdHlZUDJpaDFEcm5RRFk1ekpwNDJvOXdQeDkxS0xwMnNJMlpVTzZ0TnNUbDc0M3VYbVVpZGl1Tnk3QlZFRWdMUkZjSG9GSWlMY2ZZRWNm?oc=5",
+   "published": "2026-10-30T15:05",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "6ec8f74eb9e6",
    "title": "円相場157円台前半で底堅い、日銀「タカ派的据え置き」で12月利上げ観測くすぶる",
    "source": "BigGo ファイナンス",
@@ -925,6 +979,15 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BLWNDT0NDd0EzMmFEdm8wa0xnSkg1emhPbFBDXzRrZG1LYW1uLXllWkZzeHg1TEFjbk5NUEZHMDV1cmlUMWV0WU9JeENJVVhSdGU1YlZqWldCZVZySmRBTV9mWEVYRUJzMXR0NQ?oc=5",
    "published": "2026-10-30T13:54",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "0607022015b1",
+   "title": "日銀総裁会見のポイント：2％目標到達の政策的意義、次回利上げ ＡＩ関連動向など物価リスク",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SOXF1RE9IOHg1TjVXUW9IakRzZEdLQWIyVzMwUHQtZ1ZFcFFMNC0xUGtEUjhGZE1yNHlGMHNJOUUySzNQbUt6cGlNbzhjS0w4NWhiQXZCTFNrSy0yRUNTeHlTV3hMYXplRFF0cFk1NXhrbkY2dTJKUlI2Q3QtZw?oc=5",
+   "published": "2026-10-30T13:34",
    "kind": "market",
    "q": "日銀 金利 円相場"
   },
@@ -1514,6 +1577,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "84a2be7219ca",
+   "title": "午後3時のドルは157円後半、方向感ない上下動に 日銀会合に関心",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03OG9IVlloMmhYWVhsQVF2R1lNRy1HVWtTZWVYd2Y0dU15VnNEZ25fWE9Nb0pmN1pCLXFvc1VzdEpEZlRqSWllOEpXS2VZZ0ZoVEVGVDVyeHdIMl9wVy13NVBnbWh3aE96YWo4aktoVFN2XzQ2TW5qZGl5ZktmUQ?oc=5",
+   "published": "2026-10-29T15:46",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "8d57c0c49293",
    "title": "日経平均大引け 3日続伸 705円高の6万4659円",
    "source": "日本経済新聞",
@@ -1872,6 +1944,15 @@
    "published": "2026-10-29T08:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "dcb2d70e879a",
+   "title": "東京為替見通し＝ドル円、日銀金融政策決定会合開催で様子見ムードか",
+   "source": "ザイFX！",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TVjJuVnd0MEN0UzEtTFlKNHFtTXU0NXRSTkhzYW5kWnhpTjRKN0R5a180UXoxX1NPcFhSUDg1YlI1am05RzRMWFNJMGdRdGUzaEE?oc=5",
+   "published": "2026-10-29T08:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
   },
   {
    "id": "712250a8c849",
@@ -2702,6 +2783,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "bf5f9f79bc9e",
+   "title": "崩れぬ実質金利差と“158円膠着” 米・中間選挙後に迎える相場の分岐点",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ncTBWM2VXRDhWaXVaWURVbVlsYTZKSFRvSnhocEN2amc4Z2JuY2hxazdlMndqQ1BYNklxeDUxaDQwbW5xQjcyMEVBVEwxUnpPY0FwU1RMMWIxR0ZaRFlkdDhLd9IBaEFVX3lxTFBjU21FVzA4ZkhWaWZ6TXl0eWhpWnNKNnFyU0pSQVF6M2FaVDhJTU43QXZwTjNUN0xZNllFQ3NsQng1OGxqN1R2aHFqWjBISkt0OVVLWUxxaktpeEZESFYwN0pHTXNRWkZh?oc=5",
+   "published": "2026-10-25T10:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "f2089652d2a4",
    "title": "円高は本物か、ドル円156円台で攻防 9月安値152円台再試行の可能性",
    "source": "BigGo ファイナンス",
@@ -2781,6 +2871,24 @@
    "published": "2026-10-23T16:52",
    "kind": "market",
    "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7b145642d979",
+   "title": "来週の日経平均見通し（10/26～10/30）｜6万円割れはあるか？FOMC・日銀会合と米ハイパースケーラー決算に注目 2026年10月23日",
+   "source": "外為どっとコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yQjVoRlVfbm5FeWpOQjlvdFVPR3gzaVotMjJDNGJGZ2xqOUJwSjhWRWcydjdjd3lZeDVGT25EWUxvWENZay1QM3hUano0cWZGaWZXMXViaUxXOTJodVlPMXZsRQ?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "19d2a30f0802",
+   "title": "円相場156円台後半で膠着、CPI通過で円買い一服 日米中銀会合待ちの様相",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1POVQzdVFjZEFNWTBTWjhoZ2RfeHc1WXUwSFJfR1NzYkVXWURBb21GTHVPN3VSY2ttY1kyTTJvek1fZDh0QTlDVDRoOXVyMzNVMzRpdGJzYzhlYWZ4YTFiVXhORjVsZ0FHUk1BaXl5R3NSNHBW?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
   },
   {
    "id": "851d796c647f",
@@ -3057,6 +3165,15 @@
    "title": "ロイター調査：日銀は12月に1.50%へ利上げ、7割近いエコノミストが四半期ごとの引き締めペースを予想",
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UdENmdk1hWk5ZQlItcDlKQUotN0VPcnNkTVBRai1SWmk3V0V3cWczbTkxSnJfTVNSUHBPUlhmanJ4Qk9pV1RPZzZ3Y21qalA0X19ocWsxY28yM2xsTC1iSXFQVEtpTUlyY2hyeWhUVU56Z0NL?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "ec0c1ce55a46",
+   "title": "大同生命、円債は下期も1000億円程度積み増し 金利次第で年度計画上振れも | ロイター",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85YU93eDJWUmoyVVE2QVBNV04yX1lHamotS0RsWE0zRGUtT1Z6NFZlM2NSbm14aE9iTXpJWWIyMTJ1SHR6el9ici1BQ0M3R0FOdmV3dkNWSkNCaDlyd3A4V3A3TEVzNVhsUDRZLVozT2l1T3V0VDV2S2plbjJFQQ?oc=5",
    "published": "2026-10-21T16:00",
    "kind": "market",
    "q": "日銀 金利 円相場"
