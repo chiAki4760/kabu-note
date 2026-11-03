@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:51",
+ "updated": "2026-11-04T00:06",
  "items": [
   {
    "id": "e68f5d19121b",
@@ -1134,6 +1134,15 @@
    "published": "2026-10-27T16:03",
    "kind": "company",
    "q": "日本郵船"
+  },
+  {
+   "id": "bc907b7325f8",
+   "title": "アンモニア船普及へ、７社連携 脱炭素、日本郵船や今治造船",
+   "source": "東京新聞",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZjZqb0p4Y184aWREekZKRXBVRnRBaGJRV050RUhxRm1jSlEwZ2lMVEdLd0JQUUNpSVBmQWMzdm9tUGFZWHFZNk9ZZTU1QWdUTE1j?oc=5",
+   "published": "2026-10-27T16:00",
+   "kind": "company",
+   "q": "\"日本郵船\""
   },
   {
    "id": "27ef5976c5a8",

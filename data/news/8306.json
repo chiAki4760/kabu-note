@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-03T10:51",
+ "updated": "2026-11-04T00:06",
  "items": [
+  {
+   "id": "53484fba0580",
+   "title": "【マーケット情報】商品市況・為替・株式（2026年11月03日時点）",
+   "source": "NNAアジア",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5USHFFaFJnSjZHWEdZcHFxU1BqWFpUdGVCLWpHMjF3TVhFS3hKV0tlbjVkclYzMnpUcnRFUVhCTHgzQzd3WXc?oc=5",
+   "published": "2026-11-04T00:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "90a03add2d7e",
+   "title": "【欧州市況】株上昇、原油安で景気敏感株に買い－英国債高い",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40cDVwN0JZX0pjWkx4VEZfb1E2aGk4cmtLRmUwako4VmkwdGVTMnRvWGhQYWF1UFRlMDU1MDZfdXdNUVF5Vkx3cE5JQ0VwTTVINW5nUjBpU0tjdHVUaldUV0U3WXRqWW8xM2JGbzBESzJkb0l2?oc=5",
+   "published": "2026-11-03T17:04",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "89bf1d88c9e3",
+   "title": "アダニ・グループ、データセンター事業拡大へ15億ドルの海外融資を模索",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wa2xlRHVuYU1SVlR3M0VCbXczMTJBWkR0M08wQWdxNU9xTVVOMnlNbHdQVmR2bzhwR2hBdnVGcUZSd3pEckFvQjlKczhvLXdZWDlfajRuSEdNZE5GOXlERWpLVllhNWhUc2QzZkxYazVHdTk5?oc=5",
+   "published": "2026-11-03T13:55",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "915a4075bccf",
+   "title": "欧米為替：デイリー見通し ユーロ・円／金融政策を見極め(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmtYVi1oMV9OcDNOTi1BakFFSFR0NnhMOVRRZjV1T1dFNFN1eG5keXFsV0c2S0dwYW80NEdHVUo0VlhnTElPMVNzVHJBMDJLRUZFZ3FYRmUxNnNKQl9Nb0JKaXlvV3pfNXg3V0NmNmlDS25wZ0g4NjFGQ0ZIUEZxWTZVVWhyczQ?oc=5",
+   "published": "2026-11-03T13:11",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "01aefd0e8a30",
    "title": "(株)三菱ＵＦＪフィナンシャル・グループ【MUFG】：株価・株式情報",
@@ -27,6 +63,15 @@
    "published": "2026-11-03T00:00",
    "kind": "sector",
    "q": "銀行業 市況"
+  },
+  {
+   "id": "87cb7ec4e7d2",
+   "title": "アビタス、株式会社三菱UFJフィナンシャル・グループ（MUFG）の内部監査高度化に向けた人材育成事例を公開",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DUmVTTkd4emFFaHJobFRoT2o0MWp1U2ppdXhRRUhTRFVrd2FKaHpQZVdFVTM2dGlzc3luR25XU0NrMnJiVkM1NVJoM3JndGJlOWpwZy1RdkRyVnFQYTc0SFItTlVCSU80QVhWbWs3Mkg4QQ?oc=5",
+   "published": "2026-11-02T23:10",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
    "id": "d2218322cb49",
@@ -72,6 +117,15 @@
    "published": "2026-11-02T16:26",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "9d2d00692476",
+   "title": "商船三井、通期予想を上方修正 ばら積み船の市況好調",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXNocndveElEZnJYcFRYb2VvTm8yTlhNZG00WHV0RExIbnFVZFplWDZwM0tWSmtjQkVReFlRV3prckdKajhXOVNTNllyVlM5elhzeVZVbW1GT2RlRUJnaUR3dnFZLXIyZklKd3Vtb0E5UGFTeXJsM1diYUJSZzM4Mm5vcjdodw?oc=5",
+   "published": "2026-11-02T16:15",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "1e407dc31ff7",
