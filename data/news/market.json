@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:06",
+ "updated": "2026-11-04T03:05",
  "items": [
   {
    "id": "b6d1e6393231",
@@ -749,6 +749,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "79c5b099cc07",
+   "title": "東証寄り付き 日経平均は続落 キオクシアに売り膨らむ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdjUtN19MN0JIb0RNOGkzNG15OTZPV0Q4SzhEUWRCdjhwLWlZcVFVMEZmdVplbjFmME1LdEhiWWxwR1RwRDZaZUJfRWRMTERTSGtFcE1QREdBbXZqXzVpaWYxTmNzVDZsWlg4bg?oc=5",
+   "published": "2026-11-02T09:21",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "4cf57f7c2639",
    "title": "日経平均は続落スタート、ＡＩ・半導体関連株の売り根強く＝１１月２日寄り付き(ウエルスアドバイザー)",
    "source": "Yahoo!ファイナンス",
@@ -762,6 +771,15 @@
    "title": "〔東京株式〕続落＝半導体の一角に売り（2日前場寄り付き）(時事通信)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGMyQ19XbE8xTUV6YTUzVTJYS0VGR3REOEFlZ1Rnczg3bUFfSTBMTFRCTTlGYmF2ank4a3JGNXFXbE9Fd19QZnBZUWRMN1BhZ1k2Zm9ycXNwa1c5SlVGY3J4cmRjVWVMRGxyOGxmQ2ZaTFdOREZhUjhmWmpzV2VEY0daZlNIV2M?oc=5",
+   "published": "2026-11-02T09:08",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ea6544c953aa",
+   "title": "日経平均、続落で始まる 半導体株に売り先行",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2dkhvUC1OdjFOZG8wYzEtOGY4cWd2Ni15TUtJcTNGeHo3MzZDaXZIRFJUM0RtdmRNUUFzRW84a0hGbl93WjliTXpMdXEySVF0Vlk2SXVDTGsxenFEdW5WU3I2QlNZb3FYWUlSZg?oc=5",
    "published": "2026-11-02T09:08",
    "kind": "market",
    "q": "日経平均 東京株式市場"
@@ -1134,6 +1152,15 @@
    "published": "2026-10-30T16:00",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "042cb780abfe",
+   "title": "市場の想定よりタカ派だったウォーシュ議長のジャクソンホール講演 市場への影響は？ 野村證券・岡崎康平",
+   "source": "野村證券",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4OVZPZ2lmYjh2NG1mNHRJWUFpY0hvQmctN0d2bXdoT2lSWjVJd2pLX0s0WjRhQTJhcURQYlFnbFBPVlJkdlFyUzFEWnBXU0x2Wk1NS2QxZEZ1VVhIQzlz?oc=5",
+   "published": "2026-10-30T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "4b0c9391bcbb",
@@ -2216,6 +2243,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "fb08b12b0b8b",
+   "title": "【市場概況】東京為替見通し＝ドル円、日銀金融政策決定会合開催で様子見ムードか",
+   "source": "外為どっとコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VbnY2bjZXbGREeHlBbGYtYWZlSzNmQkw1eUZ5Z2hCVFJ3M1kxZGZnMlhsQkdrWll2c1p1c0d6a01FbU5oSWNjT1BFOGdaSDVMVWhhRmNIa0NtT1h3YjVjN1JfMA?oc=5",
+   "published": "2026-10-29T08:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "712250a8c849",
    "title": "２９日の東京株式市場見通し＝上値の重い展開か(ウエルスアドバイザー)",
    "source": "Yahoo!ファイナンス",
@@ -2608,6 +2644,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFZfa2NaMWFzNW9kRV9UMjZicjh0VWJJZm9wMUdpcm5UbjlBSTBjQy1Zbm1PSEN3VzdKMEVvMjJ4aGtlaHk0ZFZSOXZWSVd6T29pbm41Rl8zdGMyOWhsZ2M1NEhMcC1ZTl83RUo5V1cwVmxGRTJsYVNqTlFYTHp2X05TZnpzOWM?oc=5",
    "published": "2026-10-27T15:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7cf241cc9803",
+   "title": "マーケットカレンダー",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNjlqQThsVTV6R0FaUThSVG44R243QkZJWDdJcWhLOGJBZmlTTG5UYlhsanp4QUVqMWZkdktrXzlXNlZOdm1HOTdHb2tsTTVIdnRYLWs1V2h2VWJxdFVUR2RYSUtZNGtTb2pwM0NRcHJZbW1zSW5XRk0wRmlvOS1seHMtTVhzQzhpRlJtVHdmQ0dxUQ?oc=5",
+   "published": "2026-10-27T15:22",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },

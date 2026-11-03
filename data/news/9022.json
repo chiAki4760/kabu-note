@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:06",
+ "updated": "2026-11-04T03:05",
  "items": [
   {
    "id": "e0c4241cec76",
@@ -106,6 +106,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZk1KNFVzd1NCXzhxb2hZa1BMTlpSTzF5ZThHVjkzNE91NVB6aFIyY2R6QzJOSmg0VWM2cGl6QmN0NXRHZGhIYUZLQU9Fc21XV18xazJlWnl5YVlKOVVkcmd6V1A4cFdlVWxpTmFfT2VZbEVwcDA2TmlkRmM0d3FqTi1KVUxVU1k?oc=5",
    "published": "2026-10-30T11:47",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "af0e57d9c985",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】空運業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYkktMWE0d3BuNEVwRHRxcnBoY3RiSkM4bGlSMmhsVUY5M0dNbnkzUUpEcVdkUzg2NlV2ZF91eUhFc29GTXREdDlWTHVraWU0WHJoTlgwSDF6UkpYU3BLWQ?oc=5",
+   "published": "2026-10-30T11:32",
    "kind": "sector",
    "q": "陸運業 市況"
   },
@@ -236,10 +245,28 @@
    "q": "陸運業 市況"
   },
   {
+   "id": "4538b2f1a3c1",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】不動産業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YU83S0h5SUJ6NTZ1VGlmTE1SaHo2SEVWRnFsemUtZndVRVV1bVRpc29BNzUwa2lnb1dYazRQby03ZHd1dmE3Y2RGUy05Z0tPQ3dSUUtuLUwydHM1OUd2Mw?oc=5",
+   "published": "2026-10-23T23:30",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
    "id": "92ee624bdc28",
    "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】不動産業 【下落トップ】非鉄金属 [11:31](株探ニュース)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnFjckM3NFdYQ2ZqTUNCcDNZSU41VHlDbnNkTFZxNkZEaDY4RWNqcHJkQ3pyTXA2eG9SRzFuWjhuZDJmWlp0bU8tOVAzc3RQa0NjU2Y4TEVKQXJwUEdiUHU1ZjljaDQwUFF3aU11OUtXQUREWjlGVmQ1MEc0VHpYZXJvZ0dWQTA?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "fb2f7d288ebd",
+   "title": "東証業種別ランキング：銀行業が下落率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRVJPQk01Q2ZLU2s2UXFsN0gzbnhsMkF2d25pc2JOZU1xX0s4MEU1Y01IcWFabG5nR053cHRyT3cyQ09Gak4zOGdvN3V2YWdUbTIxc010cDRyQU9RWXJkRUpDd3J4aGxmdkxYei1sS2M4MHFIYUctbjhodlpzWERwZXR6REtuVVE?oc=5",
    "published": "2026-10-23T16:00",
    "kind": "sector",
    "q": "陸運業 市況"
@@ -306,6 +333,15 @@
    "published": "2026-10-22T16:00",
    "kind": "sector",
    "q": "\"東海旅客鉄道\""
+  },
+  {
+   "id": "77ec64128fc5",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】保険業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lX0lyN08zVjF2Z21UanJfQ29LUmZ4R0xBUWpLbUxUVVVHOU9Ea2NVVDVobGRCU2hNN3FlVENhamRvVE90YXJ1Q2xSQnA4cXhlVjZBNTA1VGVleWEwWWZ0Rw?oc=5",
+   "published": "2026-10-22T11:31",
+   "kind": "sector",
+   "q": "陸運業 市況"
   },
   {
    "id": "4f52aa7df4a8",

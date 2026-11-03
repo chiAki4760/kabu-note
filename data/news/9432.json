@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-04T00:06",
+ "updated": "2026-11-04T03:05",
  "items": [
+  {
+   "id": "399ced623ef1",
+   "title": "ＮＴＴデータ、首都で新ＤＣ",
+   "source": "NNAアジア",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yU1A1SzdINzFPMWpJNE00UmRURi1JT1kxQUxXVU5vMUJOLW9ObUhINzh2bno1Y0hIQ2U4NlFkOWpmcUZWOEE?oc=5",
+   "published": "2026-11-04T00:00",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "cf76768f1df8",
+   "title": "【11/29】NTT i-CAMPUS秋祭りで学びと体験｜川ばたひろこ（大阪市都島区）",
+   "source": "選挙ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPUWdJdS1LckJEdFEybXZoTjFBb3NmbmEyTXk4WG5CYlBXOXVXSE9GcW9UMEpHRDNpME91dU80My1QbDdRZGNWTzd6cmRfZ3BpbkxyWnRzX2VwcHhieDVN?oc=5",
+   "published": "2026-11-03T23:14",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "331bbb698ae9",
+   "title": "マーケットカレンダー",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOTl5Ukt5SVotMk8tbnZYZ1p1Q2J6VFFDSGQ0S0Vad0xrS1JQTVpFbDFtUE5aRjNmVWFEX2hsTTRRdUVDQTItLWc5Tml5aU4xbkhVYkxsemJWTjJ5QldYZFhpODdkbTN5YWtiVngxRi1HdkNYbERQaFRhU3NyUno1eEFlZEczNGo4LWRZSEduMGxPQQ?oc=5",
+   "published": "2026-11-03T22:06",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "94111c0aa025",
+   "title": "＜NTT西日本・CLUB REBASE＞NTT西日本の先発・浜崎",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbVFpZnY4RzdIajBCVUhNVGZrNzh6UU9xZTliQzRfMVczZW9ZcG8zLVlTUFJYNVdqWVZVZWdoeHlxZm1EQzUtOGZFNW9IVjRBa3NzaGZ4NkNGWVl1UVp6SWxNV2M5bVFaQnZKUXlWaUd0WXU5VHUzNlFZQ1NTUGd5NC01TDBJZGc5dVhqdUttaw?oc=5",
+   "published": "2026-11-03T20:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4a89fcd2dae6",
+   "title": "＜NTT西日本・CLUB REBASE＞2回、NTT西日本・辻本が二塁打を放つ",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3FQbXEzakZBQWpuWkNNVlEtUzBBS29aUDRDcjJyaVpBeDdBRWRuMVdvTEFVdFNTdU5KRER0RTRyNENmaVlwRVIxbkV1TzBYYzlpRFVPdTFMaTRiYUd1Y0s5WHhINEVnOUlIYjlNSmdtUDB0Y2M4LTNrREFSUnZYa1NrMXI2bEI3VkRDenQyVQ?oc=5",
+   "published": "2026-11-03T20:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "fe1a1f5962d4",
    "title": "マーケットカレンダー",
@@ -16,6 +61,42 @@
    "source": "毎日新聞",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRE1jY0NXcWF0V1ZhODh6RnhWNFpUZWdBTjg2OEpXTWtvcExsc1Z3ejJzQy1qa3hIMXNHUDFnVE40UEhqdE41dnNVTUZpMzBHaUFCcXhBNlJBd1NQZzhWZXR4M09IQzYt?oc=5",
    "published": "2026-11-03T19:37",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f1608a9aa731",
+   "title": "【日本選手権】NTT西日本・辻本勇樹　2安打1死球の3出塁で快勝に貢献　社会人侍の正妻が実力誇示",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUZBTnNYVXNtSEZKaUxqMEQxejROaHFnSUQ2eTZidzhhbjlNSWFKQnkzN18yWWpyeThGZi1CWG13d2MzLVlwVEU0TGxXNTJ6RGE5d0JNb3IyNDNSdFZFcjJacERZUVVxMDNtbTNEZ09jUDhsRHBfc293Z05iUzh3NWh2dEU4ZG5tTU5vcGhxNVdhVHIzNWg4a1hEVk1nYlpURFNLczhidnctaFk0d3QyX1RmMk00MkROMndYSEU0QnViMnlMQTlobnFtejBzMDlBOXRXVnRsbzl6Vk1KMlZQbmpjWdIBkwFBVV95cUxNWXh2ZHNuNFBZY0RMS0pGaTJBMVI0WldUWHFmQmZyNXNWdkZFbVZ5ZEUxckZSRGx1d29QanczdW0wN19BQWZ5MkRhT3hnV1V3WkNSZEhNaXhuVDBfa0ZuSnZkU0RIOW5zYklZRkhsQXA5QVh4Q0kyd1R1WHp1MmFKeDJTaXJ6aG5Objdkem54eWZMMnc?oc=5",
+   "published": "2026-11-03T19:07",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4b420201b16b",
+   "title": "最大7日間使えて税込8,980円！NTTドコモが操作しやすさを追求した「スマートウォッチ03」を発売",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOWmlza2lDTVU3eU1CaEg0cnVQU3Zpb0d3dUFiRmNMMzBoRUoxOVlia2NUcU1Ld0Vvc0d4V2hZcTNfWW1oMUMxbTN5eHMxaDA?oc=5",
+   "published": "2026-11-03T19:03",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e10da88dad70",
+   "title": "【日本選手権】NTT西日本・水島滉陽　130メートル弾含む4安打4打点　チームは2大会連続で初戦突破",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmJXUE5rb2ZySDlOOFpiVDE2Y2E4NE1DWFJOS0M1eHlmc3lUbUdIaHpZenBfRjhhSmxPVjdaV05Uc2VaUG5Ud0FJQmRpckRvWWlyQW00YS1iQWFjOE1paE9TQXVyRmY1LWJuV3c4YjlxNkNMMl84MGZuWDNIaGt0TFhGZzBLTmxERmVFcWZ30gGTAUFVX3lxTE5nNGczTTZsWTZSZ3VhOERtbzRHTjFpUWtiUDRPUDRyMUFVckZHNDllRWRhMV9LWmJUd3VuMXJpbm5Uek11NWhGTHdwTjNHUW5XcGdXRFJ0TUFSaW5IVGJSWm10YnpFNFVXcm1FaG9fQmxpS3dwVUtESThFVE5heVJQcmVkbWQyVWdITWRKM0lZWmpRMA?oc=5",
+   "published": "2026-11-03T18:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4f6233ff7c97",
+   "title": "【日本選手権】NTT西日本が快勝発進 ベテラン浜崎浩大6回3安打1失点「目の前の試合をしっかり勝つ」",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnVsTVhheG1XVjVyWTQ3MDVmWlRlbG1tVGMxM05yTUh5RHhmOTh1YzRvYUxpSkdXSzlTSjBiUWF0dXRqZzV2NjhHTFRmU2pUZjlFaVYtdFd6bFF6TVNFQ3Z5YmFNUWVwVUVxRXdQVDdmRXNNX3JQcEhFUmtxaDVMX3VkYVBhZ1N2MS1tNFloYW8wdnpn?oc=5",
+   "published": "2026-11-03T18:13",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -65,11 +146,29 @@
    "q": "\"NTT\""
   },
   {
+   "id": "677208125912",
+   "title": "ＮＴＴ(株)【NTTYY】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2eFhiOHJfZl9iNUhUa1owRFBNSnBYMkZWY182OHM0UFpic2dReWY5MWJtWFFSNlNFbEhROWkzQzJWSG9KcmVJbXpCdjJlTzZV?oc=5",
+   "published": "2026-11-03T11:06",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "e23c7d435c0f",
    "title": "NTT東日本ら、郵便配達中に収集した映像を活用してインフラ管理を実証",
    "source": "LIGARE（リガーレ）",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DdWJYRU1uaC12M0RVM3FXME9OYWtyQVhhaDJkOG9HX0pPTjJtSThqLU9TeDVUZDE5c0ktVWlNME0tUXNUNFhKdjV5SG9KLUthMWc?oc=5",
    "published": "2026-11-03T08:32",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "39ddde732583",
+   "title": "復旧時間を83%短縮、ただし重要な対処は人が承認――NTTデータ先端技術がHinemosで障害対応の自律化を検証",
+   "source": "ThinkIT",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TUzdoaER3bU9YQUZmMlp4ZEFiNXM2WmZzcVJOdmt4WThVMlM1MHpFZGxhUUdSQ0RUM2FPMHdUUnRURW5PY0FQYVc4QQ?oc=5",
+   "published": "2026-11-03T06:25",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -106,6 +205,24 @@
    "source": "ニコニコニュース",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wbW9jLTJERE5NYndxWUZ2b3dnOVpqMHhPZTVrQjZQcGJsQUZzNloxU1VPYXlFUEFDNHRQdEQwaWJ2dVlkYjVEUGRRczJJdUxKdnFFVWh3NllJUy1kT1RNcjNjanhWS0JnZGRqOGJnbWZBdC1WNy1wRzA1NA?oc=5",
    "published": "2026-11-03T02:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b2ca2bc525b0",
+   "title": "NTT西日本、カンロ、アスクル、LINEヤフーなど登壇Webマーケティング＋ECの無料セミナーを11月5日・6日東京 赤坂で開催",
+   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVTE81Vy1ScGlsY0JaSFA4Y2NaeWdNaWllUDkzQ2hIR3lQTGU1bDlKc0d5ZkczYlBfRmFWT0U4dFF2OWgtZm4xX1JpVXdOeElTSXNjUzhCOUtwdXBfcjJsektWdm5OQkk4OUNDMWRkUFJpYVd2?oc=5",
+   "published": "2026-11-03T00:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c4e6269fa3d4",
+   "title": "Beyont、NTTドコモの「資格挑戦支援施策 問い合わせAIエージェント」を2ヶ月で構築",
+   "source": "RBB TODAY",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83OVExWkppLTV1RXZVZFl5bktMaFpNLVlBRjViSjlpUTdvRlI4QWVIQV9MU3VLRm1WWXR5SjJRa3hFd1ZDZjk4TEh6YXNfdWFmcGZkamtLWHlaZ2drNFlvZU1XLWtwM3llZ0MxdUFlb0ZiWjNRTGQ0Ug?oc=5",
+   "published": "2026-11-02T23:10",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -205,6 +322,15 @@
    "source": "Dtimes",
    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBMjZNVUtzS3JqYmZGZTYtZTlzU0diT3phZVliSENXdGdObnRMWVBvRFFxSGlDUHNnQVRmRmNqVDV2QVBZc3c?oc=5",
    "published": "2026-11-02T16:07",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fcffd5ac3ebf",
+   "title": "NTTデータ・マーケティングアクト、コンタクトセンター導入事例（株式会社ヤオコー様）を新たに公開",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEYzTnNPVWZuZkF6bE9GVDVJclJKWVprU3VUVmwtZ1B5NFVGSDBlNTBMb0V3SENLSnNNRzhBSVMzODF0Q0xFMU8zTW1uMVdtS2x1TXFabnRmcUpDaHRGWXNaUldlS05KNnc?oc=5",
+   "published": "2026-11-02T16:00",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -371,6 +497,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "c073a991a6b2",
+   "title": "NTTデータ先端技術、Oracle AI Database／OCI向けセキュリティサービス3種を提供",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qUHpGWVRoRXhGYTE1QUJjTjV3c1k3SHBtbG8tSkpDYzh0M3hwanhYbUZnT3ZNSjQwbWJTNFpLd3hoRlZUMEJGZWVoNmdVLWFXMUZCUnAtQWRjbzVXNmViX014U01iZw?oc=5",
+   "published": "2026-11-02T11:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "29373da53565",
    "title": "NTTデータ、委託先SaaSへの不正アクセスで社債特典支援サービス停止 個人情報漏えいの可能性",
    "source": "NOVAIST",
@@ -447,6 +582,15 @@
    "title": "NTT低軌道衛星で2倍超の通信大容量化、地上設備なしネット接続に貢献",
    "source": "LIGARE（リガーレ）",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJcUhNXzRaR0F6VUxsYkRhRGF5NU9VU2xCZTAySW0yMDRXQUlVNDRMS0UwaFpXYzFqWkhpT2V5Vk9xb2gtd3Q0YVFwWi16SDUzdU1pSE1fV3dLZw?oc=5",
+   "published": "2026-11-02T08:32",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "26b1bd30219e",
+   "title": "NTTデータ先端技術、統合運用管理ソフト「Hinemos」で障害対応を自律化するAIエージェントの実証実験を開始",
+   "source": "千葉テレビ放送株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaSklYSkh6TktVRUNQcEZZYjc4dWppWE44cU1pbkpvVGxPVTlqUlZTX2tTZ3dER2JFTmhOYjkyWTE1bHcxVkkwUmVsdXJpZUdZQ0ZoOHJPVkIzc1lNMjhN?oc=5",
    "published": "2026-11-02T08:32",
    "kind": "company",
    "q": "\"NTT\""
@@ -695,6 +839,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "926d8ca55c14",
+   "title": "米個別株ランキング －値上がりトップはフェデックス・フレート 値下がりワーストはレディット(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFd6VFhRYjRrN2p0czFqT3JhektfNWh4NF9OQUh0SEN2WDBGSjFjaU5vbUhra19mV3o2bGJ6MUZpM0hDU1VPbXliaTRKR0w4OWFmUGxzdWtFMzB1WlB4N2JXYXFSdU9nRklMWE5sSmR2Y21mbWxwX2E5dWJMNzBHWkU5YWxxY3M?oc=5",
+   "published": "2026-10-31T07:19",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "9d9a75e8d393",
    "title": "今週の【早わかり株式市況】3週ぶり反発、半導体に買い戻しも週末に一転売り優勢",
    "source": "株探",
@@ -767,12 +920,30 @@
    "q": "\"NTT\""
   },
   {
+   "id": "9c51e88c3172",
+   "title": "テルコム・インドネシア【TLK】：企業情報（従業員数・代表者名など）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41a3lFakZZVlFITjV2U3JSWjJkVjBQcWwwb3ZoeEZUcDAxNmpJVkZGOFZKajM1OGlubGpwN2FGQ3o1V2hjLUZRUHA0a1RCM0dYVTliVHFyQms?oc=5",
+   "published": "2026-10-30T16:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "b6d48d006177",
    "title": "NTTドコモ Presents Lemino BOXING PHOENIX BATTLE 1...",
    "source": "Lemino",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tYnpNeEdwWlcxeHEtRVE2TkpxREZoQ3JvRkFXLThuTFc5eVRDMk9zeENwMXc3WkxKM0I3TnVHZjJOOHZyT0VHandQTWZjQUE0ZWJ5WmNlWGw5UHBRemw4WlU2bTkzczloVVhUUFl2M05XRmJRcnprTTBHVl8xRG8?oc=5",
    "published": "2026-10-30T15:35",
    "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "654857b87114",
+   "title": "IOWN APNを用いたストレージ間の超高速大容量データ転送の実証実験を実施",
+   "source": "NTT西日本",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZMFgwQ3hPcE5IM1JrdFVQNndheEM1N3g1MjJiUk9XbGhGWXgyXzQ2MUo5Ym9XWk5ramJXYWRFNFlGMkhCQnV4UmhSMFkzUWJ2aWJoNVVEbmZabmxjc2c?oc=5",
+   "published": "2026-10-30T15:30",
+   "kind": "sector",
    "q": "\"NTT\""
   },
   {
@@ -839,6 +1010,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "af0e57d9c985",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】空運業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SYkktMWE0d3BuNEVwRHRxcnBoY3RiSkM4bGlSMmhsVUY5M0dNbnkzUUpEcVdkUzg2NlV2ZF91eUhFc29GTXREdDlWTHVraWU0WHJoTlgwSDF6UkpYU3BLWQ?oc=5",
+   "published": "2026-10-30T11:32",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "dae8c5cf0b8d",
    "title": "「dバリューパス」に新たな特典を追加",
    "source": "NTTドコモ",
@@ -893,6 +1073,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "781cca5f7135",
+   "title": "米個別株ランキング －値上がりトップはジェン・デジタル 値下がりワーストはサービスナウ(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFpURjM3elZaN2p6ZjMtNzVzTGlnaklXQUF5Z1kyeHFOSTZqYTd5bV9YQUNCVURNamhGSEI0aC1RU05SVE16MnRMcXNHcGJOWTBScDVDRktaaWd0MThTVkpid3hkNXJVMnJWZHB6R1pzQ2JFTHJhU25vUS0tR2tQTTVReWdRVzA?oc=5",
+   "published": "2026-10-30T07:25",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "8118bbb29e3f",
    "title": "なぜ「光ファイバー」ではなく「無線」なのか？ 2Tbpsを実現したNTTの伝送技術（＠IT）",
    "source": "Yahoo!ニュース",
@@ -927,6 +1116,15 @@
    "published": "2026-10-29T16:31",
    "kind": "company",
    "q": "\"NTT\""
+  },
+  {
+   "id": "2ad31e75b6a5",
+   "title": "【注目トピックス 市況・概況】東証業種別ランキング：銀行業が上昇率トップ",
+   "source": "マネーポストWEB",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5VXQ5R1ExWmpyODk3dnJSMW5DZWhvOGJySFpWMG1HUmpMX2xTaFZNSFJLQTNBMXc4eG12a1hDcXN6bGF0OEF3?oc=5",
+   "published": "2026-10-29T15:46",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
   },
   {
    "id": "c34b471eb5b5",
@@ -1028,6 +1226,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "cc4ca5df3d94",
+   "title": "本日の【上場来高値更新】 オービック、紙パル商など22銘柄(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU1FvX1RoeVg0bGpTb04zN2hyckJFV3cwWENMaWZ4OElHYmNiTnJXWl9IdUVvcDY5U3lZdzU5RS1EMjlwaWdWQjFNdnZJRkN2MnF3bmctdWRrUHVLNjZwbHBvamY5dWpQcnl1NE04eE9aNUhzNTV0Y2VUZWRYbTkzRUlBYmxNa1U?oc=5",
+   "published": "2026-10-28T20:10",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "b43545318ec5",
    "title": "NTT、SAPとソブリンAIで連携 機密情報を管理しやすく",
    "source": "日本経済新聞",
@@ -1100,6 +1307,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "33c3676b8422",
+   "title": "東証業種別ランキング：保険業が下落率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnhZTGRiWEwtR2liamFRNVN4V1h2ZU1uWVA2S2tyaE95VWlzTDduanBBdHVSNUE5Q3g1SjJicWx6V2Z1QnV3U3FUMTFJYjYtRFhXQlJ3V0tQVjlGeE50T3A5RE1RMGpsX1ZkMTR4VVZ5aUtmZE1GR254ZDM4dWhndkdhamVzd1k?oc=5",
+   "published": "2026-10-28T15:41",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "e3dce5144f5f",
    "title": "ＮＴＴ都市Ｒ",
    "source": "日本経済新聞",
@@ -1118,6 +1334,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "fc35f8961c11",
+   "title": "はだれのもの？」の開催について",
+   "source": "NTT東日本",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hbE9TekF3aWFSWEpfNlZ6dXJVYWJwS0xOM3VXVWZoTUs0ZndZVjBqWURYOHZIRHJVOHozamRRZlVwNl9PV3hBbEVybmNwR2dXVGxiaElRSnRwd2R1WmpfZmtIS2ZKd3RZRXc?oc=5",
+   "published": "2026-10-28T15:04",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
    "id": "baa4b05da13d",
    "title": "NTT「1株140～160円」で買い続け“保有5000株”のタイミングで、1株「170円台」に！ 今が売り時と思いきや“利益は約10万円”だけ…配当金のために「持ち続ける」べき？ 値上がりの理由も確認（ファイナンシャルフィールド）",
    "source": "Yahoo!ニュース",
@@ -1125,6 +1350,15 @@
    "published": "2026-10-28T13:50",
    "kind": "company",
    "q": "\"NTT\""
+  },
+  {
+   "id": "2ca8416bc726",
+   "title": "本日の【業種】騰落ランキング ＝ 後場寄付 【上昇トップ】ガラス・土石 【下落トップ】保険業 [12:33](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRmY5VmtvSVpwVlBsbHdKcDY2bFJwaDJOTlgtLVNBMnlqV3k1YW1Wd1JRRkNJTDl1UGFYRUNxdnJjdFNpSFJXYjJWWUl6c29EeEhDZ3hFdFhWMk9XYjNLWHQ3Y2JLOFo4cFZRVnBnUUlRTlMxSEpocm01SHFvRGg5NUZ1YkRiczQ?oc=5",
+   "published": "2026-10-28T12:48",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
   },
   {
    "id": "dd51b6b18c8c",
@@ -1154,11 +1388,38 @@
    "q": "\"NTT\""
   },
   {
+   "id": "0a347fe9f8a2",
+   "title": "マーケットカレンダー",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjZsMlMwUzljT2JpbVpsSXNUY2lhdXBGTlB2cEJxeUV3eTJBNUE2YUM0amo2U1BWdHNLTTFBN21PZ0I3ejlmZ2hKVnd0aXN3MFRwSm1jaUtvcGxsNlFjSE9WaUF2NUpjR2l5U2FNOHlRNkVGcmtRb2JkU251dmx3ZEE5c01jbEZZQlc4SjVuN1Jadw?oc=5",
+   "published": "2026-10-28T00:15",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "25886c5d1d35",
    "title": "マーケットカレンダー",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVlV6NWVmc2VOVTIzNTNUQUtlSFNwNHZqYzFLWXl6bHBOUHhLeVhqY092RUExYklyU25hNnQ1a1JLS2I5dElOTEJtNmFMcjlYckFMLWxoSUw2Y2UtaGhoUE9Vdnp3U2NZbEMxSW0wRktpeGdlcE8zM0xvMEtKM1VpU283ZnZQWWVaZzYxdDBCeTc0Zw?oc=5",
    "published": "2026-10-27T22:41",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "96c9477e4fe7",
+   "title": "本日の【上場来高値更新】 セキュアヴェ、信越ポリなど22銘柄(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FULW9TcGlnLTczdi1FeXpOV1F3ODVERWdxT2xpZDI5M2hZbjl5UGV5TWtJVHNaVjZQXzB6dDFLcWRZaVQzTFcxbUYwMkJfWFplRU9qZHV6OXhpZGtBZ3JXQXJoa2l1UmpWUVpEVUdwa19lQ09MY1g2VE9rc0Y5VlI2VE5Nd00?oc=5",
+   "published": "2026-10-27T20:10",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "68d276424a53",
+   "title": "マーケットカレンダー",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS040clpfdVVTdEs3QkUwVkNtRHJtWVNHRkZyb2NhNVpJaHl2NmNzWkg2RE1va2tvazZSenZpLWZ5Z01iUG01Sk5JZ25wNjl6S1VsTzYzNkNoX2dqcDR1b1VvazJkWkQ3STQxR0JxNTUwTGFkMVZVYTgxNmxEYXBuRDl3a0E5VndXXzh4bEJweWY2Zw?oc=5",
+   "published": "2026-10-27T17:49",
    "kind": "sector",
    "q": "情報・通信業 市況"
   },
@@ -1172,12 +1433,48 @@
    "q": "\"NTT\""
   },
   {
+   "id": "88fbc55909cb",
+   "title": "オムロンとNTTドコモビジネス、製造現場のサイバー脅威に挑む | ニュースルーム | オムロン株式会社",
+   "source": "OMRON Global",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkcVlHRXpPeDdybG9KNnF6VGJPZmJqdGp3N0VsMFBRV3o2bWctUnJDcmRsSU44eGVjMTJGX0ZLRnhsRUxjMF9EeXFycWxWWHliRzhnTGtCeUVFbWpJNmtiOA?oc=5",
+   "published": "2026-10-27T11:27",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "722800cb193c",
+   "title": "マーケットカレンダー",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0ZLOEFxUVBXWFgyWDVsaU81ZkNOVmJxSjl4bU9kb0t2MWVZTlJLVmxpNXQ0aXhYejRZSEJpazlvM1FDZG9KbEpKb19oRHdEYnBNTTBUQ2pWdjdESUhxN2lacW1MaktGelozQTFmbUJIeFVfd2VqZHUya3RFWXpmN05WYUo5UTN4UTlvOGxwUTBDZw?oc=5",
+   "published": "2026-10-27T11:01",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "461d0d08edf4",
    "title": "ドコモ、未就学児の生活習慣づくりを支援するAI対話技術を開発",
    "source": "NTTドコモ",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lZURlUUhpdXNadVlldzd6M3FBNnI5OUNBQ09STFFYV25abzc1SDJBMWR0X2F2cml6QTN1RWtNUmJiVk9MQWxsTW5pcS1GYTFiLXNza2tJbEVNazFhY2o2aUdWYWRoRWlSZVVERGpn?oc=5",
    "published": "2026-10-27T10:00",
    "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fd76c04fb18f",
+   "title": "米個別株ランキング －値上がりトップはルメンタム 値下がりワーストはフェア・アイザック(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUHhxR3F2OFplNEliUmxFOHBDa05ZVTZ6R0FZMmtMZGUzbDhGTTk1d2J6UFdGZ1NxTTNfVWtlU3pLWE1MY25fOWlFQnR3Y2t5Z09VM01EalFGZGdOanV5elhVMUhCY2hfVFcwYmhRQWpnaUstVUtBTVZYUXZTSFRUZlF6SUoyZUk?oc=5",
+   "published": "2026-10-27T07:27",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "c2921ea06ad9",
+   "title": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会（1/2 ページ）",
+   "source": "ITmedia",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBneDA0Q2hxWENobE03RmtDbEZJY182dzRYMDRJMGliMi01UGx3VE1BZjA4NGwyOGN1U1FSMVJwMWNkYXpDT1VOM0FzZG1zQWo3OTRsOW1BdXVzNFhCem15N1pFQUNvVEJweGhyOERUaTdtZw?oc=5",
+   "published": "2026-10-27T07:00",
+   "kind": "company",
    "q": "\"NTT\""
   },
   {
@@ -1244,6 +1541,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "4538b2f1a3c1",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】不動産業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1YU83S0h5SUJ6NTZ1VGlmTE1SaHo2SEVWRnFsemUtZndVRVV1bVRpc29BNzUwa2lnb1dYazRQby03ZHd1dmE3Y2RGUy05Z0tPQ3dSUUtuLUwydHM1OUd2Mw?oc=5",
+   "published": "2026-10-23T23:30",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "f50466c80f24",
    "title": "\"人が読む\"既存ソフトウェア資産を、\"AIが読む\"開発資産へ ～ドキュメントとコードの不整合や不十分なテストを自動で補完し、AI-Native開発※1への転換を加速～",
    "source": "group.ntt",
@@ -1280,6 +1586,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "67cc5bf558d0",
+   "title": "本日の【上場来高値更新】 ブロンコＢ、山岡家など25銘柄(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRTFwZ0NRQ0U4ZUVCcE1iRUV4dVByNnY1bUlDbWJ3clNGdXFCdTZOM09lU2pMOHZFTm9CTTcxYVhxNXdVREdTUFRlYVBNOXNjbmxuaFYzUU5JOGdYSVFPa1g4cXhPdXdEcWM2SWx2SXRJTm5RQmhJUFpuSEltY1Q3M1JWanBmbWs?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "ab225bd062d0",
    "title": "NTT、10万人対象にグループ横断の人事制度を導入 社員を直接スカウト",
    "source": "マイナビニュース",
@@ -1313,6 +1628,69 @@
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50RHo0TGlEOHhkRlJlRy0ySzB3NDNETTNLS1BNeUhxQjNQMy1ZNUp1UkVQQThSaDdtM1ZzUUdLY05wT1JPdk55MA?oc=5",
    "published": "2026-10-22T16:00",
    "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c613fe1a0f46",
+   "title": "NTTグループ、オファー型人事制度「NTT Group Job Scout」を開始 ～スキルと志向を起点に、社員と事業をつなぐ新たな人材マッチングを実現～",
+   "source": "Digital PR Platform",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1vSk05MUpXd0xuN2JJZVhadWZrd3owU2ZWN1RXUVpYTDNhb1BBWXNpcm1GSzdmczg1N0lZM3JxNjdIVmM?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "48f4572f27e5",
+   "title": "NTT R&D WEBサイト緊急メンテナンスの完了のお知らせ | トピックス | NTT",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43OEdRMnVLQU1OTURGdGl4bW1nNkdtM0Q2NEYtV1ZvamdrblpneVdKdmJLOUVCMklUVEFkZ2RnWlJpSTJaNlJKczdiTWgzZ1NJeGRsVl9pdXJLeDk0ZndpRk45bUJOSThsaWlJ?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "af0482509042",
+   "title": "NTTグループがオファー型人事制度「NTT Group Job Scout」を開始",
+   "source": "ビジネスネットワーク",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLNzhoSHRnallvRWlGSV9GVm9OaE5zcHY2RTE5RGdhWGZaYlFwWmw5SEY4SFpuMkJLYzZQUG5yMzRDM0VfdWQ5RXFvZzJXZnkwR1BN?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "12b3a54b7fc5",
+   "title": "本日の【上場来高値更新】 ＳＢＳＨＤ、山岡家など23銘柄",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84dFppSFZZbjl6Y1pxS21hS1hmcy1CNEFpWTdJc3hGN0JWOTQ3a29pWkJqWnZiSTZRb2Q3eHdxRWtyenVvYlg1d0o2ckl6WjhOSEh1elZ0ZVJIUXJtdkFHSA?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "08dc2b688548",
+   "title": "本日の【業種】騰落ランキング ＝ 寄付 【上昇トップ】サービス業 【下落トップ】非鉄金属 [09:06](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHE4ZTZIa3RmX2NlU0dfZzZhNnZydXdQdTF5QmVMWFJhTmhQSVBBXzBHWGZhTUJpMFAtSU5VX182bmVKSWFNbEFudU9nSi1ZVmNpZ2FQb2VrcUtTY3RjQTRTYmlMdjdwM2MxNG42YmRnNDU1b0g5Q0haajdGdFozRHpaaGFhN0U?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "41182e0012a2",
+   "title": "米個別株ランキング －値上がりトップは スカイダンス 値下がりワーストはAT＆T(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlBKaG9BZmVtSEZTc05ZMjN3TE9kd2VFX01DQ0tfSzh1MXlJY2huTGVQdmVBMjRWWlRlaGtmZ1I4VXRwX2diZmExUXN1ZURiYlAyQmk2YTVxSkFIM055aTVDbENqdE9udzM1NGJZWldUQ2huWWM3ZjM1M1E5MXpSX3UwYlowWEU?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "f3bc073a65f9",
+   "title": "NTTグループが「社内版ビズリーチ by HRMOS」を導入",
+   "source": "株式会社ビズリーチ",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aEN2MTVHTTJqaUpGanZ5VWJleGlMeS0zY2ZHTy1TMFdodDFkUFBwVjlrZ1JXLWZpRjhWS0dqRU4tbUh1b2VTQjdyQXl3V2JrcVV6T25Hc0d4clhCS2cteU56OFJ1SHJfYl9jSGxDRGhodw?oc=5",
+   "published": "2026-10-22T15:47",
+   "kind": "company",
    "q": "\"NTT\""
   },
   {
@@ -1359,6 +1737,24 @@
    "published": "2026-10-21T16:00",
    "kind": "sector",
    "q": "情報・通信業 市況"
+  },
+  {
+   "id": "4db4fc0df532",
+   "title": "「大企業は一朝一夕には変わらない」 NTTデータ冨安寛氏がAI時代に重視する原理原則：チェンジリーダーの覚悟（1/2 ページ）",
+   "source": "ITmedia エグゼクティブ",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByUm1GaVdlcjVxZEt6LUE1QUdWUWFtMUtHZTNuVGNKQzAzTE9vcjJyRDEwTHg4Tm1NdmVjVHFZMlpmaUJwdGdFMEJaTEZFVzRiSkFaS0VHRURNTXVPc05TR0dEeExEc0FTTVhDSGxldlppS0Etd1MwNFNKcGZUZw?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9a77d8538e82",
+   "title": "NTTの光電融合 光チップレットを31年国内量産、4社連合",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeThoZElYMUU2dnNCRW9nV2xEZVJwNEtnMkVPcll6SWFReE4yWUhyTkVZcnZVZjdSZ01QMEgwOWNCMUx4M0wybVl5aHZyVlFzOVlWS3RKVHFrRDVYU3U0RmpLaFFCek1KZEltaWtoakRQWGwwd3dOb21lcUxJdkRXRFU0MFZENFk?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
   },
   {
    "id": "0f322d97bc6e",
