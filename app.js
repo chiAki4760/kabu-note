@@ -17,7 +17,7 @@ const PAGE = 40;
 const state = {
   cfg: null, prices: {}, news: {}, updated: '',
   tab: null, range: '6M', compare: false, sel: null,
-  kind: 'all', tag: 'all', shown: PAGE, draft: { date: '', text: '' }, addDraft: { code: '', name: '', sector: '' },
+  kind: 'all', tag: 'all', shown: PAGE, openGrp: new Set(), draft: { date: '', text: '' }, addDraft: { code: '', name: '', sector: '' },
   pdraft: { dir: '', days: 5, text: '' }, ai: { mode: 'all', q: '' }, ma: false,
 };
 const DIRS = { up: '上がる', flat: '横ばい', down: '下がる' };
@@ -224,7 +224,34 @@ const HELP = {
 };
 const helpTip = k => `<details class="help"><summary aria-label="数字の見方">？</summary><div class="help-body">${HELP[k]}</div></details>`;
 
-function newsHtml(n, c) {
+// 同じニュースをまとめる：反映される営業日が同じで、見出しがほぼ同じもの（文字の2文字ずつの重なりで判定）
+const normTitle = t => t.normalize('NFKC').replace(/\s*\d+枚目の写真・画像$/, '').replace(/[\s「」『』（）()【】［］\[\]、。・,.!?！？…:："“”'’＜＞<>|｜\-ー－—]/g, '').toLowerCase();
+const bigrams = t => { const x = normTitle(t), g = new Set(); for (let i = 0; i < x.length - 1; i++) g.add(x.slice(i, i + 2)); return g; };
+const titleSim = (a, b) => {
+  if (!a.size || !b.size) return 0;
+  let k = 0; for (const x of a) if (b.has(x)) k++;
+  const m = Math.min(a.size, b.size);
+  return Math.max(2 * k / (a.size + b.size), m >= 12 && k / m >= 0.85 ? 1 : 0);
+};
+function groupNews(list) {
+  const groups = [];
+  for (const n of list) {
+    const d = effDate(n), g = bigrams(n.title);
+    const hit = groups.find(G => G.d === d && G.g.some(x => titleSim(x, g) >= 0.5));
+    if (hit) { hit.items.push(n); hit.g.push(g); } else groups.push({ d, items: [n], g: [g] });
+  }
+  return groups;
+}
+function groupHtml(G, c) {
+  const [head, ...rest] = G.items;
+  if (!rest.length) return newsHtml(head, c);
+  const open = state.openGrp.has(head.id);
+  const subs = open ? `<div class="dups">${rest.map(n => `<div class="dup"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+      <div class="meta">${n.published.replace('T', ' ')} ・ ${esc(n.source)}</div></div>`).join('')}</div>` : '';
+  return newsHtml(head, c, `<button type="button" class="dupbtn" data-act="grp" data-id="${head.id}">${open ? '▲ 閉じる' : `▼ 同じニュース ほか${rest.length}件`}</button>${subs}`);
+}
+
+function newsHtml(n, c, extra = '') {
   const eff = effDate(n);
   const r = reaction(c.series, eff);
   const m = c.mkt ? reaction(c.mkt, eff) : null;
@@ -238,7 +265,7 @@ function newsHtml(n, c) {
     <div class="meta">${n.published.replace('T', ' ')} ・ ${esc(n.source)} ・ ${KIND[n.kind] || ''}
       ・ <select data-act="tagSel" data-id="${n.id}" aria-label="タグ">${opts}</select>
       <button type="button" class="del" data-act="memoFrom" data-id="${n.id}">📝 メモ</button></div>
-    <div class="rets">${rets}${helpTip('news')}</div></div>`;
+    <div class="rets">${rets}${helpTip('news')}</div>${extra}</div>`;
 }
 
 function statsHtml(c) {
@@ -564,13 +591,14 @@ function stockView(stock) {
     <div class="sub">${s.dates[last] ? s.dates[last] + ' 終値' : '株価データはまだありません（GitHub の Actions「update-data」を実行すると取得されます）'}</div></div>`;
   let items = c.news.filter(n => (state.kind === 'all' || n.kind === state.kind) && (state.tag === 'all' || tagOf(n) === state.tag));
   const total = items.length;
-  items = items.slice(0, state.shown);
+  const groups = groupNews(items), gTotal = groups.length;
+  const shownG = groups.slice(0, state.shown);
   const chip = (act, v, label, cur) => `<button type="button" data-act="${act}" data-v="${v}" class="${cur === v ? 'on' : ''}">${label}</button>`;
-  const list = `<div class="card"><h2>📰 ニュース（${total}件）</h2>
+  const list = `<div class="card"><h2>📰 ニュース（${total}件${gTotal < total ? `・まとめて${gTotal}件` : ''}）</h2>
     <div class="row">${chip('kind', 'all', 'すべて', state.kind)}${chip('kind', 'company', '会社', state.kind)}${chip('kind', 'sector', '業界', state.kind)}</div>
     <div class="row" style="margin-top:6px"><select data-act="tagFilter"><option value="all">タグ：すべて</option>${TAGS.map(t => `<option${state.tag === t ? ' selected' : ''}>${t}</option>`).join('')}</select></div>
-    <div style="margin-top:8px">${items.length ? items.map(n => newsHtml(n, c)).join('') : '<div class="empty">ニュースはまだありません。</div>'}</div>
-    ${total > items.length ? '<div class="row"><button type="button" data-act="more">もっと見る</button></div>' : ''}</div>`;
+    <div style="margin-top:8px">${shownG.length ? shownG.map(G => groupHtml(G, c)).join('') : '<div class="empty">ニュースはまだありません。</div>'}</div>
+    ${gTotal > shownG.length ? '<div class="row"><button type="button" data-act="more">もっと見る</button></div>' : ''}</div>`;
   return head + chartCard('main', `${esc(stock.name)} のチャート`, c) + `<div id="selected">${selectedHtml(stock.code, c)}</div>`
     + `<div class="card"><h2>📊 ニュースのあとの値動き（タグ別の平均）</h2>${statsHtml(c)}</div>` + aiHtml(stock.code)
     + list + predHtml(stock.code, c) + memoHtml(stock.code, c);
@@ -584,9 +612,9 @@ function marketView() {
     return `<div class="card"><div class="sub">${esc(ix.name)}</div><div><span class="price">${num(s.closes[last])}</span><span class="chg ${cls(chg(1))}">${pct(chg(1))}</span></div>
       <div class="sub">1週間 <b class="${cls(chg(5))}">${pct(chg(5))}</b> ・ 1か月 <b class="${cls(chg(21))}">${pct(chg(21))}</b></div></div>`;
   }).join('');
-  const items = c.news.slice(0, state.shown);
-  const list = `<div class="card"><h2>📰 市場全体のニュース（${c.news.length}件）</h2>${items.length ? items.map(n => newsHtml(n, c)).join('') : '<div class="empty">ニュースはまだありません。</div>'}
-    ${c.news.length > items.length ? '<div class="row"><button type="button" data-act="more">もっと見る</button></div>' : ''}</div>`;
+  const groups = groupNews(c.news), items = groups.slice(0, state.shown);
+  const list = `<div class="card"><h2>📰 市場全体のニュース（${c.news.length}件${groups.length < c.news.length ? `・まとめて${groups.length}件` : ''}）</h2>${items.length ? items.map(G => groupHtml(G, c)).join('') : '<div class="empty">ニュースはまだありません。</div>'}
+    ${groups.length > items.length ? '<div class="row"><button type="button" data-act="more">もっと見る</button></div>' : ''}</div>`;
   return cards + chartCard('main', 'TOPIX連動ETF(1306) のチャート', Object.assign({}, c, { mkt: null }))
     + `<div id="selected">${selectedHtml('market', c)}</div>` + aiHtml('market') + list + predHtml('market', c) + memoHtml('market', c);
 }
@@ -679,6 +707,7 @@ document.addEventListener('click', ev => {
   else if (act === 'cmp') state.compare = !state.compare;
   else if (act === 'kind') { state.kind = v; state.shown = PAGE; }
   else if (act === 'more') state.shown += PAGE;
+  else if (act === 'grp') { const id = b.dataset.id; state.openGrp.has(id) ? state.openGrp.delete(id) : state.openGrp.add(id); }
   else if (act === 'memoAdd') {
     const text = ($('#mText').value || '').trim(), date = $('#mDate').value;
     if (!text || !date) return;
