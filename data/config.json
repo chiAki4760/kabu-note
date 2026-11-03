@@ -105,6 +105,26 @@
           "kind": "sector"
         }
       ]
+    },
+    {
+      "code": "6501",
+      "symbol": "6501.T",
+      "name": "日立製作所",
+      "sector": "電機機器",
+      "match": [
+        "日立製作所",
+        "6501"
+      ],
+      "queries": [
+        {
+          "q": "\"日立製作所\"",
+          "kind": "company"
+        },
+        {
+          "q": "電機機器 市況",
+          "kind": "sector"
+        }
+      ]
     }
   ],
   "market": {
