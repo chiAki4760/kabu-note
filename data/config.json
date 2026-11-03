@@ -125,6 +125,90 @@
           "kind": "sector"
         }
       ]
+    },
+    {
+      "code": "9020",
+      "symbol": "9020.T",
+      "name": "東日本旅客鉄道",
+      "sector": "陸運業",
+      "match": [
+        "東日本旅客鉄道",
+        "JR東日本",
+        "9020"
+      ],
+      "queries": [
+        {
+          "q": "\"東日本旅客鉄道\"",
+          "kind": "company"
+        },
+        {
+          "q": "陸運業 市況",
+          "kind": "sector"
+        }
+      ]
+    },
+    {
+      "code": "7203",
+      "symbol": "7203.T",
+      "name": "トヨタ自動車",
+      "sector": "輸送用機器",
+      "match": [
+        "トヨタ自動車",
+        "トヨタ",
+        "7203"
+      ],
+      "queries": [
+        {
+          "q": "\"トヨタ自動車\"",
+          "kind": "company"
+        },
+        {
+          "q": "輸送用機器 市況",
+          "kind": "sector"
+        }
+      ]
+    },
+    {
+      "code": "9022",
+      "symbol": "9022.T",
+      "name": "東海旅客鉄道",
+      "sector": "陸運業",
+      "match": [
+        "東海旅客鉄道",
+        "JR東海",
+        "9022"
+      ],
+      "queries": [
+        {
+          "q": "\"東海旅客鉄道\"",
+          "kind": "company"
+        },
+        {
+          "q": "陸運業 市況",
+          "kind": "sector"
+        }
+      ]
+    },
+    {
+      "code": "9432",
+      "symbol": "9432.T",
+      "name": "NTT",
+      "sector": "情報・通信業",
+      "match": [
+        "NTT",
+        "日本電信電話",
+        "9432"
+      ],
+      "queries": [
+        {
+          "q": "\"NTT\"",
+          "kind": "company"
+        },
+        {
+          "q": "情報・通信業 市況",
+          "kind": "sector"
+        }
+      ]
     }
   ],
   "market": {
