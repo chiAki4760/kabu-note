@@ -216,6 +216,14 @@ function rangeSlice(series) {
   return i < 0 ? 0 : i;
 }
 
+// 「？」をタップすると数字の見方が開く小さな説明
+const HELP = {
+  news: '<b>当日</b>：前の営業日の終値から、ニュースが反映された日の終値までの変化です（15:30以降や休日のニュースは次の営業日）。<br><b>3日・5日</b>：同じ終値から、3営業日後・5営業日後の終値までの変化です。「—」はまだその日が来ていないという意味です。<br><b>プラス／マイナス</b>：プラスは上がった、マイナスは下がったことを表します。<br><b>市場比</b>：この銘柄の変化 − 市場全体（TOPIX）の変化です。プラスなら市場より強く、マイナスなら市場より弱く動きました。相場全体の動きを除いて、ニュースの影響を見る目安です。<br>「値動きは未確定」は、ニュースが反映される営業日の終値がまだ出ていないという意味です。<br>同じ日のニュースは、値動きの数字が共通になります。',
+  memo: '<b>メモ日の終値から現在まで</b>：メモの日付の終値から、最新の終値までの変化です（休日に書いたメモは、その前の営業日の終値が起点）。プラスならメモのあと上がった、マイナスなら下がったことを表します。「—」はまだ新しい終値がないという意味です。<br><b>市場比</b>：この銘柄の変化 − 市場全体（TOPIX）の変化です。プラスなら市場より強く、マイナスなら弱く動きました。',
+  pred: '<b>結果・途中経過</b>：予測した日の終値から、期間の終わり（途中なら最新）の終値までの変化です。<br><b>判定</b>：この銘柄そのものの変化で決まります。「上がる」はプラス、「下がる」はマイナス、「横ばい」は±2%以内なら当たりです。<br><b>市場比</b>：この銘柄の変化 − 市場全体（TOPIX）の変化で、判定には使いません。市場全体が大きく動いた週は、市場比も合わせて見ると、予測の理由が合っていたかを確かめられます。'
+};
+const helpTip = k => `<details class="help"><summary aria-label="数字の見方">？</summary><div class="help-body">${HELP[k]}</div></details>`;
+
 function newsHtml(n, c) {
   const eff = effDate(n);
   const r = reaction(c.series, eff);
@@ -230,7 +238,7 @@ function newsHtml(n, c) {
     <div class="meta">${n.published.replace('T', ' ')} ・ ${esc(n.source)} ・ ${KIND[n.kind] || ''}
       ・ <select data-act="tagSel" data-id="${n.id}" aria-label="タグ">${opts}</select>
       <button type="button" class="del" data-act="memoFrom" data-id="${n.id}">📝 メモ</button></div>
-    <div class="rets">${rets}</div></div>`;
+    <div class="rets">${rets}${helpTip('news')}</div></div>`;
 }
 
 function statsHtml(c) {
@@ -262,7 +270,7 @@ function memoHtml(tab, c) {
       chg = s.closes[last] / s.closes[i] - 1;
       if (c.mkt) { const j = lastOnOrBefore(c.mkt.dates, m.date); if (j >= 0 && j < c.mkt.closes.length - 1) ex = chg - (c.mkt.closes.at(-1) / c.mkt.closes[j] - 1); }
     }
-    return `<div class="memo"><div class="sub">${m.date}　メモ日の終値から現在まで <b class="${cls(chg)}">${pct(chg)}</b>${ex != null ? ` <span class="${cls(ex)}">(市場比${pct(ex)})</span>` : ''}</div>
+    return `<div class="memo"><div class="sub">${m.date}　メモ日の終値から現在まで <b class="${cls(chg)}">${pct(chg)}</b>${ex != null ? ` <span class="${cls(ex)}">(市場比${pct(ex)})</span>` : ''}${helpTip('memo')}</div>
       <p>${esc(m.text)}</p><button type="button" class="del" data-act="memoDel" data-id="${m.id}">削除</button></div>`;
   }).join('');
   const d = state.draft.date || state.sel || s.dates[last] || '';
@@ -306,7 +314,7 @@ function predHtml(tab, c) {
     const r = predResult(p, c);
     if (r && r.done) { done++; if (r.hit) hits++; }
     const badge = !r ? '' : r.done ? `<span class="badge ${r.hit ? 'hit' : 'miss'}">${r.hit ? '当たり' : '外れ'}</span>` : `<span class="badge wait">あと${r.left}営業日</span>`;
-    const res = r && r.chg != null ? `<div class="sub">${r.done ? '結果' : '途中経過'}（${r.end}まで） <b class="${cls(r.chg)}">${pct(r.chg)}</b>${r.ex != null ? ` <span class="${cls(r.ex)}">(市場比${pct(r.ex)})</span>` : ''}</div>` : '';
+    const res = r && r.chg != null ? `<div class="sub">${r.done ? '結果' : '途中経過'}（${r.end}まで） <b class="${cls(r.chg)}">${pct(r.chg)}</b>${r.ex != null ? ` <span class="${cls(r.ex)}">(市場比${pct(r.ex)})</span>` : ''}${helpTip('pred')}</div>` : '';
     return `<div class="memo"><div class="row">${badge}<span class="sub">${p.date}の終値から${p.days}営業日で「<b>${DIRS[p.dir]}</b>」</span></div>
       ${res}${p.reason ? `<p>${esc(p.reason)}</p>` : ''}<button type="button" class="del" data-act="predDel" data-id="${p.id}">削除</button></div>`;
   }).join('');

@@ -94,3 +94,10 @@ input[type=number] { font: inherit; font-size: 16px; color: var(--text); backgro
 .scroll table th, .scroll table td { white-space: nowrap; }
 .scroll table td.l { white-space: normal; min-width: 11em; }
 .scroll table th.l, .scroll table td.l:first-child { min-width: 5.5em; }
+
+/* 「？」の説明 */
+details.help { display: inline; }
+details.help summary { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border: 1px solid var(--line); border-radius: 50%; font-size: 12px; color: var(--sub); cursor: pointer; list-style: none; vertical-align: middle; margin-left: 2px; }
+details.help summary::-webkit-details-marker { display: none; }
+details.help[open] summary { color: var(--text); border-color: var(--sub); }
+details.help .help-body { display: block; margin-top: 6px; padding: 8px 10px; background: var(--bg); border-radius: 8px; color: var(--text); font-size: 12px; line-height: 1.6; white-space: normal; }
