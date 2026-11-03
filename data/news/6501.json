@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T10:43",
+ "updated": "2026-11-03T10:51",
  "items": [
   {
    "id": "b2fc7bb45071",
@@ -7,6 +7,33 @@
    "source": "pando.life",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3cDN2QVoySlRISjNDOFJMcWtYSUp1M3gzb1VGSTNsSURFQ0s1bmNrZEFmM3pGOGhmbXZUTHZORlpzWDFTU2sxdERn?oc=5",
    "published": "2026-11-03T00:25",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "922d2e4fa9f5",
+   "title": "2026年から2033年にかけて、電子フィルムの市場収益は年平均成長率（CAGR）7.4",
+   "source": "pando.life",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9xOGU5dlVlUnRnc0pDTS1mUEdmT0NHTmhHd3o3cUhua0xfMXFIRnNzSHNER1U3bmVjSERUMjVCamVucTNTbzNzQWFR?oc=5",
+   "published": "2026-11-03T00:25",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "0cb14b00caa1",
+   "title": "スマート家電市場、2032年に871億2,000万米ドル規模へ - MarketsandMarketsTM独占レポート",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUhNcUFKN3dlOTBKRTl2OHhzNDRROGFOS2V0enFid0dWZUhyQWVwZlgwWEhnZVhOUjdJdnZTZFpOUEYwMkVCVUlqU1RFeDduamlvWHIwbHRhRlFjS3J0NHlpMTY5MFJ6YTNmS3RfdW8zenRWeWE2U3BMMlhXS01BWnFQaVZPOWlPRXdjYzlZZFpDY0dIM1FmSWpBMzJqeHBBZUx1X0pId284aVV3?oc=5",
+   "published": "2026-11-03T00:16",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "038fa55da740",
+   "title": "ダイオード市場の成長調査は、2026年から2033年までの年平均成長率（CAGR）7.1",
+   "source": "pando.life",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB1bWdQYlhYTXl5QnBxejZiMlZldE95bHZ4LXA3amhxcGN2RU1GaUtKbzRMM1NpeHQ1YVJTUE51WmV2OW5qZ1FHa0l3?oc=5",
+   "published": "2026-11-02T23:58",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -47,11 +74,119 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "21a98d5b8268",
+   "title": "電子はかり市場―2026年～2032年の世界市場予測",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96cEtwZGZKVGJkUEtZMG5NMXhVTlZlTW5qUGczWHRrUVdiUEI5MkxPbU9FYnAtYWpnNFloWERoVFdoc0syZHQyTVV1dDdCUzQ?oc=5",
+   "published": "2026-11-02T16:15",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "0b2a8ab45769",
+   "title": "磁性材料市場―2026年～2032年の世界市場予測",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SQ2s1a0FUeFdzaC1abG5lcmpzRjF6MFFQMGp3T09ob1o2RkpPbVBSMW1NUnVVWlRwdlNZeGpFWTVwRy1RNExtd05yczUxLTg?oc=5",
+   "published": "2026-11-02T16:07",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "d97941245a8c",
+   "title": "X線装置市場：世界市場予測、2026年～2032年",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SSzByUnJVU0pNS3pQVkR5UjcyZlU2M1FZLXlaLVlOVkZ3al9JM21jeWFod29zNWRIT2NPbENrMVU0ZjhTa0ZKazFtRGh1em8?oc=5",
+   "published": "2026-11-02T16:03",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "6f06e4bd01fd",
+   "title": "ペースメーカー市場：世界市場の予測（2026～2032年）",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zOEtHNTlPcFp2LU1pMGk4MHdhMEt4bmJsYktUalE0b2pQUW8xMzgwcXNLUVU5ZXNYal9scG50clgxa25iZ1Awc0xwVjBtZ00?oc=5",
+   "published": "2026-11-02T15:22",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "0de59b891be0",
+   "title": "希土類金属市場―2026年から2032年までの世界市場予測",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtUlpabDNBdjVvWjRlWGZ0Z1JnMFBwSC1oT01UaUZZcXA4bWZ0WUVsYmtwS3hUZ3JkNzBsVVdnSEt0N2Vzemhha0FUOHZQTXc?oc=5",
+   "published": "2026-11-02T15:20",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "c803b551c86f",
+   "title": "リチウムイオンボタン電池の世界市場（2026年～2032年）、市場規模（充電式、非充電式）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12YWpYTU5TNWttUVZTa3FYLXlHWUc3bVZNWlNQZzUwSlFvTGpUd29tRVdiYUV6WXRXekZsaHZRdTZwcVlWMkdYang3TmJyWHM?oc=5",
+   "published": "2026-11-02T15:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "7019df2604db",
+   "title": "自動車用粘着テープ市場―2026年～2032年の世界市場予測",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mR0tYbVRiV20yRDMwcTktSGhxZE9nTzJlYmx3QUhPaUk2cS1iVFhwWnYtcjZXNVNPNFo4RTdzMjhtRDVjQW5nVXJ1bDJWZjg?oc=5",
+   "published": "2026-11-02T14:18",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "754397f3a578",
+   "title": "高精度静水圧式液面測定器の世界市場（2026年～2032年）、市場規模（ロッド式レベル計、ケーブル式レベル計）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1STkVSS1ItemdIS2xHdkpJaVBRMk4tY3VsUmdCWHR3Zll3UVNfUkU0UHFrVEtKdG1qUnhLbFlWejRUX2pDNnZsT21Wa3FLNzA?oc=5",
+   "published": "2026-11-02T13:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "f1cf2bc7462f",
+   "title": "医療用パッド印刷機の世界市場（2026年～2032年）、市場規模（単色、多色）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rc3N3WmxKTVc2YzRhU1A1UlBWbG1FRU9KQ0hJWWhYRWxHR1JnY1JVZnlGOE0tOGhRSFVyUmJfXzVOeXJBNnZuOUlIcEd1OWc?oc=5",
+   "published": "2026-11-02T11:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "67ca50698aad",
+   "title": "光電セル市場は、2025年に89億米ドルと推定され、2036年までに177億米ドルに達すると予測されており、予測期間（2026年～2036年）",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DWnNVQnFpNDkxb2Y3T3hCQTFYMDFaNm9uWDlFVjNJbTdnVEd2MEtPYldTQkxfUXVuSWRucnZuT2hBVTUydzhtdkh3Rlc5Z1E?oc=5",
+   "published": "2026-11-02T11:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "e3aff7174d3b",
    "title": "EV普及率が米国販売の18.7%に上昇、自動車電子機器市場は4,759.7億ドルへ",
    "source": "ニコニコニュース",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KTy0ycXAxcFdETk8zdFFsekxfQnhUd3lHMGNnaHFjd3FpSTA0UzBXLU5HOGI4SE80Rk1MNUwxUzFkU0M4TmN3cWt3TTI3d3lWTGRHMg?oc=5",
    "published": "2026-11-02T10:02",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "d67fed63ba02",
+   "title": "EV電池セル・パック材料市場はCAGR14.7%で成長し、2030年までに380.2億ドルへほぼ倍増",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PYnBfUVJwQkpEWXJBWkdnMWVxc0E3T1BlZnNDYnFFYU5DQ2pEM0MydU9UTVN2MXVyS3F1YnY0RGlqc3lqX1V0bDRYdUJpaEdIcTdV?oc=5",
+   "published": "2026-11-02T10:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "427128d83caa",
+   "title": "EV普及率が米国販売の18.7%に上昇、自動車電子機器市場は4,759.7億ドルへ (2026年11月2日掲載)",
+   "source": "ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aMTQ5Nm1BUVFXUVVIbWJpQ0ZRTUZHd2lWRjNkNFVHMjZNQ1B2MVQ2NjI0aWNCclpoS3FOek0yYTYzX0xnd3pJa3U4MHkwdXhXNDl2TlNoakF3bTNWMFBybnpn?oc=5",
+   "published": "2026-11-02T09:00",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -65,6 +200,42 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "66bc84a1cf28",
+   "title": "日立とBIPROGYが離脱、メインフレームベンダー「撤退」「継続」の胸算用",
+   "source": "日経クロステック",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BOWxDcmxjZFlyZG1YUEdZX0xVUkJFWnFlbW82bHhWckhxMXJzbTFncjZ1OGQ0Vi1JX1pSY0ZmUVhxaVBYSE9IQkJYSUM1VVRMS3BSUE8weVVRU0hRNE5j?oc=5",
+   "published": "2026-11-02T01:24",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "8b5c0a22ae89",
+   "title": "パナソニック、ディーラーとのパートナーシップを強化し、持続可能なビジネス成長を促進",
+   "source": "VOI.ID",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBCUnF0b2ZqRG1EQlcxWThUanRKSmRSUFZHWGVUN1FweElfTHlSczNfZ2tFWThycmFvdzZNS2hJSHBHZ9IBQkFVX3lxTFBCUnF0b2ZqRG1EQlcxWThUanRKSmRSUFZHWGVUN1FweElfTHlSczNfZ2tFWThycmFvdzZNS2hJSHBHZw?oc=5",
+   "published": "2026-11-01T20:39",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "192efb0fe44c",
+   "title": "船舶用航法支援装置の世界市場（2026年～2032年）、市場規模（位置・航法、状況認識、通信・航法、その他）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5cDAxaTB3WHVIazVqamVUSkNOYm1ETHdnVnpaVXVhSlVkTFBtVlVqWEIwNWJpT3AzWF90b3FnaE5RdWEwN054Uk9NN3FDNE0?oc=5",
+   "published": "2026-11-01T16:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "430dcbd47d7e",
+   "title": "(株)日立製作所【6501】：株つぶやき",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nWVp6Um8tTnBkYm5adUpCU2RNYXp1S1dBVklmOGpGUngzdmlQYjh5dzZJNFNKNmVtdER2SURqcWJBeTZibFZfT3VDWVJvSmNMX0p3Rm9ueWE?oc=5",
+   "published": "2026-11-01T11:06",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
    "id": "b48acb5c55b8",
    "title": "「得することは一つもない」東電会長を引き受けた、日立V字回復の名経営者・川村隆が背負った覚悟【美しき日本人50】",
    "source": "Yahoo!ニュース",
@@ -74,11 +245,29 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "5d390998d495",
+   "title": "音響振動板業界の最新動向、市場規模は2026年から2033年にかけて年平均成長率（CAG",
+   "source": "pando.life",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rRmM2TERwWG9UVXJmR20waF93eURhalNoOTNKcWlqNXNOOEVmOE1qbGF3Zkw1QTZhRllOVnA1MHZHSEdqY2dTbGdn?oc=5",
+   "published": "2026-10-30T20:20",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "0c2d94c1d9b9",
    "title": "(株)日立製作所【6501】：掲示板",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qYkF1QnpIME5CS2hDbFR1a0liQ0dnVm8tUE40eW5RY2ZLVktnRHFzamJ3RUNNWHlRMnBFbXJvVGVCQkNaQ193MUROV3J2MjNPaDEwUUY4T1RUdw?oc=5",
    "published": "2026-10-30T16:07",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "3284045bb7ba",
+   "title": "(株)日立製作所【6501】：現物信用売買内訳時系列",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00WTFtbXFUTWxOUXFRemhiSzM3aGtHRXpPSHZiR2xMd0JDOWY0azdrZ0puSkV6TVFrc3VkeWFMQkdfal9pRnFqNmxWcTdrcXdvNW50R3lITV92Snk5RTZn?oc=5",
+   "published": "2026-10-30T16:00",
    "kind": "company",
    "q": "\"日立製作所\""
   },
@@ -126,6 +315,24 @@
    "published": "2026-10-29T20:01",
    "kind": "sector",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "4d9688bedd77",
+   "title": "(株)日立製作所【6501】：企業情報（決算時期・代表者名・大株主情報・IR動画など）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNcW9McWNvbFlKaTd2aklKRU0tb0lxTXVjVUxFR2dubkFqZk1EcWR3X21WQ19udmJxSzU5eWZXMmtnWURlQUZIcUVsQ1p1c3lheEVNYnBwbFQ3aVdFNE9ISi1UU040eWtmaWhjdm5VTEZuek50OVE?oc=5",
+   "published": "2026-10-29T19:02",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "18fe7cf97508",
+   "title": "半導体欠陥検査装置市場、AI半導体と先端パッケージング需要を背景に2035年に140億4,000万米ドルへ拡大する見通し",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53N2ltTC16Tmt1NThqWjNadzhxUHBvV2M1NjBCeHFHN2pObmQ0ajhpY2IwdjFFTXlmbnVHNzZSN2JGSXJJWW5aNU9xeWI0bVNUeTRF?oc=5",
+   "published": "2026-10-29T18:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "636f8e6a9920",
@@ -182,6 +389,42 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "59a84cc7dc4a",
+   "title": "「銅箔オーディオ用コンデンサの世界市場」市場規模予測・企業動向レポートを発行、年平均5.1%で成長する見込み",
+   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rbGF0cHppZmp1UEw1MGtiTy1mZnU3X3p5SUpFRXlpVTdCOV9xSFk1ZUstWEFqelJxNjhpQXBHdkhITFhWVmlGd3NJMS10Y3IwV1AtSVNWakRjbU9DT1RacEIyaGh6M2x5NkE?oc=5",
+   "published": "2026-10-29T14:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "a3c422662034",
+   "title": "日立製作所の株価一時9.1%安 27年3月期純利益、市場予想下回る",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80YWJENU1VaE1QV25MOGhZNUVmN0JobFVLNXplU1B5Yjh2MFUyVVMyMV9Ob2NxdVBwOGE3dno5bkFvNGpSaE5GX2VKbnNQZjEtRkFzVjM5cWVuVnJYb1czc2pwTmt4RlZhZkwxTw?oc=5",
+   "published": "2026-10-29T11:08",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "41dbe75cf005",
+   "title": "超低消費電力マイクロコントローラ市場、2035年に221億8000万米ドル到達へ｜CAGR",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YZXgtVnptb1RISU9VdHZLV3dJNkYzTTNhNTM2bV9zVXcyb01fQ2ljTktYb3RDRWdCWU9BbG5rNEp3WGg4elVJWThnVG0zeXNNdE9pUg?oc=5",
+   "published": "2026-10-29T11:03",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "61c788f1904c",
+   "title": "96ウェルプレート用マイクロプレートウォッシャーの世界市場（2026年～2032年）、市場規模（汎用、特殊用途）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SZlZ3cUlOQkJ3Sk5qUVpkbkRhaGpzc3JWS3RUdVZ5eGtiZnU5Z3paMDRocFhIVXFodU13MDlmcnpHREphbGotT3JRNnJtRTA?oc=5",
+   "published": "2026-10-29T10:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "79f74ddb3f1f",
    "title": "日立製作所が大幅反落､27年3月期再増額も市場予想に届かず",
    "source": "四季報オンライン",
@@ -218,6 +461,15 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "7c969c52f349",
+   "title": "日本VXIテスト装置市場：自動試験、精密計測、先端電子機器における数十億ドル規模のビジネス機会",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aUlZPUkRNMW9hUnRPMFpVeEE0NHNTdXJsODlNcGlkNzVNWHQ1NHA0NzhDZVliVjRITVphMFJjeXNOZTR4Wk02TTZKRm1xLUhPV1Rv?oc=5",
+   "published": "2026-10-29T09:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "28ce2511443d",
    "title": "日立、GlobalLogicとHDSを統合した新会社「Hitachi Digital」を2027年4月に発足",
    "source": "クラウド Watch",
@@ -236,6 +488,15 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "ad8c982e231c",
+   "title": "28日の香港市場概況：ハンセン指数は反発、半導体や電子機器関連株に買い",
+   "source": "まぐまぐ",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45cS1rSzRxeWpDTHU5UkdYSTItT2E2NkdlMTQ5azhrUUZRZmJBVUtIVzRWZFVjWENRRHZGWlhwVFlKYlNuaE5KYWRuaVBibC02UnfSAVJBVV95cUxOOXEta0s0cXlqQ0x1OVJHWEkyLU9hNjZHZTE0OWs4a1FGUWZiQVVLSFc0VmRVY1hDUUR2RlpYcFRZSmJTbmhOSmFkbmlQYmwtNlJ3?oc=5",
+   "published": "2026-10-28T19:19",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "cf5f5cb5b93f",
    "title": "28日の香港市場概況：ハンセン指数は反発、半導体や電子機器関連株に買い(フィスコ)",
    "source": "Yahoo!ファイナンス",
@@ -245,10 +506,28 @@
    "q": "電機機器 市況"
   },
   {
+   "id": "bd6e47550754",
+   "title": "低温電子顕微鏡市場：世界市場予測、2026年～2032年",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQaVFUdDE1XzdsakJjS1lVSmw2ekhNYkdYRkFtYWp0WnRocWo0NU9WRzdHZExOWDBqeXE4VkF0SnpBdXd4M0dabzNNYlFZa1U?oc=5",
+   "published": "2026-10-28T17:07",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "e1b16f0acd32",
    "title": "冷却ファン市場規模、シェア、成長率、分析、レポート、2034年",
    "source": "Straits Research",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xaXdTQnFwWk1jbFg0V1ZRRUZxQ0UwQmhMa2ZtVUl2d2hXQnlkV25fZFRXM081YjB3QkVSb2NLSEhWTDlsSGFfcjRXZ3hVcjZDa2dhNGctVmNpRGs2WGFnbVZINDNBNEk?oc=5",
+   "published": "2026-10-28T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "98f28d48abf3",
+   "title": "ロードバランサー市場規模、シェア、成長率、分析、レポート、2034年",
+   "source": "Straits Research",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZThyTUJWN1k3SjJubHZxcUROcnhtbHhEQ2RGbTZCdjRyOHRDbVcyaDZjQ01DTWhoMmtmX3FLNFpDZnJEQXptOWxyTVNabFVMa1FlVlltckFpUVh6dk94VWpfcnFrbEhQQUE?oc=5",
    "published": "2026-10-28T16:00",
    "kind": "sector",
    "q": "電機機器 市況"
@@ -299,6 +578,24 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "47cd23ee67d1",
+   "title": "日立製作所[6501]：剰余金の配当(中間配当)に関するお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRc3c0XzhxWXJYd1ZhNWpuSnpNS0FsMS1jekxHMHhqbG90QWZ1eUdrWHplMHo5Mi1jSGhVVzl2bTlfaDNnNWNOWXJ2QnpGOGwwNXRVb190Y2NUZU5QVlEwZ3FhVVBTMTItNGc?oc=5",
+   "published": "2026-10-28T15:30",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "c7c387ddd43a",
+   "title": "日立製作所[6501]：2027年3月期 第2四半期連結決算の概要 2026年10月28日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa1dtUmVrU2RBMU1Hal9DelBnR1hoTWJpdWY3b3BRV21yQ0RCRHQzeGsxcEhLbVAtX28xY0h0cUl5YktWQjRQdm9xYVRKQmowUC0wVDNGSGVJQ3EzSmJ1NmVXX2l4amI5MXdMelpfYkRUdV9YQVJ2UEpET1Fia2NoUUpXMXV2LWF3Q0h4NTBSVEFaaU9PSVFMckI4VnBWNXotbWRvZ0lsMWIzaGVIcWNWbU5oY1A2OEw4T1pVNm9RQkpEOWZ1MVpzSWcyTl8?oc=5",
+   "published": "2026-10-28T15:30",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
    "id": "d5c58999af2b",
    "title": "AIデータセンター冷却の電力を3割削減へ 日立の新技術：数千本の「U字トンネル流路」を採用",
    "source": "EE Times Japan",
@@ -308,6 +605,51 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "d4b4814baf89",
+   "title": "【徹底比較】マッサージ機のおすすめ人気ランキング【2026年10月】",
+   "source": "マイベスト",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1ZR1lMQnJHWlh1ZnpLTjdkZnVvcXVPVUJhSDdaNWlRMVRGdG1MbklHYk9EZ1M0OWRJVzRJ?oc=5",
+   "published": "2026-10-28T00:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "90bd849f8910",
+   "title": "自動プラズマ抽出装置の世界市場（2026年～2032年）、市場規模（遠心式自動プラズマ抽出装置、膜式自動プラズマ抽出装置）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2c3BGbUVMaXhCTHhub3dHMWMtMWlPanhfaVljV2liTDB0QU1OX0lvaU5YSEtFM3lHa2N6d1psOVJ2Yk5EOWlIZG9RR0RWQm8?oc=5",
+   "published": "2026-10-27T17:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "eee0942aad78",
+   "title": "スピントロニクス市場規模、シェア、成長率、分析、レポート、2034年",
+   "source": "Straits Research",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kMWhZTGVITFJYWWZua2dPUGlFbHQtYVVxYlVmekZFajNrR2Vvc09UZTJqVDQ1bWwyZW80ZjRTUUpBRU5zQVBhcmk1UzE4d0lBTFJ2MmtSb0FjSUthY25RNzZCOE9ZV0U?oc=5",
+   "published": "2026-10-27T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "cc8ac5928f62",
+   "title": "経営再建を進めるニデック、次に売却する子会社はどこか？",
+   "source": "UQライフ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1hVSDhMU3lILVlNenQyVndsX2s0Tzl6UURiTi12VU1CVjhYZnY4dEdEQUtxay0zNXNsNVJMVV9kR0IxUlMtOTcwZl80dWcwV2d2TTljeW42Z0tZR2hQSjk5RGlzREJoeFM1UTZ2QlRhak05V2lqcGQxamtna3VHRA?oc=5",
+   "published": "2026-10-27T06:51",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "b195e938018f",
+   "title": "経営再建を進めるニデック、次に売却する子会社はどこか？",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSkxvVTVOVVBzUzRjUlMyQ3RfN29tZTFzQ3kzWjhOSTV0RDQ2czBKN3VKR3hyaVBLd2hYWmI0dzNVU3BiOW9XeGN3bWlSNUpEV2lGbE5OR1lBVE9uczFUc3o1dGNFWWdKUkwwRllQdm9OdGFUWFgtT01FR0tjd2FzWDFELWpnbndndkRTOWptM3A5VXJFaEFicURENGRhU2ZoVU84MDlBNE82bUs4ajRlS3JEZ1BPeE1JekZ1SU56VGJub3RoVHZPdjRkanZOaDFFQjZwVzRsN2NmSS00MEln0gHbAUFVX3lxTE9DRmhCdk80ZDcyenlidXVRM3ZJSWM5bUNfalE0aVNiVjRONmlMS2RMUF9kTWRjNDFyTTdnR2I4SVVMcU12RmRnTFhsc1hmMjk0d2phaEJueXJlb3V1R09VZ0xjbU5hZDJoNWRlUVhXcjV6TjlSUlVsX3JCQ0s4bndrZ2JCYjktMjZLcWZNa2xzN3FZVEtYemxRLUo1ckdOalo5Wk9DbnBNVEl6MmMwbThZaXdSWl90RkUyY3hCbmFhVUNrbjFZaVR0MUhGSWpyaWItUG41VUNUN1hMSQ?oc=5",
+   "published": "2026-10-27T06:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "30bb238c362d",
    "title": "日立製作所、GPUの冷却電力3割減 AIサーバー向けに新構造 - 日経テックフォーサイト",
    "source": "日本経済新聞",
@@ -315,6 +657,24 @@
    "published": "2026-10-27T05:00",
    "kind": "company",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "90322d523472",
+   "title": "【アナリスト予想】日立製作所、27年3月期経常予想。対前週0.2%下降。(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjVDZENFRnJhVFktNUdDb0s0VlJGRmVrZEpJSzk2VkVrTmg0N09YZXhyQW9fcTNCMVlna3EybG4zT0NES1RPSGdXdGs0MjNXUGpORm96dGhsbmZWTE5FS3p3YVVxNTBnbFNtNjBUczB0dVA2b1F6Y2xlTTdaWE9BSU1vdWFHbHM?oc=5",
+   "published": "2026-10-26T22:46",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "dec4d0438129",
+   "title": "低誘電率材料市場―2026年～2032年の世界市場予測",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYVUlQT2J4M0lWNzViRnlQOUxPSjduRmJ2Z1FjektSWWVuUk5lV1NiaUprMjUyV0QtV3JxQlY3MDJUMGRDZDVLdmRPU1FkLU0?oc=5",
+   "published": "2026-10-26T17:17",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "ca5be8bbb58c",
@@ -335,11 +695,47 @@
    "q": "電機機器 市況"
   },
   {
+   "id": "c19eacd65f89",
+   "title": "アクションカメラ市場規模、シェア、成長率、分析、レポート、2034年",
+   "source": "Straits Research",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRkZYN0tUOVZaZUhGNHZicUdYZ1RPcFpRSnNRY1dtcnExOS1vMWp2aFZOYTRsQkZ6aFZLTDV6YUhtQjZTcjA2bjRNT1Rqa0RuVmtQOGFzTlVaalN3ZE52VTAwRzB5VE5wNGc?oc=5",
+   "published": "2026-10-26T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "a7752dcb5fa2",
    "title": "eコマースにおける電子機器市場―2026年～2032年の世界市場予測",
    "source": "アットプレス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wTjlGS0V4N2lUTnBtYjcydXNHYnRReVhVU3VIV3pfNEdjcmpSa0tUVmlMM21tVi1IU1RVUkl4NlB6Y0lway1pRG1LU2xGdE0?oc=5",
    "published": "2026-10-26T15:16",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "6be2e982e97f",
+   "title": "BGAリワークステーションの世界市場（2026年～2032年）、市場規模（光学アライメント、非光学アライメント）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOSURxWFN0WERCTVExR21MT2ZtUkRVak9FTEJYMkM4cEdCaEJCOTlsSEtETWIwVkNmb3ljcEJWNXJmdndvcERxU0VRVkNhUjQ?oc=5",
+   "published": "2026-10-26T11:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "d6f06f824c3b",
+   "title": "【アナリスト評価】日立製作所、レーティング強気、目標株価6,800円（日系中堅証券）(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0pSSG8wVXREanROY0syRjRFTkcyTFhNSmNpYURPc3RaSno5ME5JUk5xZkVId3hKejVUS0xZNkZ1TzNyUzYyUFNKSFU5YXZyUmY1Q2lfMFIzLU01eHNSSURKcjNXb1VHM3ZvUngwU0VoNTFCaDlHeG9LcDhXVkdHSmlNNlBNRTA?oc=5",
+   "published": "2026-10-26T11:08",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "dfc1941dbb2e",
+   "title": "電気生理学的診断・治療用カテーテルの世界市場（2026年～2032年）、市場規模（診断用カテーテル、治療用カテーテル）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yQW83MmxkRjdwOVdwX0szMWN4dFMxZXFiYkhVWjJsUC1NXzUwSDhRTGUyLVRpWmlOLUFXN3hDY1JSeTZ5a21jZHh4TXBRdDA?oc=5",
+   "published": "2026-10-26T10:00",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -353,11 +749,74 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "116fdc31a05c",
+   "title": "除湿機のおすすめ人気ランキング【徹底比較～コンプレッサー・デシカント・ハイブリッド～衣類乾燥最強は？2026年11月最新】",
+   "source": "マイベスト",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBsUXdCSFhJcUFSUG9QU0xJd1Q3V2xwYUJhSDhLLTV1OWlzdzRBeUd4NEFBZ3BsMTNaZUxJ?oc=5",
+   "published": "2026-10-25T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "1466e541e80d",
+   "title": "ナノミニチュアコネクタの世界市場（2026年～2032年）、市場規模（2列ナノミニチュアコネクタ、1列ナノミニチュアコネクタ）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PSmJSZUt2VDhKOUlyREw5TVRnU1BTdHR2X1ByQkVJMG5yZUdESG5kQXBPc2FTNF8zSjBXSjdNUlRXOHI4Q25NRkVhcTgwUmM?oc=5",
+   "published": "2026-10-25T15:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "9c1ae85a8e21",
    "title": "燃料電池制御電子機器市場2035年予測：データセンターバックアップ需要が年率15～20%成長を牽引 - ニュースと統計",
    "source": "IndexBox",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRHQ0NmFrdjluSmQ3cTVWc1gzYWYyLXdBVWlJNEtyVzdiYXd5cXZ0aEdybl9qdzhwVGNhNGhqWDlTckV5cGlYY0hmS0s1V2cyNmwwZmxfUV9rSmsyMG9QcDloZWc0a29jRVNvejdxRUlRYUJuS1kxVkxySzRhSlZfLXM2NDlCNVA3VFNBZkNIVUFZTmlDSmpoOWpWX29sRHJIcWdzX29SN2tVcDU3UW80UW8wWUpMTXBJMUlNWUJTT2h2VVRXWUlEMGdR?oc=5",
    "published": "2026-10-25T02:41",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "4e6ceb169ece",
+   "title": "日本フラッシュメモリ市場は2035年に58億米ドル超へ拡大、CAGR 2.66％で進む半導体ストレージ技術の成長と市場機会",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqTUJPamFmQ1BJQ0JtR2c1TWhCLS1JWHY4WXh6eVltTW01LWFiYkRJekpVb1NRZXUydFVMVmk4bXVWaGQ5NmRIcmhxc2g4Q1k?oc=5",
+   "published": "2026-10-24T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "33cedc3943f1",
+   "title": "温度モニタリングデバイスの世界市場（2026年～2032年）、市場規模（汎用タイプ、皮膚タイプ、食道聴診器タイプ、鼓膜タイプ、その他）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UVjZiamstVDRwVWxGNHlRZDQwWURPMkNjNVhGSE5IU28zU0t5VTlnR09NbzVoVVByMlFYOTZkcFktMXh2dG9EV3FTSWVrUUU?oc=5",
+   "published": "2026-10-24T11:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "2ff1cc0eded1",
+   "title": "日立製作所、高等専修学校の卒業生をJX金属にも 人材育成で連携",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FVHFIMVZxRmU3dUFtOXd4MzNfSUU0Mm9feWZHVjczNndZUGhDY212d094dENKaDRtMWxqc2JtMDZFQlRqMGdGYmFNMXEyN2Z5NWJFRUE3WTUweFRYVTE0MmFUZ2tkd0FxeWNxbA?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "78b2fb249dde",
+   "title": "CNCパッド印刷機の世界市場（2026年～2032年）、市場規模（1色、多色）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NQXdMTnc4dXh3V1dQRGs1RmVxZUttVjFyUE8wR1ZiN2FNalczS0tOazFyYkFpbFRRQllSZlRDODVhalhfeG82UnZTZGR3d28?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "207ca8567733",
+   "title": "エッジAI半導体市場、デバイス上のAI処理の普及を背景に2035年までに1,513億米ドルへ拡大する見通し",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3FXRV9BTGZCRHBhMFpaLV92dVByVThSX1JPdEpOeVA3aGwySHlPRTY2WHV0M2JpV2pfWDhZVHcybDROZFVlSjU4YzFOWklKdmNn?oc=5",
+   "published": "2026-10-23T16:00",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -380,6 +839,51 @@
    "q": "電機機器 市況"
   },
   {
+   "id": "b0d467a6b7c0",
+   "title": "中国の恒玄科技、前三季利益が57%減と半減 特宝生物は大株主が5年間の株式ロックアップで市場の安定を図る",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOXhSZUkxVGdRX3VJbFlyeTBvYmR1SVJkVlNlSXktQnp5MWVnLU5RUDg4eTNoaTJVR3lQMHhuVTFwWkI1QXpPeERNTFRUa2l6SmJ1R2lFbm9BUXl6SVdNLWJyZGJaNFlqQVBrRzZzelJCUWdQ?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "7cb9c7efc397",
+   "title": "ロームの株価が下落した理由は？今後の株価の見込みを徹底分析",
+   "source": "かぶリッジ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMmZfTzdJU292V3VzVGp4UElVSXIwYUs2MU9lVGE4cnVCNk9fNUQ0YWhvQmQxcTB0MXNzRjVMeHV0UWl0V0plQWlBNzNTVnRFajdZ?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "01434dce539c",
+   "title": "テープストレージ市場の規模、シェア、成長、分析、レポート、2034年",
+   "source": "Straits Research",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnbUhxbndvaVBEa3FWSWRlTVE2VktlSWR2NlJ5MlFMTDFwZ2VZSDYtU1QxRHpZMHJTblpKWVhpSHF4amg2dW96cjItTEFDdzB2ZXoxVkdrbE41dG43UldtNm9lYjA2akhU?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "917601960590",
+   "title": "熱インターフェース材料市場規模は2035年までに121.3億米ドルに達する見込み",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tQWh1YlE4bVRyYnl0eExBVURhc2lETXNQUUlIVWYtODU2a1pFdExzR3poLUNfZmxmNDF0M1dsczRvS01peGN1eDFlcUJ0dXBsUl9r?oc=5",
+   "published": "2026-10-22T09:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "bde8cb4f2ef5",
+   "title": "日立製作所－5日続伸 次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmliRkpvdWlMd21POThDUUtSQURVc1Fuck1NaWoyc05jam1TRHlmOWxPcWZIeXk4NmRRM1ptWnNGRUNJdmxsbHFHTDZFbFR5b1hZdkwxaHlaVjVod0pOakwxaVdFUlVCSzlzVk12aVU5ZVI5c2UzQzYxdFdWbDZ2cThyaEtidTA?oc=5",
+   "published": "2026-10-22T09:05",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
    "id": "abc4fdb34c40",
    "title": "日立がGPU冷却用コールドプレート開発、独自のU字構造で消費電力を約30％削減：組み込み開発ニュース",
    "source": "MONOist",
@@ -393,6 +897,51 @@
    "title": "イソプロピルアルコール（IPA）市場規模、シェア、成長率、分析、2034年",
    "source": "Straits Research",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2bkpLdmZiSnFyQlFqM0Z1WV85MDgtcmdNUXRHbFI5c01WYXd5SWcyd3pzZlJhR1lEUUliNXRxcWRiVExFYmcweGFTS19EdlktbUh3MTRlYlM5bVhZRVQycnZCSnVqX0ZmSU9RcjNIdw?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "1e00ddcfe4ba",
+   "title": "日立や三菱が海水からCO2回収",
+   "source": "日経BP",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQlRKQVk4d0dEX3d5NEE5OExuNmp6MVVwdW1TWGExWGNzb0NMcTF5a0ZWV1pwNE5xelh2ajNXemtPN1Y1ZWNNMUdEU1NCbjNuNldOZ1d5VUZOZlZfRF9MTUFJaERDbmZGTzNvMWZoZks?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "d84e38292988",
+   "title": "JPXと日立、取引システムの運用監視にAIを適用--アラートの対処手順をAIが絞り込む",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90bkpncjA2VzRnMzZDMkxQS0FnSXdIMmw1TWc5Yng5dlJUUVBJR3pVZTlNTnNzTUxqWHJFTlFoc0hGdWxFdTlVSHN3ZWxRUWRtNG53bzliUzlHa3NQXzZ1eVFqSTVoSDhZR0lIZDdSRU5TSUVXbUNnMkxVc2VrN0U?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "8e13cedb2fde",
+   "title": "ポリメチルメタクリレート市場：形態、グレード、加工技術、用途、流通チャネル別―2026年～2032年の世界市場予測",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KdTdQUGFFTVA5TmdXV0JqeXdjQXNoLVN4N3kzS1NLbGxmVHJVcXdId0NDcXhfaEFtQjI2NXA4bFlINjRfSWxXa2o3emt1WDg?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "a758a3a9eab4",
+   "title": "家庭用調理家電市場―2026年～2032年の世界市場予測",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Ynp0YUZXbURleXhQMGx1cEpVbVhOd2R1bVFJaU9pbWFnT2JRTmhHeFRrWkpaMnNQT0pyZkNWckFZeWFTNWNxRXBublBDRXM?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "a4079c8f02c3",
+   "title": "医療機器用電子チップ抵抗器の世界市場（2026年～2032年）、市場規模（薄膜抵抗器、厚膜抵抗器、箔抵抗器）・分析レポートを発表",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDQUc3S3AxWEoxWHNTd3hWV05DS1NsdTZXZl9iaEllYkp4dGdmOXlmVHZvVFRUMUNTbjUwX2N1RXRYQ1lxbUhvS0U2M2xoTVE?oc=5",
    "published": "2026-10-21T16:00",
    "kind": "sector",
    "q": "電機機器 市況"
@@ -414,6 +963,33 @@
    "published": "2026-10-20T16:00",
    "kind": "company",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "2c8d0b525470",
+   "title": "日立、設備故障の予兆検知と故障診断を連携させるフィジカルAIソリューションを開発 | 株式会社 日立製作所のプレスリリース",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sS0pRVW9WcE5iN1pwLVdBVUs1RENBLW85QklzbnZ5eXdLREo4UFZGVXltTnU5QkhkbGt6cFpVWkFiN2I1R0s5aUlFWkd5SlJDdmZlRENxNzBFd0VmME5LQVRvcjI4LWQwcVE?oc=5",
+   "published": "2026-10-20T16:00",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "78a4c00e60c4",
+   "title": "新興市場の注目リリース：リネットジャパン、Aiming、カルナバイオほか(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPak0zY2hJSmxPNHhvRG5wdlZ2RGtfMVIxbU1QZWNwWTl1SV9xV01YcXRTeWxvZmxKeTJrSEF1Tld1U2V3WG9uZzI0ZExTWHRUTDgteGNHb2UtREZJMGp0Rl9qQnM2dkxxVnVZUDNsdkdOMUw1NmNZc2JjQkxOa2Y5UHRBSDFkejA?oc=5",
+   "published": "2026-10-20T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "464dcb348378",
+   "title": "低VOCコンフォーマルコーティングの世界市場（2026年～2032年）、市場規模（アクリルコンフォーマルコーティング、シリコーンコンフォーマルコーティング、ポリウレタンコ...",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15NmVFWjB4TGtkN0RHVlZPNjc1ZXp1T2kyNjNBUml4YjZyT1Q1WmltcEVlSzdKeTVsaGwzQ21JeXctVDBSRHNJLWFZTDhMa3c?oc=5",
+   "published": "2026-10-20T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "3ed46f714dab",

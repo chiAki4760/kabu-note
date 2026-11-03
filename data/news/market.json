@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-03T10:43",
+ "updated": "2026-11-03T10:51",
  "items": [
+  {
+   "id": "09e174f82dbc",
+   "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
+   "published": "2026-11-03T09:34",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "80c6f89b4b30",
+   "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
+   "published": "2026-11-03T02:29",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
   {
    "id": "3fe71684081e",
    "title": "日本の株式市場日経平均、キオクシア急落で下落、東京エレクトロンは好調な見通しで上昇",
@@ -2783,6 +2801,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "ad8c1e8df59f",
+   "title": "日経平均株価、3日続落 終値は503円安の6万2189円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91dl9DQm53NzVRS2w5UXEzQ0I3RGRlRC1kSXNwazJTanBlWnFuUmpjWEJuQnNHamQyQmZWbk9ES19ON1RMeUF4LWk5enZaMmxSQUlPb0l1N3ZNM2tjNjdYODFMTm1qd0FCdHhHcg?oc=5",
+   "published": "2026-10-26T09:06",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "93ebb1e3bd2d",
    "title": "今日の株式見通し＝もみ合い、イベント控え見送りムード",
    "source": "Reuters",
@@ -3116,6 +3143,42 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "bf54b462a4b7",
+   "title": "日経平均株価、反落 終値は1713円安の6万2907円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5akJLRkplTXF5NVJoMF9ZQkpKSGJqUWJET290SGJnLU11SmstMEhxVzI4SG5RRVg2RmIyN2JVdXBYdHJPY1N6YTV1d3BEaWVxdlJrVkhIdTFJblJDeFdwTEZqRVdaVWpfWmFLcg?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f23ee451c151",
+   "title": "日経平均、もみ合いで始まる 中東緊迫を警戒、米半導体株高は支え",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wclJwU09JZ3U2UW52THloT2QxQ3BlSFBBSHJqZWhOOFhYNURmQmNBMmpaaFduQ2dsUmc0aHFjVTFWaGFPLXJlQ204TGVrd2FPYnhRUGJSUmI0ZXA3VzNjaW53aldfbzRNemxKMw?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a056c776c339",
+   "title": "日経平均前引け 反落 703円安の6万3917円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwdWFqLTFiRGRGYTh2TjczNGJsV1hhQTQtWW5DVHJrMmJ2ZEdKTWJfdVR0dUVrUGY1aUxiek9mOU5GU216TmdBdXRlbzI1Tl9BeUJSd01aSWpxT1pheWlVeWl6WW4tcm9TOE5rQg?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "5960b2d48677",
+   "title": "日経平均、600円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xZm9kbHc3N3NkQjRSRHo3LTZRQ2dCOG9TTG54NFhBandneklqTE1qcnR2Q0wwSlBYcTZ6alV2ODVwdkswSXhoYnR3TEQ2X3pQZUE3WlVZdm5hWVY5aklfNkRnaUpjUjJrdDJTeHlzQ3VySWpmcDA2VGJjZTZkZEk?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "deca2e5b257e",
    "title": "米日金利差と日本銀行の慎重な姿勢が拮抗し、ドル円はレンジ相場で推移しています。",
    "source": "Moomoo",
@@ -3240,6 +3303,24 @@
    "published": "2026-10-21T16:00",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "21438b742580",
+   "title": "日経平均株価、3日ぶり反発 終値545円高の6万4621円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11b2M5VUUwa2xFeUx2TUw2T1BZQ0VrdFlqX1pKWk14MkJCS2FjRm5KRnZYeFp5dTRNaUdUUlZIb19MZGdZX2lEYmdrTUpCeFh6dWstSlRkR010QXd3WGw5TlVDNVhxb3ZUanhhQg?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "77263a87b897",
+   "title": "今日の株式見通し＝底堅い、米ハイテク株高を好感 メタの決算後株高も支援 | ロイター",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkdkaVkwYV9QcW4tYk5Md0tOYVUyc01ndG5kc2F3M3Z1RThRVnF0c0thVHhqUE9nYmo0cnFRYW1jdzhIZnFNQlpTbXhSRXJsb1lDUXdrbElUYUhnc1lxaVdBR2ItazloWTdFQmstOXVrZEk0ZGE0VkRlWWxjMXQ0LVktU1NyZw?oc=5",
+   "published": "2026-10-21T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "0130f9a769a8",
@@ -3453,6 +3534,15 @@
    "title": "東証後場寄り 日経平均は安い水準でもみ合い 散発的な売買が交錯",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9weGFlQXozVHVBcEw0TjhHamhabW9HeEZwVTNKSGI5cTFjdm9BZ3lFVElwNXRQLWZ5dkdPbHc3VzlfaTlLYV9wUkRkSFUwY0JYSlM2eFNjZGVOellkdVpuek90cm9Vdm1vYUJTcQ?oc=5",
+   "published": "2026-10-20T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4452d240a359",
+   "title": "日経平均株価が２日連続で下落、終値８４１円安の６万４０７５円…インフレ警戒感が相場の重しに",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCTWZoak1PeUowRElkUTFqVFk2dm5WZUI0akhLZU5jRGNmUXNDN001Q1ZubUQ3TU50YUVmeWsxNjlweXBYYVYtNVV0MTk2TnhDSXJxUXBRNVR3dExoVWlwUEQ0TVY?oc=5",
    "published": "2026-10-20T16:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
