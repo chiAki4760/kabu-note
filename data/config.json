@@ -85,6 +85,26 @@
           "kind": "sector"
         }
       ]
+    },
+    {
+      "code": "8306",
+      "symbol": "8306.T",
+      "name": "三菱UFJフィナンシャル・グループ",
+      "sector": "銀行業",
+      "match": [
+        "三菱UFJフィナンシャル・グループ",
+        "8306"
+      ],
+      "queries": [
+        {
+          "q": "\"三菱UFJフィナンシャル・グループ\"",
+          "kind": "company"
+        },
+        {
+          "q": "銀行業 市況",
+          "kind": "sector"
+        }
+      ]
     }
   ],
   "market": {
