@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:25",
+ "updated": "2026-11-05T03:15",
  "items": [
   {
    "id": "11b411b86701",
@@ -110,6 +110,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "0cf18c9a7f65",
+   "title": "日経平均大引け 3日続落 893円安の6万2188円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTd1ZGdExvclN6UFBjdTdvR19xanZESWx4M2NrdHVxaEQ1M1lCMXBrVWhMaVV5QUNlOUM2U2xoSF83aFNPSkRJRTlUckxEdUNLOVBMTHA3eXBDbHV1cjRuY05MTTNOdU5DMmJ3MQ?oc=5",
+   "published": "2026-11-04T15:36",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "6240c768544c",
    "title": "日経平均、893円23銭安の6万2188円63銭で終了＝東京株式(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -151,6 +160,15 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qc2V6NkF4aEZwMGZrZVVJbzUwR050bEdzSV9meDk1OWFaek43NTFFb2pxeHZ0aklXRk1DdUVMbVhzSTlFM1U3b25QRU1NdlAtd216dkZfT3FVakF0UHdhbTJJOUQzdU1xckkzRg?oc=5",
    "published": "2026-11-04T13:57",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e39e8f904066",
+   "title": "日経平均 一時3000円超値下がり 米中間選挙で民主党が上下両院“過半数獲得”の「ブルーウェーブ」確実に AI投資持続性に懸念（TBS NEWS DIG Powered by JNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92bldRMUM5VHB2RHZJVW1tTGJmQ19JRjR4UjMzY1dPQWo1RHhRVFZ0RFZXbmJXSElTczFUNjNqbVNzT3M2bkZjZnNpNmtaelNocGlyeGF5X0RhRzdnSk1ZNFlQQllKRmVwZThVUzVhWmxxTkxpWDRERFA0bUczbVk?oc=5",
+   "published": "2026-11-04T13:50",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -578,6 +596,51 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "96192c709e03",
+   "title": "日経平均、700円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDRmbTZvQ0QxbTVzWkFjWVdpM21PYUF4X1lQeFVwUlF0ODNic3dpSUc3cEZBcGdNT1hHMHQtVzNHMmZfVDhfQ2VWMzZFRnVxTnBzcjlXQ0JRbEdENC1hMU15TExzeVMtMVJ4eEs5R3BzdkQwaG9FTHRDcmxUUVg3OXdtZmw1UHc?oc=5",
+   "published": "2026-11-04T09:20",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3ee4048ff9a6",
+   "title": "日経平均、600円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM25jdGdkYl9oWTZxYkNkRklSX1Z6TElRbWlRTTc5dXAzVlA5NGE4ZnlveHlKbUduckI3YjZwckpMWTYtd29Cb2E5VzFHQzRUWUNodGRsdWZhaDZSb0dYVFpSQldZLUpxZGxDRmJlaXd3QnJZTTZUTmRPdlROZnE2RHRwWXliNTA?oc=5",
+   "published": "2026-11-04T09:19",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ead3ff76eab7",
+   "title": "日経平均、500円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODF4eVlaNW5sLWpPMVYtNXhEQWxEQnozMWhFckx2dUF2ZlBTVHZfQ1ZEaHEzWGNFMjdXc1E2SnNHM0xYbkxOdlFDNTZxeDJvbklnQlJ2SVFlRTNfNHloWXZKLVJsY3l3SnRpSHJBUGVyREZBa0lRMTNkZm1oNmdVZDB3YzdYcm8?oc=5",
+   "published": "2026-11-04T09:18",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "b6b1f55baaef",
+   "title": "日経平均は下げ幅拡大、下落幅５００円超え(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWs5Q1hLbU9mYk1Cc3JuMGpnYXUya1BMU2RIejEwYnUyNFh2dktyUXd0eVFZazE2WWFtdk9saE00Tl9Mc3h2cjN5MlQ4UDdiLUNLZUUyb2FCY0JabFluSTNJODljeFdFRXNZektCV3k5c1hWTXZMYVM2eUpYSGpfZ3Y1NHVfVlk?oc=5",
+   "published": "2026-11-04T09:18",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "9f95877e8416",
+   "title": "日経平均、400円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUVqU29DT09EeFZSZGh6RkJsZnZFbnNTVnlKc0JjLUtYajE4OVVwVjB0NlM1Nm1Sc216dTB2YmhQUV9aRHhFMFJGbGw1QVd2MXVRWFRxbURweFI4NFc2bXg4bHBsNWltWmI0NlRMaktGeVVyeXB5bGN1cUJEWFBnMWFDUWlRLWs?oc=5",
+   "published": "2026-11-04T09:15",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "d4ec42668ee7",
    "title": "日経平均、300円超安＝東京株式(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -592,6 +655,24 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43NzRyV2FpTjVLVElqalNMQnhGVWdzWS1fc29KU014bnFQb1pPRmJCVXFhMlB5R2laRzJ4bFpIZVNJNXA0NXM3SjVLZXlfb3dCa0EtalFuajFaemdfNjhTazlWQVZtZllYbHowWA?oc=5",
    "published": "2026-11-04T09:08",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8d219b516d36",
+   "title": "日経平均は59円安、寄り後は底堅く推移(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjJVcXc4VmxKMi0yR0dLQ2NfclU3ZHY3bHhmeGtBcUdoVHRiLWVUUXNDT3BoUzh5LTRmRTRNaHhRbnA0ZFVwUVZKT0ctWjZCeWtkcDlERWxnbnRyYjREWXhHQjREQTRrVjZHSmk0LTd1OG1oUy1iYWlaQkp0ZFViNEVKSGFDUlk?oc=5",
+   "published": "2026-11-04T09:05",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "2a8fba4236b4",
+   "title": "日経平均、108円70銭安の6万2973円16銭で始まる＝東京株式前場(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaVRvaTdNdmQ5UUwyeFBBY2RuQTdyeUZfbHBOYjRTYS1FNnpVQnlhUi1PMlpHS0JYLUkwMFNYLU5XQkZMY0QtcWREbFRoTlFpejVRYkVIUnVEOWl1NUFyOWVLWVpDRVo5SkluemJ4YjVnbi15bVREN1RsQTNiQW1uc0ZJdXp2cVU?oc=5",
+   "published": "2026-11-04T09:02",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
