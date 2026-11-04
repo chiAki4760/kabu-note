@@ -1,6 +1,528 @@
 {
- "updated": "2026-11-04T03:05",
+ "updated": "2026-11-04T16:23",
  "items": [
+  {
+   "id": "47c158d84a3b",
+   "title": "東京株式市場・大引け＝日経平均は3日続落、米中間選の民主勝利で 6万円割れ寸前で下げ縮小",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHYydTRHQW1Wcjdjc01aR1pYUE1XZ2ZEVVBYcEl6TUQ5OHFTWlVOS0lidGpkSHB3dl82Z2pkUjJGeTV2MkRsakZubWpRT1g5V1BOc29WSzdOWk4wUDdQdkt2Z1pRZG9QUHBDX2ctV0NpOGxFSlV5V1FJdVJ1dzlxcUVuN3AtUQ?oc=5",
+   "published": "2026-11-04T16:14",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "adedf6a0a751",
+   "title": "日経平均、893円23銭安の6万2188円63銭で終了＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WbnpuVEVpcFlwTmpyZ3R3ZDF0dllrYnlhMGlzRFE4VHN4a0Zlc3U1RE01Mk9JU0RMd3RoNmVPZnpiWVU0Y3lLTGtLd1ZOMkx2eDVsWS1ZUTg5V3FENHlYZF9fMVM2dGFWcVFoeFM4QjRibkU5blkySTdGSk5rRkU?oc=5",
+   "published": "2026-11-04T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "af91f66e2bbe",
+   "title": "東証続落、終値893円安 半導体関連株中心に売り（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6SzAwZTBFUkhUdHhoRnNsaEF1ME9iSGU5czZ0dmFfbFJ6R1dOX28tSWhoQU5tXzFpdk1iNVhOc2FfcFlqbTJvSzhVVEprOWdwSEhpZS12eFFVUHhOWGFYaVhXeGppX1pNNFNZcngtM1lkNVVIVlRGVnpWLTBYQk0?oc=5",
+   "published": "2026-11-04T15:45",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a29404f655bf",
+   "title": "日経平均6万円割れ迫る 米民主が多数派奪還、揺らぐAI相場の行方",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jd1EtZnh3VkNiMlFabXIxUXlxV0k3NlhwWW1VZlU5dDRmNFRJTEw0NGNSdmt1Nk91bDFabEZmYWdkN1BUbE5UbFdOa0prYnV2VFJ1cEhJVy1lYmI0Z3dCbUZ5Uk1iUzhhOF9TeA?oc=5",
+   "published": "2026-11-04T15:36",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f5827cdf8c46",
+   "title": "東証14時 日経平均が急速に下げ縮小 6万1000円上回る 米民主勝利で出尽くし",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIVFliYjRhY1lXd2dmVUlaNFRjVU9fRjBlZXpMZEo4eXZ0RzFxaE9XRks3elJoaVVQWnhOUE9MVU5sU2ZQS2htLWhnd1V1V2hqSV9jazlrX3hMY1NWMzR6RUF6bUxCV2lVQmF1bQ?oc=5",
+   "published": "2026-11-04T14:19",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "316e43b16a30",
+   "title": "日経平均、3000円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mYzBwQ3lOd0Y0aWw0anpPWV9rTGpaVTNhVkZSZWs5Zkt2WHlSZDZha3RrYXppZGRGZTZ3c0tKdFdPSDE1ZkZGVmlvS0dRSFg3WGZYOEZMWmdHVnBxV2NjM1hwZlowd2ZUc3dVWTlWd2pzTVoxOVVOOWRkV1hjdzg?oc=5",
+   "published": "2026-11-04T14:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1bf6ed4fbd0a",
+   "title": "日経平均 一時3000円超値下がり",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKUFZlMHdocE1kS3FVNGVUdnBET1FiVTBXLVIyRTlHTi1IT1JaMTBUbnBfQV9MeV94ZUJGdVZVbElvOGdqLTZLbEFDMXFLUHRC?oc=5",
+   "published": "2026-11-04T13:59",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "684452cd73ad",
+   "title": "日経平均急落、米開票速報に大揺れ 「青い波」が招く6万円割れ警戒",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qc2V6NkF4aEZwMGZrZVVJbzUwR050bEdzSV9meDk1OWFaek43NTFFb2pxeHZ0aklXRk1DdUVMbVhzSTlFM1U3b25QRU1NdlAtd216dkZfT3FVakF0UHdhbTJJOUQzdU1xckkzRg?oc=5",
+   "published": "2026-11-04T13:57",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "30df7700393e",
+   "title": "東京株、一時３０００円超安 米中間選の民主党優勢で",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LYkVVNEw4bkFQRmhDOFpldHFFekxjRHdkMFhvMWpyaGVvejZ6aHEyRXZ2VzZpQzQxNFkxdTBmUEt0Wmh0UXA1RDZIa1VweXBaZUJQUlVfZDJIQnhtMHNjSHJCSQ?oc=5",
+   "published": "2026-11-04T13:46",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1eeec24f166a",
+   "title": "日経平均株価、一時２０００円超下落…６万１１００円台で推移（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbmJucGdvZ1JUZzNjWG5wY2YybUY3aFhSZ2lNUXRuU3V6ZE1maUF0YmdQVHhaM3o2eHVmUFNQVXhpVEdjQUtGYUFSVE13N0xZZDJIU3dNaENfeEZtMnU0Um1RekFfc1NhaDlaUFVWZ1p0dHdoT0JjOWt4TVlkY1U?oc=5",
+   "published": "2026-11-04T13:45",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a4bb1466063f",
+   "title": "日経平均株価、一時３０００円超下落…６万円台で推移（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrX3lidW9RN2pnOGtHZ002REw2a3FnSDBwanU0MVhiUldQVUdlNTE0aU9PVXZydFozUzZDQW84NU5jTUt6UVdWeEdXOUhWMGp3UDM2R000aEd3TTV1Yzk1VUo1aDZmOHpXTmpjUERMSm8xLUtMcXBWQ0lmQi1EWVU?oc=5",
+   "published": "2026-11-04T13:44",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d24f47f6e95b",
+   "title": "日経平均株価、一時３０００円超下落…６万円台で推移",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JdjVrdVk5MVlKY2NmTklFV29XMkdMY19LbDZ0dHMtWjhpbWpOd1l4WWdiSUl5eEJHZ3M4SVdfYlNFOWRBSm0yQVJZUlZzS24wVjJ0V215YjJLLWpKZ1NYY0J6Sk8?oc=5",
+   "published": "2026-11-04T13:43",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "af9a10620bb7",
+   "title": "日経平均、2900円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJbEJqUnhJcXl6dnp0MUtZX2VENGNhaTEwX1FHN1BlZUxhRmJvNGFqLUp6OWZhcnNxRmxoVjd0S3I5ak4wV0htRlJMMnY3Z21kbUlwbGxKZjJHODhveWNBM29OV0tzQUF4cEozS3F1SVNvSk1waXdrazhQVmNXajA?oc=5",
+   "published": "2026-11-04T13:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1dafcd037158",
+   "title": "日経平均大幅安、米中間選挙で民主優勢「下げ一時的」「6万円割れも」 市場の見方",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ibVpHS3VfUVdYV3VLcFlGX3VubmE2MTRGam1oS0ZvcFQtOE56Z083d3I4ZjBrZERaN3hUOGlUR3Fhb2o4dmYzRG5NNTB0R2Jwb055Zms5RUNvbGJpRURVX1ZLVGxWTjByNlk4Ug?oc=5",
+   "published": "2026-11-04T13:14",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "32b3933a6505",
+   "title": "日経平均、2800円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40dmNlbzNtZU93MjZQa1pIQzJzX0FuYnAxSnRPN25jRzB1RW9KdWZUZ3c5ZjRBWGdBSENrdERiNjJONUJ6MmtSVENUUzJOdGdvOXY5TnRtR2l5V1JlNUx5VmNzMGU1dU41LW91Y3lmUXRPcXFvbFZxS3pNM3hnc1U?oc=5",
+   "published": "2026-11-04T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "c725fc86b543",
+   "title": "日経平均、2700円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDM3h3VkFWU0laVmltbHNTaFB5a25aNVR4a3lfdjFkVktWV2ZMVmMzVF9RWVQzLUE0ZGltb0J1MFNNRVZJVTNFdDllbHVYY2NVOExoY1dBclZURy00U05ES3duaHJmMzRFdG0xbGFpc0R4R29nMzdPWmpxUGxZSnc?oc=5",
+   "published": "2026-11-04T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e80292329668",
+   "title": "日経平均、2600円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UW1kTGQ1OHdrM0NaZEh3M1Z6YkYzdEVrOWZrODZuLVhJUjhKZklMaHdseFMtSC1vMGNpMXRaOVBtTzlncVREVWZ0SWtqaHV2WmVTdFNzejU0Ym80RWtZNnlKWkpPN3ZGX1M5QjF0c0VaOVJwVzZERUpHQkdxU2M?oc=5",
+   "published": "2026-11-04T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8a82135ce5a2",
+   "title": "日経平均、2500円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIdC1GMHUtbTU0ZVU3ZjhhRFBydGJPOGNvSHRFcWc3LTBvUDZmdm9qdGNNR3VIRjN6aHFJYTc2TURiVmF0M2d0cmcxQXlvck1IamJOZS1BYmIxcUZVX2ZCVWNxUldxVElMbTRxTC1pNWlfOU5CSWNrSFd2WERHdWM?oc=5",
+   "published": "2026-11-04T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7b3d62f3ee7f",
+   "title": "日経平均、2543円19銭安の6万0538円67銭で始まる＝東京株式後場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93RkZKWGNkREllQjR2TWR4UWhGWmM2VFpxbEpRQ1J4NnVyT1F4MmpVYjZ2N3NJVlpObzM0Vnh2OXdDUkdiZVV1ZHk1cUdweE1wVW1JSEczUGdOSVlGZlBxYTF0SGx3b0ExZ0M5WkRqXzRxaHVIQ3p3QTZjOVRuU2c?oc=5",
+   "published": "2026-11-04T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "59f9a052f545",
+   "title": "東証前引け 日経平均は続落 一時6万1000円割れ 米中間選、民主優勢で売り加速",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fblgxWWVFOHd4S3BOcTBvcXloX3JDVGxiTGNIQk5PMmtWYm84dkNPQjBpM28yako2VEM0SmU5cGxuSUM1cV9TdzFienc3dXI1X1ZXTk05VUFaWDQtSHBKTFBoMjlKMkh6NDg5cg?oc=5",
+   "published": "2026-11-04T12:04",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "65e46014e9d5",
+   "title": "日経平均、2246円50銭安の6万0835円36銭で終了＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mV2VkeHVXQU5nM29uUzUtNjh6b3IydFhZeE9Hb2QwMU1xUVh2M3pXVXA5ZFJybmhiWU1FVzBxR283ZkFUYjFMMVFRWWpSazRneXprWm1tVHBqa3NjRkdmbFliWnkyemp1Mnk1NnhsWjVFVGJNLWt3QXpDYkdfWjQ?oc=5",
+   "published": "2026-11-04T12:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f9d4857df61e",
+   "title": "午前の日経平均は大幅続落、米中間選挙の開票にらみ6万1000円割れ",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG9jdFlRSjExMlZIajhkSHI0WUh3dlhLYUpZa0VrVE9NS0dFNHRoQmNkOG1sOFNkVXNCa2NUTjRsekdhc05sbzMwZWhITEI1YnhWMW1iYjlzOW50THFtQWg0QW5qZml4QjhsSDJQazNjRnVCT19RQTlSQkpSaW9KUE52QWZpZw?oc=5",
+   "published": "2026-11-04T11:59",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "055e04997318",
+   "title": "日経平均株価、一時2000円下落 米中間選挙で買い控え",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sREdjcFE2Vnd2RUc1bDRNWG8yNlo2OHVsODJ5bVJmUk1lb1hQbXZLaGU3bXdaR0RQWlJBZ0tjc0UxU0kxalpfdjNEc09GNFJtMTJDN2tvd2MwY3h5NDhBSXdpb293bWNy?oc=5",
+   "published": "2026-11-04T11:59",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "933ccb386cae",
+   "title": "日経平均終値893円安 米中間選挙「民主優勢」で一時6万円割れ迫る",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxQUQ0Z2hpN2JORlY4TUlEWk1DSlFuWE1mUkdJclc2U0hyUHk4X1RzRkhiOVdxcl9sbHQzOEI0b2MzTFVJM1VYSUpwUmUxelhtQzMtNlJxVW1TYVlxTnZWNDBXRnVyV2gzVlhmUg?oc=5",
+   "published": "2026-11-04T11:46",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "783751979671",
+   "title": "日経平均前引け 続落 2246円安の6万0835円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpa3QxWGl6UlNyWG9DM0MyWl9pUXc3b1NXMHM2VE1JU0I5cEQyUGRJQjRKNE51Zl9rV1JZaUlFaERBYWt2Z3BLQWZHSHVlYVhOWkhMWWpuYzNMMmx4c3k2RURYU3JsTkRDMTA2WA?oc=5",
+   "published": "2026-11-04T11:41",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d4bc2b79b68a",
+   "title": "日経平均、2100円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ZzZGbzRadWo3OUVZOWRGV3FxcmpQLUtyZ1hlYnh2ZFUwMFF1cU4taGlYdmo0TlBFUlVKdnI3aTNhcHFmeF9udmZZdFFNNUNsbV9uaFg4ZmZNcloycnNfeDNhOVh4TVNRam9MQ09KYlJCaEU1d0lsYWdRZmt0N2c?oc=5",
+   "published": "2026-11-04T11:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d2c3217fe59f",
+   "title": "日経平均、2200円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0U3aXVLRkNmQ1hpZTB4S3BQb1oxYlBRcHBBZDRQeVB5S1BLY2JLSDdkZ1VDSUZTMENVMHduRlBjd1RLbERjeVQtQzZxTkh0dXdnZ1UxUm9VUmQ5NGhfVVI2ZlhZZ1FJazFObU9iU0JYaG1MQUw2TGxZbkdMcUxldlVweEkyVkU?oc=5",
+   "published": "2026-11-04T11:25",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "6e56339c1209",
+   "title": "日経平均株価 一時2000円超下落",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yTjdlcUZkZ0J2M1hZbk5tbWZoRGRwRWpNR3hXUDZ0LUVGQXdzcTBpa2JHR28zQURobEI0T3VHZHRxcUo2UUMzcHBkNXhTbDlU?oc=5",
+   "published": "2026-11-04T11:10",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1fe23873a450",
+   "title": "日経平均は一時3％超安、ハイテク株が大幅下落 キオクシアＨＤ13％超安",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWhtcm9IUVpjOFJYd3Jyd2xOTG8ySlN5ZThCQnlQZGtwWURPRmtuOUZRQnk0aENuZlBjT1F1S0ZueVVXMXB1QW9IaVdUbVc1c0ZMWXlRSENLMURraUZYRTRQQW15MW9fTUNSWkdJRjktT3BUTGM5S3JMWjNSMVFLdDB6aXptZw?oc=5",
+   "published": "2026-11-04T11:07",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "5ba859c61063",
+   "title": "日経平均、1600円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gd3pkWlRkQ192SGY1MG9CZzZoVkR0bWV0cWdfX0c2cmZrSkczMlpFQktWRkx1QTc0RW1vWmVhdlk2dFpUaXhMVmNiNmdFWjgxVGd1b3ZHaURVUVlYeUZUQ0VnUVUtTG5vWWlzSWtzWk85ckFFZEtmX004bHczOVk?oc=5",
+   "published": "2026-11-04T11:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f696813820a7",
+   "title": "日経平均、2000円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSm5mSjdXUVBPV0d1ak9TT1d5SzV3aFJ6Zlk0NXItNWZPVmlTdmgybWZVOXRfMHpqVExkT183SEVCcFY0Nnh3UlJwYUxNUTh6d3lSQzFFTGpHX3Vqd1lyejBUY2FJZkVyd1pfem8xckVNTGdOZ2tCcTE0UVlGNlk?oc=5",
+   "published": "2026-11-04T11:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "295eb4e38cee",
+   "title": "日経平均、1700円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WjN2WDFjeDdHX2hIWEctNXg1ZVg4TFJuUUpURUNxeF8xQ29FZ0hvR2JGaVp3bW96Vk9IR05MbVMwemVkMDYzSkwxMjdiQkh1Z1FMLWEydjhtNjJ1QU9reWFKN2pfVjNCOTh4S0hfUnp5VHp3cU5OYkgxX0ZGUDg?oc=5",
+   "published": "2026-11-04T11:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "484f909415c5",
+   "title": "日経平均、1800円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ocUsydHc4TTJPaDJwaF8waUpuZDFmYmxIdkJ1a1QySllSdFNqclBnaG5jYzlNZ2pBUkpYV3FWZXB0My1yZUFmaDEyQnRCbEd5SWUwV0VjcVRCR2xUekxsM01RVEh3bVlUWlVsZElQSHFBMi1KOXRrQVBDc0JWekE?oc=5",
+   "published": "2026-11-04T11:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "52885fd55de1",
+   "title": "日経平均、1900円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZmRfa1RHdGR6VnQ1Z0U3R2lZYldCYXc5VEo1c0x4Rl83YTdXZGRnQnJOWXRCWTJPRTlqVEFrVW5OcUF4M0o2QWlvY2ptYlg5ejVncm1PQ1V6bTRkSEVfMkx1YkthbFhyS25tNHhBZDV4VVFDR29XNVpRcnJZSnc?oc=5",
+   "published": "2026-11-04T11:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1bdd006b835c",
+   "title": "【速報】日経平均 一時2000円超下落 AI・半導体関連株に売り広がる（日テレNEWS NNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xYXV0REVNVGR1S2ZER0Z2VmJoZGVQaXBfZkZ6ZmVZRkRIUHYxQzF1VlY0d3pFU05WdExhamtHeDVxSExrMnZBNi1QS0QxZWExUlVKUHZoVjVwT3lvVXdDT2F0S1A5TnVkaGMyYW1zWnlrZkxjR24wY3NLZW9iS3M?oc=5",
+   "published": "2026-11-04T10:48",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "908ca87bf6fd",
+   "title": "日経平均株価、一時2000円超下げ 米中間選挙受け半導体関連下落",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfS0xLNnRpUm82YUxWaXZGWDYxU2VON0FFSzhaM3RrNGxycS1UTnM3WTNKRV9ETjUwZVgyM2p3MjZYQWM1MlhEYWo0WDladTU5dWVFZ0NKVWtKSWcxMG1yQkhXQUw2My1UVFlGTw?oc=5",
+   "published": "2026-11-04T10:46",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a1787f4a7b92",
+   "title": "日経平均は下げ幅拡大、2％超安 ＡＩ株「ポジション落とす動き」",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjh3Y1JLVFpEbFk2aHlqV3ZsOHo2Q0VCVGpjNWQwVUZBaUJfVnplSjF3YU91Mkd2S0ZmUENIcGZOaTZRajU0VWlYOFRBdU1MX3E1TTNkQ2VjcUVqbGpVaThySGJRMkwwS25pYUV3YzRCeEdxVE1jcmpOU3JhWUpzTFU3eDRPdw?oc=5",
+   "published": "2026-11-04T10:42",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8aa84bcd1a80",
+   "title": "日経平均、1600円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmhtbnhocUhFRXFUSnMtbWF4VW9BTGlDRFBFOFhwdkxEaUZzbF90UnZwWmpLaExOWVhxZFh0OWpxN05oTl8wbEdxUk10TUZrT3NUbDV6UWd1Z1NNM0dXVXRmc2VGZUs3MkJqMEJrbV9lV2hiN2xHaVo5djlya0ZubFRvNU95dlk?oc=5",
+   "published": "2026-11-04T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "a4ae6c2f38c3",
+   "title": "日経平均、1500円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRG13MmIxVnJuY0NQU2ZaX09IMl9feHFuLWM3bjFldjJOQVFaLXZhQXczaVo2ME0wenZiQ3YyNDM1ZldUVHg5Zm5vMm5MQlJUTGRveWpsVC1TZFEzMFpnbVE1b2ZZNUFldDZlNVp2NkdOVVJBTHBuMllqRkYwb0k?oc=5",
+   "published": "2026-11-04T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e3cf8fda9c1a",
+   "title": "日経平均、1200円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05WUh1cTlwWFNkbUdrOVhxeDdQQk1NV3NJRFE2SHRXdXQzWG02R0tMbk15cXVJU1Bvckp4SGxBeTJEMmlybmlwbjQ2ZFNVaWFCM3F1YjF3WXNOV2c5SzMzMTZFMnpiSFE4UW52LXRhMkNxeUozUG1ScjVkYUxYcDQ?oc=5",
+   "published": "2026-11-04T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "82f3ceb1a4ce",
+   "title": "日経平均株価、一時２０００円超下落…６万１１００円台で推移",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByNjF2NjNjbkVTYnlDaHNCb3R1SDlON2xrdGxFMUxNSjdvVUp1ZE9XYjVsQldxcWljSEtHUW9RVmtkMUJqcWhRYk9sMjRGX1YxUmV4SWZPdVY3cU1xal9HRVA2SzI?oc=5",
+   "published": "2026-11-04T10:17",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "0415531212bb",
+   "title": "日経平均、800円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0aFcxS29UWEtjMTdrMENRZmxpUlNKdkFDeFRkVkU0OHdvQ00zNEw5ZXh3cUhFeHJ4TjhaM1VFaTdTVFl6VzVnU2xCOHN5VkVvRjJVbEQ4UUNGTEh2S1BKaHB1OWVVSmxKSFJvVEU1WjF6WDNlWW53R0ljTTQwalE?oc=5",
+   "published": "2026-11-04T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "38a142410ff3",
+   "title": "日経平均、1000円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93eFhnMVR2UXBTYzA3MkNuX3MtVkZINDNHR1VBcmlRM3BXWWpaUWpWSkp1SVFGY3R6a3ZzaG1yaWo4ZFRZXzRUZlRPWlFORF9PSll6RUtBeXVWQVJ2b2ViVlRNSFZSMGQ0bzRqREJwU2hnQnB5eEprOVJ1YzZSU1E?oc=5",
+   "published": "2026-11-04T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "12f681fdba51",
+   "title": "日経平均、900円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ka3FuQ2I0Y0FsdWswbkswZ3JKTVp1WFFyVHJPMVQ1T1lmcEpxemYtSU5hUjdycGgxZENwY3lKMkZMUlhteUFSN1MzUzJ6dHBzUWltLS1CUWcyaTVnVlZ6LXZIdU55c2VrUWdPVnlTUjJUTkhuQnk3am5XMDhYNHM?oc=5",
+   "published": "2026-11-04T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f263e5eb1726",
+   "title": "日経平均、1100円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnblJlVFVPRmM5YUtPZGFPa3hXbEpZdjhwVG9McjFYSG1FWW1sVFNVTWctNnlWUEJqaWUwNWVGVmlhaHktNzJNS3NRZmNrc0M5aHc1a2VLd2ZNNlFNb0F1eFI2Nks1bTJFaTdhMzMwamVza1NPRGx6eUNZMXdYZHM?oc=5",
+   "published": "2026-11-04T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "6b969f81e5ea",
+   "title": "東証寄り付き 日経平均は続落 一時800円安、AI半導体に売り優勢",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UM2ktUC1ncm9JdmotTlFOeUdJbmJnMUdZNnBqY2JEX3lBT2JTQnlZX2Y1Z1FfeVFESzJ2R0FUMENWZ081RUZWTHhjcDQtQW85N3cxNVBMTVh4Y2VmZXlPS3BrN1N2ZnJpYk1CMg?oc=5",
+   "published": "2026-11-04T09:40",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "129569f73e20",
+   "title": "日経平均、400円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mUGZpbzc2aE9hWHNxbTc0X0hpNDF6S3JWNGkwTmVRNmZmWlYzQ2RqbGE4VktCbnZKQnVKX0ZGeTBrWl9ackJHdWhXYU01Z1U2WEpqcXF2QmNsbVh0MUJLekRNS1RSWk5EZVhHazBmOGV0MExXRDFZdEk0azh6Qms?oc=5",
+   "published": "2026-11-04T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "0368556eefc2",
+   "title": "日経平均、700円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUFNLcVR6ZXZwZGNvaHA2OVQtdG05M2xXLVVxUVJTaG1CYUthM3BiZkt5VkZJUFIzaU5nUFRGTUEyWjZOOVFHT0tiM0N3VUY2YWdlMWNqUEZoNUJwaERxT3ExaFZ6WXZSczJIbWNPVFMwWnFYc1RDd21YbXZVTWs?oc=5",
+   "published": "2026-11-04T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ebd8f99141ca",
+   "title": "日経平均、300円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2NXJ3NkFKdVdoSGt6NWpJQnM4aFJla3gwUlJ1a2NpQUE2U3luWE1RYnBXWWxva1EyWlZDeEZxSFhTOTBTeFFmUGU0c3Z5RXRiLV9lb1RXbGtUMnZ0dnViNS10ZHduSGVEd1Qtdm1NTDNGOTN4ZkNELUFvR3VCS28?oc=5",
+   "published": "2026-11-04T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "9a97b65a034f",
+   "title": "日経平均、108円70銭安の6万2973円16銭で始まる＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S2xLWThoS0thR3JSTmZWV2hqc0Z2OFMxeFowZUxiRXpvb1JocnlKYnlhZ3lvUVdLNGc0VHgtdVhkYTBoZl9MdmhWVVU3WGU5R0RBSEpPOWJkUzh4X3FWZVN0Wm9OanNXcEZpdUN4eUJnel9ESVlVOV90ak5zMGs?oc=5",
+   "published": "2026-11-04T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "2e0e91960f62",
+   "title": "日経平均は小幅続落で寄り付く、半導体株は売り先行",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOak9BdGFIamdYR3V1Y2Znam5ZTHVNaUY0amVMVGM4NVI5TWFiQjlFWDJnMmRWanpPLVVKN0FEYWJpbHlpcTVuTGpWOTRFVWVYZWFqV2l5aE1MZFIzYnJ2WnZnb1MzTURTS2dKc1gxNUFYckhGdTl5NEh0M05MbVVDclNDQ3dTdw?oc=5",
+   "published": "2026-11-04T09:28",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d4ec42668ee7",
+   "title": "日経平均、300円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnFBVmh1S0dtZEZMWC1JakVtT3JkNEtsVkVHTXJxRjJUdHMwaWZUd3ZjdFBVbG15aHFRM0hoWmV5d3FpQlFWMV9QRWwzYmgyWHlrN1FDbUlFSmxOckE0dTZ4WlptZjNqU2dxNGhELVRPbHduWHRLWHc1ZFNWX0FZdTZlN1JkSlE?oc=5",
+   "published": "2026-11-04T09:12",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d0b439b0faea",
+   "title": "今日の株式見通し＝小動き、米中間選挙にらみ様子見 方向感出にくい",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlRjV1MwSTc0UnRYS29WZ1VjTFl6QzFLdTdhTjJ1QWp5ejdMZlNLSGVUdHkyekgwNXF6NkI2SXY5OFBOOVVZOG5EVUxYWTg5ZHhxT05yM2tBREUtUFhIYlBROVNGMDlfaWZyOGZwNFlzbW5uN1pYNmdIemNCMTRvbkZHZ3VmZw?oc=5",
+   "published": "2026-11-04T08:01",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8c92a1cb796f",
+   "title": "４日の株式相場見通し＝方向感見えにくい展開、米中間選挙の結果待ち",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FeXFrTTFSaDZ3NTRSR3lxWWlnMFpsUzZjUURBMzRTUTllS2J4Mkw4bVVoQkRidWU5M1JwelJwYW9qV21VWmZRZGE1SWtUUGMzVUNOVkZPZ1kxOFE1U3F0Qg?oc=5",
+   "published": "2026-11-04T08:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "871d203b598d",
+   "title": "４日の東京株式市場見通し＝半導体買い戻し先行も米中間選挙睨む展開に(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnZQWUxrTFVXZjZxUGJadGlvQ2tjLWZVTnV1WDJnYWVrS1UxVzVOWHFlVEczbE1nZU5wQnJjcDlxNExFRHRxQjI1NEpaOFBpNEIyTGxBV3VyQ3Vsek81bnp3WVhDVDM3TXJKTWtJbERLSFRUUUQzYUxlcjkyc25UUUZCcFB5bWs?oc=5",
+   "published": "2026-11-04T07:46",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "867873b6932b",
+   "title": "日経平均株価、米中間選挙の結果をにらむ（先読み株式相場）",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaHRYb2RwMnN3ODgwOUZfM3A5Uk41eGw2TDQtcEF6RkxTdE96eHdPTU5YS0JQNUJDTEtIdU5TajhmUWRfWTJ1eXM1SFhoYXk3Y3V6RHQ4UmRlVTB6VHl5UTE5cHV3MzNJTW1nVQ?oc=5",
+   "published": "2026-11-04T07:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "fe6bb1d6e74e",
+   "title": "【まとめてわかる】日経平均、一時3千円安 リスク回避の動き広がる [アメリカ中間選挙]",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05S1djTXA5WWU5dFhEbzdES0hsUmRxbzhtQmh2bTZPamJNQ1htZzdIek5CSURqNDlsYnI3OHIxbkgybjI3MTFqUTZOYkNEa3pJczV2Y3plcjhWZDJvRmh2dGxPQ3d0NTg?oc=5",
+   "published": "2026-11-04T07:11",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "04961b507f7d",
+   "title": "フランス国債の利回り「5％超も」 円相場の行方は",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVDFLR2xCYWE5WUN3b3Y1NDFNTVlSSTVNQWVla1JsdkVlaVJ0RG1qRzJuM3pOcnBBUzFaeHBKZUtHVlJxNmltbEN3WkRIWTIzWUpKUktBd3JPbUZfZzM1ald1bHFsZl9acjVEVEtpNzA5NWpxanM1cVlsVlc1Y3M?oc=5",
+   "published": "2026-11-04T06:30",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
   {
    "id": "b6d1e6393231",
    "title": "反騰期待【マイナスカイリ】低PBR 銘柄リスト47社選出 ＜テクニカル特集＞ 11月2日版(株探ニュース)",
@@ -623,6 +1145,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "a4a3eb5ba1fc",
+   "title": "日経平均、195円00銭安の6万3095円11銭で終了＝東京株式前場(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM19KbEhQbHJYa3d2T2NacTZZVWtyNTBndnFnSmFfd1plUklwRXB3cVFvVW9IMFZLeWRzZlVzbk05d1FRSms3Zmg0RTlLZzNCYXJsUXg3al92UEx2MFdwMW5YSkRvTzF0dUFMcVR3UU1QTk1rRlRPOGNvejlLcFNOZXQ1MHZRbFU?oc=5",
+   "published": "2026-11-02T11:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "b3ac16043e36",
    "title": "〔シドニー株式〕3日ぶり反落＝鉱業株主導、金融政策決定迫る（2日午前）(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -810,6 +1341,15 @@
    "published": "2026-11-02T09:01",
    "kind": "market",
    "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1d79e8fdab39",
+   "title": "FX/為替「ドル/円今日の見通し｜FRBの12月利上げ巡りISM製造業に注目も レンジブレイクは困難か」 外為どっとコム トゥデイ 2026年11月2日号",
+   "source": "外為どっとコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ybTNsT3ZudW4zbXRkTnZlRU9qTm1jdUZnclMtTDBBRU1BMTVjeFFDR2VzbTdvTXBKYjZiUTFNb0hLQVpvUHlkRjRHeEY4dnc0WU5XRkMtVE9xdGdjSk1qRUtiTQ?oc=5",
+   "published": "2026-11-02T08:45",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
   },
   {
    "id": "e9d819f34b1e",
@@ -1190,6 +1730,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "6e5b5c050b78",
+   "title": "浮上する円、終わり近づく「日銀会合は売り」 正常化へさらに前進",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCWUp5R242TUtrcjZnNFRuZldsRDhnMFlqT2tERkpQeGxRQ1pGYnpURlJfY19nbWVyNGNJSXROTGxNX0V2YUtnYUd4UWJrTnpjN3pncXk3c2FwaGVONTdhZXpLcDU1cFktXzh4Yg?oc=5",
+   "published": "2026-10-30T15:08",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "0617557f4e0e",
    "title": "米欧は予想通りに金利会合は通過しユーロ下げ一服、 日銀も変更なしだったが植田総裁の会見に注目が集まる",
    "source": "ザイFX！",
@@ -1294,6 +1843,15 @@
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tTjl2YjFYV3pJZXJxamVkZ3YtNU1Mb1VkMF9oM3RKdlZiN1ZDelhlLTNHYVVGSkVOM1ZxbjBCeGhxS09leHhOcy1XdTh3SVZidWNDNFg3SnE5UFhzVU5wb25YNTFNQzJqUnJzV3FVaHROa1NB?oc=5",
    "published": "2026-10-30T12:35",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "0901702ee988",
+   "title": "日銀、基調物価2％到達と表明 ＥＴＦの売却加速も決定 | ロイター",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckU5TmQtMFdYV29oUV9QUkpJS21rNGtwOGc4T2ItMEhodE1kY2E4MHN6V3B3Wl9YUnItNEpIbF9MdlZvbE5nZGlMWm9SQ1VCSWN6MUFlOXlqNjdlQ2NCTUF0YUNKTUh4SVVFOFRKdU1uOGl3bWlXUkhDZWg2YzRsTy12aHhxVkVDelBEZ21jZ1Y?oc=5",
+   "published": "2026-10-30T12:11",
    "kind": "market",
    "q": "日銀 金利 円相場"
   },
@@ -1611,6 +2169,15 @@
    "published": "2026-10-30T09:30",
    "kind": "market",
    "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "9c8ee923df25",
+   "title": "情報BOX：日銀決定会合の公表内容と総裁会見・声明のポイント（2020年以降）",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LUEJVYlhpRE45QlpUUXo1SU9WZTlyYkh6Y2Nwc3BGWFFxdFBuSFRwOWdCWVBWSkd5MEhISzk0Qmptdk5LeUZ0UktTcDRRWTl6Z1J3U3dNR0dSc1VRUGd1TFZnUF9Tc1EzbDZORG5TS2tHNG1oOTJibWl2Tldidw?oc=5",
+   "published": "2026-10-30T09:27",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
   },
   {
    "id": "71368f6fe1f7",
@@ -2936,6 +3503,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "723480e3aafd",
+   "title": "日経平均続落、終値503円安 根強い原油高とAI懸念",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxa29FVmV4anp0UHpaVXpBbTluVlNQU2xtaTdOLWJSN3hlTm03UXlLdWlKU2JDVzI0UjVMZ2JZR0VuR01iM2xGZGhqcnFtSFdzaGk0aVdLUWVaOWwtOGc0MEFiLXNLRXE2YlNodQ?oc=5",
+   "published": "2026-10-26T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "5edd468a9851",
    "title": "日経平均終値、前週末比５０３円安の６万２１８９円…３営業日連続で下落",
    "source": "読売新聞",
@@ -3242,6 +3818,24 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "d44bc155c06c",
+   "title": "日経平均株価、続落 終値は214円安の6万2693円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TeTRvYlAxRHhnNDBqSVE0TTF3R2V6azlKSTI2bUdQS28tek5wZTRETlJWYU5SRXJTd0UyYjhHbEhUd2NKWHF5RkExWXcwd0lZdGlKR0pUTVk0cW1wT1VROFhDc0pvUXdxLUYzNw?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d7fb7d53b0d6",
+   "title": "日経平均、1400円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVzE1WE9xMEJ4ZmhIVENucUZxRjA3aEdjOWtlbDFOR2ItUGxmRE54WEU1YWtkUHZjNkZuMmdYNk5FYmpUeGdkalVUNzBBMmZ1OEVhNFlOd1Jfc2w3VzdYWDVaYzE3WFdmMmdMUnpnYmxDX1E2emRkdlhCOS13X2cxRE5oWmlGMjA?oc=5",
+   "published": "2026-10-23T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "851d796c647f",
    "title": "日経平均、3カ月ぶり安値 国債は株式市場より賢かったか",
    "source": "日本経済新聞",
@@ -3435,6 +4029,15 @@
    "title": "日経平均、600円超安＝東京株式（時事通信）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xZm9kbHc3N3NkQjRSRHo3LTZRQ2dCOG9TTG54NFhBandneklqTE1qcnR2Q0wwSlBYcTZ6alV2ODVwdkswSXhoYnR3TEQ2X3pQZUE3WlVZdm5hWVY5aklfNkRnaUpjUjJrdDJTeHlzQ3VySWpmcDA2VGJjZTZkZEk?oc=5",
+   "published": "2026-10-22T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "49c3d42da041",
+   "title": "日経平均、700円超安＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0ZPbWVfa1RpdjRYN2VDMG0yYUozM2pYalFUdmo5ZDlMR29pOVlNX3MxOEZVY1RVcDFaczk3eTVtMGw5MnRxQVd6U05WZVYzTDlFM3JLczBINVo5QVBJRWZVR2xUSzVfclJucE0tRG1jelRsZk9QNDZLT1d6MkRCbk9JRW15Uzg?oc=5",
    "published": "2026-10-22T16:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
