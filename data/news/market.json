@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-06T00:27",
+ "updated": "2026-11-06T03:19",
  "items": [
+  {
+   "id": "98f3eb2db87c",
+   "title": "日経平均先物が急落、6万円割れ 米半導体株安が波及",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PZWFqSVd2dFB1YnJQTHg3TW0tTFkzWjd1Y0plRVl6RzA2SWh2WDk1RDV1VHRYdEZJUHdNZXpnZ0syMGVaWlNSYzRhcDY4c0dSNVlmdGFIZkN3Q2RKeU1qbzE2VGlIbUM1V0lNMQ?oc=5",
+   "published": "2026-11-06T00:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
   {
    "id": "98847149936c",
    "title": "日経平均株価5ヶ月半ぶり安値 米民主党の大勝でAI銘柄への逆風は続くのか？ 野村證券・岡崎康平",
@@ -34,6 +43,15 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTk5Uc3ptR2JGVTZJYV9vMUJHcWtCdkpTc3VYMlFBWUc3RjQtek4wd25SOGlEY1lRUTJkaVROdGVJdWh3QmwtXzZhaXFSVHlOTjVoRXU3UXRqSGdyV2I0TGh1bXpwZmFod2R4RGhQblhUak41YnFoTC1UTjI0aGFrc3dyNWxrQQ?oc=5",
    "published": "2026-11-05T16:02",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3915f2c6acad",
+   "title": "東証大引け 日経平均は4日続落 終値6万1077円 5カ月半ぶり安値",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GQnJSaE5wZ0Z3VFN3SW50QkhPaXF2c051SVNUYXlQLVI1LTF2Q1IwdmdHUVdpVDB0VEU2TzZ6dDNSUllFQTZjT0JCU0dXOEEybG04YXYxVkdWelBQNmQ1ZFZOVXR1VThJb0cwYw?oc=5",
+   "published": "2026-11-05T15:56",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -191,6 +209,24 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "74b1ec5e34a8",
+   "title": "日経平均、500円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZUtWZjdjdHpzUjhjTkhLWnBwdUp4OVBza2JWTnhvbkp4eFAwSHVYOFQ0c3U4THk2UWw5NU5fU0syYWpvY1QyYzgta3NCMmtuZ1FIak92Y20zNEpxTFZPLWtvaEVHdHplRDYyTzJzOHZ5MVVJUXZCemNURkRDTHc?oc=5",
+   "published": "2026-11-05T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "13868a3703ac",
+   "title": "日経平均、400円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51bG5GSV9vOWgwQVNmN2dhZW9KakZkT3Nod19tWHFScHBoYUZveHlKT013UF96cUl4ZVlLQ0tlX0dSeGxaX19rUGZDOFFaTUtaQktLdVVrUmJOYldmeUs5ZmE0ZjBxMnF5LUxYa2w4TXhMNDdMekJ1YW00V3VnaDA?oc=5",
+   "published": "2026-11-05T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "a406b00db934",
    "title": "東証10時 日経平均は伸び悩み 一時下げに転じる AI・半導体関連に売り",
    "source": "日本経済新聞",
@@ -340,6 +376,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZEowaTd5ZnRzX1U5Tm0wVDhJZzRNcUU1NEI1RC1OYmdiVTA5U3JpbElYT1ZCalNiM1pIUS1JY2F0ekZUdE0xVW1INkhBaFdFUlNpNW56QU1mZGVDN3ZzaEtzVXlFOW5memlZcG9VUGhab1BWaWVnUmNpOWYxZW8?oc=5",
    "published": "2026-11-04T16:14",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7625ad7e3ede",
+   "title": "東証大引け 日経平均は3日続落 3カ月ぶり安値 米中間選、民主勝利で",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Y1huUE9PX1dZdHFUbkNIRmFLTjBmNHlLTk1RTmNjOG4zS21CSEhpWFFjSEZzckJnb3RrVXJPUHVEVFJrVFFKMmw5TUYxcXpJMEZILTdsWXAtM3RjNWlOREtUMXZDdUxjWnJOMg?oc=5",
+   "published": "2026-11-04T16:08",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },

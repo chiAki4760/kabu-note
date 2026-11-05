@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-06T00:27",
+ "updated": "2026-11-06T03:19",
  "items": [
+  {
+   "id": "553f40399a97",
+   "title": "NTTドコモ 顧客情報約30万件流出 オンラインショップなど不正アクセス受け（FNNプライムオンライン（フジテレビ系））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14aURSTmlpYk1iWXhVbWVUWVVoUTc4dUhQWlMzNXdMa1RUd2QzTUFubGJQaVJ6Q3hoN0I5RGtkQjVkQ1Z3dzFMQy1CNlpvNnF2UXlnTHNCYVNJcVdVZHU3S2FPX2QtWU5lc2NwVTQ3Q2RSR0dKOFFkZUxTcTY0b28?oc=5",
+   "published": "2026-11-06T00:14",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "40d518f7b730",
    "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN）",
@@ -341,6 +350,15 @@
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRTjhrZGxwZFFGY01PcnBESkxyTUhXVldZcDVNYUVVRzQ1eko5dHNvYW5fTDdzTzNlZ1d4Y2V3dm9ndWl6c3BhcjE5R3hmNDd3S2w3YVpKVnMybWgzUkJB?oc=5",
    "published": "2026-11-05T13:15",
    "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9cac15ff2bf3",
+   "title": "ドコモ携帯 全国で障害が発生",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHeVg0RWZOTWJHc3hQUDVqbGpSZUlpNGR1YlJqUXlMWVVpQmtzSGVuTnBRbG1sYzI5Sm9JUENLSDlJSDhPclY4a0s2dkpBSUNt?oc=5",
+   "published": "2026-11-05T13:13",
+   "kind": "sector",
    "q": "\"NTT\""
   },
   {

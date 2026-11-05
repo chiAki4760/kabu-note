@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:27",
+ "updated": "2026-11-06T03:19",
  "items": [
   {
    "id": "81340628a163",
@@ -1602,6 +1602,15 @@
    "published": "2026-10-24T16:00",
    "kind": "sector",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "ebbe75732f32",
+   "title": "日本集積回路（IC）市場、2035年に1,000億米ドルへ拡大予測｜CAGR 10.20％、AI半導体・先端パッケージング・次世代電子機器の需要が成長を加速",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wSmRQSVZVVGxpV1pqR185T2tUeE5NQ21mbWlRU0ducm4wQkpJMEwyN01xSE5iXzllTGJxZGxhOXlmbW0tcm5yUGx0RTlXdm8?oc=5",
+   "published": "2026-10-24T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "33cedc3943f1",
