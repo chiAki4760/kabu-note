@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-05T03:15",
+ "updated": "2026-11-06T00:27",
  "items": [
+  {
+   "id": "59d407c51ce1",
+   "title": "【注目トピックス 市況・概況】東証業種別ランキング：輸送用機器が上昇率トップ",
+   "source": "マネーポストWEB",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Pa2FSaE9KajdWME9pWTJwZVl5OEM3dzVqZ2cySVJZcUJoQlhRbC1HRzMtZWZEOXBXdkd2cTFKMVlSX2VWQ09J?oc=5",
+   "published": "2026-11-05T16:14",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "3e128031f37d",
+   "title": "ＪＲ東海[9022]：確認書 (有価証券報告書) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxanB1YVRfRFdPQnFIZWl0NUxlS05IVFhvZkxpR1ZMZDZnY2x5czN2S0NSY0h3aDVLZlV6ZDhVNFRxRGpZTjUzOEg5Mm5Oc1pSenBscHBYTHdpcWRHOGVUVUJYSUlWMkdSYndJWg?oc=5",
+   "published": "2026-11-05T09:54",
+   "kind": "company",
+   "q": "\"東海旅客鉄道\""
+  },
   {
    "id": "809fa663c2aa",
    "title": "東証業種別ランキング：非鉄金属が下落率トップ(フィスコ)",

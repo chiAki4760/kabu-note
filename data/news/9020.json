@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-05T03:15",
+ "updated": "2026-11-06T00:27",
  "items": [
+  {
+   "id": "0edb8e69f234",
+   "title": "モバイルSuicaで購入できる定期券・Suicaグリーン券の範囲を拡大します！",
+   "source": "ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02cVBaSG9Oa3poeDJ1T1dGWXFqY2s5N3hzUU8xeFI4cHJqU2VGYjlFaEpmUmlkT3h5RU52dHpVX3VmWUliMDZuRGttLW5fTjcyLVBwMQ?oc=5",
+   "published": "2026-11-05T18:36",
+   "kind": "sector",
+   "q": "\"東日本旅客鉄道\""
+  },
+  {
+   "id": "59d407c51ce1",
+   "title": "【注目トピックス 市況・概況】東証業種別ランキング：輸送用機器が上昇率トップ",
+   "source": "マネーポストWEB",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Pa2FSaE9KajdWME9pWTJwZVl5OEM3dzVqZ2cySVJZcUJoQlhRbC1HRzMtZWZEOXBXdkd2cTFKMVlSX2VWQ09J?oc=5",
+   "published": "2026-11-05T16:14",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
   {
    "id": "809fa663c2aa",
    "title": "東証業種別ランキング：非鉄金属が下落率トップ(フィスコ)",
@@ -106,6 +124,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1VvZzV6OFQ3Y3Z1RDNaR1ZqM2diTkhka2NUclhzTFJnUXFMTnRxeGc0OXVIRGRGNzFJVEFyRXVoeW93czl4TFFXRFFUbjZQNFJ6eFZ6OEpNTndsS1FOZVlNUDFBcVRORy1mb0duQWJJWlR0ZVlCV0xNaVp6S3RjUmdsWk9JSEU?oc=5",
    "published": "2026-11-02T17:26",
+   "kind": "company",
+   "q": "\"東日本旅客鉄道\""
+  },
+  {
+   "id": "ff7ebfd9ebcf",
+   "title": "東日本旅客鉄道 FY2026 Q2 決算説明会",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ySjJEcWg3cEZKTEh3aWxObkFaNjBXaDFMd2FqV0ZDV1lobGM1NGp5akFOV0hDSnk4eVk5a0RCRkktanpvODByZDZOOGxPYnZfcEo2YnBwVjVlY25nT05BZGJhVk1qLU8tckZrX2ROSEZiaFJOVXVrZ0E0MGU?oc=5",
+   "published": "2026-11-02T17:00",
    "kind": "company",
    "q": "\"東日本旅客鉄道\""
   },

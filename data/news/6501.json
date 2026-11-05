@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-05T03:15",
+ "updated": "2026-11-06T00:27",
  "items": [
+  {
+   "id": "81340628a163",
+   "title": "アバターに介護の相談、茨城県日立市と日立製作所がモニター設置",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRm9JM2lwT0swRF9mUkdENlllZi1HRGFySFBreHU4ZWNxYXViQmhCY2ZTZXN1aXZUMlNrNXh2cllkMXZlREZSUWkwUTUzMExnTHBlWDZ4TG15cy14Skh6dUtQRExxc01LbmJ3bQ?oc=5",
+   "published": "2026-11-05T18:00",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "a5ef3834715d",
+   "title": "［㈱日立製作所］技能五輪国際大会で銀賞受賞 笠戸事業所の片野さん・超難関のCNC旋盤職種で快挙",
+   "source": "新周南新聞社",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94WkdoSjFHaVQtVS0yczZsMEZMUmJfSS1WaWxGTENFQkxoSGtLcUk4Ynd4M0V2a0RBdU1sTng3cVM5UGZ6VllaNXpSQlo5NEJfYTAyVmctMWk1UnFUaHJPZUVwRjlUSEtpT0puVUNKbko5OXpxWlhV?oc=5",
+   "published": "2026-11-05T13:50",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "d809c327d39a",
+   "title": "リチウムイオン電池リサイクル市場は2035年に713億9000万米ドルへ拡大、CAGR 20.46％で急成長する資源循環ビジネスの将来展望",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YcG90dGVJVFdWaGhkaGcwa051R3NzcFpsU3BQZkMyLVY5UmprZlJ6THdRREwwWXZZNHNLa1ZkcnVvM1dQMkhkMUZucHpBdVk?oc=5",
+   "published": "2026-11-05T12:19",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "96a12e52d979",
+   "title": "薄膜電極市場、2035年に15億9530万米ドル規模へ拡大｜CAGR 11.8％、次世代電子デバイス・高性能センサー・薄膜技術の進化が市場成長を加速",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yNGV6cTNWaW1rVDRHZUtOdHBrZGxpWjhVYXYyU0F2bHg2VEpQbWxkXy1zT0ZnZ1BGdXRDOG9KemdhbFZNb2FmSHNDTVV5UkE?oc=5",
+   "published": "2026-11-05T10:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
   {
    "id": "9c081894cdf0",
    "title": "自動光学検査システム市場、2035年までの展望：微細化とAIが成長をけん引 - ニュースと統計",
@@ -369,6 +405,15 @@
    "published": "2026-11-02T17:00",
    "kind": "sector",
    "q": "電機機器 市況"
+  },
+  {
+   "id": "c0ccd41b7020",
+   "title": "当社のストーリー | 日立エナジー",
+   "source": "Hitachi Energy",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KWGp0aVlQRnZSWGFkc1BIbFFGQk9zVC0zdU9Ja1dGbVYwOTJ3NU9fY2gzRzF5anRKU0tXS2ZKNFlJdTNYZ3BrQWxXdGRWTlZoT1VHRXM0MkZ2UFk4SEYtald2NVdLWFRITndrM3Z2SERiTWE4VnNZTg?oc=5",
+   "published": "2026-11-02T17:00",
+   "kind": "sector",
+   "q": "\"日立製作所\""
   },
   {
    "id": "21a98d5b8268",
@@ -1361,6 +1406,15 @@
    "q": "電機機器 市況"
   },
   {
+   "id": "0223d1758825",
+   "title": "日本アナログIC市場、2035年に77億米ドルへ拡大、CAGR 3.61％、半導体需要の拡大と高性能アナログ回路技術が市場成長を促進",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52M1h0Q3V5VlJTaEtJcEpReGo3dHBpN1pjcXZVelhocUpNeThFRTJOX2lFVDVZeWQyM0g0dmZObnFUdndaM1dvNkRyUWk1dFU?oc=5",
+   "published": "2026-10-26T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "6fa527da195f",
    "title": "日立、沖縄県中南部地域と和歌山県熊野地域で、旅行計画時の検討データを活用した観光DX推進に向けた実証を開始：日立",
    "source": "Hitachi Global",
@@ -1494,6 +1548,15 @@
    "published": "2026-10-25T16:00",
    "kind": "sector",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "29dc8d0a987b",
+   "title": "TGV検査装置の世界市場（2026年～2032年）、市場規模（半自動装置、全自動装置）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kTnJBZVRqSk1RdUphWHJxS2ROR2QxMFJCMXFRSF91b1FQSjNKVnNhYW5Ec2xOY1p6WUJhOVRnZHF1cmVzaTJWRXVxS1lVMGc?oc=5",
+   "published": "2026-10-25T16:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "1466e541e80d",
