@@ -132,10 +132,16 @@ def classify(item, match, company_qs=()):
     return item
 
 
-def update_news(queries, path, match=None):
+def is_excluded(item, exclude):
+    """通販のセール情報など、株価と関係のない記事を見出しの言葉で外す（config.json の exclude_titles）。"""
+    return any(w in item["title"] for w in exclude)
+
+
+def update_news(queries, path, match=None, exclude=()):
     old = load_json(path, {"items": []})
     company_qs = {q["q"] for q in queries if q["kind"] == "company"}
-    merged = {i["id"]: classify(i, match, company_qs) for i in old["items"]}
+    # 除外語を増やすと、すでに保存した記事からも消える
+    merged = {i["id"]: classify(i, match, company_qs) for i in old["items"] if not is_excluded(i, exclude)}
     seen_qs = {i.get("q") for i in merged.values()}
     ok = False
     for spec in queries:
@@ -143,6 +149,8 @@ def update_news(queries, path, match=None):
         when = "14d" if spec["q"] in seen_qs else "60d"
         try:
             for item in fetch_news(spec["q"], spec["kind"], when):
+                if is_excluded(item, exclude):
+                    continue
                 merged.setdefault(item["id"], classify(item, match, company_qs))
             ok = True
         except Exception as e:  # noqa: BLE001 - 1件の失敗で全体を止めない
@@ -168,9 +176,10 @@ def main():
         except Exception as e:  # noqa: BLE001
             failures += 1
             print("prices failed:", symbol, e, file=sys.stderr)
+    exclude = cfg.get("exclude_titles", [])
     for s in cfg["stocks"]:
-        update_news(s["queries"], DATA / "news" / (s["code"] + ".json"), s.get("match"))
-    update_news(cfg["market"]["queries"], DATA / "news" / "market.json")
+        update_news(s["queries"], DATA / "news" / (s["code"] + ".json"), s.get("match"), exclude)
+    update_news(cfg["market"]["queries"], DATA / "news" / "market.json", None, exclude)
     if failures == len(jobs):
         sys.exit("株価をひとつも取得できませんでした")
 
