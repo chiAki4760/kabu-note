@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:42",
+ "updated": "2026-11-07T04:50",
  "items": [
   {
    "id": "9ac6a919bb9f",
@@ -412,6 +412,15 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVS1YWW8zcnVXVXRPU255YnpRam1jWnF0YkRZa1pySnFWSEJ4cjRuckhCNk42NENOcUI4Tk5BT29IdWZ2YXVDbC1xSF9TWHdULWZoY3RaZmdOSU95bE1LTjYxdHFUbTg3MnY0VnEtMzJvV2J3el9zeFJQdXdVSDlYWmd4clJMdw?oc=5",
    "published": "2026-11-06T08:07",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3f7a4139b13a",
+   "title": "６日の株式相場見通し＝大幅続落か、米ＡＩ規制強化への警戒感強まる",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Jd1pVWXRiOHVCVzlLZ2dIVUI3dkRuV0ViQWdmMHhUaXFieEk3MU5RNkhsa1FjaTF0VjNmeGNVa1l5bDFxbzgtUXlTQWIzSXc1eG1yRHlmQnlCdkg4bU93YQ?oc=5",
+   "published": "2026-11-06T08:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -1033,6 +1042,15 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ibVpHS3VfUVdYV3VLcFlGX3VubmE2MTRGam1oS0ZvcFQtOE56Z083d3I4ZjBrZERaN3hUOGlUR3Fhb2o4dmYzRG5NNTB0R2Jwb055Zms5RUNvbGJpRURVX1ZLVGxWTjByNlk4Ug?oc=5",
    "published": "2026-11-04T13:14",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "730fa9bdb396",
+   "title": "東証後場寄り 日経平均が一段安 半年ぶり安値 民主が下院多数派奪還",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTEZ6UFFuSXFTcTdWNGxmdjFLX0dlclNQbTRZQjYwdXB6SmZwQ3A3ekNjZ3RNSVJhMzZqS1ZieURWdU9CRk9jU2dudmotNERhcm5wLTFhU2hfZGVnU0daNkIzMDEtRTJ6bUw2ZQ?oc=5",
+   "published": "2026-11-04T13:01",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -2509,6 +2527,15 @@
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sSWNPam5OMGJ5NGJlNzdJYTJSRHpST1Z3LURFQjVCMXNXV0JoemFXQUZCeGdLSV9XZEZuUjNsbTdjMGUySmg2c2FUSzgyTHdUc2diMTVnb3lZbXN1V2xFTF9LZHhpUlNoMG1jQnhTVEJaUmpF?oc=5",
    "published": "2026-10-30T23:48",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "844affabb60b",
+   "title": "円上昇、一時156円台 日銀会合「タカ派」との見方で円買い",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRk1yVzBZNXlwSXUzWXMzaFB3LXo4dnE2c0ZjM1ViQmxRZURnZlRMSkNCdlU5TjQwRG1NSDRPVzJwNEI3ZngzNDQxMG1ObVVXUzBuVDhiZklfWmpYOXRpWVBOZmh2QnpFRWI4TA?oc=5",
+   "published": "2026-10-30T20:44",
    "kind": "market",
    "q": "日銀 金利 円相場"
   },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:42",
+ "updated": "2026-11-07T04:50",
  "items": [
   {
    "id": "bd1bef46bf32",
@@ -63,6 +63,15 @@
    "published": "2026-11-06T13:33",
    "kind": "sector",
    "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "e5368e0e7023",
+   "title": "日本株のセクターローテーションは続くか｜中間選挙後の業種比較",
+   "source": "日本投資機構株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwYVVDWU56QW83Q193dE9CSmhmWVdJVk1yM1B0R3g0Z0JXMFpmSWI3eG9sald4M2pZWHJQTmlPOXdOdDdsck9tXzVWZm0tM29HOTIxbWlFdEhaa0lJWDhmczBvZ0Q1X1E?oc=5",
+   "published": "2026-11-06T13:25",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
   },
   {
    "id": "895d5c3f283f",
@@ -702,6 +711,15 @@
    "published": "2026-11-05T13:53",
    "kind": "company",
    "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "5d348f2de13b",
+   "title": "日経平均は794円安、積極的な買いは見送りムード(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnNBQTdCek0xLXpfQlpjd2ZDalczT2RtblhVeklURDJCa3hXSS1FekRVbnc1VjF3U0hMV0JJbW9YNUsyRDlhN3VLbXZMdTNOQy1TbUx6Y3RYVWVnQnp3WjVmX0pHcXFRMmlqYXlkSHB1Z2hiclBVYklSRXpfTkZrY2NGcFB0RDA?oc=5",
+   "published": "2026-11-05T13:51",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
   },
   {
    "id": "5c69dbfa555e",

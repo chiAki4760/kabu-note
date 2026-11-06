@@ -209,6 +209,26 @@
           "kind": "sector"
         }
       ]
+    },
+    {
+      "code": "285A",
+      "symbol": "285A.T",
+      "name": "キオクシア",
+      "sector": "電気機器",
+      "match": [
+        "キオクシア",
+        "285A"
+      ],
+      "queries": [
+        {
+          "q": "\"キオクシア\"",
+          "kind": "company"
+        },
+        {
+          "q": "電気機器 市況",
+          "kind": "sector"
+        }
+      ]
     }
   ],
   "market": {
