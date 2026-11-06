@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:02",
+ "updated": "2026-11-07T02:42",
  "items": [
   {
    "id": "bd1bef46bf32",
@@ -1127,6 +1127,15 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "e8355ad3eafd",
+   "title": "トヨタ『カローラ』次期型、「スポーツ」と「ツーリング」はどうなる？ セダンとハッチバックを統合か 14枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5cVhaY2dYdmhPRGNlTkNJVGJ3V0l6LVNpVGNpWm9kTmJKbTRCa1FTdlhUdHVEWFhwQ19uVC1KNHJyRFlWQjREYTVFNnNBd19sckVGNHg5TVB6dmRyLXJlNHd1bmJ4dU4wU1ZrNm9sSm1sQQ?oc=5",
+   "published": "2026-11-04T12:26",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "3aecd28f4d3a",
    "title": "トヨタ、RAV4を一部改良 オフロード走破性高めた走行モードを追加（日刊自動車新聞）",
    "source": "Yahoo!ニュース",
@@ -1456,6 +1465,15 @@
    "source": "Newscast.jp",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POGl5bl9pSlZBcWJNelFJamgweVY3N2tSZzhza2FhQWU2SzZtZ3AtdWFTUThMb2d3VzBlM3BnYTZCOVRQaEJ5ZEh3Ri1XSFU?oc=5",
    "published": "2026-11-03T10:46",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "17ea3228a827",
+   "title": "超電導モーター市場規模マップ＋シェア＋フレームワーク",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51ZWhTUmh0Vm5hUTNaOW16R3F2ZW5OYjRERVJkUG81MjJnWEtZN3ZONWlha2ZycDFzMVFlNW1NS1pBMHFTQ256ZU5tZlhDRjg?oc=5",
+   "published": "2026-11-03T10:36",
    "kind": "sector",
    "q": "輸送用機器 市況"
   },

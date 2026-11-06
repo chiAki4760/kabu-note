@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-07T00:02",
+ "updated": "2026-11-07T02:42",
  "items": [
+  {
+   "id": "06a37f7834e8",
+   "title": "東京・亀戸駅北口で再開発準備組合設立、NTT都市開発が参画",
+   "source": "建設通信新聞Digital",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NDNuNlllQzZpRTVIUi1BTElNWXZZOHRHWDhfb2dScjFNSEZJVndkTzZWQm4xalhxUm5tWU1HNlM5MWNVTkgzNXc2UWJYbk9WV3FhMXBB?oc=5",
+   "published": "2026-11-07T01:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "526474a10d23",
+   "title": "NTTドコモが会見 不正アクセスで顧客の口座番号など流出…見舞金検討（2026年11月6日掲載）｜日テレNEWS NNN",
+   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41cHNYemtLVEtIMnJVSnNFSEgtLXZyQk1kNzhQS0pzQXFMYU1UOEVtZ2hqMG1aSEFHYnZ0aXM0Mmw1WkRFN21GbTNwNUU1TmdBWHlsaEpXM3AyRUpzMVVjSDhxN3lrb1MtRHJNSHlWQVUybTB3aVg3YndDQjQ?oc=5",
+   "published": "2026-11-07T01:08",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "9c885107ccc1",
    "title": "流出した情報の一部に口座番号なども NTTドコモ、最大30万件情報流出で会見（日テレNEWS NNN）",
@@ -56,6 +74,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "bb97490f4ede",
+   "title": "総務省、NTTドコモに行政指導 契約者情報を同意なくアマゾンジャパンに漏えい…約34万人分（日テレNEWS NNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkQ3BqR3Z1eGVtREg2M1JsNVducU5wNjR3aWtfd1g4cnBoN3Y1OWgzdzNyVHJvcXlvMDhzZzlZY05VMW8zUVphaldra3hydVRzRUwzeXZkdDlIM3JoZDN6M2JDRllxakRSaVB4M0Z5VlBrOVZldWY5Qkh6WXljTEE?oc=5",
+   "published": "2026-11-06T21:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "4cc975e9fb36",
    "title": "NTTドコモ 最大約30万件の顧客情報流出で陳謝 一部で勤務先や口座情報も 見舞金も検討",
    "source": "テレ朝NEWS",
@@ -74,6 +101,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "3bc79cc72804",
+   "title": "ドコモが見舞金の支払い検討 最大30万件の情報流出、社長が謝罪",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XVWgxNUNyVGFfbklhX1VBOE9iQktIa2k2LTl4Q1lSZ2ZCX2llb2l2TU5xaDRVeEpjSE1oR1NmOERoMjZhcmdGQjV2X0NWY0FYZDEwYVNwQmJNcDV1UWU1M19VVmlfZDg?oc=5",
+   "published": "2026-11-06T20:52",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
    "id": "00d65eae6988",
    "title": "ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も",
    "source": "時事ドットコム",
@@ -88,6 +124,15 @@
    "source": "TBS NEWS DIG",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Hcnl5b0pjQ1owQXpyVGNzMDhac0xDT0JWa2xkUlEzbWlvRkpkSVh4czdIQmx3NWFrSi1QaWpvbXdkenlXNVpwUWRWa0dsNVBqcmczVUZDRQ?oc=5",
    "published": "2026-11-06T20:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b0a499994374",
+   "title": "NTTドコモ 不正アクセスによる顧客情報流出について謝罪会見（TBS NEWS DIG Powered by JNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95N1JZRm1Fa1JVYVVXMmlmNUlNNDhDQ0ptZ1JyLWJoR3RtYjVwaUg4aER4RE5EVnBrdTdjdk01cldDdmNyeUg2OWZKWG43MmlQWElISk1xMGFPcDNtRjlUVFJ1Y1dlZU9KTWdlbExabEFBR1VmRTlrQ3ZKc3EzSnM?oc=5",
+   "published": "2026-11-06T20:44",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -114,6 +159,15 @@
    "title": "画像・写真：ＮＴＴドコモ、情報流出３０万件：時事ドットコム",
    "source": "時事ドットコム",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PaER6TzdpZEV4dkV4U3NEMHhTcDVvY1BRbk1HbmJMUm10VnFTbmNaa2gxM2RFZmplMlhpaVppSHRUcFJDZlFYdFVSQzlPazIzRWJFRzgzZ1FqN0pDMWRsT2RsX04?oc=5",
+   "published": "2026-11-06T20:16",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9767047d1b8d",
+   "title": "ＮＴＴドコモ、情報流出３０万件（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1pNdHI1NFpUV0FLcS1SeGpkdUkzYTU4bU1uQ1Z3UUVueFVMNHRnOWNQVXQtNHFYQTNIMzR0U19QZkloaDMwcDhCUVo5ZjdDM3ZLY3VPbUxWTzRPUEF4YXhHM1YxTXcwaFlHMmVNY1BscjhyQVpQbmFMcDBMbkE?oc=5",
    "published": "2026-11-06T20:16",
    "kind": "sector",
    "q": "\"NTT\""
@@ -159,6 +213,15 @@
    "title": "NTTドコモ、不正アクセスで約30万件のユーザー情報流出 注意を呼びかけ",
    "source": "週刊アスキー",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BMmtma0hYLVBXNlRtODB2cHAxSHhZRXZWcWZabFMybmIxYkFac2pGTFlMeENSeVBxcDg0R3NnN19KNWIzUUN0TVlJQmV1WTJTa2pQaW8teGYyQTV6VXc?oc=5",
+   "published": "2026-11-06T19:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c1632d7060fc",
+   "title": "NTTドコモ、不正アクセスで約30万件のユーザー情報流出 注意を呼びかけ",
+   "source": "ASCII.jp",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Pakwzd05aTmlIX2p5cmZPWk5SOEtEMm1OX254U0otaXlPNkJCeVlNSTJmbmxSSHBwakJjU1lyalQySVFDUHp3QWU0Y09RUGJFWWZTRw?oc=5",
    "published": "2026-11-06T19:30",
    "kind": "company",
    "q": "\"NTT\""
@@ -362,6 +425,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "de68a3340f9b",
+   "title": "デジタル証券などを提供するSecuritize Japanに不正アクセス、NTTデータなど委託元各社が情報を公開",
+   "source": "INTERNET Watch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlZHJJSG11M01kT3Vpbm9oRUxHMkYxajhOOU5zSUh2LS1jV01iQkZhc1hwc1lPcnB5cmVuSmkyYTVleEF2a2VXbkYySVZJYXMtYWJoVjRIUWx5cHoyUjhEYkphRUlyY0hQd2JV?oc=5",
+   "published": "2026-11-06T15:28",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "dd3db73c3296",
    "title": "NTTデータら、経営判断を支援するAIエージェントサービス",
    "source": "株式会社インプレス",
@@ -488,6 +560,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "20af4dbd1f09",
+   "title": "NTTドコモ社長、漏えいを謝罪 通信障害は復旧に14時間（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU3YxbmZRaGNVWU9FSDZPWUFEZ3pCdGc5SFF1R0t0MDVzUTB1TWFoamFkeGxJdkx3Ylg3S3hOTzBFTnlZMHY2S3UxVTl1U1N1MlFpZlR2dG5KeHVjYnpkNlZ1d3VmRkxRdW9fNzFNQ3dic051V1QwUnFtb3JueDA?oc=5",
+   "published": "2026-11-06T11:08",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "a10354beba57",
    "title": "NTTドコモ通信障害が復旧 原因は装置の不具合",
    "source": "NHKニュース",
@@ -548,6 +629,15 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRm5wYi12a2JKdTc2WklydGlaMXV3UzZ4NVB0Q254cHVXQklMTTZmUTRiVE9PblRqRUpJdl9lMEkzbWR3SHRmb1h1QWRTZ2RTWGtHWWR2Y3NMMDY1WURKQmVSaHFMQkF4TWZhNEl2MXNfbmlzT0M4Q3hkMEtKVS1zRDJRMTRBOHc?oc=5",
    "published": "2026-11-06T09:13",
    "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a5b4b9a2f214",
+   "title": "ドコモ「５Ｇ」一部サービスの障害から復旧…交換機へのアクセス集中で不具合",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0bnZ1YllXXzVGUm5JbDBTclppMlRPR3BnNXE2MlNubUJPcG53ZXY4WjBrdllIcnRIS1RHN1RtaU1OVW9hSmVFWWxrQnB2TVFhdFpreU9iWWFNdHhmcmFvalNHRWI?oc=5",
+   "published": "2026-11-06T07:28",
+   "kind": "sector",
    "q": "\"NTT\""
   },
   {
@@ -659,6 +749,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "1a567ca3c013",
+   "title": "NTTドコモで通信障害「5G SA」とは？全国で通話や通信が利用しづらい状況が続く",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVZXBQSE04NlV2YVk5R1FRRUJseFJWMGtGRVVySXVzWThYemhFZnRLaEpkcVNHQ2N1WC1iZmRaYWFKb0tYa3RiOXl2a25NZlBfdW1BYkZrS2lzSEE2MU1TaGp1YWNfQ2pYT2hjcmJuWlZQZ9IBd0FVX3lxTE9aRVBZRUVBQmFxb3QycHoyelA3NU9vMG5zekpkMEh5UWVubWJoVTVyWnZ2YUFCdFZJV05fNkdCdGhpcThVdHltUXJsWkRHOS1TQ25GR01xakNrWC14YWhjRUVNMnBYS3RoLXNoTjlmQXlCQWhUY1BF?oc=5",
+   "published": "2026-11-05T19:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "881ed402ea59",
    "title": "NTTタウンページ、メールアドレス14万件が流出 外部配信サービスに不正アクセス",
    "source": "CNET Japan",
@@ -747,6 +846,15 @@
    "published": "2026-11-05T16:14",
    "kind": "sector",
    "q": "情報・通信業 市況"
+  },
+  {
+   "id": "37215bf4f870",
+   "title": "NTTドコモの一部の携帯電話サービスで通信障害も“不正アクセスとの関連性なかった”",
+   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SOVVZNjBnUDZEOXl3QWpzYkpjNlNTcm1XU2ZJM0ozS0tlVXk5c0dkWGlqUEdESlV1VElqX3pHQ3FFZGlYcW03VDlkRkp0X1FwcU94WXI1VmhxTW9VWWwxbThreC1xcE8tOHNla1doZVRwa2tjTjVkVzR3STU?oc=5",
+   "published": "2026-11-05T16:01",
+   "kind": "company",
+   "q": "\"NTT\""
   },
   {
    "id": "da6e92f7a1b9",
@@ -898,6 +1006,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mZ0tMMTI5dzM4bGZHZDZHRG1fcElDcUpObWl2dXJnZ0hqZHhQRG5FR2ZmdWpOTXJVOTR6MGRTN2o0LW9haFFxLUJhWjNQOGdyS1N6UjAzQnREY0g5a1R4TU1yUzhEeWh1UGtiWjVuajNWTUphWE43bDl6dm8xVkU?oc=5",
    "published": "2026-11-05T13:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e6fc897cd25b",
+   "title": "NTTドコモで通信障害 全国で通話・SMS・データ通信利用しづらく（アスキー）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BaU40NWpmUFVtS2FaZW0yZll4RnNJWWxTUjFKakF4N3gtOFhvSEpXRXI3Nm1RY2E1cjZHVVRINm4zTHJEY2pZWXpkekR0dnUtZ1pGVGs4WVNITDNOSDlrbUJTZlljNjBRMVdMQVBaNEJjclJoaER3dEpIVndWNkk?oc=5",
+   "published": "2026-11-05T13:40",
    "kind": "company",
    "q": "\"NTT\""
   },
