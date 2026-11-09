@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-07T04:50",
+ "updated": "2026-11-09T11:28",
  "items": [
+  {
+   "id": "f07e4901b8ef",
+   "title": "週間ランキング【業種別 騰落率】 (11月6日)(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDkyUXh5emF2c21QSW9jY0NuMFo2NWd6Q2xXN0NDanp1cXZLUVI5WW1CU3pXaUpkMi14WVNlWVhlQ2ZfdjQwZ0VJcDRiX1lHXzF3OG4zRFdyMlRsV0ZzZlJOOTRaQWJxYnk0aW1YbDBZMTJhZGVFUnVRakhIcHYtcHk5cDRadUU?oc=5",
+   "published": "2026-11-07T08:30",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "ba3e6a4eaab2",
+   "title": "東海旅客鉄道(株)【9022】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ZXBNbS1ubUJCQXVDbjRhYk5UcHdLTDZnQWN3eWhLVFFCbVRvU01fSFlCbkV0MkZvcjFRMVBXMms3S3RTU3F2ZDRfVFQ2ZlN3M0E?oc=5",
+   "published": "2026-11-06T17:00",
+   "kind": "company",
+   "q": "\"東海旅客鉄道\""
+  },
+  {
+   "id": "2fe5e37fec61",
+   "title": "ヤマトホールディングス(株)【9064】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wRnVFWGJRcWhoRzlid3BKSnF4MklYOFh5UGUyalVmemdvRThma1RtOGZpSXVRRlJhYTU1Nm9tc3pjYlV3UFE5Nm1SSjExVmp2eWc?oc=5",
+   "published": "2026-11-06T17:00",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "48682dfa7d2b",
+   "title": "東海旅客鉄道(株)【9022】：今の株価の理由は？値動きの背景をAIが解説",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TbnJkMWxoWUFhdnVya29uRkNZb0tXamptYVZLSFNJczdvbS1pZFJKb0VKLUNidkUwRWZQV1I1dFNqSWItbEFmTWZNN1YtOVlqaVJOcm1PcG1PUVFMS0k0?oc=5",
+   "published": "2026-11-06T16:04",
+   "kind": "company",
+   "q": "\"東海旅客鉄道\""
+  },
   {
    "id": "d0268c6586a5",
    "title": "【注目トピックス 市況・概況】東証業種別ランキング：食料品が下落率トップ",
