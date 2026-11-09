@@ -1,12 +1,498 @@
 {
- "updated": "2026-11-09T11:28",
+ "updated": "2026-11-10T02:28",
  "items": [
+  {
+   "id": "db8db7dd7fa4",
+   "title": "ワールドトライアスロンカップ（2026/宮崎）日本選手出場情報",
+   "source": "公益社団法人トライアスロンジャパン",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OTzlqWm9PelJmb01KQWxCeXZjSVIwX3dBdi02Y0FZME1yOE5fMTRmcDM5X19oTFcxa0NVRVZFcEh6bGRtY0pJTm94eFZIc19ZdWVmMmc4NA?oc=5",
+   "published": "2026-11-09T23:08",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "24debb2995ce",
+   "title": "初優勝か、32大会ぶりVか 決勝はNTT西日本vs東芝 日本選手権（毎日新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKeExURGRtV19lWFFKampyRHB5WEw2NDg4WEhwX0FIUGdyVWNHT2RQQkZNOGFPMnNLMFVFS1NfbGJHQ3BpN2FHdVZYOEZmQzRoc0ZxemY3YkxKM1NnZFBFaXlPQ2VpcVF2SWVDUWdFUU9KRDRrZmVkb0hlOUpRY00?oc=5",
+   "published": "2026-11-09T22:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "576673bba856",
+   "title": "NTTがNEC株を全株売却、個別決算で売却益1,890億円 それでも「提携は継続」の真意（ビジネス＋IT）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeXhjOVJOb29Nb3B1cUpXVEs2Qlpuemh0cncwZEZSWTNNbUhENktTWV9RN1l1aEJwVEV4Ym9lWFZLdWxsaWVNRGZDaFNETXllRzgtSzFBbHZQeFE2WHFnb0RTNktWYm1jbUlybU9CMHFjNzBvY0hHZEIyWFdhVVk?oc=5",
+   "published": "2026-11-09T21:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "2f4b07ccdfcb",
+   "title": "社会人野球決勝はＮＴＴ西―東芝 日本選手権",
+   "source": "山形新聞",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXVDVTl2bzhkWWF1aGpaVENCYmRHNmM1TkpzQ1FaMkVVYVQzeTdfYlFHRWpHTmZoWFpZcDZQa3NUSjlOS0VaQUtveFZwS3ZKUmZ0ODRZVkV5RFlUbzAwT25XamVvNjJBeEhTdnJubEtJZmFVZFVvUW85VXhNR2NOVWFtYm9fR0Rw?oc=5",
+   "published": "2026-11-09T21:10",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "eaa0e9dbe89b",
+   "title": "＜NTT西日本・西濃運輸＞7回、3ランを放ち雄叫びを上げるNTT西日本・中村（撮影・大森 寛明）",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFjSUIxUUdueHB5Y2hoZHIxcHJidlNmR0pyREpCb2EtQUs4QndLZDY2NGpSUkNEeHdXWVRsZWt1TmRlc01lTl8zYU1xb25wVWRrazlfZy1DWmdfLWhySkdLVWNfMGlMNEFrVmFadm40T0NEeWthNjg0UVFCNWMtVVhsZUVzeWFWSHdpNUY2Yw?oc=5",
+   "published": "2026-11-09T20:51",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3ee57d544ec5",
+   "title": "東芝が日本通運を降し決勝進出 NTT西日本と対戦へ 日本選手権",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ja3F5Sm9fam5JQV91enFLa2tmV2p2SmdmT2NyX3pYN2l5UDlMbDhWUWxURm9MZ3hmSXQwa2VwVmZkeE4xUnRkcmtKRUZrOGJXbGJoUHR3OTNSWUVWaWp2VVItUURjMnhf?oc=5",
+   "published": "2026-11-09T20:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b9219ff42114",
+   "title": "NTT、NEC株を全て売却＝売却益1890億円(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmhjOGhaWTdVSFJ1aUdzQWhYbVhnVEJ0b3RBVjlVQkpvWXkyWjY4VWZZTExPLU42bDZydGxXcG9WRVVFR0g4MUk2cHFNSGEySHFYRmI2TWRDc2Znem5nVEJZRldpdGt0ZGhYbk9IeGxMMmF1MUswWnJqNUxWRWJOc3JKcVJ2ZWc?oc=5",
+   "published": "2026-11-09T20:24",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f1de5aed0c64",
+   "title": "3段構え作戦奏功 NTT西の新人が俊足生かし先取点、決勝へ",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZRWxkZTFibXYxV0s0dWRBQktDa2cyd3BwNV9DVU1TLXVaZVhWdGJSVHJ0MGNlNEJSZWdBVlhyeTNGRnNTRHpMZFEtQnlWZVBmTFhYN3pqb1NsMElqU2h1SlpjTXdFYUE1?oc=5",
+   "published": "2026-11-09T20:18",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b5ac6af1dac6",
+   "title": "NTT、NEC株を全て売却（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qTlAtMnVMWjREbWN2eWt5cExJZVZYOEdKc2h1dXhiYzFpaU5oalFpWTFXblFrYkwzVjd6UWZTVVMzOWZuV1lWd3EySXpGSUtZbEZYdG5RNk5KX2hxZUpiWjNCRWxVMVdvUGs4M090bW5UbE1Pc0ZfakpWYkhYXzA?oc=5",
+   "published": "2026-11-09T20:01",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "0c4efc1104d5",
+   "title": "NTTなど5社 衛星連携へ協業検討",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ydGVLcUNsYUtoQVBZbGpmTmxKdi1TQ194NWZidC1GdDl0NnFxWUo0U1VnbklLQ0V6OVB6aXhDUllvUEJBbm4tVkg3NU10UmhB?oc=5",
+   "published": "2026-11-09T19:26",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6708421220e4",
+   "title": "NTT 保有するNEC全株売却を発表",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9raTlhUlVpUHQyaXc3X2ZNOUl1UnFVVWIzNWptaGFBd2g2QWUxUTM5dGVCRWdwQm0xSU4yR0I0ODA2cHktSHlEZ01JZGxCa193?oc=5",
+   "published": "2026-11-09T19:07",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "aab934199bab",
+   "title": "NTT、NEC全株売却へ 保有する4.9％分 IOWNで成果、提携は維持、拡大",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16MlotMzF6RDQ1SWJGQzRSN0MwWHNnaXlCckN4V0d0YmsxOFVqRW5KTkJYR1pYaW9QWTdCeVJld2VYRFVaR0JFTm1VQXp4bnhXMFlmTVNxbTBJZVIxZTVUclRpbUc0ZFdWY0thZE9UMkp5Ykp4dnc?oc=5",
+   "published": "2026-11-09T18:56",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "1595f0c388df",
+   "title": "ＮＴＴ、ＮＥＣ全株売却へ",
+   "source": "OANDA証券",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05dmpsSFBBR0wwaElKRFUxb0pnRlJtNFZiQnlqd1pmS0UyZnZwYWdIZUtUQnJUeTFmajJFbmd0NGJtSjJDeHpEb0Rhcnd6MVJPNjQwbHNlc3hicGlJX250d1ZmZjFxcEF1MjZTSm83VzVOLW1wR1E?oc=5",
+   "published": "2026-11-09T18:47",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a2e60cbe05e6",
+   "title": "社会人野球日本選手権2026 NTT西日本―パナソニック（準々決勝）ダイジェスト",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NWGtmNndaTTFxV3VTRUFaZjlhd2N0bWxlVi1SLVNIYzZybU4xRlRtdFRkdnAyNmhjTVJMVmxuWjNLSEh5YTBodFA5SUtlT0Q5ZElqRzVFeXQwdG1jdmNaVjRTcXg2QQ?oc=5",
+   "published": "2026-11-09T18:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "95075047357c",
+   "title": "「和製スターリンク」構築へNTTなど5社が協業、光通信と宇宙データセンターで勝負（ビジネス＋IT）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWEVoYjdHQXRLbHo3SkpBTndPWUktSUFnYkhLVmNwbHhBYzdVYU04aXItRVgzZC1lRmpfUlByd2R1VmJqWWw5YnRhMzFQd3czeXpjWmVrRW44cjgzUWZRTmNLc1A5Q0h5OXQ4RVFpWTRBTlowTmNmZUxDYS1oVjA?oc=5",
+   "published": "2026-11-09T18:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "66c496c3e48b",
+   "title": "NTT、保有するNEC全株式を売却へ（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwNjFmYXBTeGI2WS1jTTFGakktRFNiTFlscVFYLUE3dmIweU11NWR1WTRtXy1JaGVhaDNhYnZESHBwaWRCWmJfcGh3T3JTSlJvaXVya1R4NXU3ODBzVnNvRkl4Sl9Fb3N0ZGtYUDJTWmtjb2VNYnVGVko2UVhqcnM?oc=5",
+   "published": "2026-11-09T18:34",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "12b0d10668ea",
+   "title": "【速報】NTT、保有するNEC全株式を売却へ",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pOHhSalUyQzRZWlE5Nlp4bkdKakZuMnZqdHdKaC1WMXQzTGVwcjNIRTQxeVd0S3dDY3VfejF6V0JWQWF1a0FrVV84VQ?oc=5",
+   "published": "2026-11-09T18:34",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "bf42a22a41a6",
+   "title": "ＮＴＴ、保有するＮＥＣ全株式を売却へ",
+   "source": "沖縄タイムス社",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IaVZlSXE1VFFacVEzZ0J6X0g4MEpyUzRwZTJ2S2w1THl3Rm05cUp1emx2aHBieWpTNzBYeDhQTjFwZ0xENHE5ZnQzZ1hTaGkwUS1ZbFJqaWJvOXdVNmc?oc=5",
+   "published": "2026-11-09T18:34",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a7ba14dc9dd7",
+   "title": "ＮＴＴ、保有するＮＥＣ全株式を売却へ",
+   "source": "京都新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wVXI5VTY1QmFwal8tdHB2QTVDdGZzTFIxM1FNTkdBU1FGTktlWTQySG9XUXRNYTZZa0dlTUxtSDRqOHJLWGhhMUNJMERESFZUZkszQ0xDb1ZTMFk?oc=5",
+   "published": "2026-11-09T18:34",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9ff793ddc91b",
+   "title": "【日本選手権】NTT西日本が決勝進出 35歳ベテラン中村篤人がダメ押し3ラン「結構飛んでくれた」（スポニチアネックス）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyT1BEb2IxYlUySFoxRGZiOTRTYk54NUZBOWZEbmkwZGNscnRZRUoxRHU2QkN2V2xjUlZiV0tTSHd6OHFCc2VKZ1Q0MGdKYXRDUHlCRzFzMERIV05ZeGdyZTl1UnZsUjhhYkM4aUE3d0Qzd19lemtLYmRzMDRFeFk?oc=5",
+   "published": "2026-11-09T18:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a1ecc3cc5d33",
+   "title": "NTTデータ、Bloom Energyと900MWの燃料電池供給契約を締結",
+   "source": "Data Center Cafe",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1hFanFuYk9GOVljTnB2WmJaLWJRcEZwMkFac1ZHQzdiWmRqYlZsX2FhZFNlZUd4S3ZwSHBnRDUtSXF0Rm1vaWZXWHdhN1ZlWWttSFNRcHV5QzFYSWMtR1FadWZzb1JFbzktUGhtejdBUHZ6MTJ5SXI1c0h2MVVVWmpxNFJEZkV0aExvZ013cmI3Zw?oc=5",
+   "published": "2026-11-09T18:14",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "1df138fec74a",
+   "title": "NTT西日本が決勝進出　社会人野球日本選手権",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkdDZkZ5VlhwN1hVV0dKT3U2RzRWVmNlbng4dnlwckRRSW54MXdJSEx2bWRwb2VBTXgzazhhU0ZCZ1VJZkRtSDJDOUJqRG12QTVMcnFCSDNFYTF5MG5vOXIzWmRDeGM3X2FzV09EYjhNQ1dHaHlISDNzaTRKdEEzd0lWeWJ3Q0ZlT0Z30gGQAUFVX3lxTE4wMVR3R3czODRSMDExZDVFaWhMMmFwTU83ZlRNdExobTdGTFRLT0ZVNi04cmZiMHdROTJ4c0hLRDc4V0lvM1lsb2xuSkdndGFVWFBkOTZlVVlhUW1LclhvQ3p4VndaZ0pzWHlWZWEyNGxCSmdDdldOT0N4V1dBcGVob1lISTZNTlpTQTY3b29NWg?oc=5",
+   "published": "2026-11-09T18:08",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9004eb4af2ed",
+   "title": "ＮＴＴ、保有するＮＥＣ全株売却へ 業務提携は継続",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHpmYng1Y0RVTXZlQm12OUZoTVd2bjBpbTdrWFZnemQwRzBLQldndG1xYkRxNUFRRlNtdzFzc3E2RGxpWDRnOWZZM3Vvb0kwTnd1Zk1mdENwSFNIcGZ0QjhyS0JfdGJMdDFhb0dPS3g3eTA4QmlheW9UcG9NR3NqeUVyN2FhZw?oc=5",
+   "published": "2026-11-09T18:04",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f4109992d80d",
+   "title": "「和製スターリンク」構築へ NTTなど5社、協業検討の覚書を締結",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QVVM5MkZBY19rQ2ZiS0hTSmxhcndZLWhvaFFVX3N6N3dYN3Z6b21UckFlZzhDdWlnTzhZRzA2WU9ObkF1dnhHTHE1WnVjUm1jbUtEdEdwNjJ0ZkpoS3hmcFhjekE0LTh1NlZDUDVHaXM5UnZqTGY4UHhram5KNmM?oc=5",
+   "published": "2026-11-09T17:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3f3d94ba3f75",
+   "title": "ＮＴＴ、保有するＮＥＣ全株売却へ 業務提携は継続（ロイター）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWkNsQUtaOTFIcnhxUENYbEY0M1FTckF6VGd3NWZPWW5sd1Jja3VIck0yelFlWE9HczduanYwUURJMnpXWjIyNWp2ekQ5RmJiZlhzcXdOR2dvd29QYkU2b1NnWW9ESjZIbVRIcnB0V3ZEQnN3UmllNTByWUZKSDg?oc=5",
+   "published": "2026-11-09T17:29",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "430cf15330db",
+   "title": "ＮＴＴ、保有するＮＥＣ全株売却へ 業務提携は継続 (ロイター)",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3Q5akpfN2RwTkRZVHdiOGFheldBR0FrdWN0NHNnX0lzaDNvYnN2ZndRVFhWT0VqSlg0VlU3U0NQcjlOUEFzRkNMYWhFYktUNEtpQXBNVkhRZE1mMy10YlJXaWl4TlJhY2ZrcFF4VXdSWGdsNTd4U2FkZGdiWXRGa3N5RGVKMlJvMlZMRXRR?oc=5",
+   "published": "2026-11-09T17:29",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c904c96f07a3",
+   "title": "決勝はNTT西日本―東芝 社会人野球日本選手権（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQko5TUcyM0VqOEwzME81NTJSbzBSbFMxcTJtRkQ4NGhqWG9mMzh6emhXYnhpVEpzaURwU0hPTnlVNFYtc1ZzeWhlSjVkMHBBOFRhRHRYU0s5R1A3OEtLREVtNjVlTGJyUS1KZFZGeEEzR1RqVy1FaWpEQ3RXT1k?oc=5",
+   "published": "2026-11-09T17:26",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4df8339eac3b",
+   "title": "【2026社会人野球日本選手権】 西濃運輸 vs NTT西日本 ダイジェスト",
+   "source": "スポーツナビ",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3NGNuNVZxNWpEc2FJNUZtRDMzcGlSWWZ5RzkwdEtVS0FyaGhXbEdUSGFvRGVnREFGdGFLQkhWOGJmUDZMRXdidGVOVFFUSURPVFRjdVU2bFM3bDBC?oc=5",
+   "published": "2026-11-09T17:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c714af3b597c",
+   "title": "今夏の都市対抗V・西濃運輸、NTT西日本に雪辱許し準決勝敗退 ドーム2冠ならず【社会人野球日本選手権】",
+   "source": "中日新聞Web",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94YnIzbml2NzRENVFWalk2ejhIUjB2WllwSnJILU5xVVZmTEVfQmRMakNVZEIwMFU2TTl5emR2eDFEckFsNE9obXBYMlJFaFhrUmROMA?oc=5",
+   "published": "2026-11-09T17:13",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7bb140454eea",
+   "title": "【社会人野球】NTT西日本が決勝進出 西濃運輸に快勝で都市対抗決勝のリベンジ果たす（日刊スポーツ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SeFU3b0MxQ0s2LWpXb1BPdDRNOE05Y21fcnZ1ellOS0F6VlB0cHRVc0RZYXhfckxqbzNkdHVqR2tTWHhRZnQzZ2tUZkFSWkE5RXkybGsxd1llTjV5bU85QjJHX1JUT19kRmdncUdQcGFlcjlWNXl4d1VyWHZXX2M?oc=5",
+   "published": "2026-11-09T17:11",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "47684d8655e1",
+   "title": "【社会人野球】NTT西日本が決勝進出　西濃運輸に快勝で都市対抗決勝のリベンジ果たす",
+   "source": "日刊スポーツ",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Gb09aOE96SXFwWmhWOXJJck03NkNUNzdqWVYyeF80WWxmcEhGcEJBbWgzUU9xRkt0Nlc3OGlsRFVJQ1ltdXk5Z01NUjF1Z2w1SThzdF9HazJTOVhvMkc4VUJlejRHZl9IbkhhTTNoMlDSAXhBVV95cUxNT3AxUTRTWmo2Tm9RbjNOQnRhSjAxeHlXaEJYeWxmbzdyN3hBUVkwVW9nMm5JMHhrWFc0ODRjZUZVUXI0dEdXQW1aTkY3eGYzR3ZGX3FkYXJTa0NVWUNyOTR5Y01mQXptYUNwSFZJTXFFd3M1M1VUdTc?oc=5",
+   "published": "2026-11-09T17:11",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f4aa25fff313",
+   "title": "西濃運輸－NTT西日本（準決勝）社会人野球日本選手権2026​ [写真特集13/49]",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDlNWmZSUWNMcnMzUGFVZE8tcFFObVNnWHB4UndjZ2NJUGFaLUgtUy1XVU1XYlA4dTkzeDNteHBNaERZamo1R1lOeXlQVGRGa3U1T01Xd3VwS0VsOEl4MEV2b09CR3dLMmlNdnp3ZHMtdEt6WmZYUnNfR09uTkxnaC1iNHdmOVE?oc=5",
+   "published": "2026-11-09T17:08",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "2621f9d81838",
+   "title": "NTT、NEC株4.9%分を全て売却 20年からの資本提携を解消",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcDZBc2hQRmZwR0RCaWlCM2xUZDN6d244cmZxQVhhQmFWQlRzMTYtczlhTTJkVkJRVFRoRXRjSkd1aW9wVDRBeTRJZzZ2Yjg2ZWlmTmdUNE8tMFUtUHNCdVNQNjhBM0ZlMGJOcA?oc=5",
+   "published": "2026-11-09T17:06",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5c60b8246209",
+   "title": "【動画リポート】トヨタ元会長・奥田碩氏を偲ぶ「感謝の会」に密着・【電力・ガス12社】倒産危険度ランキング2027最新版！中部電は何位に？・NTT“電電ファミリー”の長男格「NECと富士通」の距離感はどう変わった？",
+   "source": "ダイヤモンド・オンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcGR0emNxaV9VRTdyLVU1NFV2WmdXZVN2XzF6T0RaTERBS1padmJoMk5zdjVnVTRsU1g2VVB5UnNoLWFRRk1IcjFhVkQ?oc=5",
+   "published": "2026-11-09T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "298414d423c5",
+   "title": "ＮＴＴ西日本が決勝進出！西濃運輸に都市対抗決勝のリベンジ果たす（デイリースポーツ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kWG9nUFdYZFIyZEJoQV9hTHlsWVVqUDJvR2diOVlwSm95LWJQSDhXTUR3UFVWMDk5eUhyenRxdGlmbUhzajRBa215WURKN3RWZXFFQmMtYnN5d1NlOE5oU3lkWVAyOUg1dm1MUm9nb3pJRWNzUGFkNnBmdGZGbEE?oc=5",
+   "published": "2026-11-09T16:59",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ea6979843b18",
+   "title": "ＮＴＴ西日本が決勝進出！西濃運輸に都市対抗決勝のリベンジ果たす",
+   "source": "デイリースポーツ",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMjdnSXZPS09pRVJPakw5RGc2UTdTUldYR3BfTzRqV1hydHJRZURBX1VPS0dCWDhTb3VjWjRkYXpCRWZZUk0wdEloRHFUbVYweEJiUG15ekdiMnFic1lXZWRVNG9oVjlJc2VGbQ?oc=5",
+   "published": "2026-11-09T16:59",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7f9e7e3fece5",
+   "title": "NTT西日本が決勝へ 都市対抗王者・西濃運輸に雪辱 日本選手権（毎日新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQ29FRzVIQkFMTWI4d0hzWXVCb0FNeFJGZUl0b0lQeGFlU3liNmdXb05IZk4tdGFfcWlqZl93NUtmM0o3aGNVVGdOdV9UY1hSME80WUozUjFHLURFbGFuLUNRck1QaU80UHV2VzN1bmlKV2dFbW9iWmpQWDFoWU0?oc=5",
+   "published": "2026-11-09T16:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "203d9ef2be5e",
+   "title": "NTT西日本が決勝へ 都市対抗王者・西濃運輸に雪辱 日本選手権",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkM25lZmI0REk3a0RuZGlXeG5ueHlzbXRJVUNZck9ZMm5zUFotbEhJLWJVNEJlVFV1eDJLa0xUb0UwMGd2UnFaUzZzUFJvMllULVl5aUUzZ1NQb1JwVXBzTjNMNWdzZUp1?oc=5",
+   "published": "2026-11-09T16:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6cc3ff943b0d",
+   "title": "ＮＴＴ[9432]：投資有価証券の売却に関するお知らせ 2026年11月9日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPem1DT1IySFpXeXFIaTlsQzluWTU0cVRTd1VGemhCZnp2Wmk2RFdaTnhTU09MeGxWOG1ZeDdsbWEtYlVid2xiVllKMlJITUtfU3NCTUpEWE5ES0E3Vi1wU1FFSFk4c2JWSmpUN2FzLUNfRkhIZjRTcElHWjV5Y083T0xEeTY4Mk9seFgwaXVoUThJMVV4azZERkFzWUhzTHhNQ21BajNnS1M1T0lVR0UwX0t2QWRwQ1NIZEZOQjEtSGt1YXA2LVRDektlZDY?oc=5",
+   "published": "2026-11-09T16:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3d7581a30891",
+   "title": "NTT、三菱電機、三菱UFJ銀行ら5社、協業を検討 メガコンステレーションによるサービス創出目指す",
+   "source": "SPACE Media",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tQkdDS1RGdGZiSHpmOVA1OTM3cGo2QktxM2NDam5uNzZ6NnNaSWJ5TEZxM3ktNmRYeDlrQm5TbDV0cHRwRVBZ?oc=5",
+   "published": "2026-11-09T16:43",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f9fba08659df",
+   "title": "食品ロス削減と貧困問題の解決に、ＮＴＴ西日本山口支店が「フードドライブ」…児童養護施設に食材を寄贈（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNzMxRjVmbEZXaHJMaVhxdFFhZkMybGF6Y1BYY2MxY0FjeGw4TXZ3b1dzRTdjcFVWRkdGQ0RmaHlIZnEzb1VqUmRleXEtaGloSDF3OUtCNVhzbWhrTnA2ZDdEbG9MMUF1QTFGTVlCUjQ3d1N2aHNCeDFHZjYyWG8?oc=5",
+   "published": "2026-11-09T15:01",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e7290aee118f",
+   "title": "NTTデータグループの金田氏による「サステナビリティ経営」についての特別講義が行われました |",
+   "source": "中央大学",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UUWhUMGxYWEdTZ2VfSld0akFRamdVN0dUQ1hHbnBVaGo3MUFJTHVtWnd1aGVxZlg1VzZlNUdsZXU0TGlXRTJmalZtbjJYOEtvLUs0TldBZDBEVmU0anh3YXZIYTZENzQzM3J5aHpmdjZxZTZ1U25pQnZiN0hQSUk?oc=5",
+   "published": "2026-11-09T14:26",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "cffa90a381da",
+   "title": "NTT社長が説く 縮小市場で売り上げを伸ばすため、経営者が下すべき「3つの決断」",
+   "source": "ITmedia",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yNlVaamlvOGE1dS1reGtMelBFSDU5TWk4dmJZaHp2MHRCVGp5aVY1ZEFWb2NkYW1tVlR0dTliMFFBbWhxN1oxRU5KS3ZoMHhySHMxZUhSRlBKcXJZaDJ4NExsaHEyVk5KcHRKUy1rZ3poN0pM?oc=5",
+   "published": "2026-11-09T14:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d798c7b6338f",
+   "title": "父が1987年に「NTT株」を“1株160万円”で購入！ 分割で1万株超になり、今売ると「153万円で損」なのに、買値の記録がなく「税金29万円」と言われがく然…損してるのに払うしかないんですか？（ファイナンシャルフィールド）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rU2xGRldSU1FlT1V5VTczcmlwSHlkYlVHTWlZN0gtRVVDdE53Mnpod0xzTlRqZm5SaU41bHZlQzNvSHhHelQ3ZERxd1RZaFJZZ3ZPZU9SaExna3dXNG1MUnJFa2h3czRacEpCaWNEUkdyY1hRSHBxN0M1eVo2Sjg?oc=5",
+   "published": "2026-11-09T13:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "28af8b17d2ae",
+   "title": "NTTドコモ“流出”で最大約30万件...口座情報や勤務先も 北朝鮮ハッカー集団の巧妙な手口とは【追跡取材 news LOG】",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mNklhRjNDOF9OYncxeHpsTlUxQ0RMS1ZDZlVxdDZOY3YyLWc4ZHBvTzNuejZ0RGRJbHM0VjkycXYxeGJSWjR6YmxmejJCREpROHI5dGVpTEFFMVJmRXhXUFdJZTdsY3pnenUzSmNVRWVrNHgxZVpheHpWOEgzbVU?oc=5",
+   "published": "2026-11-09T13:24",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f18eb68d7622",
+   "title": "衛星通信の巨大網構築へ、NTTや三菱電機など5社が協業 災害・圏外対策も",
+   "source": "ケータイ Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XNFc4bnRVUDQyanZ3am5pTjRUSDJCUlJqMDgtY0Ntc1lPYWxmZGlCOHBwc1FiWDltMnMxd2E0MTUxVGJiTnBsc1NERHJFU3RMR3d5SGhnVzFEWDhiMGJmVDJveVp1OFU?oc=5",
+   "published": "2026-11-09T13:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7075677d4f65",
+   "title": "NTT、人工衛星で三菱電機や三菱UFJ銀行と協業検討 通信や観測巡り",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxX3p1RHU5a05CVlNON2JDbnZRd3MzZmMtMU9GeVA1anhEZGpaSXJjaWR2Z2VmbnI1ZnhrdmF2NE9VbFdqZTY0VVJ5emV2ODl0QTBoaGlONVZVZXB1ejJhTFZhTXNPaE1kWUdTUw?oc=5",
+   "published": "2026-11-09T13:05",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5f08c14ecd7c",
+   "title": "NTTら5社、衛星を連携させる「メガコンステレーション」事業化を検討",
+   "source": "Impress Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcEZxdjFGbHc5UjExNC1QUEFsS3UwR3l4eTdWZTlMLXEzQmprUVBYTVkwZ2kxS1daa1RhU09iODU4Y1FNQ0tSbG1FY1AydWdBQm9qaUdPa2c3MXpHLWRsUHVjcDM?oc=5",
+   "published": "2026-11-09T12:46",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "293e7cf19d82",
+   "title": "NTTら5社、衛星を連携させる「メガコンステレーション」事業化を検討 (Impress Watch)",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVnIyMi1RQkw0bEpEdjVKNGlFUW9zVFVId1pEcWFmMEZrMXlVRDdiZXNRWVFNQ256UDJBdFdhazV1T1VjdFA1OG94bVpvMWI3WkVyWWI5Y1FydlJCWVNNMGRFbmNsU3piaTdaY3Uycl9peDFIZVR5UndWUmtJQTZjU0I5R2JlNjR3QmNlXzd3?oc=5",
+   "published": "2026-11-09T12:46",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "58e2b135869b",
+   "title": "NTT、センサーとAIで水道管の漏水位置を特定 熟練者並みのスキル",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DSTFpVjcwdG1OeUpTcHpzclVfVk5LV0RrYXlqQ0JTVGFsTTFpM0g4d1BMR3NOdzFHdlNxamtnR3QzR2VfemdaeTlvNXEtSVdBSWtXLXMzcnZfUUV5Zl9OQk83Qk94THIwQTlsQQ?oc=5",
+   "published": "2026-11-09T12:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7c81505f8448",
+   "title": "NTT、心の知能指数「EQ」を高めたAI 背後の状況を踏まえて応答",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0pDaWZZcW02c1lVNXk2U0M2VEpRYThfWHFRcW5ud3J2Mk1DUWhZcHJFb0cxNkwyLU5JT1RDLTlWZ0d4M0FlaTBZV2RycF9zZnpoZnVHNzVfbTZ3ZGFvNXh5OGZENTk0UjdLYQ?oc=5",
+   "published": "2026-11-09T12:37",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "81a7f359a3d5",
+   "title": "ＮＴＴや三菱電、三菱ＵＦＪ銀など5社、衛星コンステレーション事業化へ協業 | ロイター",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDdGVxdmJHbTFZcVVfSWpZV1h2NE1oNHVCRFp6eERzMVJBOHhyd2FGOTBRc2lwZmpmNmIyeFcwQndDZHhrNHNSWVg0YnM2bFFyd0xnNUljVlZnRzc5ZGlHa3k4STNTTi00SWl4aXZvUXpFVDFFYXBCeEI2UQ?oc=5",
+   "published": "2026-11-09T12:31",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "93b3fd53f7c1",
+   "title": "NTT・三菱電機ら5社、「メガコンステレーション構想」の実現に向けて協業",
+   "source": "ビジネスネットワーク",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ibjA1eFRkVkd6ZzI5TGM2YnBleXk1ZjRzVnNwR3hKM28tSVMyNndOa0c1QV9Gd1d5LUpzU2hZV3dhdnM0SlJQZWUwaFZ1LVd5cTVV?oc=5",
+   "published": "2026-11-09T11:19",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "9388f5cf7d77",
    "title": "メガコンステレーション構想実現に向けた5社協業に関する覚書を締結",
    "source": "NTTドコモビジネス",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vQTRuTjNpQ2FxdU9CU1hRbXdpRlR0cU1ZdlhjeEs1UUxfVWltRUdRbWx6bG8zOENJMHdndE1sdkZ6bWNtQV9FdGF3OURkWEtSRFd6VnpSQl8wMDRNcm9SM2pKakNGTnBsNkYtYTJIRUE2Y2tiT3VSVGJObw?oc=5",
    "published": "2026-11-09T11:07",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "19aa57b8b1cc",
+   "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出 見舞金検討（ITmedia NEWS）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjR1FIcHZOdHhpaVlIWmlTVnRPNV9taExVMUVNcGVscHJRQ2lJT01sVHh4U3NNQUtmRFZ3UjFLTWhHOTdoZ3dDaDAwRWxWRUl4NUdQNURLa0VuTjRrWWxNcVh2UWsyd056NUFTNVNJX3dVOFliLUtrV1d1MHpJalE?oc=5",
+   "published": "2026-11-09T10:54",
    "kind": "sector",
    "q": "\"NTT\""
   },
@@ -38,6 +524,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "8118e6639f25",
+   "title": "NTTとSafran DS、宇宙と地上を結ぶ光通信インフラの実現に向けた覚書を締結",
+   "source": "INTERNET Watch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZXhWQ1Q4NFU1TUxJSjh4WE5pM3J6ZXlCb2VsM2YwSHdIbEpQQ0pNMnBnZWlwcTZZOWdzNV9GVFlkQWRfUmx5elRtLXFmTk9jRFNHVnd5Nm5MSUNoZXBWaUNCeFBzdTA4NHk4?oc=5",
+   "published": "2026-11-09T07:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "9030f9e4fa75",
    "title": "ドコモ《1カ月足らずで“トラブル連発”》の大失態…社長が設備投資増額を意気込んだ矢先の「14時間続いた通信障害」",
    "source": "Yahoo!ニュース",
@@ -52,6 +547,15 @@
    "source": "スポニチ Sponichi Annex",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWM3SXZ1TC1ZVFoxSmFPVmhsWWxiMHM2NG9GblFLcktlNkpkcVEweERxWU9xLXcybHd1UjlDS283QU9pSWZaSzVBZDRoYlJNZUJaZVUzUWZHS2pKd1pVdjdrTC1HbnRzODBEUDloN2U0V1YxR3NtTzZKVDRSUHVqVzdreXQycF9MQXRmaVdKcw?oc=5",
    "published": "2026-11-09T05:31",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ed253abe235b",
+   "title": "【日本選手権】NTT西日本の“韋駄天”串畑 悪送球呼んで8回同点ホーム 9回も俊足でいい仕事",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHp1Ukd6aGd3MnBiR25HeGxBdERkRHBjMDFPT1lkY0ZfamlpNm5qMGZpLVIwOWhlVEtybGRnRU5zcl9Xb2FkRl9xQ2tMOU5tLUE1ejlQOFdzbGdhbmNPcmw4NzBXbHFhLXlyVkd3VVlwLUZCSU5SM05WZ1NrdkpESzhYZmlZdzFNdWwtRU1jZw?oc=5",
+   "published": "2026-11-09T05:30",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -74,6 +578,51 @@
    "q": "\"NTT\""
   },
   {
+   "id": "a1ef8b363a1f",
+   "title": "【社会人野球】NTT西日本が決勝進出 西濃運輸に快勝で都市対抗決勝のリベンジ果たす",
+   "source": "日刊スポーツ",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHMzTXpTYXQzcEQ4Q3hqTXcwQlh1M0w5d0xGdjJHMnk2U1lwTmdnT3Vka0hvdzBMX0ZYeS1MU1NMUE5OWEVhMnk5a0o4czVfd2FfLTdOTlIwNmVlRG0wUGFKc0NTamZzZ0NWX01LRlBlV3poSENIbVNSSk45bThJaExfUDFYYW4xRHdhZ1o4NA?oc=5",
+   "published": "2026-11-09T04:24",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "0b84ff13621e",
+   "title": "準決勝は西濃運輸―NTT西日本、日本通運―東芝 9日に実施 社会人野球日本選手権",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rN1NMZldiTXNtYmp4ZXhVVlR4WHN2YmFVYjVEX1RBeWJUeThjbUNTanB1bWpROWxQWWgyM2h3QkJFN0ZLUW1WV0lnVmZCN1lVUGZ4X0JuX3Z1QWoteXhWd1o3aWI4blByYU1KREdHRjVfSmE0TkE?oc=5",
+   "published": "2026-11-09T00:22",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "21d00df84306",
+   "title": "＜NTT西日本・パナソニック＞ 初回、NTT西日本・天井は先制打を放つ （撮影・平嶋 理子）",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRmdZaHFrQVhtbVQxNTlvYVZ2WHBkN0ZISTlTX3ZDMExxcnVCRmdNNGI1NHBlN2VzNVItWVZzV010WkpLb1Q5VHc0MjRkMUNpQmRPb29PUUJoaHdhWXRBUlVCWFoxWmh2cjEtcnhXTll5dkFlUlR5NkRXVUZYMW92ZzJER0tOTGhsX0lWNjlOOA?oc=5",
+   "published": "2026-11-08T22:36",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "2fc090c71ada",
+   "title": "＜NTT西日本・パナソニック＞ 8回、NTT西日本・天井は同点の適時二塁打を放つ （撮影・平嶋 理子）",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOEx2UEF3NlVhSGhaZlgzU2dIODlDeVZib3FWLVQtZGdkaXNTV0lEQWxja0YtWFJYcHJyU3JraEhFNV9XOU8zZnEzZ1huWmx3cTByZzBIbGoyYlM2UXA1OEtyQnMtSlZXS243bXRqSXJaWjcyRk5fS0drUzFDS1JRNWxWUko1V0JIdTJ0M1hmOA?oc=5",
+   "published": "2026-11-08T22:18",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e37e3607130f",
+   "title": "NTT西日本・パナソニック＞ 8回、NTT西日本・天井が同点の適時二塁打を放ち、歓喜するNTT西日本の選手たち （撮影・平嶋 理子）",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVVOVU96cVRHLTAxa0I0cmNZdWZDUnFSVy16VDFzSTNRM1JTb05PV1ExTmNRcVc4S1dsZk1xMG1DLU5oT0o2bGhJRmtpUFJJQVRCR1JSWDhGMDVsakJzYjgzY29SSmk4QWVqelpOM2VZMU12QTRjX3NUU1V6QUtETFdnTmpMdHNrM2MwWDVsQQ?oc=5",
+   "published": "2026-11-08T20:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "4d8e09ecb6c2",
    "title": "【日本選手権】NTT西日本が2大会連続4強 大江克哉が同点の9回を3者凡退締めでサヨナラの流れ呼ぶ",
    "source": "スポニチ Sponichi Annex",
@@ -90,6 +639,24 @@
    "published": "2026-11-08T18:00",
    "kind": "sector",
    "q": "情報・通信業 市況"
+  },
+  {
+   "id": "9bf1aeb68723",
+   "title": "【日本選手権】NTT西日本・天井一輝が先制＆同点打の2打点 チームは2大会連続で4強進出",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWNRZzFOYVFVb0RpQlh0TVR1Unh6SUhvdk4wTWNOdlFOUkFmR2tJd1FaNzVDVWNYZW93UVNGXzhfOWZXYThlLUxfWFhaWDFncUg3TjlDOW1FWUtvajhJZ3h6dnlaT2xic3c5Ymh4SUFVQ00wdENJWURtOWlUMjlCd0xWaHpEQ2xHZHpkRFRiUQ?oc=5",
+   "published": "2026-11-08T17:46",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "75c23039c3be",
+   "title": "【日本選手権】NTT西日本が2大会連続の4強進出 初回に4番・水島滉陽が右越え2号2ラン",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1h4d2xQQmlLUGo3cVplRm1BaHVtRkpOWE5rSDdyblVaa0Q2bjFtVVR2NmR6MmFDOXhKVTI5Zm9IcDNwaG0tckhmRGRnemRKcDVESUEyYkRkenZvV05GOEd3a01yd1JJd0JpLU9odm1mR01tME5WbHFSZHJ6ZTJjUnhqeDQ2bWp5UjY5dl9SRQ?oc=5",
+   "published": "2026-11-08T17:35",
+   "kind": "company",
+   "q": "\"NTT\""
   },
   {
    "id": "d984e422b748",
@@ -119,11 +686,29 @@
    "q": "\"NTT\""
   },
   {
+   "id": "01de24496bc5",
+   "title": "NTT西日本が4強入り　今季休部のパナソニック破る　日本選手権",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOEwyUFBhalBfMWdtUnhGR19tS0VOLXVTOEl6RHVYc1lmbWxDOEdqMnBNaVBqZC0tYjF6V3NCUHREMU5acUFzWDVjVTY3bUlaNU5FTUUxXy14NmFUTGNYOVlJNVdUbEFsMVVmZ3dWbktDTWhiczBvTEZrV3d5anZkdllRSXQ0YW1kNmhNZ3lvcTNPcjTSAZgBQVVfeXFMTjY0Q1FCdW5KRXppeXhsdDZxR0ZTRDJWU0lSVHZXLXZ5VEJTZHg0VVJHaG5iSXNFd1oxREhiN1ROZk5nQlJpSXVXZGszTUtYdVppNWxXeXlaS2hzT1hqRTNua21yRkNqV3BLalRWeE1DaTJHZTd6MkxHcWNnTV9UQklEa1kzTHBKb1Bzd1NTOTB3V0xyb0dSSlk?oc=5",
+   "published": "2026-11-08T16:01",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "86335c2e9e84",
    "title": "NTT西日本が4強入り 今季で休部のパナソニック破る 日本選手権",
    "source": "毎日新聞",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UkI2a29YR3A5dGhsb05ZUkdBc2VfRk1wNDNDd0VjZ21UaTZOQTZlZDk3UlJ1MzMwakVsT2FLRkJZLXZsY2w0c0Z5T1ZXTVBWZFpYYWJOMElNS0hpX1NkYjlnVXpYcnZ6?oc=5",
    "published": "2026-11-08T15:56",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "135c12c312df",
+   "title": "NTT西日本－パナソニック（準々決勝）社会人野球日本選手権2026​ [写真特集51/48]",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGsxVFdiaVl6djZjUW5JdGNvUmJyd1M1dXJzZ2YtVzFZMk5PbEQtZHowS1Q2UmlncUl1Xy13Q2djTzl6WE9Vc1VoaFg0eXBZOE9mNmRUdWJYTXdiOERHNnZmR0lkVHltM2pzSGYzWjFFUDNOMF95YkxLWTV4b082cDh6dTMyam8?oc=5",
+   "published": "2026-11-08T13:41",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -186,6 +771,15 @@
    "title": "NTTドコモで約30万回線の情報漏洩。My docomoなど停止で何が起きたのか。見舞金の支払いも検討",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMm02NG1ETGFxd25aZmxCekwzZnlnRU43V2VpbzZsLUpFaGxjbDV2b2hMZ3NRRDUwYVVRVTJYODZJNVJiaXp1OGVxSm1ibEFOOXN0Y21pU0pMUjVlMURMdnVBVGY2d2djamhMQWppY1ctZktlc2VUWEc1bmpkWUtjT2o4WkNhTl95?oc=5",
+   "published": "2026-11-07T06:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "1fddc46f0944",
+   "title": "NTTドコモで約30万回線の情報漏洩。My docomoなど停止で何が起きたのか。見舞金の支払いも検討",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55RnNSVzFGUkx4TGxFbkFUd2RJOTg5T2tXRDBkdUVGV2ZNU3poT2xubzM5MFdYSUFsa3ZmWHEzeXVuVld4dUNiLXlHVXNXTWlhTEpIZHFacXVxVF9yUHplYTIxb21FSDlvUzFHTmlucGMwaDFCcE9yaktvMF9LQnc?oc=5",
    "published": "2026-11-07T06:00",
    "kind": "company",
    "q": "\"NTT\""
@@ -348,6 +942,15 @@
    "title": "NTTドコモ 約30万件の顧客情報流出で陳謝 一部で勤務先や口座情報も 見舞金も検討｜Quebee キュエビー",
    "source": "QAB 琉球朝日放送",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4ZWNUMHE0aDI0cHo1bzNKZTI0MlhXczVwblVFUDQwR1J4dWtDa2dSZ0I5RFR1elBrS2NoS09ZQ2VoQ09IY1Q2Vk1QUm1mSVJQSERET3BUcGQ?oc=5",
+   "published": "2026-11-06T21:42",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4f1f6a43506d",
+   "title": "NTTドコモ 最大約30万件の顧客情報流出で陳謝 一部で勤務先や口座情報も 見舞金も検討（テレビ朝日系（ANN））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSU0NqdXBWS0VlSGU5dW1vbXkzclhZdkg5bEJfbkNkSGRxN3lIRGdBZFlSSTFlQ2NkdXFxODNVTVQyN2YzOGs5cDMwdHVqbnZVVU9qTjcxLVlhV0U0SXlSUVVtUExMTTZSMFNVQ3FIREh1NEJxbUc4OFBxdmN4TlE?oc=5",
    "published": "2026-11-06T21:42",
    "kind": "company",
    "q": "\"NTT\""
@@ -699,6 +1302,15 @@
    "title": "(株)トレードワークス【3997】：株価・株式情報（夜間PTS含む）",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PcDVlS3NQS0p3amZQVEN6dlNVTnd5a3FiQllvNkJNMkkwb2FEelpFYVpsN2FzdnpCeElyZm5QVDctSVZlNUtMWGd3RkhOeVEyRUE?oc=5",
+   "published": "2026-11-06T17:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "ebe1a6bf11a0",
+   "title": "今のバリュー株をどう捉える？ 直近で銘柄数が多い業種は素材・化学、自動車・輸送機、電力・ガス 野村證券ストラテジストが解説 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ",
+   "source": "野村證券",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzU3BXaWhqTkhhNVgxOVVOR05DVXNHQjk3a2VsX05GbTBIRkZuaVBJQnZFYXpkY0dyeFVYZDdadXhlVUdlakxqMjhwVUxkNTJyMjhNLUtVeUMwX244cU1V?oc=5",
    "published": "2026-11-06T17:00",
    "kind": "sector",
    "q": "情報・通信業 市況"
