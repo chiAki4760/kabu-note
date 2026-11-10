@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-11T00:35",
+ "updated": "2026-11-11T03:18",
  "items": [
+  {
+   "id": "d3b6b749ebfa",
+   "title": "(NEXT FUNDS)金融(除く銀行)上場投信【1632】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vS0RmNXVVVnZhb2tvcjdhbjlLV0dmZ2pzY2pNaW9fOGxiRndSbGx1VVJYa0lDS3JzbmNCTWstNjUwanBtM3p6WlEyU3luQmVFVXc?oc=5",
+   "published": "2026-11-11T00:03",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "1a734d148d39",
    "title": "【マーケット情報】商品市況・為替・株式（2026年11月10日時点）",
@@ -218,6 +227,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "ebb6487df11f",
+   "title": "【欧州市況】英国債上昇、株は急伸－エヌビディア混乱の影響広がらず",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ea3lYakdEc0RkR0d1d1dDTmlmWWZOM3JGYkNubUdaSXdOM01ZeWZTSDJVSkFEN1lyZWtwNmx0Zmo3eTFnclJxNnRqWGNSdGo3bWdZVkJtUmdnYzBKeXlhTUZEOTdWT3BZTkZDZ1UzU21kWVR5SHBF?oc=5",
+   "published": "2026-11-09T18:16",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "78a8e51df2d2",
    "title": "Progmatと米デジタルアセット、日本国債トークン化で基本合意 24時間365日決済を視野",
    "source": "BigGo ファイナンス",
@@ -333,6 +351,15 @@
    "published": "2026-11-09T09:21",
    "kind": "sector",
    "q": "銀行業 市況"
+  },
+  {
+   "id": "8a3e9017a308",
+   "title": "話題株先取り【特別気配】速報 ＜買いトップ チャームケア、売りトップ ＪＴ＞(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmVDdzV5VFdwQWpzNDJyRGtSZWtUbjNUNXFrWGUzQUNRbUFIUDdhS2NyWnQyZ3BZbmN1TXNNOGVjaExIMVRXLVp3Q2RPWUlwSGstUmh3WERqUnBwRkFLX0FBWkN3OFJJZGg2eUhYcllwNVJjSnJRMGo3dmtiY2hSMzlhR2dFZ00?oc=5",
+   "published": "2026-11-09T09:18",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
    "id": "bb22ff5e0166",

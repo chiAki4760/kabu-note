@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:35",
+ "updated": "2026-11-11T03:18",
  "items": [
   {
    "id": "b4a07c9eb048",
@@ -9,6 +9,15 @@
    "published": "2026-11-10T02:41",
    "kind": "sector",
    "q": "アパレル 衣料 消費 市況"
+  },
+  {
+   "id": "a42e656c658d",
+   "title": "【NEWYORKER】プリントスカートで、冬の装いに「華やぎを。」",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tWmJMNHFGSE51VDRVaGd3NW1PWjZjS2NGaFhtMFFDNWxGZlVBTTZCaUU1di0xV1VacnlGZEZWT2Z2ZkZJU3FCd2g5TG1NcVFFUDlORkliVGRyYWoxWDFwRkF1XzNacUdMYV9HUTdTaw?oc=5",
+   "published": "2026-11-09T16:15",
+   "kind": "sector",
+   "q": "\"ダイドーリミテッド\""
   },
   {
    "id": "e226382b9a55",
@@ -330,6 +339,15 @@
    "title": "ニューヨーカー ウィメンズ 秋の着こなしを提案する「STYLE GUIDE 品よく、自由に。秋を“端正に纏う”」の特集コンテンツを公開。",
    "source": "ニコニコニュース",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82TTR5SFdsbW9oZkxmcURjTlpsa2NuRWRvRDVQVGRTcFFGb2ZJY1llTUd5TFp6Nm01M04zUDlxRDVSNWhUeXlnWnJZRm1fNzhkS0FLLQ?oc=5",
+   "published": "2026-10-28T16:00",
+   "kind": "sector",
+   "q": "\"ダイドーリミテッド\""
+  },
+  {
+   "id": "7094cb3dd2c7",
+   "title": "ニューヨーカー ウィメンズ 秋の着こなしを提案する「STYLE GUIDE 品よく、自由に。秋を“端正に纏う”」の特集コンテンツを公開。",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NWjRiWkRXclJ2dDdUY3BBdjNCTzJXTGRZdDQwUGJ3dWxfazdrU2pfUjRxZ21fUUtyNVdPaHVFMVZvZmwzdXVDOG05eV9IOHhKMGNmTzBCa3F6bUxvYjBEN25Tc3ZuN2ptZVE?oc=5",
    "published": "2026-10-28T16:00",
    "kind": "sector",
    "q": "\"ダイドーリミテッド\""

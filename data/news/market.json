@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:35",
+ "updated": "2026-11-11T03:18",
  "items": [
   {
    "id": "a9b8b98535f7",
@@ -65,6 +65,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "75a431609f5c",
+   "title": "東証大引け 日経平均は続伸 3日ぶり6万円回復 AI・半導体関連に買い",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XUFJWeW40NEJSOXBnVXRrR3RsTUM3cTZRNUQ0Q2Q4Vkk0aWRkYU53MUpKY2J0aUVraXZkNkxCYTdmNnM2LTNmb2wwc3BpM3VsNktzcDJKSGI3MkJZZlVmTEJvbjU3VElmQlRXdA?oc=5",
+   "published": "2026-11-10T15:58",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "da3bde8a06b1",
    "title": "日経平均終値が６万円台回復、３営業日ぶり…上げ幅は一時１９００円超",
    "source": "読売新聞",
@@ -97,6 +106,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zWlgtQlhhMEtuMVFYNW1KU21HZF9VS0lOMVBGaUV6ejh3azVWcEF4VmRJWEFGcERBakN3RWZVSGUwZGw0U3I4bGY0YWVMbVFmT2ZzQzhHMDQ4OTdmTUVTOVNuQWE5eVJIWmhjMW1nWDRuYWdCZkxNMThhSE01WTA?oc=5",
    "published": "2026-11-10T15:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f34d1934e66e",
+   "title": "東証14時 日経平均は持ち直し 6万円台で推移 アジア株高は追い風",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpUERKc1N4N1N2Z21BMG9VQVNwblNOWHVtaTJOYm14bWxNSWp2U1NIZDR2cnNFNlM4NEFXSlMtQjk1LThPd0I4Y0pwX2lBMEM1VXNnOUdQX2tic1NFcHMzd28xalpSZnk5WDBJaQ?oc=5",
+   "published": "2026-11-10T14:11",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -537,6 +555,15 @@
    "title": "東京株式市場は全面高、日経平均終値１３４０円高の５万８７７５円…６営業日ぶり上昇 (読売新聞オンライン)",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemxJMUY1SnR3VjdTSEJDcGdZdl8zV1NVQ2pLZGFlZHpObFZUWER1NS1NUDY0VGpWZXF4czhsMjdNeEx4QUhld2dCMGY0WEpmdnRhUnlQNnpfSTd0Skl2T1dFMWY4cUk0X1ZHUVAtelRZVmQxZ3ROT2RpS3JCeGNrWnBjajBWMUVORjQwR0d3?oc=5",
+   "published": "2026-11-09T15:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "5b6255591dd2",
+   "title": "日経平均株価 1340円高で取引終了 一時2000円以上値上がり 背景にAI・半導体関連銘柄の買い戻しの動き 市場関係者は「今後も警戒が必要」",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fazU4bGl6d3ZPYzFrVUpabW9DQW5ob25mWk9xSVF4dG5mMi00ZERZYXh5d1FlTGlRVFh2NndPRkcwM3ROelhvbUN4eGJrVWVjQWliNzRwNFhOM0MwQTRZd0ZOczl3N1JMZl9KT2hHUTdXVmZ6?oc=5",
    "published": "2026-11-09T15:47",
    "kind": "market",
    "q": "日経平均 東京株式市場"
