@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-11T03:18",
+ "updated": "2026-11-12T00:10",
  "items": [
+  {
+   "id": "286a739c7e37",
+   "title": "積水化学の人事部長が求める新卒「自ら考える、知的好奇心旺盛な人」",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ESGdyaS01T1BVd2ViemplZ3ZoOW9hWEF3WkxjM0swWWZNbVZrRnRxbHlVU1hfb0RTd1dvMlhKbXJKTi1RYlpFUnBKUFU0Um54YnZmd0FjaG5nYjZtVTB5UHVDTGotTjVDaTBoaw?oc=5",
+   "published": "2026-11-11T05:00",
+   "kind": "company",
+   "q": "\"積水化学工業\""
+  },
   {
    "id": "586fadaaecd1",
    "title": "積水化学工業の業績見通しの上方修正が、同社の投資ストーリーにどのような変化をもたらしたか",
@@ -16,6 +25,15 @@
    "source": "매일경제",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3SWZ2ZmVsdUZnNnptcnMwam5SeHo5Q0ZVcVlQbk96ZWdWMVFZR0pjTDEyeXdoak9xQzMtS2FvT09VZWpmRUpFeTFreTRaRlRFYnJF?oc=5",
    "published": "2026-11-10T17:44",
+   "kind": "sector",
+   "q": "化学 素材 住宅 市況"
+  },
+  {
+   "id": "10d012aba9a7",
+   "title": "【独自】LG化学、汎用石化用地に半導体素材工場を建設へ",
+   "source": "매일경제",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VMGpsV01FVXVkQ1l0Qk51a1l1b3M4ZDZIcmo0ZS1TTGdqRjg1WDRPSm1CalVnbUMzdWEtbWR5SGFLSUZ4V3RxOFZybVNNUGJ1SDhF?oc=5",
+   "published": "2026-11-10T17:43",
    "kind": "sector",
    "q": "化学 素材 住宅 市況"
   },

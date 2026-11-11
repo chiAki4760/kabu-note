@@ -1,6 +1,420 @@
 {
- "updated": "2026-11-11T03:18",
+ "updated": "2026-11-12T00:10",
  "items": [
+  {
+   "id": "585c47df33f9",
+   "title": "画像・写真：トヨタ、米で軽トラ発売：時事ドットコム",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40UGRzVXc4ejA1YldmUW5qUDJzN19fWTVPVVAwdnVEbWEyUzdrRUEwQ3ozemJqM1hNclNvYmJsTXlYQlVlS2x4R0pjUngtVG5YTk5tWmx1dWJfZVI0VWpWY1F4UVc?oc=5",
+   "published": "2026-11-11T21:12",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "45c1fcff0197",
+   "title": "新感覚タフ系ワゴンが“さらにワイルド”に！ トヨタ「bZ ウッドランド」のリフトアップ仕様を初披露!! 大型フェンダー＆悪路向けタイヤの迫力は？",
+   "source": "VAGUE(ヴァーグ)",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SWXVKWlduV1JuY2ZFV3pzWENfT0ZJckxESkhsaEIxU1ZUczB2RWtmT2EwcXZRN3lYRkFqMkhRVmx4SDVaaVE?oc=5",
+   "published": "2026-11-11T20:43",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "121494eb6abc",
+   "title": "トヨタの宮本氏にデミング賞特別功労・実践賞 カスタマーファースト推進本部長：ニュース",
+   "source": "中日BIZナビ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LVUxXV1dkOEJPZEJDTVVrd2dETGZNOUhMTlJZRUJrYzlJbHV5NE9HSGVZekhjN3FlblN4Y2Z0bHhPZDc2NG9GTXdNUmliZ1hLaFF5NzJZRWFOY3Rfb3lR?oc=5",
+   "published": "2026-11-11T19:52",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "fd38db7c49b6",
+   "title": "［画像］トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長 / (2/3)",
+   "source": "Car Watch",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkdDY3WThxTC1mTHk1S0N1MVF1VUJta0hXbVBmSnBDYzY3TUNqY1pLbnpqSFl5U0xXNDBWOU1qbXNZazNEV3pGWkRrc3JITkV1MWFFRnZCejQ0c0hRdHQxVFVOTFlfakpDWm1WN3JwdTdZM3RvSkVxTW5semNvQQ?oc=5",
+   "published": "2026-11-11T19:45",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "0b7e688ccaae",
+   "title": "「よくお会いしてますよ」トヨタ・豊田章男会長、高市首相と経済界の面会少ないとの質問に",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0JtVmhGWC0weG9GM19hcFBfR2N2NDlac1J6a2xMdzd1dEdLQnB5cE91VEFzMlY0UnlxX05xeGpiTlhWcHZ6Q1ZqVDYzcHJSeHY0UXJoaGU5UHRtMGhfYmN1OTRNUDltODVqR3labmdmYVFVMWprSm94RjRld0ZrYnp5X2E2UXMxdkZVVQ?oc=5",
+   "published": "2026-11-11T19:42",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "ce2c02b903cb",
+   "title": "トヨタ、ホンダなど4社増益 26年9月中間決算 日産、三菱自は2年連続赤字",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0takpTSi0tdGp4b1ctVGpUOVprM2ZCcGtRVlhiZ3poMmRzVnNxSTdxNkN5VUR5THJGNjhoVjNfSXhONlhmMGdjTjZ4cFB1UThkakd2NTZBOHg0OFlZd2U2TGxDMy1ndVJyeDVrRmFadWFmb1E0RFE?oc=5",
+   "published": "2026-11-11T18:33",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "bf09feb48e14",
+   "title": "自動運転業界で「終身雇用」、トヨタなら可能？",
+   "source": "自動運転ラボ",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5d1FjWWxyOEVmSUVOUXhQb0hLZ0J5Y1J5cy10NXRZREZQTXJ2OTlRUlRLNXlwanBCOWhuSTNtcFk2RHU5dkxQZw?oc=5",
+   "published": "2026-11-11T15:57",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "7767dc1b34b0",
+   "title": "「トヨタはWaymoの最終兵器」日産×Wayveも参戦でロボタクシー競争激化…「テスラ型」よりスケール？ 3つのモデルを比較",
+   "source": "ABEMA TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01ZUd6OEx0cWY5aDU3QndwTGhnM3NvM2w4MU4ySlJPZHRWMmZyUVNwNFI2TnFJRXlvbU43OGhzWnhNdlBES25aMHlkMDFvYnI0LUpVWg?oc=5",
+   "published": "2026-11-11T15:20",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "ef2dc81c4b5f",
+   "title": "一体成型の弱点をどう補う――アイシン・トヨタが探る「ギガキャスト」の次の一手【連載】自動車部品業界ウォッチ（9）",
+   "source": "Merkmal",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EOHBUdzhmeEN4bTdhQmpBM195aFlGNnpIMy1weDZ2TXlmeTRRRm4yU2owWnpTVHR2ajYyOGVuckVhdFJSNUk2QXFB?oc=5",
+   "published": "2026-11-11T14:21",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "93b9ff1c0f4b",
+   "title": "11月下旬にも日本復活!? トヨタ「カムリ」ってどんなクルマ？ 3年ぶりに帰ってくる“端正なセダン” 米国製でも“右ハンドル”となる理由とは（VAGUE）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUGpsUG0zNTdxRDNuQnBJZERIeHBacUVyVElob2VsTGFoQzIyMVJsOV91d3pwQi1aUDZLcm9vTllJVFFnZWZvazdNNTI4QVBQWXQ0bW9uT0s4RW5XWE8zZ1NpWUtmRjZvQ3paNkxWUmg1UEM3SmNaOFhSbHFqYm8?oc=5",
+   "published": "2026-11-11T14:10",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d29207cfd9dc",
+   "title": "トヨタがまさかの米国で「軽トラ」正規販売！　衝撃展開のウラにある仕組みとは",
+   "source": "WEB CARTOP",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVc2Y0aURSSk1pU0JLVkFLc2Y5WXNXQUZadDlZb2FKNWswYXRmbEpYOFcwNFQxVFp5QzA5WmJIN3lCblU0ZHh4SGstVm9MSWhaRmc00gFYQVVfeXFMTUNfNmw1UmFRYkNHM09YOFdNNDFDdHQ1WHFkRHRJc09MdXRqMVNHdDV5c3ZnRDQtZ2JZeVJLZEJEVnVxSEFJaXNFU0xSTUZfQmp3UUp5TUI2ZQ?oc=5",
+   "published": "2026-11-11T13:50",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "904d4903c47e",
+   "title": "トヨタ、米国生産「カムリ」を11月中に輸入発売へ 「冬が来る前に」発売と中嶋裕樹副社長",
+   "source": "Car Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jcHhlajRJeFRIVG9DWUl4dW1NWnBnX2JSWTJhZGIzdmMybndjaEpMeEJHc285Tm4tbEprRWlWdlNkM252V3BfV0tUcnM4ZHpSNWRiQVRad3FNSUJYSWtiTVdLQy0?oc=5",
+   "published": "2026-11-11T13:04",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "eed8d358cd70",
+   "title": "後場の日経平均は906円高でスタート、KOKUSAIや太陽誘電などが上昇",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVpoNWVyU0Ftb2E2SkFzVkpPYWlLTldfVFBWWHJwTEFrWlVsQl9yU3ZoNGM2MUtOekk4eklIWHViX3R5MmxBNnlVVnc1aHBCMnBLNDRDUUVYS2ZQTWhSUXRjaXF6SU9zYm9tYmh3Q2ZULWVndnVWTkxlM1dYSTBCdnhzWEVDc1XSAYwBQVVfeXFMUGFyNnJxaEJweDA2amFWRDVNbVBFYjZhT3JNT1VQZy1jT2pPSUpla29heGx4azRldnVVdlphTk1Ja3FRbllvNk5uSDJrMGpyZk55LXQzMVJBeTAzaGVXYlIwQXRqMk5mV0VhNEpZb2cyWGVGWlEwb3pFT2ppNERyQzhGal94UmxUYzVRM2k?oc=5",
+   "published": "2026-11-11T12:47",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "d5f0a66b4e46",
+   "title": "日経平均は3日続伸、半導体関連株高が相場をけん引／ランチタイムコメント",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IbVJFQTVab08tdzB1V1VVVGVBLWoxTTl1SjlzaWZic2VwMmJRVkswcGJ5Uk5UUWhvbE0xUVpOUl9jNjQybDBtQ1Z6WGFqT0N4b05KYlNNbEptc3NiLUhENg?oc=5",
+   "published": "2026-11-11T12:19",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "4f51e447f1b1",
+   "title": "【トヨタ GRMNカローラ】980万円で、日本は190台！ GRカローラとは何が違う？ ニュルを安心して攻められる「最強のカローラ」",
+   "source": "StartYourEngines",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbzB1RlNDZW90aUZ0X3NKeGtNck0wQjM2aXFlY1Zqai1CWU5YMG1tQ0JGNlJFNFhZcHhoY25EUENRSHJCSFZMYzhTX1BQWDVaOEU0NVZfV3JNVGFtbHJNamUwaw?oc=5",
+   "published": "2026-11-11T12:02",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "0a3cc0b7ffcf",
+   "title": "トヨタ『S-FR』が軽FRとして復活？ 2027年登場か…ダイハツの動きが鍵 1枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TcDJWQ1RDbTdJb1QwZUptQ0QyQmxrbVRpRHFyc0ZBRGNsUkVjTVVhOTYyNmd0bmR6dnFUc1J5d3JweHIwck1FdE1LMURTRjA3b2dTM2xjTWM2SUxiVEZLb2g2OUotZ2d2bmdTckJtaw?oc=5",
+   "published": "2026-11-11T12:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d47fe77d9587",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】繊維製品 【下落トップ】輸送用機器 [11:31](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU9Nc1VmbHlGMjY0WHdGZ2tMNFRQQzc0N1FLSHFkdnVzTGFlZkZGQlhRMDZwMUNsTDZsUXlJMDZCeFd3WjBwdlgyNnE5R2pvSFR3RVBYWjJmdmRoM3NaajZ1aEJTcUFVN2REbW5HWkVuOFRPUDlJU2ctTGRwc2lJaGxWazVMQ2c?oc=5",
+   "published": "2026-11-11T11:47",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "9ab9dab4ad4d",
+   "title": "トヨタ自動車が米国で発売する軽トラック「KEI―01」（共同） - トヨタ「軽トラ」米で発売 27年、生産に54億円投資 - 写真・画像(1/1)",
+   "source": "西日本新聞me",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51N3VDVmJPekN5a0NyMGNMV0xIdElKcndZR1NBczVqZDgzb3hXN1dIRjhZYl8yMkMweVJYYVFkU24zd2NVaWVTdWNSSnZiOXBBVEVaLVBOaw?oc=5",
+   "published": "2026-11-11T11:44",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "9745b12cd488",
+   "title": "トヨタ自動車九州、中間期売上高7275億円 電動車シフトが奏功",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55NjBiZFRqYk9uTWpOeXRNaU5RUUdZRkFkcjBMdmRvZmJoQVIxLXR6LTZseFJCX0g3S0pOSkpaMEtKdGgwTFRNN0RPNzNsQVdUVmF4aXBRVmlSV3VWSE9FRDMwc3czUDF3YzRhTFNTRE9NeHFT?oc=5",
+   "published": "2026-11-11T11:36",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "fe13625f245a",
+   "title": "トヨタがアメリカで“軽トラ”発売へ 最高時速40km農作業や都市部での配送を想定 インディアナ州の工場で生産へ",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWGNhb0VFUXJJdDhwT2VnVHZIMjdjVks1Rk5ZdHd1VmhWVk1HRTZaU3pPdXRVRk5vazBub1J6SmR4Si03d1VKVTR1NW9DTVJ3ZzEzeWhqRXE3ZWpnelItSzlIQ05jd0tUMjRpRmpnZHhJSFROQktwRk1YYmliWUU?oc=5",
+   "published": "2026-11-11T11:31",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "5dffe34767fc",
+   "title": "トヨタがアメリカで最高時速40キロの超小型車｢KEI-01｣を生産へ､当初は法人向けチャンネルを通じてのみの販売",
+   "source": "東洋経済オンライン",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54UWRHaXdzWnZVUVRqSkVzNGVhSFVSSlFJZWM3NzNqT1NMYWtvQl84UElnZGVpREFlclRJNW4wTXNteXhzYlJtaHZDeTVVRi1fZlZGcDBndXFXczRmZTdr?oc=5",
+   "published": "2026-11-11T11:30",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "05c86407ab39",
+   "title": "【トヨタ GRMNカローラ 新型試乗】「速い」だけじゃない！ 4台乗り比べで見えた「最強」の理由…西村直人 1枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONHViZU1OMFpSd3ZZck43VXNHYTREbmJvSlR5V3ZWcWQwbUpGd1RkaTdxNG44RlhCVmZwM2loMGY5bDNDZkNhX2pmX0NfdXVsNnpvcTdyNWl2a2hoZ0NMQXBZbHVEREpmanphNkRMUThudzRaY3E5YTN3Wm5YVFpqY09lMzBYQ3ZaTFNCWGJUcEg?oc=5",
+   "published": "2026-11-11T11:15",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "17fa1a9f1bf8",
+   "title": "トヨタ自動車九州の売上高が中間期で２年連続増収、高単価の電動車売れ…前年比１・２％増の７２７５億円（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LOVBTcnd2RVpYMXp1WUxuRm80c1ZUcTdPc2NnYVFIbi1LMDgwTFpWRlFENGFyRFhyc1llQXVPQk5EdmZaUUZqWndIaTBELU54RkJEcTRTMldLZ3hpZ2hNRHdZYldyRWQ0Zk0xRGpLMFhSLVZybkxqVmxEVlJPZ0k?oc=5",
+   "published": "2026-11-11T11:05",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "5ea314ec56ca",
+   "title": "【トヨタ GRMNカローラ】980万円で、日本は190台！ GRカローラとは何が違う？ ニュルを安心して攻められる「最強のカローラ」 1枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54YVRqUHUwZ1BUeTIzUHBQempjSGVQajE5WlgyMG5oZG9HZmlHcDMwZmpGbVFkS2t2cGxKSDdYdlYwVWJNLWVjLXUwRjg2RXAwM09FbnlnYnZ4NmRHdnBMSlAwM3JENWRhLVVKNFZpVWhFZw?oc=5",
+   "published": "2026-11-11T11:05",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "1599bd78a4de",
+   "title": "GRMNカローラ",
+   "source": "トヨタ自動車株式会社 公式企業サイト",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByZEVwTlpEcGdDdlRyZEM3X1BLUXEzbHlhY25aWmZZc3VydHY0bmlxLThCcWZwQ2tYMG45cE1FVFFyY3ZZUURFTURUTk5HNi0tTV9CTERsM3NtcDA?oc=5",
+   "published": "2026-11-11T11:02",
+   "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d5174be12ef6",
+   "title": "トヨタ、米で軽トラ発売",
+   "source": "佐賀経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NVk1xTkVHb0VqM20tUFJwTDNSUkM4ZUlWd1YyMnpBWUZyT2lWUTAteEd6WGFUTUJLZmRxd0h2NHlnM1ZCdGdNVUlGaFVyY3g1?oc=5",
+   "published": "2026-11-11T10:37",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "75f88f3241ff",
+   "title": "トヨタ、米で軽トラ発売",
+   "source": "本庄経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CTkVhRjJ5WGtnYVZ1bVhTLXNFR1daNll0empSV2lOYlZieHJtakRZZlpvZlotdGs5a2tHNkJEVndWN2N3MXJ0c0lDNWNkQm1JNnc?oc=5",
+   "published": "2026-11-11T10:31",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "990fe1ab324e",
+   "title": "「ヤリス」1年ぶり首位返り咲き…10月の新車販売、トップ5の車種は？（ニュースイッチ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTnkyX0ZTdktWMGhINTBrVTMwR2t6d0NKNm5tRGR5aTR1eTUtS3pyS1I5elhXdDNORURVUHc4RExabVhVN1FQaE5hRWU2bXFkWFZaVnRkWm52WlQ5RHBzMEZzOXBmLU1YV3AyX3l0UEE4M0RZQmpKOHluZnBkYVk?oc=5",
+   "published": "2026-11-11T10:10",
+   "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "dece4f1c228b",
+   "title": "日本の軽自動車規格は、グローバルの自動車規格となるのか？ スズキのCES出展から始まった軽自動車規格の広がり",
+   "source": "Car Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRHMwNk5OZlRaM1VZc0pxNjc1QjdIZHhLMHNzdWRlVk83bzdnWUN3bnl3eFFfSTBicmhwb0lkdUNBZTJxYUtocE9ZV0lzX2FrMENlRDBYTEx3NVRVeElyQWZMV1Y?oc=5",
+   "published": "2026-11-11T09:53",
+   "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "768278b4bfef",
+   "title": "トヨタが米国で軽トラック発売へ 最高時速は40キロの「低速車両」",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JVk1vaGZGRnZEYU90cmZuT1FuLWgyajZFcklvd2laOE04OE84UDhoOFBSRGdQUDdhVmJrNFVhQllKWk03Qjd1RGxGamo1MldnenoyY0ttdlFJMktPcm9penJSTXd1eDQ?oc=5",
+   "published": "2026-11-11T09:29",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "93122a3f49c7",
+   "title": "サイオン、軽トラックで復活。日本でおなじみの姿と右ハンドルのまま米国で生まれる新ブランド「サイオン・バイ・トヨタ」の第1弾、KEI-01",
+   "source": "Motor Fan",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EbVRReWcwZFlndXFZRDZZd2hSWjRDd3dYR25ockJHdFMyZFZsX0RQRUZ4bnRyQ0o0SlIxMzljN3F4NFVhWnNDUmxXc0RlQQ?oc=5",
+   "published": "2026-11-11T09:10",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "ffab5163d745",
+   "title": "トヨタ、米で「軽トラ」生産 来年後半から法人向け販売へ | ロイター",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSX0lad2NmbFZEYTRNUXhESmJmT3BrWXJYdFN4YkZsQkdFcFhFWVJuQ0I4T1hhZXIycFF5SkNNZWp3a1h0dGtTVTA2cXI1U0JHbHN3SUdEV1BId2djS253bTBLaGoxbFdyb09lT1ZZT1hReGVxNjFHbHl2THpJZw?oc=5",
+   "published": "2026-11-11T08:19",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "577cd778b443",
+   "title": "豊田喜一郎が自動車開発を見据えて構築したG型自動織機の世界レベルのモノづくり",
+   "source": "MONOist",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbE5XT3MwVDBudmZNUkd2X282cHQzWWpzNklZeWtjbWxOTVkyY0E2bGlpbDNxTXhiMnFfbVJXaDVMbTExQUlNVEhCM3RKMmpXNDJ1S0ZTR3d2NlVieFZIc2FBckdGcElDWmxUMVB3bw?oc=5",
+   "published": "2026-11-11T08:00",
+   "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "31cc4e3d5a30",
+   "title": "トヨタ「軽トラ」米で発売 27年、生産に54億円投資（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTDQ2dG83Q2p2WmhhcThrOVBiYXY4Rm1zQmZ1WTlkNEJIdklFbE5qSDh4UHFKdVhWQkk1TlJQTXY3aGxNeTFwelczdTdRLWlxNkNPWWJRUUtsSk1BTHpZeDhKTk52cldlbS0wOC04Vmp1SmVMUWlTenBqb2FHcVU?oc=5",
+   "published": "2026-11-11T07:35",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "f9e51169d47d",
+   "title": "トヨタ「軽トラ」米で発売",
+   "source": "埼玉新聞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15czc1VFBrR1ZWYVVfNnltaG9SbElJTmVEZl9BQXNqdHlUTTdGV1hNVU45dFlCMEEybHhFNVZBdUZZMDlFUDE4OFgwU1hDV2tiMnRaUE1aMA?oc=5",
+   "published": "2026-11-11T07:35",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "f173e4c38105",
+   "title": "トヨタ、米で軽トラ発売 その名も「ＫＥＩ―０１」",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KQ1JRRWdKSzdSQ2MydlJpa1g1R3ZTSEhwYURpVVk3TzBmejREeC0zcC1fd2ExN25BcHZLRTJBOGQ4VmVzUGd1QzZDclZiQlA5b2h0SXV5TldGcDhyOTgyUTl6aw?oc=5",
+   "published": "2026-11-11T07:06",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "73f8de6b0b4f",
+   "title": "トヨタ、米で軽トラ発売 その名も「ＫＥＩ―０１」",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDhoYy1GRnZIOHBYUlFMeUlKa1VPdGlveFNwNmdQRzNrUFdKYjFqU043TkNpZTFMeV9TSU5ZMm13bTZFc1RGZEZJeUlKdHNScUpXUEhWb0xmeHd2M2lSVEdHbmxWdmxnWTBYRUxjLUNaWWRGMUhMSVJfMkFVMzVWbENB?oc=5",
+   "published": "2026-11-11T07:06",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "70caa311066d",
+   "title": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ",
+   "source": "千葉テレビ放送株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rLXQ1cHloc1RlQjE2RV9MM0pRWVphamk1QlJzTFBRWFFRNlZtcHlhdnNBQU5YMmdaWm5pZl9zejM0ZndoM25zWXNlYWVOVjl5MklUdmhnUk14SUxLYXJJ?oc=5",
+   "published": "2026-11-11T07:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "f943343326ec",
+   "title": "トランプ大統領が軽自動車を評価、トヨタは米国内で軽トラック「KEI-01」のセミノックダウン生産とともにサイオンを立ち上げ",
+   "source": "Car Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRWVqZG1DNkNKQjdNTU1ZYldid05HODAxdW9wVE1KblplQXpOQUtXbFpCZEt6bXRWZ1ExODI0cHBnWWM0aWZySmVTTTFtZ1ZYdGFsRktJSTZDclJuNUhJRHQxSGo?oc=5",
+   "published": "2026-11-11T06:34",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "17cace4970b0",
+   "title": "USトヨタ、「Scion by Toyota」から提供される軽トラックを米国で初披露",
+   "source": "MOTOR CARS",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVFN6UjdneUhRWThOV3BCNUc2azh3dlZnSEMwOXpSaUhvT2N1LXU4YllnZzk2ZlZsZVB0RURuN3VDOEpscVktNFo3NGFpdWtmWWptbWVPQUZIN3pxUXBuQjA5bTN4V05ucURIZTltVzMzeEs2OWVGemZwa3djSmdpVFJ1X2RiUDBFNjNHOEgxTVY2X3JhS1VNWVZ4bTExaGlrdEVKSXNJcktVdk4xLUVHb2YwMGdlbVNJWHMwNFBUbTN4cG1JSmdSTDdTN1NXMkJfOEpLZjFsQmg?oc=5",
+   "published": "2026-11-11T05:49",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "f15b9e2d5d86",
+   "title": "トヨタ自動車 アメリカに“軽トラ”投入へ",
+   "source": "テレ東BIZ",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84b3Bwa1FqWlVza1BPbk1wYXFLeWtQRUxxQkdrWEtvSkhGUkNNMnQyLUZZd3FTcHR2TFh5ZGlWU0ZiNjBvWi13RVJ6dnpRdDNJSlZTWlpzal9ZNEl5M2c?oc=5",
+   "published": "2026-11-11T05:45",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d7fe71eb0a86",
+   "title": "松川浦を清掃 福島トヨタ自動車クリーンキャンプ 相馬",
+   "source": "福島民報デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtblJwNzBNa0NfZmpDX0JqVkoyaENfY3BfbFVQXzJmQTR3dmYyQ1d4NDFaUTB2QUNXUWU2c2FKT2RZdFNaNlhUYXZLUU5tTmc?oc=5",
+   "published": "2026-11-11T05:42",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "a7577f571233",
+   "title": "松川浦を清掃 福島トヨタ自動車クリーンキャンプ 相馬",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2cXA5Sk1MNXFfWE5CcGFjUzQ3Y3hOZ1A3Rl9RVWdEbnlReEFBei0zQnM5M1dDVGw4RHJzbkNGSXZidk41R3lPZGp4VQ?oc=5",
+   "published": "2026-11-11T05:42",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "43977ed7ab08",
+   "title": "トヨタ、インディアナ州で生産する最高時速25マイルの軽トラックで「サイオン」を復活—トランプ大統領の後押し",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrMkhOWTRldWZWUFh2TG4yV2RtT3hIMFh5TWp3a2EyRjE2QXNvMHRLWDdIRjJveEtCajBZS0tfZlpNNWxNYkRIcGlLaDY4RXAxazhkWnM3ZFZzWlFTb2ptVVpfOFhteklaRUZKWkF0VzZ3X2Zz?oc=5",
+   "published": "2026-11-11T05:35",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "5ea258c35809",
+   "title": "トヨタが名古屋高島屋デビューへ シート用牛革端材を活用したバックや小物を常設販売",
+   "source": "中日新聞Web",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tbUtjandmejdRYzJJQWdaMXp5UjR2QUNFMTRiNFdvaHFjVFFpR0tIbmZpblFhUnpBV2t2b1ljMFFYZGZqUTMzamNXQ0dkcUFrcUI2Qg?oc=5",
+   "published": "2026-11-11T05:10",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "35e1d12104b1",
+   "title": "トヨタが名古屋高島屋デビューへ シート用牛革端材を活用したバックや小物を常設販売",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KYlRfcU5jSHRBVUNmZzlZY0djcE1rRWVqVXBSVHlHZGREa0hxYk5Gd19pM1hobEo1Z1hLVmM3TFVYaEpMeFVSUXVzNA?oc=5",
+   "published": "2026-11-11T05:10",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
   {
    "id": "d876b6f38b6f",
    "title": "トヨタ、軽トラックを27年に米国投入 最高速40キロ制限で「低速車両」規格に適合へ",
@@ -38,6 +452,15 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "705a76a62c1c",
+   "title": "トヨタ、米市場に「軽トラ」投入へ…最高時速は約４０ｋｍに抑え「低速車両」規格への適合目指す",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMUFM0Tkg1bHF3anN0RnlZZktyRmhJSVVJeDVFcWhNeVFZeUtDN1JfYXlNR201dXJjRzdwT01QOW9GNExnRXEyTGpTLUlFTkxjaE1od2FBTUtsSEQ0d2NtdDdOWGo?oc=5",
+   "published": "2026-11-11T01:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "3f635db1d80e",
    "title": "メッセナゴヤ、きょう開幕 トヨタのからくり実例展示が目玉：ニュース",
    "source": "中日BIZナビ",
@@ -70,6 +493,15 @@
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oRHN0TFlLbUdHYnlENzNjNTFTQ3UzamZIMXZ3MnF3bHAwTDNKQmRNd2dEeldJTXlMRnVPdUZVeUlNOUpRSFFvVFZleEd6RHlkUEUwMmZhUUtkSkpITkpmTw?oc=5",
    "published": "2026-11-10T18:22",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "7220461b3b46",
+   "title": "【↑】日経平均 大引け｜ 大幅続伸、AI関連株が買い戻され6万円台回復 (11月10日)",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BeThXRXpSWmozNHkta0VDSE9acmljNlZmRGJXRHlYNVd3dGxzMlFXcmZRTTFhQzdXcGt6R2tmeHJ0RXNaUzdDemZFU0RwZlpsODI5aURBR01IWlcwMVhlRw?oc=5",
+   "published": "2026-11-10T18:06",
    "kind": "sector",
    "q": "輸送用機器 市況"
   },
@@ -196,6 +628,15 @@
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oc3F2NVhLYmxZSTJlTkp5RVlxU18yR1RDYlJuRkdNNGhSZFpPcEtUN0VRLXJWVlgzaTB1dG5KRXFKVzNncTZYS0oyRENvUHhHNkp0YkJOaWJOMGpxeEhCVw?oc=5",
    "published": "2026-11-10T13:03",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "c72d09de0598",
+   "title": "【市況】 13時の日経平均は1312円高の6万88円、ＳＢＧが394.82円押し上げ",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yNGpqclJGOGx0RlpJNFQ4VGxET2FBM3F4SW1yZVo4MzMwano4QXNvMlI1YWZfSERlT2RrLURhaHhBaEJIbERYOElleGstWXdiVUJBV1Y4dmxxVHlTVVpaWA?oc=5",
+   "published": "2026-11-10T13:01",
    "kind": "sector",
    "q": "輸送用機器 市況"
   },
@@ -349,6 +790,15 @@
    "source": "LIMO | くらしとお金の経済メディア",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oNVZ0UVhwb0FVVWxnQ3cyWTNHOGlJVVJtb25MSWp6RGpSUzljemVFY0p6RjhNYi1xS2hCM1BMc0d2LTBucV9Vb0RrTWM?oc=5",
    "published": "2026-11-09T20:19",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "8a83f2ad8069",
+   "title": "【2026/11/10】トヨタ自動車、円安でも利益率を維持できた理由｜ながら株ラジオ",
+   "source": "YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDOWgySzdHZTJ4ckRQYVhLb2dXSVhLaEV5VUpna0x3bmhOcDdSSWVNUU44RGF5bkx4a0hLTGE5VjAzTThDTU45N2hPZw?oc=5",
+   "published": "2026-11-09T19:02",
    "kind": "company",
    "q": "\"トヨタ自動車\""
   },
@@ -672,6 +1122,15 @@
    "title": "中部実業団駅伝 トヨタ自動車が3年ぶりに王座奪還 愛知・田原市",
    "source": "TBS NEWS DIG",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ySFZoNkQyeGJubVRTaDdMRGg2RmpwODAzRTZjVEo0MnloWl9IVlh4SVB2V2pkbTJ5QUhWc0RMMVhzNHRxN214OVVKVnptWjlSanBlbURBeDRPWWxlN1B3dzJtVlo?oc=5",
+   "published": "2026-11-08T19:11",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "00bff50845a4",
+   "title": "中部実業団駅伝 トヨタ自動車が3年ぶりに王座奪還 愛知・田原市",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sTWpaSTdGTmZiUlFMS09VLTR4b3FqaFJ4cF84eTAyTEwwRUFvWExuS2d4dTZMRFg0S0Z3WEpIeDlGTG5vcVl5TEVXQ3BBMFNuNE1fM0MyWQ?oc=5",
    "published": "2026-11-08T19:11",
    "kind": "company",
    "q": "\"トヨタ自動車\""
@@ -1935,6 +2394,15 @@
    "published": "2026-11-05T12:30",
    "kind": "company",
    "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "ee87baae6dc4",
+   "title": "午前の日経平均は続落、ＡＩ・半導体株が押し下げ ＴＯＰＩＸ堅調",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzg2cmpwMndhcnFzV1JfYXdycjg3eGZVUWgtWl9LX1p3M1Z5ZzBLUXp3enRZN0xZOHNFN0ZNWHV0QVNQU05IM1NPazY2YkY2bGo4MzhLVndJYTIwQ3d6U2xWcVhEWXowOURLSFJxMjNTdGtoaEFFSlpCTHREc2U3bXRfMW52dw?oc=5",
+   "published": "2026-11-05T12:02",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
   },
   {
    "id": "10cec6d044c0",
