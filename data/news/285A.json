@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-12T00:10",
+ "updated": "2026-11-12T03:06",
  "items": [
+  {
+   "id": "1db46f8c5120",
+   "title": "投資家の桐谷さん、含み損の株を明かす「プラスになるまでは売りません」（オリコン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMXowS1lUU1Vhak82X3FMSm5OUjh0R0J2bTN1aU9udEYxaldCYUVESTg0cTNNLUk4Si1YbWMtOTBwQXM0eHUydFljeGI1bmlMQXpjSi15aWVGYTZrbTF1UkZrY2U0bTFQdWs0dmRCaURYckFEUl9XZGt2R0JOcUU?oc=5",
+   "published": "2026-11-11T23:40",
+   "kind": "sector",
+   "q": "\"キオクシア\""
+  },
   {
    "id": "4258e2194dee",
    "title": "キオクシア「第10世代」、電力効率2倍 推論が促す革新",
@@ -236,6 +245,15 @@
    "q": "\"キオクシア\""
   },
   {
+   "id": "298ffd4e449b",
+   "title": "マシンビジョンカメラ市場、2035年に209億米ドルへ拡大予測。製造現場の自動化とAI検査技術が成長を後押し",
+   "source": "ドリームニュース",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOWXdBVm5aVkdmTDlIVXYycmZwNjFBVkppQW1ZY19TNlVRbnFsdTRhWDFHSWdKYmc2RjZtQ2MtTFU3SUJYWWU4OXFvdkdJZ0YwSV80?oc=5",
+   "published": "2026-11-10T10:00",
+   "kind": "sector",
+   "q": "電気機器 市況"
+  },
+  {
    "id": "533109138908",
    "title": "オリックス、4～9月期の純利益3倍で過去最高 キオクシア株売却評価益で",
    "source": "日経CNBC online",
@@ -421,6 +439,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wSGNnUUVxaVBnZ2x3TXVGbk1ERzRaUmpMNGtFanZlTFlHcFlJdnJLcGdNcy01OFVvNGh1TlhZTkhuOEUtMTJqNElQaGs3LVhlY2NFc0NQdGRpUk9SQ2NSeVJUVGJvelZJSER3UWtNaUNHeUlmX2R6NmVMcEtubjg?oc=5",
    "published": "2026-11-09T16:01",
+   "kind": "company",
+   "q": "\"キオクシア\""
+  },
+  {
+   "id": "67b619c0d57f",
+   "title": "オリックス、上期純利益3.2倍の8562億円 キオクシア関連益が押し上げ",
+   "source": "エコノミックニュース",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWTzU2X1R2QXM1NXFvM3NNYlRoZENQNHRKeDVJSU1RZlpWdDNjckh6X0NRMmI4TjE5eVA5SjN3a3p3UQ?oc=5",
+   "published": "2026-11-09T15:28",
    "kind": "company",
    "q": "\"キオクシア\""
   },
