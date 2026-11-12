@@ -1,6 +1,240 @@
 {
- "updated": "2026-11-12T03:06",
+ "updated": "2026-11-13T00:58",
  "items": [
+  {
+   "id": "a023fa3598e9",
+   "title": "日経平均は4日ぶり反落、ＡＩ株売り広がる エヌビディアＣＥＯ解任リスク警戒",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaU1GcDdxdUEwZlhETnNWOW12bW1veFVRME5LQVA5enFOVTBWVmVKVXRKNWJlSkZ3OGgzRHVYWko5SVJiUTF0aEZlR0ZQaWZhQ0hJSmREV1lZQ3ZQdEFvUENZaS1hMlJyc0trNXBhbDREdl9mRTFvVWtzcEotN0tRSmYwQWZKUQ?oc=5",
+   "published": "2026-11-12T16:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "9555626e0b72",
+   "title": "日経平均が４営業日ぶり下落、終値は４２９円安の６万８１９円…エヌビディア巡る報道でＡＩや半導体関連に売り",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80Yl9ER2F2U3dqNm1iYTVtc21FR3R5NTZxZlE2cmdQTGh0RzQ1WkV5dnhVaTdaemZkcXBYRDE1R25BMVdfdWRMZjBrc1BrV0FrSVExdjRtRVVjTEdTQ1d6bFFBbk4?oc=5",
+   "published": "2026-11-12T15:57",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ec4dbcacc7c2",
+   "title": "日経平均、500円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HTVRoenlpQlNLYU01bGhOWW5aXzRTS2FSRHNFS0xQYkktRVljWlhUUy1TOG5XblcydWNQYlk1UlNjbU9XMUoycXpaWVZjb1d2MVlVTzBCeldDRk5BOHZQZW1yWDR5VlE3NTF2R3MtLVk3WC0yZkZPTWJXSDk0ejA?oc=5",
+   "published": "2026-11-12T14:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d0ad719c73e7",
+   "title": "日経平均、300円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Ml8wU2xpZWw3SGc1V3lKS3VlZEU2NmFoRFJIbFJTeWdGckVGRlJmUDU5dVI1UE90dzFPclp0SlVuRDhId1phc2ExUTJoWGpXZnktYTA0Q0xGZGM5eGlqTm1Wa01EdzFFTzU3QTlfTndpbG9iS0Vtb3FaZU1RWU0?oc=5",
+   "published": "2026-11-12T14:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "b28a069407f0",
+   "title": "日経平均、400円超安＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RcVJXeFBCdXlBOG5aMnNkbEloM2p0NlR4a2UzWTdfU0k5NnpzQl9zcHozcllsMWRsNUFOdEdGb0YxUWZRLXNqcDBhTWdwR3hSRFpDUmVJX0hMdFFVN3VIeXFyVWdET1ZVZVJSUjJYRmdKS1Z4N0RMRWwwVy1vcGM?oc=5",
+   "published": "2026-11-12T14:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "cfde7fb568d2",
+   "title": "日経平均、後場は上げ一服 6万1500円台前半で推移 半導体株に利益確定売り",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBneXZtMDJ1dGhySEJkbmppY0g5MFpsU0R2ZTlQU1B5U0JGQ29EeUdkLVJKeFRFX01kelliVjd5UnRSUmtFMURDZ0Z0YmQwYU45QUtpX1IwbVIzUkFQV0cyajBNNzhDN2VwMzhrTDFmMC1sWUlJ?oc=5",
+   "published": "2026-11-12T13:25",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7b3db949210e",
+   "title": "東証後場寄り 日経平均は伸び悩み 先物売りが下押し",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6a2g4akNHZC1XUDVlMWxLMG9mYm1jTVlfRXpQeVFVMk5LcVdHakZSbV9MU0t6Y3JGajVFR01EOHJlUWZkYnNFMEU4YlgzQ0RaaWxZYmxxYk50eVBCRXVVQ3pEM1JZYk11LWZYaA?oc=5",
+   "published": "2026-11-12T13:06",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4dcaf52cf423",
+   "title": "日経平均、260円45銭高の6万1509円04銭で始まる＝東京株式後場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xekFzR0E1Z08ybndGMWdXZ2JWQmhiemVJeW9hdkJBUzAxSXFIMlBRcmZhQnVBQXcxc2w5SXBWYUlwbTVXVXVVbHd1YUhmenl1czV2WHIycGdBdnFkZWRBQjlUcWRjUHVuMmlqeTFJY3JrbDhiN3dqUzk4YkJjMFU?oc=5",
+   "published": "2026-11-12T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4c6e002a3e93",
+   "title": "ドル円159円台後半で底堅い展開、日銀審議委員のハト派発言で円売り再燃",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwWWZ1MFQ0Rm9XYnMwa01jX1hERDIyeXJ5NFNoM1pfbmJFd09xTHBrZ3FvYjFvWk00VUNBZ2RQbG40SXliRkhwVVpfU0pZeTlZem5TYnJ3ZFR4YzJMMlJtellUN2FleEgyRDd4R3FqZS1MMGFL?oc=5",
+   "published": "2026-11-12T12:55",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "326a173205d9",
+   "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
+   "published": "2026-11-12T12:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8340fb988ff2",
+   "title": "東証前引け 日経平均は続伸 AI半導体関連が押し上げ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16TUJkUUxadGd2SDFuQ3FJMXlrYkQyY1VZeEVla3dybkcyVUQwMnBvdEt2b0pBY2hFeWxfR1dxR3RkR1BlR0NSMnZfX0lYcUFPTnc0RGMxTHFYdWhfcVpOcXBnTklPY3VjVlRtUg?oc=5",
+   "published": "2026-11-12T12:06",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "85894e8e1595",
+   "title": "日経平均、465円57銭高の6万1714円16銭で終了＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JVE5JZERoeHBFRnlpbl9UZEpDVXFyOV8xUlB1VFNSTEE4WUlJNm9nWXU1MklTYlFrZUFudWROdk9MRHpMV2txOXhZSmlEOE96S28zeVpmbFZOYTF0X1dGbjhSUlA2ZXRiOGtWRHBwV0VBUG9GSm1vXzdCc3pkWjg?oc=5",
+   "published": "2026-11-12T12:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "093a14c38899",
+   "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c05HVy1DYmpXa3FsVHdiT3hvbmZvUDJ3WXU4R3RuYzEyRWFqUnJ3LXhnLUdyR3lxUTVGanpIeEdVdzRZXzFSQ1dkbWk4VWFmTUJ0LU1IdHlRX2dkTFlWQUxQYkFfLXc1YkI1UQ?oc=5",
+   "published": "2026-11-12T11:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d6ffe798bcb4",
+   "title": "東証、一時500円超高 米国株高を好感（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kN3JHMHNENjBsY2taOGlycWpJdGJEZVpEWThzZ2JEVG5nVUJTeTRQOGlValU3dW85XzRRSkVaM0tuQVpmY0l1TUsyaHhrV1pGbHk3QXNsS2FYdGFFMkxjTmw2cDI3d3NPN2xXVm1TOU5LUU1aOGFSeVFXN0VXSmc?oc=5",
+   "published": "2026-11-12T11:46",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e641cdaae0d0",
+   "title": "日経平均、500円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMlNxR2pVVnBHd1BlVzlzdzJTVWFuUWdZaDZvWUpJT1YxeTdNcXZtMTAtNkRwWDRXRlRkZmdwQU5mLVJMZUtrcGpYdTRfYVNyLUZQbHJJejBxNmJyMnJnUVRqVmIwT1dkX2tTUmN2dUFGS3RiODdxMDllbmdhX2c?oc=5",
+   "published": "2026-11-12T11:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "9ade7dba84fc",
+   "title": "東証10時 日経平均はじり高 米エヌビディア株急落受けた売り一巡",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhY0Z4X1ZpNE1QeUVLSDZvdEpsQklFbEpfd3pySXkyNkJSNkI5ekRBSW1hSEZRYlpRREVVTjJMOGh0NzEwZ1VxVjlMZ01lTUVlYXJ1R3ZzNDlxSmRjOGY4NWI2RlFwWjQ4MWk5eg?oc=5",
+   "published": "2026-11-12T10:21",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7a1d89b2dadd",
+   "title": "日経平均は226円高でスタート、レゾナックやDOWAなどが上昇／寄り付き概況",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTUxwLTAtN3prOHBkYzlGcnNJYjlhZHVTM3NmQTNsQVVneUNJUDJ6WjJTTzhCb3pjdkRnYlIyMEJHZFpzbjNlcWxGNG83SGhPSXc?oc=5",
+   "published": "2026-11-12T09:39",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7a86f7987bd4",
+   "title": "日経平均、300円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Yb2RsU2hfVTJwNkd0d1FVYmFpQ0xvTW5hUnY4Q0VqVldXYkVXeEdfYkNDS1F1cmJqNllvb2p5SEVSeWlOUzMtS3JSbGl0S1BvUDV0WGJtTEdhWERzTXpvTVFMak1Wa1gtNkZzUzBSMzM4RE5mNHpBQkxzZ0RxN0E?oc=5",
+   "published": "2026-11-12T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "c11d08ba0ac6",
+   "title": "日経平均、226円52銭高の6万1475円11銭で始まる＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQnBSaHNvVUE5LXVaaWlaNnVMeEZSVDNfNUZNZ0w1WjM0QkN4bkVYbzhOSHBqa3ltOXBzNmJ5dU16aFBTOXA5VXEwN0RraWhfTWVEcGNldGdhenpSNHFGY1FSNlJIWlg0QThFemljNGR3azNOaVBfZnFNMm5uYkk?oc=5",
+   "published": "2026-11-12T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f4b8bd1cdfe3",
+   "title": "日経平均、400円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zLU1zcHhYTS1FbTRnTmNseGJnMTNOelBhbDc5cUdTMGd2YVM5Uy1OOUpuaEZTNVdZNDJxUDB4MTNIamVvc3lieXRtOXZZR3AzRWhRRmtWbzlQcmcwckd0andoYkJxcmYwd1VHYjZUckpJQk5KeVFub0VTcVUwY1k?oc=5",
+   "published": "2026-11-12T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "c824a130175a",
+   "title": "日経平均は続伸で寄り付く、エヌビディアＣＥＯ解任準備との報道は上値抑制",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2NkNTVFRGUtWUYwTW4tTnZlaVpZQmlIVzlOM0JMLVhySVE0NnpRSm56Y0xkVFRSeTJfN3VESUhVeGd6RWVnVElZek1MUGRiSHl6NEFvOW5jdkxRU3kzVTVQTENadTZ3dTVBOFFTY2pPQS1JMHFMZ0ZyM2ZZcHlQZDRXcjljQQ?oc=5",
+   "published": "2026-11-12T09:21",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e0d3d68ff9b6",
+   "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
+   "published": "2026-11-12T09:05",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ba3a432a578f",
+   "title": "今日の株式見通し＝もみ合い、米ＡＩ株高とエヌビディアＣＥＯ解任準備との報道が綱引き",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTGpyTWFSXzBXWUZPMnF3ZmtYalRRWXFNd0NKbUJwdm9PQjNTSnVPMDlRZHRvT0lRcGYyXy0zd25NWWhiTTFKaHd0TmVYZEN4d2h2c0JTcFF3bzZvNjBFbFVDWFNfd0xhZHEwZWhCanl5aFN1Z3hrd1NyQ01OV3NqZzJlbUNwZw?oc=5",
+   "published": "2026-11-12T08:21",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "c5c027c6fdc7",
+   "title": "ドル円見通し｜2026年末は160円突破か？為替相場を動かす「決定打イベント」完全ガイド 2026年11月12日",
+   "source": "外為どっとコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LZ0FKUWo3Y0w1OVlHMVpQYzBNM3lzOEhjc1kzakF0cE9iXzlOdDlFc3BqdWJlNWxsQWJjTTZBcFBsQzQzVkZwcGJuUXM5YkJlcWpBSC0wQjMwdDVzZEJZcHR3TQ?oc=5",
+   "published": "2026-11-12T08:20",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "0b454e5353e8",
+   "title": "１２日の東京株式市場見通し＝６万２０００円台試すも利益確定売り意識(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEc5Tnc1dHNueEhYbkFIYWd5c09OclBQbk5HeFdkSU1VekxRZ0hDV2FIdjN5QVZRX0c3eWxWOXpEaDdxX0pDY1NVcF9EeUItSE1vcjJBVVVLei15Q0JyU016d05yZzVpVm5IZXo4RjRpek1Va2RiVFZKWmZmdVZ1VUlZTC01bUE?oc=5",
+   "published": "2026-11-12T07:48",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "80a25e757ad7",
+   "title": "日経平均株価、米半導体株高が支え（先読み株式相場）",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
+   "published": "2026-11-12T07:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
   {
    "id": "c3d25573fd13",
    "title": "東京株式（寄り付き）＝売り買い交錯、米株安も下値抵抗力発揮",
@@ -173,6 +407,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "fa42ab1900ae",
+   "title": "日経平均前引け 続伸 482円高の6万0942円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZ3hWbDhYX0t0Ujg1UkJHVENORUc1VnVCYnBRUUlhMTBEQ3pRS0ZJYlBXdVRLSm52MEdneHZ5anFZMm1BV21kZDJnMTdhd0hibk1qNDM5OGYtc3gyRVllYlNpcjZIR1RrU1RrRQ?oc=5",
+   "published": "2026-11-11T11:35",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "f6d139480e51",
    "title": "日経平均、482円90銭高の6万0942円48銭で終了＝東京株式前場(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -191,6 +434,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "6e7b9829ed8f",
+   "title": "日経平均、600円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUllITFdfNWlTZGVtd0R6NWpDTnVuLWhqNzh4ZHE5LU1GVmRQOEEyOHZCcXowTkttV1pSR2JXYWpTYzcwSWtyMW5Yc21wSXNmNng4OThVOEZqM3gtVFZIQnJReUg1T0djRzZmLWltWVB1T0NSOHlCUERvOE1yWjN4N296dDdvM3M?oc=5",
+   "published": "2026-11-11T10:33",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "7bd025fbbb37",
    "title": "日経平均、6万1000円台を回復＝東京株式(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -204,6 +456,15 @@
    "title": "日経平均、6万1000円台を回復＝東京株式（時事通信）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yN1UxVW5nNlZkMEh3SS1ieHBwWllfUEN2V1k0WWNDZlktUDM5cTR1UlFiTUFBNGFqRjlzbHdIRHZSR2pFb2pYazRzNmFEa3RsUzNzWG8weXV3eFNjRURNV1lFcUN2aGFhc1RzWFFudV9vRG1rN0xGX1hBbGFWMG8?oc=5",
+   "published": "2026-11-11T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "793c409dbd39",
+   "title": "日経平均、500円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14cXRsR3NmYlpQNUZNX0FZUnlLaDFqbmtaVk1iZ1hCaVFfRk1ickRHS1pZcUNOTDIzUHlEbXJKM1FVZFJnQ2dwSjhZeFMyQzhGVVBnMzBES0toVkY0Y3plR3g4dURndURDMGJNOHVXYno5Y0MxWDFvSTlYNy01czA?oc=5",
    "published": "2026-11-11T10:30",
    "kind": "market",
    "q": "日経平均 東京株式市場"
@@ -277,6 +538,15 @@
    "source": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUzFEeEQySi1QUkJnVHBRbDBUUGlTbjY5RkRkYzI5c0FPLVFyVDFmTDJwUURjaXpYX0pEMVNoVHpBVnFCWkgzTVNTTFBCNE10WXU1ZWw2MW16Vy15OW5FSDRwQnZROHplZTYxdkhEQmJnUk9MWG5acHdfTWl3WGx6OEdranFFdw?oc=5",
    "published": "2026-11-11T08:13",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3440d861d1f8",
+   "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cGh6bS1pUlVySkdzNVlDUTBQSV9hcHhXSzJ4Y1RNREViT3NuQmIzS25TdUlNTnJLSjM5bnluMjNwY2szbDQyS3VfZGpQaC1KdGppcE1ZYXFDVGhheGVSVQ?oc=5",
+   "published": "2026-11-11T08:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -434,6 +704,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "e752ca93b091",
+   "title": "日経平均、1684円08銭高の6万0459円58銭で終了＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVZrUkd2Qi04VDdSY2Y5dW91dDl3Q3oxRlVwcnRNT2RrNWNBcXpTSktZYU52akN3eURJai1aU3lfbEI2aUVqd1dRQW1GYV9KVjN1azJYOUtNTVRkZ1J2d2JSUE5nWkpieE9wbHk0MHFkaUpaWXUxYjh3QUZFTUcyZG9OSGxCSzg?oc=5",
+   "published": "2026-11-10T15:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "951cb938e404",
    "title": "日経平均、1900円超高＝東京株式（時事通信）",
    "source": "Yahoo!ニュース",
@@ -477,6 +756,15 @@
    "published": "2026-11-10T12:55",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "2afe68780573",
+   "title": "日経平均、1433円31銭高の6万0208円81銭で始まる＝東京株式後場(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWtPc0NZU1pxYmc1RWhrdllJTFhjU2FyT1p2RUVEV0ozZHgtb1JVQ1FscVIxNmozbDB0eGsyVXZWWnR3d1RRNnhSdU1zUER3THpMeXNJTy1KN1lUeWVyUE1QYXZrQW1WblgtcExlalkydWVMUXdvZW5GR21GQTc0al9JbVpick0?oc=5",
+   "published": "2026-11-10T12:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "869b8d095e59",
@@ -713,6 +1001,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "1988772abdd1",
+   "title": "日経平均、1700円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOal9wX2N6MGV2TUZ2Zi0tbl9mUWI2V1V5M0EyWjRseUNudVFjQVpGMDJETUFTX3h1OTBpQVNhY1l2eU54ME9PV0syVEVTWEVuTlNEQ3FHT2d4clI4UXNzNzZOZjczckp2OW5sS0FkU2pKZzhZYmlMQWdKWm1HZlRTTU44eExab00?oc=5",
+   "published": "2026-11-10T09:10",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "5b07008e526a",
    "title": "日経平均、1600円超高＝東京株式(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -726,6 +1023,15 @@
    "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
+   "published": "2026-11-10T09:07",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "12ac3d127078",
+   "title": "日経平均、1400円超高＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXVDaklCUDZRazZrVGRnQTBVYWVEX2UtVDlta2JpWjhoRERLeWNwN1VMdldmemVlRVlzTERnZHJGSzBQanpPaXprZlJZaDJkN2s1ZDEyV1ZpdEJ3MmJjNU1UbUdhX180Q2dOQmdNRXJsRXJlMDM2U01yOW1LTU0yeWE3RW03eWc?oc=5",
    "published": "2026-11-10T09:07",
    "kind": "market",
    "q": "日経平均 東京株式市場"
@@ -1699,6 +2005,15 @@
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hMU8tSHRuME9QRjd1T2ZJSk5xeHB5TkMwbkFBTXlTdXpLSDM4TXZNWG01UE05RkVCZ1JCUENTeW1SekdhTkZJTFM5U0YtR2xaNVo4VVFrTS0yTUdldlZoYTZyQ2w3bUl1VHg1ZHJmQVF6SXpp?oc=5",
    "published": "2026-11-08T07:25",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "0149eb841dd3",
+   "title": "来週のドル円相場はどうなる？11/9週のイベント予定 2026年11月8日",
+   "source": "外為どっとコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrbzlQRndjUkpZUjZzN0Q5VzA1ZXJwcHo1Z0luRjItTTg2V2tBeERWYUNKNzdCRzhHamNSVUswUkpMYm9BT3pfMFpPd0tmVXRFQ1B6Zk84WW5GdFpVZFJuYk1fRQ?oc=5",
+   "published": "2026-11-08T07:02",
    "kind": "market",
    "q": "日銀 金利 円相場"
   },
