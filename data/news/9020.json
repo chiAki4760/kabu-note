@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:58",
+ "updated": "2026-11-13T03:37",
  "items": [
   {
    "id": "89a5491330c9",
@@ -36,6 +36,15 @@
    "published": "2026-11-12T15:42",
    "kind": "sector",
    "q": "陸運業 市況"
+  },
+  {
+   "id": "d461bb6da755",
+   "title": "東日本旅客鉄道、11/28に大崎駅発着で東京まるっと山手線を運行へ",
+   "source": "Dellows News",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeFAzRW0xN0lKb1l2VjUwcmthaVFpdmlNSTFzZnU0bjJjRUU0OUt2NlpPZnN6QlZsTnFGZVp0WDk3X3E2YnRWR3kxN0toTkRuUnRoUzF6ejFWdHZkWWc?oc=5",
+   "published": "2026-11-12T13:22",
+   "kind": "company",
+   "q": "\"東日本旅客鉄道\""
   },
   {
    "id": "9cccd1cf1e7b",
