@@ -1,6 +1,546 @@
 {
- "updated": "2026-11-13T03:37",
+ "updated": "2026-11-14T00:23",
  "items": [
+  {
+   "id": "b4e61a49e913",
+   "title": "〔決算〕大手銀5社の通期純利益、7兆円超え＝全社上方修正―来年3月期予想☆差替(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHdiU2c5MlhVQXFMNnlNZnJPQVRJQnZ6a2p0VmdmMTdqdWlFRXloR1NwRlBjcXhQQ0pET2xveTg4ZjQ5V1lpR2RzeG1rOGpWX0EwTXg1QTdUN3pXOTNxZEZHZklqSGNjVzF0ZUZKWDNDOXMtQjV4VzZWX0pyZ2JNN3d2bXVVLU0?oc=5",
+   "published": "2026-11-13T22:11",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "a38b6305217e",
+   "title": "年間配当100円へ増配！利回り2.88%【三菱ＵＦＪフィナンシャル・グループ】2027年3月期中間決算の注目点",
+   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1rNUZIUnJMaEtDdkNBN0wxTGVwc1VnZ3dGbGlWSzUzTVNJSFBWdkNxNy0xOU5Gc2ZFM0hN?oc=5",
+   "published": "2026-11-13T22:09",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "25f8a4aa622d",
+   "title": "LINEヤフーとMUFG、警察学校で特殊詐欺対策の講義",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KN2x1ZGVDcnNjelFRLUVtX3hnaWFjTFA0M2FiRElsUjIzek9KdEpvSzBBNm0tNlhMUVU4Qkd6RjFhbFd5em9mb2lmbmM0blpERWRnZmlqbVdKWE9tLU02bTRrY3VEUWpVX19hUw?oc=5",
+   "published": "2026-11-13T21:20",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "8c367b86b4ce",
+   "title": "3メガバンクの中間決算 金利上昇で過去最高益",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HTkNUUzQ1Tjh5emVmY21udzRqZFNiX1B1WmdrRnlSZGIzZUVSQ0VTNk0zVWNiWDJxTGQ4QkpPZ0VvY21mWU1NZF9SeldjalpWQnd2YVNxaUFEWGlCQ3ZV?oc=5",
+   "published": "2026-11-13T21:10",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "f03e95438f95",
+   "title": "〔決算〕三菱UFJ、通期純利益目標を上方修正＝利ざや拡大、顧客部門好調(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2phaVNsbVFqTUVrYUVwaTAyb0JiRkg2MDBmZFZhTmlQak13QnhJZFJoTXJVSnZ4WWxUX2RpSjNwTDVwSUdwWXp3V3kxY2lseHdPeXYwZ1MwMWxXandGdklNdWpTQ1E0dDZ6SXlVZFYxTk5zaURfcl80dmZXam8tbUNkek5kZmc?oc=5",
+   "published": "2026-11-13T21:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "09625381b0db",
+   "title": "大手銀５社の通期純利益、７兆円超え 金利上昇が追い風、全社上方修正―２７年３月期予想",
+   "source": "時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBySWlqcXNWUTlqX2xnNHVQNk5BNENfM0lBc0FyX01VTlEyWXFDNnVNLU5FaHFELUxYTmFhdjA1anpyMmdkSVFWSVNsQnpKT3ZtUXIxSXJiVFVhVVBBLWExV0ZObw?oc=5",
+   "published": "2026-11-13T20:08",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "1a1d4eab6fc9",
+   "title": "3メガバンクG中間決算で過去最高益 日銀利上げ追い風に 通期予想も上方修正",
+   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUkxLU0RlVUE5cWNpR0dSc094MlhMU0hHeTJFNGVwZTNHV0FjNFhsaWVadnBzUVd1WC1MWTVaUV8zX2ZNbGZPbm9SeXNweFFLSzI1bkd4a0hTdFJqLXJJVlJLY0ZYcUdyc3JURjN6QzdkZw?oc=5",
+   "published": "2026-11-13T20:04",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "fb86e448fa89",
+   "title": "〔決算〕大手銀5社の通期純利益、7兆円超え（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PQ2V4UkZzQk02T1RLOFNaVTIxRVRaWDVPaGhrbGdVZFNnUnBrZmNROGRhV1daMzg1NGpVb0w0bE5maEV4ekJ3NkdLOHFZdlI4NGtObjhpb2dYMm1YcGpQazNSYkt6dGZ1RTNOZXBFMXNuZll2U2lzS2VpamNNb1U?oc=5",
+   "published": "2026-11-13T20:01",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "0efdbfe48e50",
+   "title": "3メガバンクグループ 中間決算で過去最高益 日銀の利上げなどが追い風に 通期予想も上方修正（テレビ朝日系（ANN））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pWEI0T3MzTDhreXVyY1N2dTc0dmkwdmtxNmQ4SlhLcXRaNkdWbnp3WmdxaGxnMTFnRjZVQUFIdjFIbHZtbWRWaDNnbU1mc0MxOThFNE5Vbms1czZ3T0ctR0pXa2hMQ2huNVlkUS1wWGYwUDNWSGZ6YmVncnFBdTg?oc=5",
+   "published": "2026-11-13T19:51",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "d5083f0c7048",
+   "title": "大手銀5社利益4兆円迫る 日銀利上げで利息収入拡大",
+   "source": "ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QmstNExFNlhESGpVU29tNUxyelFiOHpmbS0wNWRISXg3R0tZNXQzZzJJVE9xVmQtZTkzc0FQQS1aZ3VZV08zZmtYM19DQnk1eEpzenRtMkVDcG1nbDZn?oc=5",
+   "published": "2026-11-13T19:45",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "d0d6e44bf4a0",
+   "title": "大手銀５社利益４兆円迫る",
+   "source": "デイリースポーツ",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKSFA3b1Q1RTR5bGxEeThBTFotTF85YUhqUzRzY2o5MHdXMS14ci1vZF9qNXljaGRVX2Y0SG9vQUFRTWd5cmpXM0h0N1pTYzhtQk10ekpMc3JjY21CUDRJTzJCY3RYWG54UDdZeGdvNkpEdXA5WUY2Tg?oc=5",
+   "published": "2026-11-13T19:36",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "055bba069d37",
+   "title": "大手銀５社利益４兆円迫る",
+   "source": "京都新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEdFZlS20wR085NkFYbzBBbVNuMkthR3RaaURnUjN1Y1hFU0J3YXFubm13bjBEY184WHZXVFIwODRjejQzeUx6TlR3NmprQlJ4SVFzdnI0MHg?oc=5",
+   "published": "2026-11-13T19:34",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "59c3e9baa04b",
+   "title": "大手銀５社利益４兆円迫る",
+   "source": "OANDA証券",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTTJ3QVlZTVlwaldGcFRzeXBfeC1CbzdGanFzOVY3ekJESVF0WWdYeGtIc1JVbkV0cDBLYlNlTFVOQ1hwckVoUDhWUERFeG5uUTM1V3BreTFkMXJ0QUFzRHlSWXlNb2dEVm81UkNkNU02MV91TUE?oc=5",
+   "published": "2026-11-13T19:34",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "09720268817f",
+   "title": "大手銀５社利益４兆円迫る 日銀利上げで利息収入拡大",
+   "source": "新潟日報",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GYWFjbHYzQW84YWlRRU9rVk1lc25Uby1rWUlvNjNyNm9maFl5OW51bzI4cHVoaGlhSkNOeXZOanI5ZXNWNHhUMG1jWlIzanJ2V0NvNDJFejZiS0VZU2c?oc=5",
+   "published": "2026-11-13T19:34",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "8bdd9099a023",
+   "title": "大手銀５社利益４兆円迫る",
+   "source": "中国新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jWWlXU1pHWFlaengweExEVG5iQkdVU1ViaXFNdDczbkZxU1JyTGowTVNUbU1YcnF1a2tTTUFUZkp2WE1OZ2Q5UmJQcUloSzNaa1o5b05UMDR3Zw?oc=5",
+   "published": "2026-11-13T19:34",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "9406add387d6",
+   "title": "大手銀5社利益4兆円迫る 日銀利上げで利息収入拡大",
+   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sc3JMZ2diWkJ6b0FxNjkyZW44VHhGOUFDRHpvZTBBUFVlTnRXX0d4d1ZGVXpidjlkNDRaWWZiamlIUlJjVjZUaVVFM2ttY2F0alRjVWpoRUNyQUsxN3Q4azNyS3VyUzZ5VmhGNHJNZTM?oc=5",
+   "published": "2026-11-13T19:34",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "238f4ca609c5",
+   "title": "3メガ最高益でも融資に壁、最大手MUFGで預金減少－調達手段多様化へ",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXlxbUJQVHVxQmxFYnh4MHpZNHlVNkVGbnhVZ3luZzlqRVlHeU5xSWF2UXJmT0JkRXM4OU5nd3lPRUhSUzNMU3VubXQ1TzFOSllXT0JNN1NXVmFsQk1Ka3M5a2VENFNPeVNvTXNmd0R4c0VPdm5WNGgtaE56bHU5NnpJSUp1Zjg2SUgxbDhR?oc=5",
+   "published": "2026-11-13T19:08",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "7e9912b1ed9f",
+   "title": "〔決算〕三菱ＵＦＪ、通期純利益目標を上方修正",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVo0b2szT0FPRmltcjJnVHV5dnRLeVZBaUozSENXdnZwalFSTE92amd6ci1CNEt6bGJXS3d3SGJnZmJ4QmUzc2NDUVBpT2NKMjYzQWZLQ1cwaDFMZDN1QlM5WmMyaVk3WlMxNVRLWkY4VUloQ3AyVkdQdlFDZ042eWVRSjZxVm40VzByZUo5M3M2elMtb29XNzRJWTdJWWlFeFpzeVp6MDdlQmdqTHJfZ1ctR2lhX1Q3enNIa2ZZcTNVWTZDQndnbmNRODhqM3RfWkHSAYABQVVfeXFMUGp2MU5yNkpoaUJoLTNzODhCV1JEZ0JLbzZHMjE1Q2N2U2h2aXRadzd5UlJEV1JBSFp5eTE4eHBidzJCOVhQMlFaYUU2bXFjblRBZnZGa0RTWE9jd2RxaWdFbm5PcEdsd0lWWXpYTFBsWk04cExDMFZ6Sk56YVlBNWs?oc=5",
+   "published": "2026-11-13T18:59",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "3d637e564bd7",
+   "title": "決算:三菱UFJなど5大銀行、4〜9月の純利益3.9兆円 金利上昇で過去最高",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9naWRpN1NPb1pzZWZNcUtGS2hLdlhqTjB1NTFFMzJWdzZfM0pwQVZtQ2N1Mkcwc01fdTRXbnk5NjRwR210dG1KMEhrcmhwbWg2SHZoOWNVU1BZc2ZWSUloQXduOGJRc2E2T0JCag?oc=5",
+   "published": "2026-11-13T18:36",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "bbcc4a1b1e70",
+   "title": "大手銀5グループ、中間純利益4兆円迫る（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xLURzY3NzVk9nUG1tNTVWeEhKY1gwWmp6R1ktdHpkMWpYbm16V3ZGSDVPNFduNm5fRlhrdDVpSnYyYmhNM2Z4czBYQ19Rc3NValFYUVItLU5BMXE0ejFySWdvVTFXWGduZGNvYktSSFI5S0JzMkFFeTRLTHM2Z3c?oc=5",
+   "published": "2026-11-13T18:35",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "a8a91b8efadc",
+   "title": "【速報】大手銀5グループ、中間純利益4兆円迫る",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIQWdETko5THAzWTZLdkZEcUhjZDNTalM0R2NtTXF4cW5ZYnlxVEE3SUU0S2NSR3ZBNGloLWxhMzBQTmhGc0F5amtzbw?oc=5",
+   "published": "2026-11-13T18:35",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "4416771290d4",
+   "title": "大手銀５グループ、中間純利益４兆円迫る",
+   "source": "徳島新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tZThqZjZFVklyRDRua0h3dlhib3VDeEFKUGVERkhwYmVLd3JkRkNQWjR5N0tRc25MOTJTSE5sX3libU5Md054VWFOdHlOVVVBTmVrRUhB?oc=5",
+   "published": "2026-11-13T18:35",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "5d73c1014bdb",
+   "title": "大手銀５社の通期純利益、７兆円超え＝金利上昇が追い風、全社上方修正―２７年３月期予想",
+   "source": "Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GRGdMdUlnVlVXcTNCRTBMOHgxUWRRTXRUcmZqYS03YXBZcXlUb2E2bm82Z1BPR1VaamJCT0QzMlE5Qy1QdHBKRUs1d1QwNlBnZF9wMEQteU1sWWlQczE4?oc=5",
+   "published": "2026-11-13T18:27",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "e417217c9f8e",
+   "title": "三菱UFJ、中間期連結純利益26．1％増 1兆6308億9700万円(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWF5WURFajAtUmVMYXk2ejRkQ1MyeGxKcnBiOGlrSjE5SlFGYk9zdmNQeUNsdTdIOUxHcEotWmNQUHVNX1BZalVuVWxJVlhQa21pdlUtREg5YmZaT2lCQm9JNG1POGdFbHRFa2xSMFlmOGhDT2hpNnpoYkdFb1B2VmhNU01LQlU?oc=5",
+   "published": "2026-11-13T18:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "ede097f9480c",
+   "title": "3メガバンクG、4～9月純利益21％増の3兆5305億円 通期は6兆円超見込む",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05WFMzS3c1S2Z5Y3lXcVRiM2V0Wk13NDJzNGZUclVSWkJQVld6VWdSLVg4WThFMVVYejRNSnRwenJVcFhablVPUjVvZGEwM0xTMmFPcXdn?oc=5",
+   "published": "2026-11-13T17:47",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "90a529ea56c3",
+   "title": "メガバンク3行の中間純利益は21%増の3.5兆円、通期見通しをそろって引き上げ",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UM196T1NyNW4wZG9ZRUhjYlNJMDJER1RtT2cxdm5oUldxOVltMFRJVjFTelRLRjNNS0hYTHNyRTg3d21KdDlDanQyYmJhWHVYYTUydVZmb05uQ09iRkx4OF96UmxBUTh4QmZWTXVTeG8xNzVt?oc=5",
+   "published": "2026-11-13T17:35",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "0e8cd8e36e64",
+   "title": "三菱UFJはなぜ純利益目標を2.8兆円に引き上げたのか 増配と2,000億円の自社株買い｜無一郎",
+   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0xN0FSTGtqSWQyUkZ2NVlveEJlRFhnWnN2YzJVNUJMb2Y2UWxyX3ZmaUlMRjVwdzBIWktR?oc=5",
+   "published": "2026-11-13T17:32",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "6300eea9ef17",
+   "title": "三菱ＵＦＪ、２７年３月期最終益予想を引き上げ 上限７０００万株の自社株買いも発表",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12RlRBOE9DY3Q5dXVGcTQtT3VDdjFPbHVUbWk2UHFnOW5MeGJQdGZqY093TnZFQV82eUR1OHRMRElHdHpIWlB5Q3VHdS1jYm1Pd2c?oc=5",
+   "published": "2026-11-13T17:24",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "f2925f1a147c",
+   "title": "MUFG、26年4～9月期純利益26%増の1兆6309億円 中間期の最高益更新",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JVnpadHNWOE9Ja0N2OFFfTkpZcFVwR3VWQk0xeEo3ZHc1N1lfRlY1MjRqdGhNd0JpMHFXVy10d1VxTGhNUDRLOHNDUVZRbk5aTFVtdDJ3?oc=5",
+   "published": "2026-11-13T17:20",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "96646130f309",
+   "title": "MUFGが通期利益目標を引き上げ、2000億円の自社株買いを発表",
+   "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkcTJYOC1kUjFFYl80amlheWRJLTF0YzlLZkh1bVpfT2ExWXdOZnRtQ0hlLWxwUHlkaF9hd2NtcDVBVll6WlBOQ3BTY3hELXZybWg1MEJseDdtaVdheXNaRm1qNXo?oc=5",
+   "published": "2026-11-13T17:17",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "95bf44fc71f8",
+   "title": "【決算速報】三菱ＵＦＪＦＧ、中間経常2,260,957百万。アナリスト予想を上回る(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0lZUHAzeDZ0eUdleTY3djJCeWJldzRRVGNMcVJvQm1EeGxRQ1hJQThHN25Cb0lQY1pmUUdpQVFLV3QzQncwbEFETG4tWVh0cWY2d05fT2duNmpTQm1ZMzdBSXRSWlBVWWRxSWNDZEx6Nzh6ajloMDR5cXNGN1NsTXkxaXhMb2s?oc=5",
+   "published": "2026-11-13T16:46",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "c2423df05550",
+   "title": "大手銀５社の通期純利益、７兆円超え＝２７年３月期予想",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yNnZyMTNMc3RjbXp1QmE1Y1BRek5SY3JiNFl3Vk9Cd3RDdXM3UER6ZE5xb19rR0pzSjF2anpFQ09oaUMyN0JlZ3RwV243UloyX1YyazZqeGtBOHJ6NFFDWXZacy1lQdIBa0FVX3lxTFBWSlIyNnZQVEhNWjVFOERaYzJvTEpmYWszdFhpSXdoV3NjSEsxVEROMEZ5M254X0FwOTVXSG1aQW9VX3FacDNKcld5NmpWTTA4WFhUVFh0Z1A5c3NCRmFocWtSWXR5c1JlTzV3?oc=5",
+   "published": "2026-11-13T16:43",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "aee60dc2802b",
+   "title": "ＭＵＦＧ、2000億円上限に自社株買い 発行済み株の0.62％",
+   "source": "ニューズウィーク日本版",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdlRfYk9BQXk4aU9SOHAteVVLZlNQdjdLY2czQkxJQnkxdm1lLUVjQk9GOHJsMEtncEFJdklWZkxZZmZCUEdKV0hiTkFnMloxeTY2bXhYbGZ0QQ?oc=5",
+   "published": "2026-11-13T16:38",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "23e3380df3d2",
+   "title": "【驚愕】三菱UFJが中間純利益1.6兆円突破！「金利のある世界」で爆走するメガバンク決算から見えた4つのインパクト",
+   "source": "note",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QZ0gxcnliTm1rOTBfYkE1RkdUcDBKcXBkckhOYnVFc0JjdTIyYkxYYXV3YlZRcXZvLWxBQ05QY3RONy1xcjRreTNVX05rUzhIS2RhMHBHVk9UelZ4?oc=5",
+   "published": "2026-11-13T16:36",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "3c92c191ff94",
+   "title": "決算:三菱UFJの純利益1000億円上振れ、中小向け金利上昇 27年3月期2.8兆円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82czE5REI5Y1Aya0RoUmJtR3V3YW9hQ0Yydzd4aV9ZNmUwOVBGNWFtOWFMM1VoMXFaR2E3LTRjOGctcHZFX2VoNGhBb1JCX2NEV3RlRWlyMWdvZVJHX2ZhbmpEMllvMHFVN1RmYw?oc=5",
+   "published": "2026-11-13T16:22",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "9788fda598b9",
+   "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：2027年3月期 第2四半期（中間期）決算短信〔日本基準〕(連結) 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NMmlWY183Y18xcWFGWkYtRU0ybGVmNlJxeGUtU2dUam1iQ2tiR1Ewby1yV21RbWpha2RZckFBaTdNVlZnWmZZWFhzWmtZaGxDSFhnenM1LXlMYWJaaG1hUkFyT0g2T2lRNmc?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "905c141fed77",
+   "title": "三菱ＵＦＪ、自社株買いの実施を発表(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlppUy1UU29NLXR4VnZPUVg1c0E5VUxybDI2TlhURGVTb01NdkxtaG5iSTFUU2pjTTVkSHhHRFhhamhzNjAwNmJnS2ptQkNHeTNSNGhmX3ZUQnhtZFYwdklWUHROOVRXb0o3T3VxYm04a01EdGJ2TlcteEdfUVllbkdCenJNS1k?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "2e265dc95624",
+   "title": "三菱ＵＦＪ、今期最終を4％上方修正・最高益予想を上乗せ、配当も4円増額",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YQl9yQmJPVVgxYXMwSVRsNV9XMndxcFhjM2FZb29vUDVZeTgzZkdMZFVaclRiUjMzT2ZKN3A5ZUxuOFNYWnEtOHFCM2o0OGs3cnc?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "1df9e2fae757",
+   "title": "決算速報＞三菱ＵＦＪ、２７年３月期第２四半期決算は純利益２６．１％増の大幅増益(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa0lRVV96ZGVkX29waFpBZXAwUHlmWXVTVV9xU2pxQi1fUkpCeHdNbTk0YW12dWx5R3ZWNG1WYTFIV0dFYWd3Y1d2OU5QMW8wbklxdnZIaV81VVMyMXgtbGxPVWNCZ2pfRGJFblQwYUQ4NHVRZEFDVEVhSTU5eFgxU3JZcEs5N1k?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "ffea71b7c341",
+   "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：自己株式取得に係る事項の決定に関するお知らせ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tT2VpNUdBZElUemhFMzZCQjJzTjRPOHE5Vmc1N2EtQlV2dFJOSDYxUk1ieHhVRnlXLXJKSXFvanhpcFV5bzBsX1RfMWlKWkNUS1c5bXZqWUkzRXN0SWRnZmdlNHZtSV9LUWc?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "1f70708853ac",
+   "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：通期業績目標の修正および期末配当予想の修正について 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CVDlpQ0hneDBvMEdHOGdfTkxldHVZeGVzRU41aWctUHdUTFFvdE8yd0ZBZ2lnRnZPVzBCMVZ4dlh0NnpRQzlKTjFZVTZwbkM0VDE2M0VzYVdmMF9XQ2E4Zkt0MkpMNkstREE?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "001ab42a18f1",
+   "title": "増井 (@miraclemasui) on X",
+   "source": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE93U3daQlpDeXpaWDVEVkY0bkNFaGs2UUlyRkdNbkFneTlQcjV2aFNoaUx5azhTSHNONVVV?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "fdd29f660ff3",
+   "title": "自己株式取得に係る事項の決定に関するお知らせ 投稿日時： 2026/11/13 16:15[適時開示]",
+   "source": "みんかぶ",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0ydi1UMmZzV2xiZUpOTXpuOHhEaVYwWS04Wm81Y1lLb1QwU2UtVFA0Skl2Z0NQZGNBc25UUEZZVjItYzBBbXQxYQ?oc=5",
+   "published": "2026-11-13T16:15",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "cddd8e4012dd",
+   "title": "三菱UFJ、上期純利益26.1％増の1.63兆円 通期目標2.8兆円に",
+   "source": "エコノミックニュース",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NM2tvOXdQb2NwWkE4bjUtNjNjTUgxUFM4cUdGZjNaUjBhQWx4QWhMVGwtdTVmTjlKNVk2eklPWWU5QQ?oc=5",
+   "published": "2026-11-13T15:57",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "cb87a1476455",
+   "title": "国内3メガ、今期純利益上方修正 前年比2割増の6.3兆円に(ロイター)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM3NWLUZuWGNnMmdHVFRJTUVVSHQxNmx2aFJ5S25EYUN6cUFIRTVRVkhGcHFyOWJLVjZJY0pKZDBxN2JNTHhtRzUwRG83c25lM2xmMVNfeDUxY0NCc1JCazdpSzdyNmpUc0l3X20tWm9HLThKbGJXMTN6VkZudl8zUGtfQmhETDQ?oc=5",
+   "published": "2026-11-13T15:47",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "78ecf065268d",
+   "title": "【決算速報】みずほＦＧ、中間経常1,252,326百万。アナリスト予想を上回る(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXzlVVGp5dzJfMmdRMDZFRU5IQU5GcUNsb1FRbkE0b1B4WXk1Q1RaTWVOMlhXOG9vVTdQcVh4R09aOUR2YnloWEJNc21RUU9jb0syUXpIVHZDWmc0el9FUG1lTnJyVHpPX3pGOVBSUlR0ZW92SzFPYUtnWFJhWTJ4RWYxekwwZ0k?oc=5",
+   "published": "2026-11-13T15:33",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "1cc7232792f3",
+   "title": "【決算速報】ゆうちょ銀行、中間経常551,051百万。(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmV6UDlUX0J0Y3drSGJEMzBpaWpQWjlTN2NjS3ZIODBFbkJ2TWtZbWt6NGhob3p4eVhWX1pjcDQ0Rm9hRlA4WUFTUnZOVlNodm5YQUN6VERVNy1OSF83Sk52LW9IdVFlV2pYV1dqOHR5LWJzMGZXRkVBN08xVzZWZW4xNjJwV3M?oc=5",
+   "published": "2026-11-13T15:33",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "2f9c77ed3c0a",
+   "title": "みずほＦＧ、自社株の買付と消却を発表(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzl0NGdpYllwUUdFQ2JyY3c1RVY1ajFqUjlIbFQxdzBRX2o0bkJPUEFoOHhOZHdRV3J3N3dCdGpiMlh3OFlrWmJsWDg2TWFwWm5yMWY1Qjg3QWh3WWxUS29qZE8xdGFXa2UxeEVYN1k2OFRNd0pCT3RYbGJaS0FpRVNkTzJHNjg?oc=5",
+   "published": "2026-11-13T15:32",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "074eba5a0ccd",
+   "title": "ゆうちょ銀、自社株買いの実施を発表(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmltTVh6eXhEYkt6QnBycTF4a0xwRW5SMTc0TkFObm16NUt6M1Z3YUVYWUJ1dlYzdFY4aFFWOGtOMGFhaE56NlIxZEczeUxjcUREcVpqeV9feV9UZFp5eHk4aDVTWXVUSURjT2htbklwSEoxM0NaTVFOdjAtdUFTY01MQlhqLVU?oc=5",
+   "published": "2026-11-13T15:32",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "34ec112ac670",
+   "title": "ソビコとMUFGは戦略的パートナーシップを締結し、ベトナムと日本の発展に向けた資源の連携を図る。",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzIxWTBUaVJDV0t6SkV3M1lDWFU5TW9JLXJIMVFkNnNETXM5eVVfSlptbmN2X25YeWtfazg3T0FlVnFSOHRreGxwTWlCUU1OUjRRZEtCLWdzMC1VRmp5TE5qTFVnYlBXS2dYTWtoRXFUb1Y1di1haWg4UmFHTkR1SE96Mk1CaE53Yml0dFBBN3MxODZxU0ZBT04zVS10OTBGLWJVX0lPazNvVUJhZ21B?oc=5",
+   "published": "2026-11-13T14:06",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "b30dbca73f7d",
+   "title": "【決算速報】三井住友ＦＧ、今期最終を12％上方修正・最高益予想を上乗せ、配当も実質11％増額(株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdWk1MGdTV0twMEt2Uk9sYVY4ZGxadVpUZ2k0dGpPcUlPam5nQWxkYjJJMFJmSExoU0tROG5XU3kzUjlUM1FjcHRYdExNMVkycHhCbmJQOE9MRks3XzUyTmtselJXckdQaXJCbFVmMkwzVlNhQ3kzeWpHaEhnLXNRY1dNUXlLYm8?oc=5",
+   "published": "2026-11-13T13:31",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "87afd7c9b578",
+   "title": "欧米為替：デイリー見通し カナダドル・円／カナダ金融政策に思惑(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzNUQllqSkRGX0NLZHdHcW9zNEFfa0FjNmJwS3ZLN29zbUw3X3dwcnJwU3Iyb2RFS3ZtVFhLRTF0VWozNHdKNjZtTFM4TlFDcTA0QjQ0bjdQZFZ4TFFfT1ZhcHJiSjR1Q1NzOU0wems4dkkxQWNPNERFWHhEMXQteV9LeUFlWlk?oc=5",
+   "published": "2026-11-13T13:10",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "94a3140bb6c7",
+   "title": "「サッカーを仕事にする」ということ ＃01 株式会社三菱UFJフィナンシャル・グループ 安藤豪規さん",
+   "source": "サカママ",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wY0RleU43b29mTmZBSHlocFN2T0lzNnowZDZqS3JLbno1QWY0d2J6N1RxVWN2b3lDSU1MdW9jMmVRWEtuMG9lTHhWbw?oc=5",
+   "published": "2026-11-13T13:05",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "ae3904bb0324",
+   "title": "「サッカーを 仕事にする」ということ 2026 サッカーで働くって、実際どうなの？",
+   "source": "サカママ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EVTA5Y2RBWTk2ZGtyVVBnMFB3WEhIZTdWaHpER2Ric2pEX2NWTkEzOHFlUkJFT1E4ZXZtUWdVdG1maThTRmxPNDhyTHNtVmtl?oc=5",
+   "published": "2026-11-13T13:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "593c586e3b80",
+   "title": "「マイクロソフト365」で障害、省庁や金融機関にも影響 デジタル相「複数ツールで対処」",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EVV9feTlERk5nQ3VhRnduU1ZyU0tGYlNDcmZhdFQ5NHlBYm9KeWxQQzBJc2R3ajdGVUVVejFqa2NrZzJkY1pWZ1pzUmZFQ2VEZWdseVdR?oc=5",
+   "published": "2026-11-13T11:47",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "e4a76138ad07",
+   "title": "三菱UFJ、三井住友、みずほ AI活用で課題を克服！ 3メガバンクが再注力する「中小企業向け融資」",
+   "source": "財界オンライン",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoOUVzV2s2ZkxKc0x5QUJGNUhlX05Fd0NmbGVaOG8zYWt5U2VLc2RvMWxPc0RDek9sLUdaODNiSm1YTVUxVXlBZlZLM1NEaXlhSDJ4Xw?oc=5",
+   "published": "2026-11-13T11:33",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "34efb0ad422c",
+   "title": "【三菱ＵＦＪ銀行】預金にエンタメという付加価値を。口座残高でエンタメチケットが当たる新施策「円貯めでエンタメ！エムトクキャンペーン」実施中！",
+   "source": "共同通信PRワイヤー",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZkpIaVJ2d2tqZWt0aWlJb3VXTk04dm51R0ZrQjNxRThBcWhzVjk5Unpkc3J0V0lRYTBGWDFZZ1FtWXhZRHFyZXc2ZWNwQWJhclJLSU01MmlJM1E?oc=5",
+   "published": "2026-11-13T10:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "322b16ecc270",
+   "title": "きょうの主な経済指標・スケジュール＞(ウエルスアドバイザー)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWIzbWduTTVvRUhhX1NPRzhFby05MDRjOHFrWEhlUjAzVmQtbUhveFRkRDNJbFBLZklic1V5VFd6M3EzRV9jWlplU2h4TE1jWl9ZVzFJMjktS0FRTUJnOWtseGVkUmdmc3pQQzRIQ1lOa0RkRElsV0VMdjdQR0dkMXdLRDA2bWM?oc=5",
+   "published": "2026-11-13T07:45",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "f92b392db584",
+   "title": "未来教育、「人的資本投資」可視化 金融界などが熱視線",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12YUEtcHJLdEU0WVdHOGF4a2hkbnRQQ2ZqeGsycW1NVmNLcnljN3hfU0pzOU1LTU9MTXNwOFpFa1otc2RQYm5Wb3M1YUpxV2hMUk1OcVZn?oc=5",
+   "published": "2026-11-13T05:15",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "863dbe61514e",
+   "title": "金融庁検査、債務者の抽出基準見直し 全東信破綻で〝穴〟認識",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZYndCUDhCMTU5UGZDTHpfa29ZNTVyZ21MMmluUXgtRFR5OGxwcXZKRjJ4bXR6dS1fSmc2cF96NV81Q0g5ZGdLRHZkOFVNVTMwWHUtS0Z3?oc=5",
+   "published": "2026-11-13T04:50",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "7db0c76a0522",
    "title": "【マーケット情報】商品市況・為替・株式（2026年11月12日時点）",
@@ -92,6 +632,24 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "dc1b8f515a6e",
+   "title": "全保連株式会社（三菱ＵＦＪフィナンシャル・グループ）がDwilarとサービス利用契約を締結 ～外国人入居者の家賃債務保証審査に、外国人向け与信判定サービス「Lita」を活用～ | Dwilar Japan株式会社のプレスリリース",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVmFJWUhZaEx0VG5hUXNncEkyckIyd3dhZEJYTUs2cEpmMHdvTXBjLS1QdHAyYklDa3k4ZFAwcTctY2xfOEFOTUlRYzlxMmtUaFVCZ1I5Y0JwQUF2SDBpTWU5aUVPTnJqdnc?oc=5",
+   "published": "2026-11-12T11:50",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "b64a112695c7",
+   "title": "全保連株式会社（三菱ＵＦＪフィナンシャル・グループ）がDwilarとサービス利用契約を締結 ～外国人入居者の家賃債務保証審査に、外国人向け与信判定サービス「Lita」を活用",
+   "source": "ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pZVdoTTU2c3I5ZmExbFVadVVROU1ZWUhUN1NRbHR5TDJadWpzVzJjTENINF8zWTFJRmVuQXdRcE9YVjdWb3h1SU1fN0dHaDc5bDZTVjRnRVJDX2doYV9zVGRKUQ?oc=5",
+   "published": "2026-11-12T11:50",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "f9907cfa1015",
    "title": "コアウィーブが投資適格ローン約40億ドル調達へ､MUFGなど主導-関係者",
    "source": "TBS NEWS DIG",
@@ -115,6 +673,24 @@
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YT3NVUktRRnA0bXBqY0FSek13LUlRQVE1UG85eTlaamRwVVpYTVRsUExGc1NTeGI3WHpuWlRwaU5GcG9CRHI5c0ZSdWhMX0p5ZGtpLXMtdWlSWnNJYnp5ZGYzcDNGaml6ZUNuc3hvc2FHa25B?oc=5",
    "published": "2026-11-12T08:55",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "2e845290ce52",
+   "title": "コアウィーブが投資適格ローン約40億ドル調達へ､MUFGなど主導-関係者",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBndnRoLVNUVmpqX1hfazZKcTlsYmlzMkd2eXVzVjJDcFVVdWNmZUxVSXdtN0RiRDBoa05CQS1HRVhwblJmMDhMdEtFNHFrNDVRZXloelBlbndReUxlR0JiQ2JxQzJjd1Q5alltWFBDMkNaNGF4c2RN?oc=5",
+   "published": "2026-11-12T08:42",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "7ef4cf43d262",
+   "title": "金融機関や政府で情報流出 口座情報やアドレス（FNNプライムオンライン（フジテレビ系））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IWXAtX1o4NFRPVjRmSG9pQVBvSnp0QnQ0NEdWd3lac1NSWmpqUjZGWlczY1FnV2xWSlliRGRHY09neVhseGVXTEl0VDhNT1J2YTdRMkYtVDY2a1pBQzMxSXpxbmtKalNCMzZQNkYwWUhkQW40ZXZhcFVuNklmYVE?oc=5",
+   "published": "2026-11-12T00:13",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -452,6 +1028,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "5fe13511b74a",
+   "title": "三菱UFJ銀行、若年層の「今やりたいこと」応援する新施策 ギフト券贈呈やライブチケット当たる預金キャンペーン（オタク総研）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbXM1ME9FTlBPakFiSzlJTXBPeEptRVpoWWIzX2dNZ25nVUJsNFVPaEhmVGo4TnBpZGR3dklpU0ZkR0Rna0V1dVdGcXA2Zm4wZUdCUWI2eE9GZjBxd29rSGxiTFVmbkNRTW1TN19vSDUweXlaVDdVYU12ZTMxejg?oc=5",
+   "published": "2026-11-10T14:32",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "2af735f5eaca",
    "title": "三菱UFJ銀行、若年層の「今やりたいこと」応援する新施策 ギフト券贈呈やライブチケット当たる預金キャンペーン",
    "source": "オタク総研",
@@ -497,6 +1082,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "7f49cdf3ec14",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】非鉄金属 【下落トップ】その他金融業 [11:32](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUk5rckZETFMtZVQ5WHRMRDRZSFN2TlBvRXQzV0l2dHBiYzdMYUVwRkVmSjd2ekFDTzJUTmlpaURsRnRVSjZLbkN0TjJfaGRhT19oSVBlaVp6OUpYblZBdWNQamVfbUlFMFduQzRlc01WQlMwV1Vqb24wQjRrdkxaV1FHSmoyQUU?oc=5",
+   "published": "2026-11-10T11:47",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "50afc3d19edd",
    "title": "〔東京株式〕大幅続伸＝米ハイテク株高引き継ぐ（10日前場）☆差替(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -538,6 +1132,15 @@
    "source": "ペイメントナビ",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbWctYmh2b3g1VzRZd0JsYlM4cG94b0J5Z3BGbXNraEpsWWFrMDQxZm9lcnozUHZuNzljU282RjJBX0l2VkZuenJraGUwTFhtdERVNG9qRG9qeXM?oc=5",
    "published": "2026-11-10T08:53",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "075e97b7dd21",
+   "title": "MUFGとグーグルが描く「金融×健康」の未来。家計簿アプリ・マネーツリーが「睡眠」も表示する狙い",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5haENGZTBPQ3J0dnRTY3JidGt1UTM0RHBZckNaM0dHX0hTMFg5MG53Wi1NMG5nbFMtamFCZzA2ZlE1NTdxdTktLWd2R2JQbTNtQ2Z5aHN6VWpRVzJvTkJKdDF1cWtZLXRrSnBFYmp6RnNQU2MtN3JvdENkdUllWXc?oc=5",
+   "published": "2026-11-10T07:00",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -1568,6 +2171,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "e82210e5375c",
+   "title": "大手行など30金融機関、警察庁と情報共有で連携 特殊詐欺の被害防止へ",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UQnd6cVktelBabmhFTkZVM2VaSXctSWNybUNkdUExWEFPQXBzbmpmZFNMNjNXb1VheU14R0FLOEh3alJ2YkVFU0N6emNjZTQ3MjNyczlR?oc=5",
+   "published": "2026-11-05T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "0f1ccecc1d10",
    "title": "三菱UFJ銀行やHSBC、JPモルガンなど5社、トークン化金融の標準化団体を設立",
    "source": "CoinPost",
@@ -1739,6 +2351,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "c52f69415d9a",
+   "title": "金融庁、「セルフ評価」で底上げ 金融機関のサイバー対策",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lallNa0xVZ2tVelNtWlBGVWJOWFF3SWhOVzQxOVVyTnZISlhGSHN1TWtGZUVoSjRwSlN2UEJIamZYekNJUEN6b3BsVTNjdnprNjd6NDdR?oc=5",
+   "published": "2026-11-05T04:50",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "0caadbc856a9",
    "title": "【欧州市況】株、国債ともに上昇－米中間選挙受けリスク資産買い",
    "source": "Bloomberg.com",
@@ -1845,6 +2466,15 @@
    "published": "2026-11-04T17:45",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "023d4c28cf4e",
+   "title": "秋の褒章 金融界から15人",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aSW00UWR0eGo1ZWJYcXMxRWg2bldScHhvRWc1UktIMm9XbmtuQld1ZjRUVUpRMGlTSjB0RlppTmJrVGVVd0ZkUHljdlhVZWw0NVNQc2xn?oc=5",
+   "published": "2026-11-04T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "9f81df803023",
@@ -2180,6 +2810,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "1257a668841b",
+   "title": "秋の叙勲 金融界から23人",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IU0Nad1EzdVZMdmgzcmpTWkUydndqVXhLRjhWaUEwVlk4Mkh1SFdHZTRfSUROeXViY1NmMHBDSXJHLXgxZkpISGpmS2k1ckp6Y1k0bGhR?oc=5",
+   "published": "2026-11-03T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "89bf1d88c9e3",
    "title": "アダニ・グループ、データセンター事業拡大へ15億ドルの海外融資を模索",
    "source": "BigGo ファイナンス",
@@ -2313,6 +2952,15 @@
    "published": "2026-11-02T17:00",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "958d596e8419",
+   "title": "（お知らせ）金融庁、三井住友銀行が登壇「FIT AIサミット2026秋」申し込み受け付け中！",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oSjktWm1vLXNBcTJrTU9DcDZDdGJXci0wRnBTaU5mSkR4RG5VWXVIYmVWVUxqenBCenUxS0dOdXhieGxyWTJEUlkwSV82dmZtZi0ySExB?oc=5",
+   "published": "2026-11-02T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "eca7565c1b10",
