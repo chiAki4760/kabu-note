@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:23",
+ "updated": "2026-11-14T03:07",
  "items": [
   {
    "id": "71a1b0804dd2",
@@ -43,6 +43,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGhtR1duLXFfVEdxb2JaREFwRmw5dE02eXFZNVVOQW96aG5EQlQwZndDMW5mUnNpc0tPNHVfOFpPVTBMUEZZRG1UUnhfTUxzV1Z3QjhfcTg2U1k2V1F4aUkxTG1VLU5vcFc5R1RKYVVfUTFGWnN6RnYxLWZFTmsyMmRxdkRmX1E?oc=5",
    "published": "2026-11-13T20:41",
+   "kind": "company",
+   "q": "\"キオクシア\""
+  },
+  {
+   "id": "5b7966c6620a",
+   "title": "東芝、中間純利益2.5兆円で過去最高 キオクシア株の評価益が半減し4〜6月期から急減",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Y2dCNzRkcGxGSHVfd09lbmFiS3NLb2FXQzdCMmZDS0JKZ3dKNmx1UnJTd3BlLW5ubHRtQ3lRbnUtSmhjSnJIMFZFeFNHUnRScklpRllhcURZbGkwVWVHMnR6a3ZhaG84b09TM2JpX3NOWko5?oc=5",
+   "published": "2026-11-13T20:25",
    "kind": "company",
    "q": "\"キオクシア\""
   },
@@ -92,12 +101,39 @@
    "q": "\"キオクシア\""
   },
   {
+   "id": "a335ec2163d1",
+   "title": "東芝、中間純利益２・５兆円",
+   "source": "下野新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndkZvM0ZWUnZTdDk0ZXExaEViYXRkQVlrMVF4THhMNmJoR3VQaXM5Y1NVM3RYTUdVczB2dzBPOXF1dF9DNHJod3VPaUlHYjBZcnJrb3h0TWVnNWRsekE?oc=5",
+   "published": "2026-11-13T19:43",
+   "kind": "sector",
+   "q": "\"キオクシア\""
+  },
+  {
+   "id": "71fc45a437da",
+   "title": "東芝、中間純利益2.5兆円 キオクシア評価益は半減",
+   "source": "NEWSjp",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZTkpRRVYwek9FQ05sMEJMRGRJSjVENTRFdVJpMlAyXzY4LVJTaDNqQUJ0RjJiSW1oWDhqeDUyeU1VWXBGeHhycXdUYkxJUQ?oc=5",
+   "published": "2026-11-13T19:43",
+   "kind": "company",
+   "q": "\"キオクシア\""
+  },
+  {
    "id": "2182c188b631",
    "title": "決算:東芝、4〜9月の営業利益最高 AI需要でHDDや送配電設備がけん引",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ON3N5dnhFaE9kdjJaZElMX1ZwUVJwcHIwenhBMmIzT3JnMTVQcV9qbVJzQ3ZnT2tQeWZXUHJmOExtTGh5RGhjZEc2YkFlM3JobHZ3TnNYTERMY2lfWXdBV3B3N19PczJGSm9xTQ?oc=5",
    "published": "2026-11-13T19:30",
    "kind": "sector",
+   "q": "\"キオクシア\""
+  },
+  {
+   "id": "9cc4408fb388",
+   "title": "東芝、純利益8倍 キオクシア株が寄与し過去最高 9月中間決算（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NaXZGdHlGenBWem50eHVvR294UXdwbUVYQmlFaWhoU3hMb3NYQm1rR3Nzb2t6ajg0UjJFNEo2ZjQyc09EWG92cFlfeExlZXhwTzFkX0NaWERfZHdTTG0yLVREczBhbC04WXRHVnFWaUpiYTFUbERGRlRWUFJydFU?oc=5",
+   "published": "2026-11-13T18:42",
+   "kind": "company",
    "q": "\"キオクシア\""
   },
   {
@@ -151,6 +187,15 @@
    "source": "ドリームニュース",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mOFB0dGdoMGpOWVVOdVF1YW4ycl8weXgxejNwVmlWWjFEQXlvM05YQXhybDZUT2tIc094cENFN0hwa1V2Y05meXlVZC1WOGZwdXZF?oc=5",
    "published": "2026-11-13T16:00",
+   "kind": "sector",
+   "q": "電気機器 市況"
+  },
+  {
+   "id": "650245d7e4ec",
+   "title": "2026圧電薄膜センサー市場規模マップ：シェア・動向・フレームワーク",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RUmNQU3VTXzFPWXZ0MVZjNEM0d3ZZMnFkQmJzSVF1ay1KVGJUdnVWVVRFVXpaYnVIY3BBdEh6QXlSdzJXaFJpdWJNaG5qVFU?oc=5",
+   "published": "2026-11-13T14:01",
    "kind": "sector",
    "q": "電気機器 市況"
   },

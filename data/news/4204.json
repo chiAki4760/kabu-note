@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T00:23",
+ "updated": "2026-11-14T03:07",
  "items": [
   {
    "id": "a7aecb44247d",
@@ -34,6 +34,15 @@
    "source": "四季報オンライン",
    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92Q3NRVW4tM0tCYkQ4LWhpVVlsZ19GT3lBaUxjdDJ1R2YtcHFfM0MtcDNsdHUxN2h6cG1vX0tnUnUzazNHR2pPcnlGc2Y4a1dMdEpPUjdsMA?oc=5",
    "published": "2026-11-12T17:40",
+   "kind": "company",
+   "q": "\"積水化学工業\""
+  },
+  {
+   "id": "a6d97b40cc3e",
+   "title": "Schoo、積水化学の国内グループ約90社に従業員研修サービスを提供",
+   "source": "Dellows News",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12RzcxRTlFN0d6MXNUUkVrZ09GQVBldEFuVzBJNGVSYkRRclcwRGJRVXBiQjhKSlZUMFJUUEtRSGtvRVltR0xB?oc=5",
+   "published": "2026-11-12T12:40",
    "kind": "company",
    "q": "\"積水化学工業\""
   },
