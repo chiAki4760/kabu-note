@@ -1,6 +1,744 @@
 {
- "updated": "2026-11-14T03:07",
+ "updated": "2026-11-17T01:59",
  "items": [
+  {
+   "id": "09257b6c3314",
+   "title": "NTTロジスコ／増床することなく取扱アイテム数を4倍に拡大した物流改善事例を発表 ～JILS関西物流改善事例発表会2026で物流センターにおける改善活動を紹介",
+   "source": "LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WVVZEOHp1bFhwd0hsY1ROcFg4dWZTNzVDLVRSZkt2YWdlQXBNYlJMdHQ0SWVxRzE4OVA0Y2lLeXktZnBWWVJIS1pUQQ?oc=5",
+   "published": "2026-11-16T23:42",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4bc2c689eaf1",
+   "title": "独自AIで脆弱性解析 NTT サイバー攻撃に対応",
+   "source": "テレ東BIZ",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wVTkwUkNJbEJvaXhrN0JFekdBSWZPOUtxLTAyUUZtRzJNelhnclFZUkFWOHpRVEpNYlhMNmNQZzFYdFdERVhucWpzaEFjZ1I1Z0VfZFZWeE9fZmdGQW5HS2VIMA?oc=5",
+   "published": "2026-11-16T22:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "777511ad658a",
+   "title": "NTT、ソースコードを外部送信せずに脆弱性を解析するソブリン型AI技術を開発",
+   "source": "EnterpriseZine",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hTEEyaUg0YWgwOTExRF9kUGxEMU5DYTUzb2NFVjFsOHN5dEVaeE04Q3h3Z0xmcFJ3M052b3ZYTnAzMXRrajB3UGIyeWZ1ODlWUVJQZ2pR?oc=5",
+   "published": "2026-11-16T21:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f39b5cff5f72",
+   "title": "NTT 宇宙開発ベンチャーispaceと連携 地球と月面を光通信で繋ぎ月のインフラ構築へ",
+   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PQ1UzUUM3TDNNUEZwalM3ZVhsQi1Hd3IycktsLVJUakpBNHMxSmtSa2h6eVVYbW85SUtRYmcyYTd4UHJ2NDhjZXRKaXVGbjdScWFTZkhFa2VRS1RZblpRN0c4UlFudVJxdW5oQ2txMjdaZw?oc=5",
+   "published": "2026-11-16T19:48",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "84a13905368b",
+   "title": "NTTロジスコ／増床せず取扱アイテム数を4倍に、JILS関西で改善事例発表",
+   "source": "物流ニュースのLNEWS",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45cjYzMi1jcDFHak80Zl9PXzVVR0ROaTFBUDZKTEZYd3lCZlBLZ1dzajVvb0tuVjNGYl9tTzVDbGN3NE1rSnJpNWdpMTMwTC1uQkJyTQ?oc=5",
+   "published": "2026-11-16T19:44",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fa68d7968400",
+   "title": "NTT、衛星通信を電波から光へ 29年ごろの実用化目指す",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VYUpRY1FvTEFpQjF2YThtSGQ1X1AyZ3pIODh4aWpUdmZmTGxudGJtX3lIaW85QU9HeThHN2NrcVJScHgzUE4zTnFWUQ?oc=5",
+   "published": "2026-11-16T19:25",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a3d664b86612",
+   "title": "NTTとispace、月面探査車へのレーザー給電を共同検討--地球と月の光通信も",
+   "source": "CNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkYWlaLVUzWVk2WWp0OVhXMTNpXzdMakU5TERKS1VucUdSdHE4OTBkNlhIcmJBQURGVzB6YU1nSlVyckREZXpRdWlLS2NFeFVzcFE?oc=5",
+   "published": "2026-11-16T19:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d585f7b57306",
+   "title": "NTTデータグループ2社、建設業ERP「imforce Arch」に新リース会計基準対応の機能追加",
+   "source": "EnterpriseZine",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FQmpPSElDUTBKb0ktb3Rpc2Q5UU1Pbmh2UUNjQXI3dW9ja3NBVndhOHZIZS1Hc2RBdFEyVVVMWEp3U1JtYmx4dWdrYktqRDk2WlFqWHl3?oc=5",
+   "published": "2026-11-16T18:41",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d559b4e29025",
+   "title": "NTTドコモ「5G SA」通信障害が完全復旧 通信障害は今月3度目（2026年11月16日掲載）",
+   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EeUFzaU1wcHlFYnVvaHpjRWcwVVNrTmFyaWlaeklnOGJIX2JGY0paS3l0TmxQNW14VUctYlJmRERRTU8tclBhQUdVbUEwVHN5bWRCUlBPcVpPWGdrYlRIaHQwMmRxUEM5QkFzYUdrT05KMmJMTnpzS0V5cHU?oc=5",
+   "published": "2026-11-16T18:34",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9f230b085f3f",
+   "title": "NTT、光技術でAIの電力危機と宇宙・サイバー防衛に挑む",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tMTIwZWVSQUFNWXpDZFJCcGEwWHNKQWdtOEVfa1Y1MzlMbGhFczJkOEhhZ1RWVkVCd3ZuNzJVemZwMnlYZzlZQ3hsZTctY2gwUlJOaWlvakllOXJOSTZfbXJpWQ?oc=5",
+   "published": "2026-11-16T18:33",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b2bf53618df3",
+   "title": "NTT 国内完結のセキュリティーAI技術などを発表",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qN0tpQ2hzWUlvYmxDeEhHbUFaUkI3WDRjZ1FkRHBva0R5TmhmdDZKMDZlRlpFck93WktjUzNRTXB6aDBxcTFtd1FaWHE0bTV0VHBoSTF0RUExaDZVWkZB?oc=5",
+   "published": "2026-11-16T18:29",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c51b9f1ee2df",
+   "title": "NTTドコモ、高速通信サービスの完全復旧を発表、約6時間にわたり障害 今月3度目（産経新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WeGJwYlFTWXNDLTZjNEFkQ05mMnpqb0tURnhXNVVENDFjYU4zX0t0ajNHSjZXUzhKd0ZCWFNnOGhVdDdYaUJSWmttOXg3cW1GeGJkSmttc1FrSk5abTZ1UXQ1SDUzX0JzZjV2U2htMnhPYXMxY25XX3JPOGRtamc?oc=5",
+   "published": "2026-11-16T18:19",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "af9ad31a364f",
+   "title": "NTT西日本とアイリスオーヤマ、フィジカルAIでカメラや異種ロボットを連携実証",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bmlYdDBILW8yOC1fLVFDVHdmOFQ3eks1SHUyR1Z1NktKSVhRLWFSRzZCdWkxU19ZZkRUNHdQSVdCRUxKYWZNdkkzSEVuSWhvb1o4aGNsaTBMcTFHMHEtTnV5SQ?oc=5",
+   "published": "2026-11-16T18:18",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "627a0216983e",
+   "title": "ＮＴＴ、衛星通信を電波から光へ",
+   "source": "下野新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Xem5xclBQbFpCNlduZ2RkZEZCNi0wZHF4WDgyelNKTUREQm9yVUZ3a0R0WEhnamo0UVJ0dVJjSy1jTGJSNmE4Xzd6Skw5N3pjakNPOXMyZXdWZDA?oc=5",
+   "published": "2026-11-16T18:12",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9ecdc4af97f2",
+   "title": "ＮＴＴ、衛星通信を電波から光へ",
+   "source": "OANDA証券",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzcTlhZmRjTFZsTXBYZ3dHQ05VNTFnS0F5cklpdlJfcEZuQ0pIZ3E2LUg4R0VmOGptVnFnZDl3LXJlNGxLSzIzM0c5bFlnT2k4YjEzNnRxbVZrOG9IMGVUNnF1TTVwbTdDd2ZKRjBvcGNmWUhKcmc?oc=5",
+   "published": "2026-11-16T18:07",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4ba89cd90453",
+   "title": "NTT、衛星通信を電波から光へ 29年ごろの実用化目指す",
+   "source": "信濃毎日新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85VnpZbU1XWmwzMWp0aHR5NkJabXlxZzYtWjBidmxOMGxiaFpXcHdjZG02UHNUTnY4LWZVSUdVVkNOUy1MY1JJMThxcDNsWl9aQ1BQS0R5djAyMk1NbXl2Z2tHZ1pqeEVHaGNj?oc=5",
+   "published": "2026-11-16T18:07",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "92606295dbac",
+   "title": "ＮＴＴ、衛星通信を電波から光へ ２９年ごろの実用化目指す",
+   "source": "日本海新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcWlOWldfcV8tS01ySHV1djdQaGdEM1FRZnd4YWVPdHBLdnE5ekNWRFZ0SDFMcE5ZR01XX1hQUW5LdFhSeFlCUXNuMDZmV2JZ?oc=5",
+   "published": "2026-11-16T18:07",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "cbe520ffb93e",
+   "title": "NTTと月面探査のispaceが連携、光通信やレーザー給電を検証",
+   "source": "Impress Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fWkJRRWVCSXZpT3l3ckczUkRKQ1VsQXVRbWItd1NYaDBDZEZPcU5FYV9UMmxicUIxb3MxeUN0dE5CTXpVTUM1QXk5bVpoX25rTFZEbXROUzhOenZOQkpFbmVRejA?oc=5",
+   "published": "2026-11-16T18:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "1f2d4abfb21e",
+   "title": "アイリスオーヤマとNTT西日本、カメラと異種ロボットを連携するフィジカルAIを実証 | TECH+（テックプラス）",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yQ2lCdXYzQ0xyTkVEVEcyVHFnZ2xiR0g1RXBTSjUyQXNjRldxNlFpLTJPWEtxWXBYeFFUSDZ2MVd5ZEJsaFQ4d041ZVlhX0JqczVlbW9uRDdBOW0zTS1iVmtaU1JhTWUy?oc=5",
+   "published": "2026-11-16T17:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a1847d6fe77e",
+   "title": "NTT、地球と月面つなぐ光通信技術を研究 新興ispaceと連携",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LUkVEbE1hLXZXR1BKM3U2VjF4QXk5UjJnU1VJZkFrQXlfa2VfMHBUS2hWU05NajU0aE5Pd0ktZ3N4YW9uSXR3eU1hdW5CT2xXdzduRHpTdHdZSW40UEVRYUlPWW1qNW9UMU81bA?oc=5",
+   "published": "2026-11-16T17:43",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4462ff3e41ba",
+   "title": "アイリスとNTT西、施設ロボの統合運用に道筋",
+   "source": "LOGISTICS TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWWHBkRkRzdzhYcVhYR2ozVFlqR2tMNVJ4aWtzY2Y0ZTJOWnBRV2Voc3hKZEFUdnlsWTRhUnZQS1dKN0dlTmpFcVZB?oc=5",
+   "published": "2026-11-16T17:17",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b23395f882b0",
+   "title": "NTTの島田明社長、宇宙光通信構想を発表 月面インフラや宇宙データセンターの整備も",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWWdIZEVOMk9lTTJyTTJ6YzNHbGFxbktMN2pxNktOMnoza1dPbzlsZVo1Zm9sdTFQeUxwSlV1Vi1TRS1sdFB2V3lOQ2VrV3lBdkszb3hDdWQtdW84U3R2YjZrekRQRVhHSU1PMVQzMm5Ec3VrZnhtUDJvWGV1ZmQzZE5XQnlwYWd4NVhZbw?oc=5",
+   "published": "2026-11-16T17:16",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f9963a7586de",
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "source": "ABEMA",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3OFN0cWY1eWtNTnppWGFaQnAwUnYxdE55SWgtWnZOMmNMOXBVSkhDdllhLXItRjdTcDZ6T19ZaGZZRGw2cVdia2xxMGFteHFuNW9JUWVRYWFVOHc?oc=5",
+   "published": "2026-11-16T17:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7719351985f2",
+   "title": "外部介さず脆弱性解析 NTT、AI技術開発",
+   "source": "日刊工業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHb0kwN0pHckIxRHBtN3MwamZqU1J3QjJ5c2hRQ1AxWlVIZ0oyNG54SGY1ZXozRnNOVm1PMHdWUUxPNF9tbmhtLUItSXJxQUVlNHJ5ZkUyM1c?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b16fac8c9373",
+   "title": "通信障害は今月3回目 NTTドコモ 一部サービスの通信障害は全面復旧 - 【アベマ厳選】注目の最新&独自ニュースをチェック! - 厳選 (ニュース) | 無料動画・見逃し配信を見るなら",
+   "source": "ABEMA",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSGN3QUwxOFl2SFVHdE9SRjVVUEZCRTl0cmJsaXkwY0p0Uk1Ja1owd1FWM215bGtzSmNnV1UzTW81TWZPMjBBT3plWUgzZ1FUekx5UFZJUHVNYmdzSHI0VHVUb0hzRTFRUXh2TzQxdTNfSlFzblFBWWVjRXBpZFFybWNhMHVXUW5yWTFFcEx4TWlIZkYyN1MyY1gwQmtQUDF3eDlIVHZDNjhBM3luQV90R1ptT1dTUXczUm9lbmc4MEFZOFk5Wlg3ZUNpd3NKMVZwWTJtdUpBcm5aSVB3Nm1GVk8wa3hEQTI2?oc=5",
+   "published": "2026-11-16T16:59",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "33ea04c08ba9",
+   "title": "NTTドコモ「5G SA」の通信障害が復旧 原因は交換機への通信の集中 今月3回目",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IMWtnbk1QRmxzVml5ME13Nm8xOGw4RktGTjR4a2ctUGpuOFNUcTI2NjBpMTJxZVRXc3pRQ2M1VGJ5czJrNWVxVE5VdnNlLXh3ZFU3clE5Q0l4Skk5RVJiTHJuMTFFRVZOcEp6M1gxalhhZVdR?oc=5",
+   "published": "2026-11-16T16:56",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9abe567527bc",
+   "title": "ＮＴＴドコモ「５Ｇ ＳＡ」障害が完全復旧、交換機へのアクセス集中で不具合",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZ2dlVnN3bFZqd0czeGo5TDl5SjdpcllGaUtmdW1CWnVjSjl0RlVSYkV4bTR1Mkk3T2ZtNXpQOFZObFdMNUlJdTNWSUdfY0xtQ2J0YjExQy0zS0VnQmtMQXd1aS0?oc=5",
+   "published": "2026-11-16T16:52",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ce463ee10085",
+   "title": "NTTとispace、IOWNの光通信技術を活用した「月インフラ」実現に向けて連携",
+   "source": "EnterpriseZine",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoLVZQWE9SQXU0YUlTQkZBWHN0bXpUeTQyczh2M1pEWm96R0I5ek1HLWtRV21xRXV4WTV0VmhZZTJGS2wtaDRFOHhSRGRlTTVfNTRiWkl3?oc=5",
+   "published": "2026-11-16T16:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e21244513f69",
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TSkVkcUJHeVhQZkItbHdmTHQ4VHNxLUM4NENFa0E3T1luaHhRUEI3ZGV5em9jSV9OZGhDQkxIMlloVGk2QzVBVmt4NXBmNHQyRUJxeE44QW16dmpETHFIZmtjZ2hhZ0xlYTZ4MHBoVDNvUQ?oc=5",
+   "published": "2026-11-16T16:39",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f98e2e9c700b",
+   "title": "【速報】NTTドコモ 通信障害の5G一部サービスが全面復旧",
+   "source": "khb東日本放送",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YVUk5bjlwOHVBRjNJYjBNdjlYd2lELWNLZzhKWVJGWm1rVDU3WEptSHZNMks1US00YjNHWmpaSzFRWmFrY1hMZURtZ2VyOWc?oc=5",
+   "published": "2026-11-16T16:39",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7850c910530c",
+   "title": "高精度地図に頼らない自動運転バス、NTTが公道実証へ--当初はレベル2",
+   "source": "CNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3a0xHdGYyMlpjNnRNZ3Y3X25Iay1rbFJOODM4NnVkYTFpZ3MxMUk1TklXeHdvSUFlcXYyLXlCLVJiSGU1SmpRcXFwNTFuVkdENmc?oc=5",
+   "published": "2026-11-16T16:20",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f6d4984ed7a9",
+   "title": "アイリスオーヤマとNTT西が施設管理の自動化を清掃ロボで実証、防犯カメラの映像をもとにAIがロボに指示",
+   "source": "テクノエッジ TechnoEdge",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pTXNJOHNDZ09lUmR2SWcwSXZWWjF5TENUQktaNTBPakFRUlVKelZzQVFzcnk4OHlPQVBIUGxCM0tULUdfM1ZnVVRhMzBlM3VtMnc2UmFyMXVNS3FvbExEZDkyRU8wbVU?oc=5",
+   "published": "2026-11-16T15:58",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "596826de95a3",
+   "title": "新規上場企業・詳細データ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vQ29qdzZhc05OVGdfN1dSQzdLLUV6bjNwelRVRW1UNWpMV3BvYVB3VWhRX283ejBqV0lmblRxVUxQS3VHME53S2RHMThqN1dkanU0U0wyS3Z3MHNoMlJFVy15UVNRWGxNMEJrOWF0Y21Vd2gxSUdzcVpBc3Z2dw?oc=5",
+   "published": "2026-11-16T15:56",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "416bb8768774",
+   "title": "NTTドコモ「5G SA」で全国で通信障害 95％以上の利用者で復旧 障害は今月3回目",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yZTdDZklYMm1fR0xFY1lMYm1tMFl6bFRWMTRzWnZKZzUxRHBuVk9QUkFfZHBnd0RUcXZCbGdoN1pSQ0oxNlFMR1BDdTdla1NyZGRidHZyc2ZKXzN4NnZrelpvY29xRVktZ0VEbDYtM2NuZEVn?oc=5",
+   "published": "2026-11-16T15:54",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "240cb20dad52",
+   "title": "東証業種別ランキング：非鉄金属が下落率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHluWFlDZjdpRS1YZnl5UnpjLVYxVW1ERHVid2huN1JLSEhGaTJXRVkxMWdmZHAyV3lqdG5IOWpMT0cwZElZQmpyM1BQVl9pajY5NFhkaHprZnRyVXhQaWZJX1lPS3ZueVJ4LU5ZdkRPbDRHUF83X2tBS0pjYmdrM0VUOFk3dFU?oc=5",
+   "published": "2026-11-16T15:41",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "0a85613e8a6b",
+   "title": "アイリスオーヤマとNTT西日本がフィジカルAIの共同実証成果を発表、清掃ロボット「JILBY」とヒューマノイド「ugo Nova」を連携",
+   "source": "ロボスタ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0YUFSeDh1Z1YwWDFUNjdseDZHQ2dBelc1dC13cGMyTV9OckszWUJqeEZQNG1peXYyanRmeTZPV09MRUZnTG9NdC1uazRrOUhsbzVEeWdkWS1xTmp5RmZwWWxrekQ?oc=5",
+   "published": "2026-11-16T15:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6270112c817c",
+   "title": "青学大元主将「改めて駅伝のルール確認などした方がいい」　NTT西日本の失格たすきリレーに",
+   "source": "サンスポ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CS1JSQXRlN1dtYWlvdUcyWk5tQmFfY0NyMTFWQmN6c3ZSRVVQRWQ0QzJyRjhhSUx2MW1BQUxDbzk4TGFyRHhfSTF0cjJXTG56Wi1ZN09OLU9sRmVSQ0xjUktnaExPM05rbm96cXZfNS04cXlMRWfSAYoBQVVfeXFMTWs3bm5adUh4cG0zODI3N21DYlBCNWNRMVBTN1RuWnMyNlBJbUJkdGM1MEVBTC13UGtIckFSbmxBUGROMkt4Yk83M3kxUjlmRU9OSXFMYTVqZzFuaDJ6X2ZRa0xHb1lFUDhpdU12LTcwMUEtR3ZHNEwyVlVZLW9lLTZBY21UcF81V2Zn?oc=5",
+   "published": "2026-11-16T15:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "09b19a4c1d64",
+   "title": "NTT東日本株式会社 様 | 導入事例",
+   "source": "株式会社ウェザーニューズ",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SZ3NMYkdTcWRZNUZsblJFMEVMaDBUdUY1OGpBMG4tY2NzU2hfZk1XZDVSaEdrZ1NvX2lUSEltYkpWeG9GMzVjZGVJTFFCdXg4TWg3OHhmM2Y?oc=5",
+   "published": "2026-11-16T14:06",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c914cf011133",
+   "title": "NTTとispace、IOWNの光通信技術によるシスルナ・月インフラの実現に向けた連携協定を締結 超長距離宇宙光通信とレーザー給電の実現に向けて | ニュースリリース",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sM3h1T3FWSDJQNGtIbm8zTUJ4RndXemV5VmRvT2xOLWxtTklmOUFUS2NGcUw3dllRZVhET1ZWSGJfRHNfNzVTcFc3aFVnUTB3TkdiSnVQbnlvWGVBWDJPODRrVGx4N2M?oc=5",
+   "published": "2026-11-16T14:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e14367fd1a01",
+   "title": "ｉｓｐａｃｅ[9348]：NTTとispace、IOWNの光通信技術によるシスルナ・月インフラの実現に向けた 連携協定を締結 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUjZIb0tZSzhiUlE4ZHlyaTNsZzUwbC1FZmVuYW9icnpWQ1QtZlB6UnN6X1lDdGRCU00zYWwwVUF6Z21TUWFwYmIyNDVFUTJ3cHZCaDZBdjk4aVVLZGFQMnVpdXpLeEcwNXc?oc=5",
+   "published": "2026-11-16T14:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e3735e8726e5",
+   "title": "ソブリン型AIで脆弱性解析を高度化、NTTが新技術開発",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84M0VIb1RxZmdHaHFuc19yMkVNSl84eDB3R3hpWXA1dkdOWVFuRzc5MlFGMkZCMFNkX0loY1BSdmlHUFA5NEI3V3YtQ0I5RGJqY2s2VENvYURxRlZtQ0d2N29Daw?oc=5",
+   "published": "2026-11-16T13:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "8011c01a975d",
+   "title": "プレスリリース：アイリスオーヤマとNTT西日本「マルチロボティクスプラットフォーム」（※1）を活用したフィジカルAIの共同実証成果を発表（PR TIMES）",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZeU1seHRsM3p1eFZKTk9YOS1wcGZBbzJ0RFVWcW1aMmxOLW03MXNLMGFaRk5XUkxEUDFOeWMyQnNWbEVHRjJPeTdRaTdVMktCdzEyUTNJaS1ickxqMjF3NUZkSXdqX3p3?oc=5",
+   "published": "2026-11-16T13:23",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5b0eb5518b86",
+   "title": "「トライアルベースボール in 京都 Supported by NTTドコモ」を開催しました",
+   "source": "阪神タイガース 公式サイト",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qTFpncmtiVWRRRVVEdTVBN1hQN21MbFVPanF3Z3g3T3B6MXEtOWdjTGpxcnItaW5IWnh2VmtUSktUT2JmeU5pZ1NXQVFna1FHY0NTUzk2MHhxeHd2ck55VENR?oc=5",
+   "published": "2026-11-16T13:18",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "36438fddc678",
+   "title": "NTT、外部AIに依存しない脆弱性解析技術 ソブリン性を確保",
+   "source": "Impress Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeTZ4ejVFa0JRZWIwS1RKbEk4ZjZ6ZXlHZm1BdWVDZzgwX1FqOEJ0QUFaU1Rlb3NDc3VMNzlNV2N1MUpkVV9yV0R0WGFJOHh1VlZQUG9vV2s1NURhR043WHEzVm0?oc=5",
+   "published": "2026-11-16T12:58",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3ad30a80fef7",
+   "title": "NTT、外部にソースコードを送ることなく脆弱性を見つけるソブリンAI技術を開発",
+   "source": "IT Leaders",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wYWRkekpMWHJLNUxVY3VwRHBwY2t1ZUZqaHZqWEZFQmFQUWtyanItLXJJemdPUF9XcF9BeDBXbUhlRUtaeUprZXZqMmZxSjB5SERr?oc=5",
+   "published": "2026-11-16T12:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ff4f458a551f",
+   "title": "NTT、機密コードを外部送信せず解析 脆弱性発見成功率63％の自社AI",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yd2NSN1cwTzJhYUN4YVV6aTZpSk9aYVA3M0JUcExVU003UGpFSHZ3OENPQUoycTlSN080c1E5WnpTRzczLTFtVl9BVjd4VGtBTnFXTTBQdUlxbmpzZTVnRXFfTGpaNXI0RWVsT05uWXVPS0kw?oc=5",
+   "published": "2026-11-16T12:25",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "bf7ba5a074cc",
+   "title": "「意外と知らないことは多い」元青学主将、NTT西日本失格受け駅伝ルール再確認訴え",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91TTdySHNnZjZqbldPMXNCS2JIdl9FNjREb2JrRzVxa3A4dVB6RXI0LUk1cW5NdlBJTzBfei0tTjljSW1xVHU3aW4td0xpWXVGS0FwclFRVU1fZC1maHFfdGpLWm9PVnhLX1dYNTRyMmJCZTN6cGd5ZXNGbk1YY0k?oc=5",
+   "published": "2026-11-16T12:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "bc35b0575f10",
+   "title": "NTT西日本、京大とフィジカルAIの実装へ 実践カリキュラム開発、人手不足問題の解決後押し",
+   "source": "電波新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ay1zZi1mQnVmY2xqUkJWdnZpcXc0aExMUldQdWdTbWN1OThaZzl0TDg5bWhDY2xKN3RjeHM2X0ZEcHpTTWxDYmlJTmZuOUVRSXc?oc=5",
+   "published": "2026-11-16T12:07",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a1575c81910f",
+   "title": "NTTドコモ、全国で携帯電話サービスが利用しづらい状況が発生",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XbUxJdm12ZE5lNGM2T2ZCMFQzM2Jnb0E0VGRQV3NRdFJIS1UwXzJkTHEwUWx4c1RDdWJlYWdmVzNhNkpobjBRbF9vUWNacWpwSEQ3Q0xfSUxDVzh6NXZuVHJ1ZG1LR2s?oc=5",
+   "published": "2026-11-16T12:04",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "360f2d7dea03",
+   "title": "NTTドコモ 一部の携帯電話サービスで通信障害発生中（2026年11月15日掲載）",
+   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XQm5fOWpZWHR4dkN5T1BNOW9WVUhPVGtTNm5QVzkzUGNYVU9ScGsyN1Z5WlFmVWUzVmxPOHd2M1hyMlhLUG9kMjFIWGRUQ0hIRjlxOTlsanprMDZLbUJCRnBQTmhINm8zNmVzeGFOclZRa1l6UDVSOV9pQlM?oc=5",
+   "published": "2026-11-16T11:57",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "22582f53c493",
+   "title": "ＮＴＴドコモが今月３回目の通信障害、「５Ｇ ＳＡ」で通話やデータ読み込みに影響…サイバー攻撃は否定",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96aWY2OHhmY0hpaVl2eTlPNzFUVUQ2UWlLRmgtd2YyMFBURTdQZFNVVVBHNE9JZGpHT1JOUU5uWE1MNVNsdm55dmdJUFB4UjloZjB5YkNfdWUzVkE5OUg3VmVtOWs?oc=5",
+   "published": "2026-11-16T11:53",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "0026ee29ce42",
+   "title": "NTT、機密コードを外に出さず脆弱性を発見 成功率63％で「フロンティアAIに迫る」",
+   "source": "ビジネス+IT",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vOVBMVkMwaVJ3a0V1dVo1MjJWUUdKMmFTLXlNd043Z0hCTjFtT2JRbUxJNHRrTzhzQXk3d3RWSV9CajBubC0tVXIwYlVhV3htVC04?oc=5",
+   "published": "2026-11-16T11:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "2eba5e07c88d",
+   "title": "NTTドコモ、高速通信サービスで再び障害 今月3度目 不正アクセスは確認されず",
+   "source": "産経ニュース",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dXlGa2xqaWFlY2lnQXlFaUYwYjFBUXpOZXl3VjM5Qm5oSmdRUWdLRDJuZ3dld1NmRmZuRjQ4b0VTdTJYei1QZlg0SVpIbUt0a2dJR2hWalFOcWdXOXVvVE4tX3FLb2RXaUlCNmJnbE03ZWZ5cWc?oc=5",
+   "published": "2026-11-16T11:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d0629f39ac2d",
+   "title": "【速報】NTTドコモまた通信障害 今月3回目 5Gつながりにくい（FNNプライムオンライン（フジテレビ系））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUjR0ZmtOZXhlWEJkZWh3RHF4WGFxLU9iUG5YdjI2OVhxcDBjRVY2WHdyME1VNXRtSW5KVmRmMTVhNWM5RkJUSDlRSEFhbmpwdkNMZHk5SkhfZ3Yya0Nub3JQS0pVRUZOZU1MWmpNQmNjN2I2Ql9aQnkxQ0xwWUk?oc=5",
+   "published": "2026-11-16T11:32",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "97343501943e",
+   "title": "【NTT西日本】アイリスオーヤマとNTT西日本「マルチロボティクスプラットフォーム」を活用したフィジカルAIの共同実証成果を発表 ロボット・設備連携の技術的成立性を検証し、施設管理業務の効率化をめざす｜ニュースリリース - 通信・ICTサービス・ソリューション",
+   "source": "NTT西日本",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUmtmUjBBd1N5czd6WGlHVlBTM3BXeVdMb3dFdGRrdWV6YWppQjAtclUzUThwUkpnOFBxb1BBTVZRbVpBbGgxaVNWdy1hUU44d2VaZ2czOFgtS1FQZWc?oc=5",
+   "published": "2026-11-16T11:21",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7938bc3c59e8",
+   "title": "NTTドコモ、また通信障害 今月3度目 5G SAに影響",
+   "source": "CNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TUXc1S3Q2ZzNaLXlzOEhDUllNS3pwdHkxSmd5M2RhcWkyMkduLXhna2hLOVo1YXd2aHNudTlWdmUtMGEwNjV4cVFIeXE0RkFwM0E?oc=5",
+   "published": "2026-11-16T11:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d4f89020b07b",
+   "title": "【速報】全国でNTTドコモで通信障害が発生 現在詳細を確認中",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOQy1QQkJwQkhIMUdKLWJvWjQ1M1EwOXc5aF9QclB4ZkEwLUpWLXcxRUQ3WWZ6eDJSNUwzc2l4aHBSNTZERlNPVUhDdVk3eXZ6?oc=5",
+   "published": "2026-11-16T11:06",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5801efa63d43",
+   "title": "NTT、検査対象のソースコードを外部AIサービスに送信せず高度な脆弱性解析を行うAI技術を開発",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oQmlxcmRDLVRLemxKaEhrMEI2WUEzd3BCYWFuazRvc19VSUpaaXFJVUlUeUdzZGluNUNRQTQyWVZKbjhwMUF5Umw1N0JkNUNYTXFzZkZHZmRaOVVlNFk4Um1TUWlfTzIyWVk3bw?oc=5",
+   "published": "2026-11-16T11:01",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b6c59fc83262",
+   "title": "NTTドコモで全国通信障害、5G SAで今月3度目 復旧見通しは未定",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zamwxYjZNaFpJX1o2UnZnMktoYXpwczEzN2Y1c1ktSnc0QUR1ZlB1anI2UmdEMXdTYVdObmROUC1CSmNHdW5FMjJ1ZzdiVlo5SnRVNTNTUUNQdjdPb0hhaFQ3dGtIcWVHV3ZBNDlvLWVmUldY?oc=5",
+   "published": "2026-11-16T10:56",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d2b165a31d86",
+   "title": "NTTドコモ通信障害 午後4時前に復旧 “交換機に不具合が原因”",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsa0pvd3F1MzlnbWp3WVE5Ykk3UnZLVS1DSDRFNTJRSzhkc1lQSXpYT3RuM0U5TnFRV1R1TVhKWVAweVJISnVMcnpXNV9rVFlJeGJhN091eEFBY2VkbUlv?oc=5",
+   "published": "2026-11-16T10:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e6c88cb1d898",
+   "title": "NTT、ソースコードを外部送信せず脆弱性を発見するAI技術を開発 成功率63%に向上",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbkhFaXhiQi1MdjJOcVd0UEJ2NjZjUXUzQ1RQcFFMbWQxZ1ZDS25OQnZEcW0xY0ZBcEtUVXVQOW50bjNyZENhTWFtblNvMGt2VUMyRmVXVm54cEJhUFQtUHpYWXpxaDdF?oc=5",
+   "published": "2026-11-16T10:52",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "bd4b6108db31",
+   "title": "NTT、フロンティアAIに迫る脆弱性発見能力を持つソブリン型サイバーセキュリティAI技術を開発",
+   "source": "INTERNET Watch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxb25IbE9Vd092dWsxVnA1QmJ6RVhac1ozbnl4MTlWOWFpZzdhOHpydkY5eGxJV1dFUF9LZDZYRmZZejg5S2pKRjVvdVk1ak44eV9TSXBVeld3dlZjTmtDSzlJRUUtZ2x5WWFF?oc=5",
+   "published": "2026-11-16T10:41",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a338f38ff17e",
+   "title": "NTTモビリティ、高精度地図不要のE2E自動運転バスを2027年2月に公道実証",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uUzFpVGdheVVPOXJ3cmV2Y05mZFZKdlNkY1M3X1Q5R2RTcGlBVHVpVnROUDR1TV83WjNmbXVxM29WSkNTQlE2OXRmNk5uWGhaTTNoei00MDlDQl9ja25uWEduZw?oc=5",
+   "published": "2026-11-16T10:36",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "2319983de629",
+   "title": "【速報】NTTドコモ「5G SA」で全国で通信障害 今月3回目",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10RFJrTFBBWmZOaGc4bzJBYVJNTi1fZlE5OXhiWmdaQW81UXB6cVJ2TGtqeXM1U2MxNDJhTk1XQmhFMDJLSlItMnJwNGVVT2thaHFGb1dETQ?oc=5",
+   "published": "2026-11-16T10:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "07217adb8602",
+   "title": "【速報】NTTドコモ「5G SA」で全国で通信障害 今月3回目（TBS NEWS DIG Powered by JNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ja2Ewd0dEZHN3Q3Q3UGlxYkZ4Vk5vZElva0FvTS1rZHA4Wm1pRDhXUzFrVmZtLUY3dE5ncjVWcU5fY2FjX293UEpTaUw2SHZ1TEYwNVEyQ1pqV2txZ0p1ODBfSzI0VzF3b2QtaTNOOWNmLTdQS2RSaS10Q3RxTjg?oc=5",
+   "published": "2026-11-16T10:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e53a65893901",
+   "title": "【速報】NTTドコモ「5G SA」で全国で通信障害 今月3回目",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pOXJtMW51VE5zQ0dudkw1dXhuU2l0VGNibG9JQmU3U1hQVGZ2UUttQklVSE9ZYzlKRUFoampHNm5DS3FfNHhJNThfTmJkTm9GQk11RTk3cno3Q1NDWEpCcw?oc=5",
+   "published": "2026-11-16T10:35",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fbf05e404715",
+   "title": "話題の3D CAD「SolidCraft」レビュー／NTT、「世界初」のプログラマブル光回路",
+   "source": "MONOist",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QYlFvSjlROWVXS0hhbFlyLXZwYWMwZEVLVjZ2TlBxdF96NkY5eG9RdnljMXVZbndRRHZiUWluTGN1VGJEa3JkTkJMY1ljN3RQMUdjbThnRmRmbnZuWnlLdXYwY1dwZUFjeVllRVJRZw?oc=5",
+   "published": "2026-11-16T10:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "283d52745507",
+   "title": "NTT西日本、フィジカルAIの発展・振興に向け京都大学と連携を強化",
+   "source": "ICT教育ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Idk9MQWdicHduX1hvTWFWMDJUZEw0ZGJQUDlnaDhzbnE0NUdFelFtcjZ6X1BEUEIya0w2UmRjdEV0VWI2Z2RIU1dOUjJMQmJUaVpnV3l3?oc=5",
+   "published": "2026-11-16T08:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d98caa8eb618",
+   "title": "NTT系、データセンター排熱を陸上養殖に活用 共同実証開始",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kX29nTVVDc2hPMlFUa3JwclZDc2VwS24yQ3JtTlozM016NEdCdDZ5bWotRVduRFR1VFhtWVFMbTJMd2dUb3VDcUdaVVh3VHRnYUljYmduTFhIc01nT1QxcGJtYVdwbmkybVhQRw?oc=5",
+   "published": "2026-11-16T08:22",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "84325947d401",
+   "title": "NTT、長距離光通信の信号処理負荷を低減する光回路を開発、1300km伝送で信号歪みの要因を60％低減",
+   "source": "INTERNET Watch",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JRk14dWIyY1o2clctdjM2SDhHVl9vakFqdzVyRHAxSV80YklPaG55RHJydlBEdlA4ME9JQlZrYzVIYl9XYnFyd05TOERaQWFWLUVsaC1iV29vYWFVSlFyZ25RT201eWVCanNn?oc=5",
+   "published": "2026-11-16T08:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a691e720101b",
+   "title": "オムロンとNTTドコモビジネスがセキュリティで協業 「止まらない工場」を目指す：産業制御システムのセキュリティ（1/2 ページ）",
+   "source": "MONOist",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rOGtKSXlLN2UxRWFhYU43V1NEZWVlVFhLano0MGUzc21mb3lJc2VkZGluY3oyOUFad1ZvMEpNYU90SlhzY05iUlA1cW8zM1VDV1JoaXA1aktYV0pmRklWYzkxRFYyNl9leVdjN1ZCMA?oc=5",
+   "published": "2026-11-16T07:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5d0ae10938e2",
+   "title": "NTTが「世界初」のプログラマブル光回路、光通信の受信側DSP処理負荷を6割削減：組み込み開発ニュース（1/2 ページ）",
+   "source": "MONOist",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44WFg4SjV3dHpDWlBjWEp2Wnc4QVNsZE1yS3JSeXoyajlCRVVUQS00WHZBcjZYSFBuSURvaFJqejRvVHRCamVMWl9pOE9qOGc3dk4taXFJVWFLcmlvRjdaRlNTWDc2ck9xcnhxbXh4SQ?oc=5",
+   "published": "2026-11-16T06:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b2708c198bea",
+   "title": "NTTファシリティーズ本社オフィスの改修効果、年間1億円以上と試算",
+   "source": "日経クロステック",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oSFZPRmtST3dHNVpRZFJYQ1lBc1N5cTBmcEIwTjVETFg2VVl5TUc3Y2p5S2JhTlZOdUh5S0JvcDBka1lic2RKYkxMaVp1VDJuVTl0b3ZwN0xLTklTNWJDOXh4dE9FX2FEOUZLRw?oc=5",
+   "published": "2026-11-16T05:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b3ec1a936c1a",
+   "title": "卓見異見／「友であり敵」との付き合い方 NTTデータ経営研究所社長・山口重樹",
+   "source": "日刊工業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oWHZmYkRBeGc3S2p5TW5SYzlEdm0xNVFOMzdaMWFBdllNOHFuQ0VRLXRpdnZJTnBkMVJRVmJKeGxyUFJiOVJFUHhSeTMzdXJwQTBxTTI4N2s?oc=5",
+   "published": "2026-11-16T05:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a2403d0f044e",
+   "title": "HDマップレス自動運転バス、NTTモビリティが2月に公道実証",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aN1ZncHZ6T1JMSHkzbXl0cGl4QldVeFFfcGdMaHFCQkJmOTRIN1NwVTIxM0hYVnMzZTI0dTNYbWhwS2xIaHBHdEdGUFhBWVUxU0ROMEJvVVpUdHl2bVM0?oc=5",
+   "published": "2026-11-15T20:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "46ffe34c36d5",
+   "title": "関西実業団駅伝でNTT西日本がまさかの失格 タスキ渡しで何が起きたのか？ #エキスパートトピ（酒井政人） - エキスパート",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaHAwMi05ckdHZk9tSW1BaWhEc3dfYlkxN2ZyeElsc2VBejlyQ3ZpYndkb29MOXZBbHhVLWY1azdtYVRqeFhVUFRaajVFbEM3MWk3dGY4cEt5MjZNaUdQTGRMaHJlaHlueVJneUI2M29tMUpHajdjMlhwenZvQTBmU21VR0pqbFBk?oc=5",
+   "published": "2026-11-15T18:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ec6bca4b5172",
+   "title": "【関西実業団駅伝】痛恨ミスで失格…NTT西日本が中継地点の手前でタスキを受け取る",
+   "source": "日刊スポーツ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VN1BxVXpibFFCeUFtelcySVUydTRxd1UwY1lQNWNuVzBhdmktN3FMOWtSM0FzVzhRbUlNU09rdmZSTm12aV9heXpheWd2SlNCN1hzd2FIazFmeDVSXzlZMXUwNTFQMDU1dzJtdHhyMUJEWWo5WUxrSUNtRdIBgwFBVV95cUxPTWdyQUlDamZwQ3dhaUE4dG10VVRpbG5OQmsxWU4wMWIzNzRvMThfUFdtMlMxeFEzQWxUcjZPdnE1aFQtY2FMdzYwS0I2cTJmSmxNaDMxdEFacHBrLW5GYTY3alFKd0RUaklPem5XZWZxVHBfb1l6d3AyUFluR0NSWkF4TQ?oc=5",
+   "published": "2026-11-15T14:24",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3d2c51fd9e34",
+   "title": "悪夢失格のＮＴＴ西日本 アンカー一色恭志が無情のゴール 帽子取り、天仰ぐ ＮＹ駅伝出場圏内５番手でフィニッシュも １区→２区タスキ渡しで違反",
+   "source": "デイリースポーツ",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GWjhWNk91U1JCclYya3k0cjRjZjlhbDZGSlplMTIxM3pCd1ZDMmc0TmVqVExpQk4zUEkzWTFkN1o0bnJfQ2FiS0xlYTNRSjVrbTJFRVR1aGMwOEpsendTTjJ5ZXhUbU42NmFr?oc=5",
+   "published": "2026-11-15T13:20",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ec48dfb60678",
+   "title": "関西実業団駅伝で悲劇 名門ＮＴＴ西日本がまさかの失格 １区→２区のタスキリレーで２区ベンソンが中継地点手前でタスキ受ける ３年ぶりＮＹ駅伝出場消滅 解説も絶句「アカン！」アンカー一色は出場圏内５番目にゴールも帽子取り天仰ぐ（デイリースポーツ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CS0k3STlXM05WMzFSTVBOMzluRWpyM2owOGFSZ2JMZzBpWUVWa2RLbEJHMUZNSDhCVG12YVF3WnRBUGUzMENrdXpKOGUtNDJFellScDJpak5rOFhDeGZKd1JIVXVFUldZT2lyaVRZTTZXSUxheXE4OVVYMC1wclE?oc=5",
+   "published": "2026-11-15T12:48",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "594254173e0f",
+   "title": "NTTドコモで不正アクセスと5G SA通信障害が発生――「複数システムが有機的に連動する際の仕組みを悪用」とはなんなのか：石川温のスマホ業界新聞 - ITmedia Mobile",
+   "source": "ITmedia",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UM2ZKQlM0NDJXNHQxV2dobUtIaDJxOXEyalNJWVJJU2NaR2RmVVlDWkZoUERBNG1LN1FERmtKak5fU2tpZ0ZyaFNRQ29vV05tMENjamVacVZNRk1VbUQ5NkZFdjFsTkwxR0J6bmJrMNIBaEFVX3lxTE13aUFmUktub2tGTlUycmhoQ1FfT2JDMTU4OFNOTmpPVlR2VWRhdGViQXA0UHdUdTlFTjA5elNOLThSWHZ4U1YzRkVQQmpidTJWQzZVbjVfWGVpTFR6XzRTZ3N5VWJnN3VT?oc=5",
+   "published": "2026-11-15T12:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a343130d3a2a",
+   "title": "信用残ランキング【買い残増加】 ＮＴＴ、住友化、東京きらぼし",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iRVVESWtOaXRnOHQ0T1dGYjVQZmhnYWM5dmsydjhKOG1ONlBfZWhCX1cyMkFHM21IaXU1T2tYMTYybEtndHZtS21RSFI5WUV6OE1qRzY4RXFIMFpFZGdjSg?oc=5",
+   "published": "2026-11-15T08:10",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d68e6582c53f",
+   "title": "信用残ランキング【売り残減少】 ＮＴＴ、Ｊディスプレ、インフロニア",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11U01POUJtZGEtcHhHVnNCRFc3VjA4OVFjUEpDWF9tR2NZXzQ3YnlQUWoxajh2cHNNR2k5TUU5THByT1g1d3RVQ1FiUGRnX0xURll0QV9vTFlleUZ0Vy1JdA?oc=5",
+   "published": "2026-11-15T08:05",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
   {
    "id": "68ee548821b9",
    "title": "データセンター排熱でバナメイエビ養殖、NTTドコモビジネスら4社が実証へ",
@@ -92,6 +830,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "33926eb02cf0",
+   "title": "さらなる進化を遂げたNTT版LLM「tsuzumi 2」 | IR資料室 | 株主通信『NTTis』 | 株主・投資家情報",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tQ0hfLXpYb09WYWN0NFVyVldrLWJzOV9CX211UExDX20yamk5Zk5qVHV1eG96LS1ORnhvaW1TRnJ1ZUxlb3JuRTNhV2JUZlNSQjctU2ZpNHB4OV9SeUJN?oc=5",
+   "published": "2026-11-13T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "9ea0dccb541f",
    "title": "NTTソノリティ、騒音下でもクリアに通話できる現場向けマイク「SonoVo Stick」発売",
    "source": "ビジネスネットワーク",
@@ -143,6 +890,15 @@
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5VXE2c0tkZnRGcXZrZlVITVEtRGtpNjJ0eWxOUzFEX2xHSzJKTDdoTzJNQlBZRXdRZzRFOFozeWNWekt2aTdhWUdlNUxkRzJ1cEFXYXZyWFNnM1BlZmc?oc=5",
    "published": "2026-11-13T15:22",
    "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3217c35dffdb",
+   "title": "プログラマブルな光回路で通信向けデジタル信号処理を低消費電力化 ～伝送途中の光信号処理で、1300km長距離光通信で信号歪みの要因を60％低減～ | ニュースリリース",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McDB6Nk9RMUlBUDJldnlMWjAtOHlMcVdxbVZ5X3BDTWljMm85dFIwOVBMRlJza09CZHFFOHo4N204SVdQSUhPS0dHWG9NSTUtb190OWhCcXp3UzI0ZDZWbFpKSk5GLVU?oc=5",
+   "published": "2026-11-13T15:00",
+   "kind": "sector",
    "q": "\"NTT\""
   },
   {
@@ -200,11 +956,29 @@
    "q": "\"NTT\""
   },
   {
+   "id": "97128c47e210",
+   "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導 通信障害も相次ぎ信頼揺らぐ",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rY25YQ1E2VHFXeGxudmhoTGZlVHV1S2dJTkhYMUh2Y0RscllOYWVsTWlNbXB2VEhVV1NvTUctMEMxZURzeGx6MkhveFRpQ2NWd3V6Q0pScWN0dDhKX0RHUkdidWZTcWxlOXRIWk9WYXpULXBpd3dPUzI3SF9teG8?oc=5",
+   "published": "2026-11-13T12:36",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "b2fd26dc98a8",
    "title": "高精度地図に頼らない自動運転バス NTTモビリティが公道実証へ（Impress Watch）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83eTVrZVFES2c2RUgxT3dxaWZIZ01rSy02R1V1cnQ3WFR6V2JaV096bktuOHhfTzB4eFRVbFFKVGdZSHJEV0piSjFNTEpOVmNWZ3J3Zk5ybnZERUl5VWU2QVYtbDFGUzZmX0xlaGVuUmNQQjJCR3RUTkx0am9UWDg?oc=5",
    "published": "2026-11-13T12:04",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e49f8200cf9a",
+   "title": "NTT西日本がフィジカルAIの発展・振興に向け京都大学と連携を強化 ～フィジカルAIの社会実装を担う人材育成を推進～",
+   "source": "NTT西日本",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAza3gzSDdVZF9UM0dtblN4cHpHeERsbURCVlpqRlBzejNrZXJTamNmUm9VcDZlczYyT1hEbTZieWh4MzZNc0xSNExDVzBZdE52SjFCeUFGTmRVSmxhVWc?oc=5",
+   "published": "2026-11-13T11:23",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -484,6 +1258,15 @@
    "source": "Digital PR Platform",
    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kZjZBcTNzd054ZXoyUl95eE90S0dzRm1rcC0zTXc0RDAwSE1Xa1ItOERtUVNHZXlCV1lKNnlHZUhhOW8?oc=5",
    "published": "2026-11-12T11:08",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "53fbcc54e952",
+   "title": "SOMPOホールディングスとNTTがパートナーシップ協定を締結 ～介護分野におけるフィジカルAI社会実装にむけて～",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzOWNHTERXcGdhdUhfMnFENmZ6cnR4RTNkSjNyZ3BQd1hISEozMDdkZ19yVzltSGZKWEpMb0JzU0pOdk9JV2kzYTNSZ1dBelZqWWdYS0xXd1dhSDZjbUZIUlVXdTh6TXM?oc=5",
+   "published": "2026-11-12T11:00",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -782,6 +1565,15 @@
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92QTNXTEdLcEdHRkdHbEdScjIybzlhRG5WUXpjTllFS25fMkpHcGp3ZGFBV1g0aXQyU2pKTlcxZE5odWpva0ZncVNkWHV4X1JlM2VqMzRHUHNrSDVuckJ2NHZJNA?oc=5",
    "published": "2026-11-11T15:00",
    "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "a4898b70a234",
+   "title": "ロボットが「動く前に未来を予測」、失敗を回避するフィジカルAI技術を開発 ～物理法則に基づき荷崩れや落下を予測、空港手荷物など多様な物品の積込み・積降ろし自動化へ～ | ニュースリリース",
+   "source": "group.ntt",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vT216bnpSRkxjUUliS2g5TWs1QnozMTZaRTd4WkpYMHl3ZDZZamxCemhyRUNkcVpYblliNlVfLW4tMVkwRVB1QVZoTlRPLTNLcXM0enBqMmNwNms4NG1ITzRjLWhqY0k?oc=5",
+   "published": "2026-11-11T15:00",
+   "kind": "sector",
    "q": "\"NTT\""
   },
   {
@@ -3525,6 +4317,15 @@
    "title": "NTTグループの報酬制度を大解剖、全12グレード＋専門職の年収を初公開・はなまるうどん社長が3期連続最高益でも「良くない業績の上がり方」・アーサー・ディ・リトル×あおぞら銀のタッグ、PEファンドなどと異なる“独自の投資戦略”とは",
    "source": "ダイヤモンド・オンライン",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XdXRfb0dpWXRnbFR5dWFrbm9mZDVpZEI4bWZLTzZBSkh6N0VQSVNELTd2aE9SN0lzSVBKMXQ4RzViS3JXN1JHNW5fRFY?oc=5",
+   "published": "2026-11-05T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "0dce044f935f",
+   "title": "NTT、企業の経営トップが集まるサイバーセキュリティコミュニティ「Security Trust Forum」を発足（INTERNET Watch）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSay14Z2VyYnQ1cW9JWnFLLXVWQXpqTEoxblZ6X0Znc3hDcXBRSlgwNmpudFlQeWFmNkJfb0RGUzMxVlU3NmFIRUxrbHc3MzQzTW5EWlpiWkV1QXBnTUJKZU9mSVA1eXBjQmE2Mk9yRmY3RHhtNVlTLURMWkFocFk?oc=5",
    "published": "2026-11-05T17:00",
    "kind": "company",
    "q": "\"NTT\""
