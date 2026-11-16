@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T01:59",
+ "updated": "2026-11-17T05:41",
  "items": [
   {
    "id": "029ea306c8fb",
@@ -36,6 +36,15 @@
    "published": "2026-11-13T17:00",
    "kind": "company",
    "q": "\"川崎汽船\""
+  },
+  {
+   "id": "743ea60a8a9d",
+   "title": "日本郵船(株)【9101】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvWlZUNERscE5pVUJ2M2x1a1lJb0JHYlhJa294empWWEpPVHZZYzNBdjFZUWpzcWl0MHA0SWxjbllzRXR5VlV6c3dMOG00VVJET1E?oc=5",
+   "published": "2026-11-13T15:57",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
   },
   {
    "id": "fcda3c03acf9",
