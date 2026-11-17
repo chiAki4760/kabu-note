@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-18T01:52",
+ "updated": "2026-11-18T04:26",
  "items": [
+  {
+   "id": "2c247d2c53e0",
+   "title": "NTT、次の稼ぎ頭はデータセンター 「持たざる経営」にジレンマ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vc0ZnQmpjRWE1Tkd1VGlFeHpZOXV3ellfTUY1SWd2M3ZNSU1OeWJYck8xc3ZzbVh2SXpYODhuNy1oVEMzM1Fyd2l5SU5VVkE2T2w0dFo3SGJuSjFScUIxWUpYZ3hfSWQ4ZENvSg?oc=5",
+   "published": "2026-11-18T04:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "d80dcad71bf4",
    "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減",
@@ -43,6 +52,15 @@
    "source": "日野レッドドルフィンズ オフィシャルサイト",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEa284ZXQ1bHBSN1R4d2VVcGxYUUNqZDlFOHo5Wm9USUtLMGxNRVZaUVFPZTVCXzluYWwxRGF2UGF5NG1OQ0YyWDRxcXZZSHFLNmtrczE3dXFnSF9IZ0RVa01tRS1fV3h1TEhtS0tR?oc=5",
    "published": "2026-11-17T15:59",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "424fb78d5542",
+   "title": "「IOWNを宇宙に」衛星通信の制約を光で突破、NTT構想：NTT R&D FORUM 2026",
+   "source": "EE Times Japan",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wNk1NeHlQMFlGZ19PRnIyR2IxUjRBdm83YTd4aUVLQTdEc2hpTHoxRE9KaEFTRDhOUzV4RUI0ZzRNZlZXWEp1ckctTzB3Z1RfS296U25BczMzN3UzSVV3SV9TQjhmQTZHQXJqNTdZZw?oc=5",
+   "published": "2026-11-17T15:30",
    "kind": "company",
    "q": "\"NTT\""
   },
