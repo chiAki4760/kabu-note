@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T01:27",
+ "updated": "2026-11-19T04:08",
  "items": [
   {
    "id": "b2041f24c6d7",
@@ -25,6 +25,15 @@
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbmZDVWp4ZFV4UFZHM0Zxd0Z3Ny11azlINVFuc2ltNlg2ZVRfM0U2RVhYb1NfV2VNYm9OeXZoc0d6VUxWT0xWX05GNG5pak9nX25hNTBsQklhZi0ycGlZRQ?oc=5",
    "published": "2026-11-18T17:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "35d1fd7bfe31",
+   "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場）",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
+   "published": "2026-11-18T16:47",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -90,6 +99,15 @@
    "published": "2026-11-18T14:55",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "988b1916afb4",
+   "title": "東証14時 日経平均は底堅い アドテストやソフトバンクGが指数押し上げ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kR1JFRVRqSkVLOE13Mk41VVNJLW5oTmx0cFlsdXVlRThmcjFEVHFrZEVGOEdSdDJPSUlNSXI4VW81eXMzYkJna2RrU3Y0Z1VvTWY5aXlONHdJY0FrMlBKUWhwU29iVkpScnlEQQ?oc=5",
+   "published": "2026-11-18T14:11",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "41237af8d71a",
@@ -241,6 +259,15 @@
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHN0E4X3JUVWhFbGNQbmtHeWFRNGJ0bTNEMUc0anNvNVFLa1JuWmNkWXR6TGJmNnVOTnNvSGRibjRRTURabzUxcmtGeUdaZEZTTGFHVFJUNXRXYkFxbUFKTWFWVktnNktqZmhadA?oc=5",
    "published": "2026-11-18T09:27",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "b48170812886",
+   "title": "日経平均は反発で寄り付く、エヌビディア決算を好感 ＡＩ・半導体株買われる",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWThZbTJKUWw0V0xtdHR5UW1lTlZVbHNaVEl5aEdyUjJ0anozZThLTy15MjA3OV9MRVAzMkZlaTlIRzd5X3VDZjVSUkRNSHR4eDNSbU1pTDlqRE92RDVqSUNjRjM4U0hJZVFxakw2b2g1ZmVKVFU5Y0M4cGtvT3ZsMzQ5T2RUUQ?oc=5",
+   "published": "2026-11-18T09:18",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
