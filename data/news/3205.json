@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:08",
+ "updated": "2026-11-20T01:33",
  "items": [
   {
    "id": "5abf26d4a416",
@@ -36,6 +36,15 @@
    "published": "2026-11-16T19:36",
    "kind": "sector",
    "q": "アパレル 衣料 消費 市況"
+  },
+  {
+   "id": "8fc8152ed687",
+   "title": "ダイドーリミテッド、中間期で21期ぶり営業黒字 「モモタロウジーンズ」がけん引",
+   "source": "WWDJAPAN",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HaWRJZzEwYjF4NTBSTUROOGphNEdCWFB5bmpUSGs0bEFfWW9mNWlYakpFellZY2JxUVdwQzJDVG9XbklWdktvaFhxcWNxTHlwenlB?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "company",
+   "q": "\"ダイドーリミテッド\""
   },
   {
    "id": "db9d9da51405",
