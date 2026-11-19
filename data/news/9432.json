@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:33",
+ "updated": "2026-11-20T04:11",
  "items": [
   {
    "id": "d744df087f7c",
@@ -16,6 +16,15 @@
    "source": "ビジネス+IT",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tX3YwU2MwRy1vdUhQMkVFOE1lMEJydVZvNEVhZGJCRFozN3FhSnpVY3Jhd3l2d0tnV3doei03eEtuTnpPdDNtQU1IaVhaZk0xRGg4?oc=5",
    "published": "2026-11-19T20:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6e3e3fdb9019",
+   "title": "キオクシアHD株、プライム売買高首位に 高頻度の約定で積み上げ、2位のNTTは4割が板寄せ",
+   "source": "QUICK Money World",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45S0podHlqWnROeEtUc0ZKelpqWVdtXzh2UGw0Z1lORUo5eEZqMUdiQml1VXlWV1p0REhHVXhMbEVaNXRWYk9INE95VzhlUGd0SGZVVVJB?oc=5",
+   "published": "2026-11-19T17:45",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -51,6 +60,15 @@
    "title": "東証業種別ランキング：海運業が下落率トップ(フィスコ)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnFtbWVUR2lJX0YzYWZER3owaDFJQUMwS3lNMTYyb0tCdVhMS3E4dmFrNDZLR1hldVY0akwxV0xTS0JuT000TlJYRm1odkVsQmloNXZNNmxycHZadDR3LXVxcEdXOW9kUG9DSVA2dVlmbGl5N2pvZDhGM1RPZFpJN21JNUlCcFk?oc=5",
+   "published": "2026-11-19T15:52",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "94e4b46d8a05",
+   "title": "東証業種別ランキング：海運業が下落率トップ",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03eEhONlJNUlhYaEJJX0tXbmVsbThOWXo1UmpzaEhSQUEwREpDRjJYS0pYOFBHVnEwVlRkNGF4SHBmZnhQVHhVQ2hKV1V6WUZ5clZvckR4bUpCYXJuRHlacw?oc=5",
    "published": "2026-11-19T15:52",
    "kind": "sector",
    "q": "情報・通信業 市況"
@@ -3121,6 +3139,15 @@
    "source": "毎日新聞",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yUmNpSWtDX2h4TFZCS2xFT0lfNV8xaG10SWlncDRrS21mSmtucWhRVGdQMnVqZjdGM0szMDZxcjhQaFhNNHFhcXRqQ05TcGNxWEtqbHVISGJLZlcxXzJjTmVRQjBwZXNF?oc=5",
    "published": "2026-11-10T17:03",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "73cfaa7d109e",
+   "title": "【NTT西日本】関西圏の8府県を対象とした官民連携による広域防災実証を開始 ～大阪広域データ連携基盤（ORDEN）を活用し、日常使いのアプリを通じた「避難情報の提供」と「安否情報の収集」により、府県域を超えた円滑な避難と被災状況の把握を検証～｜ニュースリリース -",
+   "source": "NTT西日本",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LUE00UmpiVzl5MHVjT1ZKNVB6cndPa19OR1ZxbjdpYkY0RFpqWUJRWmhYZWRFRkpkZkVDUVZIOF93ZWVRWkV0cW1UUlhKYnVrbjBWTnBmSS10Z21XbGc?oc=5",
+   "published": "2026-11-10T15:57",
    "kind": "company",
    "q": "\"NTT\""
   },

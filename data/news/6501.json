@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:33",
+ "updated": "2026-11-20T04:11",
  "items": [
   {
    "id": "efca45faa89f",
@@ -7,6 +7,24 @@
    "source": "アットプレス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZE5mRlFXajNBMFZpVllDT3ZfN1BVOEFQMHNZb00xWHNjZzVlVGdIT0o3eG5VdWw0WlRPYnJmYUkxNEJmZzhPMGFGdlhsNm8?oc=5",
    "published": "2026-11-19T17:00",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "d0c8762873d9",
+   "title": "日立、基幹システムのAI活用を促進する「HiRDB Version 11」を販売開始",
+   "source": "ZDNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNXdyRy1JSERscWtMbC1Od09wdXo0YTBMSmpuSjhHT3FWMjZrYlF4dzRuNEdOcXRxTDJDMU4xYTA5NTdJV2NzaWFKUUVmaFRBeXFv?oc=5",
+   "published": "2026-11-19T15:11",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "26d320ba3e55",
+   "title": "日本のPC用ゲームコントローラー市場：規模、動向、2035年までの予測",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczh5am8yeEloZk51TnNTaUFCa1dFMTFFcjIzUXhpOTBQX21qVTVHUzVEZjBneVFvWWNub2FFLWRmb0VaXzhFcDhTMExfUFYtOFdiendLQ3JUQzhkS3VzZWxOOTBTaU9pQmNYQWR2em1vSUtzeEhjVkY1N2NvYnctWnBCLXJIYnBaUDFhcEVYMTFSREJfUmJ5RzlZRkxZZFc5VXJ2bVJYMDg1dmpMY3UtNFFsV2JKVnd3UGF2ak1R?oc=5",
+   "published": "2026-11-19T14:28",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -43,6 +61,15 @@
    "source": "Hitachi Global",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11ejk0LUIzRTRYZll4emF6dGo1X2k2UTVJd3ZyMUxRVEwxRm80allhRUtkNjBLZkVSMmsxOXhnWXZXdnR2WVlnX2YweTRPNjNDU2RuRVlxVFVRSFVSVHRVSHVwWDVQbzJ4NFE?oc=5",
    "published": "2026-11-19T13:01",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "1d6ad3b1274c",
+   "title": "【アーカイブ公開中】AIで変わるシステム刷新——日立とOpenAIのFDEが語る協業の舞台裏｜OpenAI Japan Live",
+   "source": "Hitachi Global",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uZkR3dTdBd1Z1TXpoOV80ZmFWYXRySDJUSC1HNVFEVUV6cmpNbEJfQ1hld3UyX2I4WV96d1FOYTBUcVIySWJESWNrLVZva0dsMndTdVBrZHRfLTdycWM5U3RLcUxkZ2NNWnE5am9fR3RjU3VVcWFV?oc=5",
+   "published": "2026-11-19T12:26",
    "kind": "sector",
    "q": "\"日立製作所\""
   },

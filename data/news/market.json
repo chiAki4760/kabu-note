@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:33",
+ "updated": "2026-11-20T04:11",
  "items": [
   {
    "id": "8dac6fb011d7",
@@ -16,6 +16,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dTh5YUJqMVl4NXB3LW5rV1VxZU5BWmRVcUZCbmVzeFhKQi1uTGsyMldNY1FwSHRtUFpSV2RUbEpUdWphVDJweXg4VEhDTGlqWGZ2djh4YllDNnlFQzh0LUZ6WUVNdzBmS0hOYW82VndaaDlRS0ZURUJ2TmlCcWc?oc=5",
    "published": "2026-11-19T17:12",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d822d3db8fc9",
+   "title": "株、信託銀行が大幅買い越し 3933億円、20年3月以来の大きさ・11月第2週",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51X2gwRjdSaTQ0T2FiU29hOWgzYUJ1MGNBOGg3VUY4NWpxNnZ4STZ0VXpTRUw2WGtiTUpydHE2UkxuZ1JONTI2aWFpb3RsVkNEc1d3Q211Mk5nRUpOZ3k5ZTJpZWpoRzZZQ3VEUg?oc=5",
+   "published": "2026-11-19T16:40",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -200,6 +209,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "d6bf17a5b346",
+   "title": "日経平均、小幅続伸で始まる 米アンソロピックの旺盛な需要が支え",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Nb2xNcFZ3TkNQQUkzTFk1Q0xNZjRURXlJMFE1aTctVE1NTkV0N3Uxbng2VGdFMlNkZ2trQk9FOGc3djRjYWI4dERzSzJZS1VqSFZNWWs2SjBCal84akx6a1hlV3FnSjZBelkzbg?oc=5",
+   "published": "2026-11-19T09:10",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "91b2e3eb10f1",
    "title": "東京株式（寄り付き）＝売り買い交錯、米ハイテク株高が支え",
    "source": "株探",
@@ -312,6 +330,15 @@
    "title": "日経平均終値は３営業日ぶり上昇、１６３円高の５万９０２４円…ＡＩや半導体関連株買われる",
    "source": "読売新聞",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icmh2bzVuQ0dGdXY2RnRtdnFuYzZPdGl4QkxfTTJpM0VJVjV3eW5hbGY5Vi01dXozeVlicUFkNE1peHdWT3Z1YXJKOE56N1dBY0xJenZPNU9LX1UwVGZkX0xQekU?oc=5",
+   "published": "2026-11-18T15:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "dd23dd672505",
+   "title": "日経平均終値は３営業日ぶり上昇、１６３円高の５万９０２４円…ＡＩや半導体関連株買われる（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43aVJEcllzYjAwOUxpVUpuZW1peFlZRlFqNnVyMkJOVzQwWlRseTBuWF9GUUt2RUFwX3FRZHhfS25weGkwaDBtdndlM3VYb2RKcjk1NmNZMmhkZTdjWlBzOEpDWld5ZlluLXlVRkRhOTNWaXVMbjFveTRCbVVWamc?oc=5",
    "published": "2026-11-18T15:47",
    "kind": "market",
    "q": "日経平均 東京株式市場"
