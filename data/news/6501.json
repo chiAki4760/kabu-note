@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-20T04:11",
+ "updated": "2026-11-21T01:08",
  "items": [
+  {
+   "id": "82b7a5ff0210",
+   "title": "日立、OpenAIのサイバー防衛網に参画 脆弱性診断をAIで自動化へ",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZzhQd3lDMXJtT1pUaW5nckFVVXRqM1NqUGpCRWo0YVA1R2pPTU1GZDJ1bkxnZTBBODZrNkdFM0xLT3ZmV1BBWE02bmxkNm1BY1RqSGxFTHNtdTFMNWVQT2NodXotOU9QUXVBQjBrUXJsUGlQ?oc=5",
+   "published": "2026-11-20T19:05",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "0f48f528a05b",
+   "title": "日立製作所、OpenAI主導のセキュリティプログラムに参画",
+   "source": "ZDNET Japan",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQXNmLWpXbWpwcC1wRzlwSktVVlRzT2xDYWFBMXNINE96M3N5aWhxVWY2Y1I0dUc2OE5yWHczcE1tTTJJYVFKQnZ0QmJHVm8wWFJj?oc=5",
+   "published": "2026-11-20T18:39",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "7250ad08acec",
+   "title": "全固体電池の品質評価に向けた分析・解析技術を開発 | 株式会社 日立製作所のプレスリリース",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vWm1oNGhTQXlZdkV5SHVlei1VcjR2b3VMUHpRUVZueHNfeXoxVW1YbHFZeGwyZ2dIUnkwT0taYlRta2UwM2ZHNHBKZ1RxSW4weHhaWmRoell3OEpueHlvVUpUNmJwNWJaM2c?oc=5",
+   "published": "2026-11-20T15:00",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "b975993fcfd2",
+   "title": "分析機器市場は2024年に555億米ドルの規模となり、2033年までに1,010億9,000万米ドルの市場規模に達する",
+   "source": "ニコニコニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xWGZiRmJXMU9sQnIxaTU5MHZpVlByVHZaVE94aGpCZFF1SmYxQjNQRmszMmEyQmt6Z2JtSGdFY0NUNndjRFNYS3A3UjB1X0RLZEcyclAyR19PS2VsVXl6MkhIdWtXSXM4?oc=5",
+   "published": "2026-11-20T13:15",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "cfca7f6d562e",
+   "title": "日立の特許「粒子線治療装置向けビーム照射制御システムの発明」が関東地方発明表彰文部科学大臣賞を受賞",
+   "source": "Hitachi Global",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bDh2Q2pDMTlVYnhoU3JCLUx3c2hVVDVZbFNVTUR1b091OGM3RUV3Y2RVcU1MRXFTLU1hVU9mTXNzYzBqOUp3Wmc1MmNRMGVuUzlBWC1HeUUzOEJuaVY2SWFCaDhTMjg1YlVjX2UwaWE4SVNrT3NMT3JnaGgtRnM?oc=5",
+   "published": "2026-11-20T11:19",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "9b8dcb77f562",
+   "title": "日立製作所－3日ぶり反落 ＯｐｅｎＡＩのサイバー防御パートナープログラムに参画(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFpMeXdzTWlhUjBhdVNLLUg1UXVRMUduSF9OZFVXaFZheExiWEZIa1NhWGZ3bE1sWHMxWEUtdzFzUE0yc05zSWMxUUV5Qi0yeEF6UWJjb2xTRmJGQlVua2M2Znd2NmJCc2FOVWtTb1hKclAzSFRyb3pHc05RcVF4dm5JY1dETUE?oc=5",
+   "published": "2026-11-20T10:57",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "62f1f5e28ad5",
+   "title": "日立・Jパワー・マクニカ、電力インフラ向けフィジカルAI基盤で3社連携",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QSlRNTWZSZzRRb2x4QVFIMmZYazQ5NUNOMlhWM3dVMllMQmJpc19YbDJrMjJQaThMaWIzTnNOQ0V6Q3RGblFBSk81RHhWY2s2cXNWUVdROGFmbWpKVG1ONzlNc2xKRFJmREV3M1doeDJDeUNu?oc=5",
+   "published": "2026-11-20T10:35",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "ffadbccb31ee",
+   "title": "Jパワー、送電線をドローンで点検する実証を検討、フィジカルAI実装の第一弾",
+   "source": "IT Leaders",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1taGNyQVFmMnJNMmVRS29reVhVcUhqamxwZWVqTUt3R3VpSW1RSXF1WmhvbXkydDJUeG9nVDBiZlJGT0w5LWRoejZUeC1nLU9TYnVV?oc=5",
+   "published": "2026-11-20T10:08",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "d318c6838dd2",
+   "title": "日立製作所、マクニカ、電源開発、フィジカルAI開発基盤構築に向けた共同検討へ（BCN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hRkx2TVZoSE1STWxPRlhGRVJoSGkzUnYtSGhvMXFURWlibWNVZHBINzFLTmNoVVdvYWJCYWdUUE9aYzJSeTJSei0wMGxkVTNfNXdNeEpyZUxZMDVQSXIzaFlBbFhoOG5FZ3E2cjNxR0RHYlgtRTl6UnlqVlVjMGM?oc=5",
+   "published": "2026-11-20T10:03",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "ea2750809ed9",
+   "title": "高分子固体タンタル電解コンデンサ市場は2032年に4億2,550万米ドル規模へ、車載・通信機器向け需要が成長を支える",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44eGRqWGVjVWU1bXJSMFRINzVlckFEam9tQlhwdXZ4YVhYbHE4SWFqNEtMWWd1bWUzbElGVXN5TGFyb2NkRHFWZlBObnpCWEk?oc=5",
+   "published": "2026-11-20T07:15",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "40bf95f644ce",
+   "title": "アルバックは新製品、半導体市場の成長が真空機器業界に波及している",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5STjdYVkJkOGd0ZFBMYmdackpwZ0dXdVFtdnFHZlJJNWt5TVhyY28wVXNJVEJFTTBNbENOV0l1NzZxZw?oc=5",
+   "published": "2026-11-20T06:03",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
   {
    "id": "efca45faa89f",
    "title": "二酸化マンガンコイン型電池の世界市場（2026年～2032年）、市場規模（CR2032、CR2025、CR2016、その他）・分析レポートを発表",
@@ -9,6 +108,15 @@
    "published": "2026-11-19T17:00",
    "kind": "sector",
    "q": "電機機器 市況"
+  },
+  {
+   "id": "df6d56c840d8",
+   "title": "(株)日立製作所【6501】：株つぶやき",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fdC1sMzZBSkRMMUtEWG5Pa3Jqc1kzSFlfSDBqdFY0ZkpYUWhUUkZxOTBWazFScVN3QnhTTUVscXUzVHJXYWNyLXRhbWhpMDBRekpCdklpNHc?oc=5",
+   "published": "2026-11-19T16:15",
+   "kind": "company",
+   "q": "\"日立製作所\""
   },
   {
    "id": "d0c8762873d9",
@@ -87,6 +195,15 @@
    "title": "日立の社員がAgentic AI Foundationにおいて、MCPの適合性試験のメンテナに就任し、AIの安全な活用をリード",
    "source": "PR TIMES",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZjV5SDlwaFVzU3pCUkVjLWQ1ZEZFRURULTB2YUU0cms3VHRKOXE2dVJlc01nV0RxZDdJeVFxSFB0YW9iOXRVQk5tQlItMm14b25EMVdYdERaazFhV1ZqWkZuY3MxamtDSEE?oc=5",
+   "published": "2026-11-19T11:00",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "c4c49bb3bcba",
+   "title": "日立の乗松 隆志がMCP適合性試験のProject Maintainerに就任",
+   "source": "Dellows News",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KWm4teXZBbWw1ajFoUV9OSUhTRXFacmRpQnVSUFhoNFNsRlh4SHUwRlZMZGIxZTRQM09tZUpwUGFvcWI2c3cw?oc=5",
    "published": "2026-11-19T11:00",
    "kind": "sector",
    "q": "\"日立製作所\""
@@ -182,6 +299,15 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "6110afc8bc0f",
+   "title": "Shunkan AIが語るAI適応の重要性と日本企業の未来の働き方",
+   "source": "ニュースメディアVOIX",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10NEpWTnhqaWtxS2lCZVBXd1FXRVZheWhfU0hLWmc3d3FRSE1tWF9jeDZuMG5xN3YyN3gtWlJzb3BGU1BJV0tReUV2LWZvMEpXZHhub2FCa0RkRml1NTY3NmNBZXhPemJic196VkxuRQ?oc=5",
+   "published": "2026-11-18T19:24",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
    "id": "0e1f550f1a24",
    "title": "北米のパーソナルケア家電：市場シェア分析、業界動向と統計、成長予測（2026～2031年）",
    "source": "アットプレス",
@@ -225,6 +351,15 @@
    "published": "2026-11-18T13:34",
    "kind": "sector",
    "q": "電機機器 市況"
+  },
+  {
+   "id": "86bdd5c180ab",
+   "title": "日立社員、「卓越した技能者(現代の名工)」として厚生労働大臣表彰を受賞 | 株式会社 日立製作所のプレスリリース",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4U2VMTU9aNlhBR1FtbWhGeEZQcmFKRmkxWnpsNFgxZlZjOXRnU3YwdDk4di1MWDJYT1pCM0xCMXEwVjBwc1lLaG5VWmRyRHdrbmt5bDJnQTVFT1ZMQkgtc1doQXp4NERLY0E?oc=5",
+   "published": "2026-11-18T13:00",
+   "kind": "company",
+   "q": "\"日立製作所\""
   },
   {
    "id": "dadaf803a077",
@@ -362,6 +497,15 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "6a89719ab147",
+   "title": "自動車電子機器受託製造市場調査：規模推移、成長率6.16%、最新業界動向2026-2032",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kMHUzZmRkSjZUeTN5ekxUZUhhYnVXdEREMUg0WGZXRWg0ZUFET18wVzRfT29tUDQxZDZrLUVDaVdtTlJsOUdDWmdhLXpnNEU?oc=5",
+   "published": "2026-11-17T19:08",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
    "id": "1b5299010d2b",
    "title": "日立、AIエージェントの「越権」防ぐ 生体認証で委任を証明する新技術",
    "source": "BigGo ファイナンス",
@@ -385,6 +529,15 @@
    "source": "アットプレス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PaGJVRHBwRWdzM29ldUpJdU50eG9rTjhNS1BEckk0eTlGR3paMEJWMkVELXphSEl4WGJFTzNkdWFLMldCUUxwRlBMd3VYMEE?oc=5",
    "published": "2026-11-17T15:30",
+   "kind": "sector",
+   "q": "電機機器 市況"
+  },
+  {
+   "id": "6040343d0ec6",
+   "title": "2026空気圧ディスペンサー市場規模マップ：シェア・動向・フレームワーク",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JdVdoNFRwd05hbGZ0S2c2dnJUaGNKTGZ3NFhyS2x6ZDRPX2xPaW5NeUJNTnc2VHVqbkRqX2xqb1BQd3hsWTNFQWNuNVBSRzA?oc=5",
+   "published": "2026-11-17T14:44",
    "kind": "sector",
    "q": "電機機器 市況"
   },
@@ -452,6 +605,15 @@
    "q": "\"日立製作所\""
   },
   {
+   "id": "d3bcfc4eb8cf",
+   "title": "日立製作所、実証設備「大みかデータセンターラボ」を構築（BCN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tdFpQclZwTEdRWVQybEdReF91VnhHdDF0Vlp6b2RJX1kydXk4V3ozdlFhVENDY1JITFhGclczVHVLd0xpNVlvY01fNnhaVzRuTC0wbEprRE9kd3o2a25aX3lLWHRWeElIQVJjR0FIOGIzOWxWb1Q4SlhoRVM4clU?oc=5",
+   "published": "2026-11-17T11:23",
+   "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
    "id": "3de1e3728e95",
    "title": "日立、AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
    "source": "PR TIMES",
@@ -468,6 +630,15 @@
    "published": "2026-11-17T11:00",
    "kind": "sector",
    "q": "電機機器 市況"
+  },
+  {
+   "id": "961d2cde9347",
+   "title": "日立、The Linux Foundationのグローバルイベント「Open Source Summit Japan 2026」において、日本企業最多の11講演に登壇",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyUm1TTGlRejduZGxGRkxnT1JBSkhoLUlVYjRuTjBEZ0pUMl9iUGRGblRPMXVpRDFlZ0lIaE4tbk8tYzJmelZjc2R4SXJJYllWTmIwT29kS3NlUUlGNUZfTUlOQmx0MkdENVE?oc=5",
+   "published": "2026-11-17T11:00",
+   "kind": "sector",
+   "q": "\"日立製作所\""
   },
   {
    "id": "d66055fd8cc1",
@@ -567,6 +738,15 @@
    "published": "2026-11-16T11:00",
    "kind": "sector",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "b67126caeeea",
+   "title": "焼結銀膜市場調査：規模・状況・調べ方・算出方法",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pOGNJMmh4VXJHNG5ldkFEYTdiMXRHM2Q1Um5ja3g5ZnVBR2UzR1piMnBZTDdMSTJkcklLTnVzY3NOTzJ6dXJkTnhMREtaVm8?oc=5",
+   "published": "2026-11-16T10:31",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "e019b6fa8bc7",
@@ -1035,6 +1215,15 @@
    "published": "2026-11-11T17:03",
    "kind": "company",
    "q": "\"日立製作所\""
+  },
+  {
+   "id": "b22044b76fe5",
+   "title": "ASA樹脂市場分析レポート：2026年1213百万米ドル規模、成長率5.1%推移",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaLTJfWUwzaldYTm83YkFUR2p4dllGaVdYdk9OVU0zTERPa0ZUeC14WGpLQWJBbGs5X0ZsbmU1cUNGeTJ3MV8weE5zc0ttbW8?oc=5",
+   "published": "2026-11-11T14:35",
+   "kind": "sector",
+   "q": "電機機器 市況"
   },
   {
    "id": "6e8d80a7072e",
