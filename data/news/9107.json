@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:13",
+ "updated": "2026-11-24T07:16",
  "items": [
   {
    "id": "5050cd4cd811",
@@ -27,6 +27,24 @@
    "published": "2026-11-20T17:00",
    "kind": "company",
    "q": "\"川崎汽船\""
+  },
+  {
+   "id": "d2f8e6cd0915",
+   "title": "(株)商船三井【9104】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sNXJPZC11YVI0RGFpQ1R6NmllUUUyM1JwZEpjT2prMEgwejUwWVZROS1BdlViR29JLXRma1pzYV9yRVlvNHJrMVB0d3BxYmdBc1E?oc=5",
+   "published": "2026-11-20T17:00",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
+  },
+  {
+   "id": "380a3fed03b7",
+   "title": "【台湾航業 FY2026 Q3 決算説明会】1〜10月売上高42億台湾ドルで過去最高水準に迫る 陳建州総経理「通期利益は期待できる」",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hZzVFYXNSXzhyZGdsVjlWWFNMa2J3cU5PaUtJZ09DRnB5bVczMUpNbFhfVDZheHplTDItdlM0UjFxY1N5Zm1JYWhYX0RPbVFEYVR3cDNTNXNqWUctY2pfSg?oc=5",
+   "published": "2026-11-20T08:06",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
   },
   {
    "id": "43652f694c75",
@@ -205,6 +223,15 @@
    "source": "ライブドアニュース",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kNERRVXZCVENodm5PaGJVTnE4aUd0eW9iMlFVSGpoWkNTT3FxUnUyTXg3RllJTDRJSFV0SXVHcUlyQnJIekFubHdoNklSbzQ1UFVtek5rMXFJTG5wUkt3?oc=5",
    "published": "2026-11-10T17:02",
+   "kind": "company",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "955e5f6c9c0e",
+   "title": "商船三井が株式3分割、100株約21.5万円に―日本郵船・川崎汽船と配当比較",
+   "source": "UQライフ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOU5mNGdHZVRkUnJ3UWFxZ1lSUUhxVVFPMTVma1VFUmpyTGE0bnExeEpJQTJvRlIxTnFpU3VnM0J2TnBkbUFLUlFuNnBUSXctQzV2M2M3LXRVQzhCY2t3RzNkRUVtaU13dWd3VjNJeDVyZFRQd0Vobkgya21SbmdqYQ?oc=5",
+   "published": "2026-11-10T17:00",
    "kind": "company",
    "q": "\"川崎汽船\""
   },
