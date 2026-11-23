@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-21T03:52",
+ "updated": "2026-11-24T04:13",
  "items": [
+  {
+   "id": "c6c2511424fa",
+   "title": "積水化学工業(株)【4204】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JMHgyWUt2R1JvOFpYLW85VFNnX3lTWTNSU0VlWjAwLXBVQ1hzU0NLSUl5dXhyeXd5ZEZoRXpMV3N6TUd3RTBPQ2RtUGF4YTFNRnc?oc=5",
+   "published": "2026-11-20T17:00",
+   "kind": "company",
+   "q": "\"積水化学工業\""
+  },
+  {
+   "id": "d0894a1117e8",
+   "title": "旭化成(株)【3407】：株価・株式情報（夜間PTS含む）",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mdzZYV1hzMkJRODIwWEVuRkdqWEFpWGdIZXExVmZFZVZBaEVvQmowbzZBNVd1RTBHSVQ4RV8xWFRmMDk3V2dLMW00LXJKdU9Ld0E?oc=5",
+   "published": "2026-11-20T17:00",
+   "kind": "sector",
+   "q": "化学 素材 住宅 市況"
+  },
   {
    "id": "300ce8a43000",
    "title": "積水化学の新社長が語る「乗り越えた壁」：素材／化学メルマガ 編集後記",

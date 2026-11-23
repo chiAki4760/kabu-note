@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:52",
+ "updated": "2026-11-24T04:13",
  "items": [
   {
    "id": "8ea9f066c62e",
@@ -7,6 +7,15 @@
    "source": "STRAIGHT PRESS",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90UzNabk9tdHRvSExFdkVqZi1xdVZCOUtobzlleWlycmFLRS1sV3lfVW5UZEt0Wm9KVFhlY3YyVmswR0xpZFVmTEFlTThJSE9vN3dDY1VDQmo3NTB2bTJrTVBYQy1NNWppbEFKYTVWRXdyVlEw?oc=5",
    "published": "2026-11-20T20:02",
+   "kind": "company",
+   "q": "\"東海旅客鉄道\""
+  },
+  {
+   "id": "5620e10d8c08",
+   "title": "【JR東海×JR西日本】コラボレーション企画第３弾！ TOICAのひよこ・カモノハシのイコちゃんコラボグッズを新発売",
+   "source": "浜松経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iVmtMdmxOdmcxV3B6QU82Z1NuODhYMThjWVJ2cXhLY01razhCWjI3STI4ZEdaSkdGdUF1cHNrd1NFUnNJbUdkeVZUSmhTSVlpamEwRmFlaw?oc=5",
+   "published": "2026-11-20T19:19",
    "kind": "company",
    "q": "\"東海旅客鉄道\""
   },
@@ -151,6 +160,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGFvWm1OY1d4OGxaVmE2cks5dVRrbW95Q2tYbFB6cWQtdlpTNlRma05ZZTBYYVlCajdwbEgyU0pGSUxYQ2hvTi00Y2Z3b3NpamhCMV84Zk5HeHh5OXprX05lYnFJWnI0eFQ1clg5MUtHMV9iNnFpeXplb3RaQlNsZGZHYlBJeW8?oc=5",
    "published": "2026-11-18T15:40",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
+   "id": "643fe29ef6b4",
+   "title": "【市況】 日経平均は236円高、訪日外国人客数などに関心",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoUVp4eGdaMlkyR3NpZTR0SHYtR0RDZE9oaEx3Z3ZOM29vVUhITExZcExrYkdvNDF6SUpHZVhfV0x2MHhxXzZpTUxITUtzQVpITVFIeXZkLThkUkJrbFNnbw?oc=5",
+   "published": "2026-11-18T14:51",
    "kind": "sector",
    "q": "陸運業 市況"
   },
