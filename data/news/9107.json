@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:52",
+ "updated": "2026-11-25T05:54",
  "items": [
   {
    "id": "112a709cc980",
@@ -17,6 +17,15 @@
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CZTVZczB3cDJQLXN5dDZtMk1XMmJvZUFpSW5RdnhBNlJOZ0lJeUJMYXVvaXdIM05sWF9JQ3E5UlVjanhXZ0pwd2ZB?oc=5",
    "published": "2026-11-24T22:34",
    "kind": "company",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "0ee74ade7883",
+   "title": "当社個別決算における営業外収益（受取配当金）の計上に関するお知らせ 投稿日時： 2026/11/24 19:00[適時開示]",
+   "source": "みんかぶ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzaW1iYWJReGpla2E1QjhLQzJJNUJYZUVmMmhMX3JkU24tb2xDdUtjV1FtLW0zQmpkeEJUMjNCQ2hySHFOUGc?oc=5",
+   "published": "2026-11-24T19:00",
+   "kind": "sector",
    "q": "\"川崎汽船\""
   },
   {
@@ -56,6 +65,15 @@
    "q": "海運 運賃 市況"
   },
   {
+   "id": "3adafd50c351",
+   "title": "上方修正14社、中身を仕分けする",
+   "source": "LOGISTICS TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZSkpvMElpMGxDZW15bnE2T0J0TlBBMExZQ0RBVWlNMU1sNHdEdkhHOTg4ZkREaVU1eU9KSFpMSm14eEtTVkE2MzdB0gFPQVVfeXFMUEdOX3RoZURBaDlzdkU0aHdYX1BTS0Q5SmNNdTJ6UklhLTZyU20tOEE1eWZoUldiVktrOWt4NEhlZjNBeHpHUUNXSk1vQ3V3SQ?oc=5",
+   "published": "2026-11-21T07:03",
+   "kind": "sector",
+   "q": "\"川崎汽船\""
+  },
+  {
    "id": "e8f6c593e47e",
    "title": "川崎汽船(株)【9107】：掲示板",
    "source": "Yahoo!ファイナンス",
@@ -70,6 +88,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sNXJPZC11YVI0RGFpQ1R6NmllUUUyM1JwZEpjT2prMEgwejUwWVZROS1BdlViR29JLXRma1pzYV9yRVlvNHJrMVB0d3BxYmdBc1E?oc=5",
    "published": "2026-11-20T17:00",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
+  },
+  {
+   "id": "68fece152ea1",
+   "title": "(株)商船三井【9104】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVzNadzFSTDk4c1F3VkdNRl9VcEM4TUh1aFJ1VjFvUDZubUVXSm1rcE4zOXl3Ml9GQ2oxVi1yVDJaTll1Z2Z2ejB2T1hwQTF1REE?oc=5",
+   "published": "2026-11-20T15:55",
    "kind": "sector",
    "q": "海運 運賃 市況"
   },
@@ -155,12 +182,30 @@
    "q": "海運 運賃 市況"
   },
   {
+   "id": "fd6f8657adbf",
+   "title": "大手海運会社「日本郵船」 皇居前「郵船ビルディング」の建て替え 地上19階、高さ約100ｍの「皇居丸の内郵船ビル建替計画」",
+   "source": "東京・大阪 都心上空ヘリコプター遊覧飛行",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DS3dscmJnWllZRXhPOHNJUE5hUlpnQ1ltRTdVd0ZOVDhVSUI2dTllV2RzbWlnZ1BaZ0RMbUhpd2tFQjljdDNVZkplR1VBcTkyQnVSNU94YVV3T2VoeVYtWFltUGp6Wl9wU0R4MzU4aWJWcnJSUXd5X1k1emRVUQ?oc=5",
+   "published": "2026-11-16T05:30",
+   "kind": "sector",
+   "q": "\"川崎汽船\""
+  },
+  {
    "id": "f8cf62c96e2a",
    "title": "川崎汽船、アンモニア燃料自動車船、30年に2隻投入",
    "source": "日本海事新聞 電子版",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xZmZyekVNTUVUNExuRmN3aTg5RUN5LU9KUWpBZ1FXTWZUdHNWektLZDNJTzF2SVE2MHVQVVRwLWF0OHBfQ1l4akxGRGxWLWlfUFFiUjdR?oc=5",
    "published": "2026-11-16T00:04",
    "kind": "company",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "36ad3ce55313",
+   "title": "[写真]みずほFGが年間200円へ増配、MUFG・三井住友FGと還元力を比較",
+   "source": "財経新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGZkdiV19CdWxpWjZIc1ZCVUVSOFA3a1IyV3g1b3RBTUdweWMzT09sQ1JVVWo3OEtqX09aazJtbk5lYVBROWUxUG5nZjU1QlhHUDZKMw?oc=5",
+   "published": "2026-11-14T15:54",
+   "kind": "sector",
    "q": "\"川崎汽船\""
   },
   {
@@ -207,6 +252,15 @@
    "published": "2026-11-12T20:05",
    "kind": "sector",
    "q": "海運 運賃 市況"
+  },
+  {
+   "id": "6eeb0b44b617",
+   "title": "JERA、インドのAMグリーンとグリーンアンモニアの調達で基本合意（インド、日本）",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QcjhJOXZzbkpLQTlqQ05rMl83R1RtNlRPbll4SE5kY0RQZW9yVzJXVWw3OFRuTkhJd3FtODZZR2FSY3VjV3BZWUtwSkIzZ2d1eXVkOHRFRlNOaGxuVXJaZDVvQVdqUnBIRHlJ?oc=5",
+   "published": "2026-11-12T13:40",
+   "kind": "sector",
+   "q": "\"川崎汽船\""
   },
   {
    "id": "fcda3c03acf9",

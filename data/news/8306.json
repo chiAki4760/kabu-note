@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-25T03:52",
+ "updated": "2026-11-25T05:54",
  "items": [
+  {
+   "id": "90de0637ab2d",
+   "title": "【欧州市況】債券上昇、株下落－テック株安や関税懸念で安全資産買い",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VTU5JWTZpMFl6NW9kU24wUlBYSWIzVFIzMjhjc3lzSmVudlczdTREZ09GQ0tYU3IyXzNJQ2o0MjMwME96bVhzcGF3WE95Ym1mZHNxNEZEak1xam5jMXVTeWJ3Vlp2M3Y2V3NEN2FXWEQtR2h1dDdR?oc=5",
+   "published": "2026-11-25T03:14",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "9f432c0ace03",
    "title": "【マーケット情報】商品市況・為替・株式（2026年11月24日時点）",
@@ -47,6 +56,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "e12c07d3efb6",
+   "title": "【注目】 話題株ピックアップ【夕刊】（2）：みずほＦＧ、メルカリ、航空電子",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VM3ZMc2JzOUZsd243LXJKZVFWS0k0NTdieFUtM09KdTlacFVCUHEtN2hIdTRUQVR3UWpINGZFUnh4cTBYaWdwNFh5YU1Pek9JTlAyQ3ZNQ1NfZlVfQUdkdQ?oc=5",
+   "published": "2026-11-24T15:47",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "6bdcd939164d",
    "title": "【市況】 日経平均は2286円高、米経済指標や企業決算に関心",
    "source": "株探",
@@ -65,6 +83,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "bcdab116c096",
+   "title": "【国債デジタル化の焦点】財務省がトークン化を検討、２５０兆円超のレポ市場はどう変わる",
+   "source": "https://kabu-ir.com/",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UazFDelV2b1hSenZnSlh3UF81c1gySldWNmZYUHozbXR2UllaNVZmUFNoTHpOQkJDSU5hbFp3ZDJfRDBQb0ZFOHhfMFk4UC1YME53aw?oc=5",
+   "published": "2026-11-24T13:08",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "09b9f354dd6a",
    "title": "本日の【業種】騰落ランキング ＝ 後場寄付 【上昇トップ】非鉄金属 【下落トップ】鉱業 [12:33](株探ニュース)",
    "source": "Yahoo!ファイナンス",
@@ -74,11 +101,29 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "29f4742a7b21",
+   "title": "みずほＦＧなど銀行株が上昇、ＡＩ投資継続で金利上昇の可能性に期待",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWaFctU1FTLUdMYWxFQ05WNHFYeDlTRFhGNEJ3cUZWLUh5dUpyRVBoVlRUOFJ4YmhyOWh2aGZkQWRHb3R2SjlJTmxIU3NuRUlNdFFtQnZDRWNEWDNZQV9NOA?oc=5",
+   "published": "2026-11-24T12:33",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "7ce6210fca33",
    "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】非鉄金属 【下落トップ】その他製品 [11:31](株探ニュース)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjBqcDZYZm1uZW14aVBsTmZvMS1YWThfSUFueERNVlVuUURTNXhRSDFSRTduS0llaEk4Um40aXVENjAwZk04TXJ4WGdkUlA1dk1wdGJ5cXl0SjFiVVFkU1padno1S1BLSW01SC1RVXZ5YTRoOVlhdWN0VnoyZGdnMzF1M3VxU2M?oc=5",
    "published": "2026-11-24T11:47",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "ed8a294912ab",
+   "title": "【日本市況】日経平均4%高､エヌビディアCEO復帰で心理好転－債券上昇",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9URFl2eThwck1sa01od0Z5NDlqTTJHVU55TGlhSEdKS3M1Vk5BVW9iSjJIUmgzYkFYTUFkS3NrM2doS3hMTTd5eFZvbS1BaTYweW1VWHBWQUxtRThIeTRDTlVRWTUzN1E?oc=5",
+   "published": "2026-11-24T11:32",
    "kind": "sector",
    "q": "銀行業 市況"
   },
@@ -178,6 +223,15 @@
    "source": "グッドウェイ",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZVl9Hd2lMZUZxZEhyQm1zTTVTelNUMVIxbExITWR1VExFbU1rSzNvZzdPU3pFSHV3VjlrRFJVU3dTYW15X2FDMmZ3?oc=5",
    "published": "2026-11-22T15:22",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "1914e851b3a8",
+   "title": "【三菱UFJ銀行・三菱UFJニコス】ICキャッシュカードや三菱UFJデビット・カードのデザインを一新！2026年12月14日より順次発行",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByM3JDRmF4QnRIMGR2VUFnbDFYTzlMU0hSYnJVNHVieFY0MC1UMVNPdXhpU19Ecks5b0IteWdCUG1HSUxTSWR0V2RlSy1OeHNB?oc=5",
+   "published": "2026-11-22T14:45",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -295,6 +349,15 @@
    "source": "ビジネスジャーナル",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqSU9Wa1RIZDM3UWZFVGtfM21DSXBqbXFmYXJfLUNwajljcXd0bUtpUGhmejV3QzJMWkpTM1NDNXZSMGpTMDhESFVhUkMxbnh2bER4TklpSTZJRDg?oc=5",
    "published": "2026-11-21T06:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "cdd898d8c4ac",
+   "title": "11月20日のMitsubishi UFJ Financial Group Inc (MUFG) 値動きは3.82%下落：主な推進要因が明らかにされました",
+   "source": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUEzTkxpZUVEX1JGbkpNNUltU1lrWHh0OHZjZXZQcC1mc3A5dFFjZGMySURmWWs5R3BtM3BjZ1lZMHJhbWV3eHFJelBQbnRBR2RLVDBWUDNFc0hwQlYzUjdCRU9ET2xRU0drMVI2SjVCVm5UdXpyUDNmMzJ2eVVSd2I3S05kVHVZenBnNTJaRQ?oc=5",
+   "published": "2026-11-21T04:17",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -663,6 +726,15 @@
    "title": "ドル円159円台で膠着、材料待ち局面【今日の市場はどう動いた？】",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHUS1MQ09CV255ZGZ2UTV0ZFdIQlhuN2pwUEhVUzlLODNxaUdLcXV2V0FTbHZ3ZW1pV1o4ckhURTdsd1lWamEyMEF5WTQtVUJnQi1ZbmlzU3plTlhTMFNFbDBNcUE?oc=5",
+   "published": "2026-11-19T12:08",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "d977d05fd222",
+   "title": "米住宅は着工強めも許可弱く、景気見通し分岐【今日の市場はどう動いた？】",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PZU0yVC1SZEJkaVRkdExDbjZ3R0VwNUZ6X2JGQUxlR2xiMlN2QmdBNFI2SWljaVdTN0RNVGd0SHlaMmlnMk1iY1ZqM1VOUGU1Q2ZEZnFJcnpxSTVKTmF4UUsydlE?oc=5",
    "published": "2026-11-19T12:08",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
@@ -1500,6 +1572,15 @@
    "title": "三菱UFJフィナンシャルグループとAI開発の松尾研究所が提携 AI活用で新たな金融サービス目指す (2026年11月17日掲載)",
    "source": "ライブドアニュース",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xdnhxbjZKbGRVQTE0OGJyZEdsc3FoQTFsS1VhcnR0cFVLc25OSGlsMWxYcTR0ck92a1NNYVZpSC1CYW8tcTNWb1RHTUtsQTgyOWdVV1U4amF4bWlxMVE?oc=5",
+   "published": "2026-11-17T21:31",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "48b55c5418c7",
+   "title": "三菱UFJフィナンシャルグループとAI開発の松尾研究所が提携　AI活用で新たな金融サービス目指す",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FZjlRUE43NGFTUzdFOWl4bFFobnJnWTduYVNMMWtGTXJUcFRNMVMwaEVnUjVZSnJGaXNxUl92SWxtajlxV2ZJSHZTRUlwUEpBZ0pLNmZOUlpnWG1zN0YyMFNCN2pKc056NFJsWWtJQlB3QdIBd0FVX3lxTE5wemZvTWtFck4tbDdBekVsZkQzMXF0WlRpQ2VRaU50S2RmXzNBM3c3T1V0Z2NwZ3VqbkZyOEo5bkwtZUQzWDd4a3N3cWVnbTYzZi1BTzk1LWp4R3F1RWFKMmxFSTlqOENuWE5oVkxHVDVMeERJYUZ3?oc=5",
    "published": "2026-11-17T21:31",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
@@ -3102,6 +3183,15 @@
    "title": "【欧州市況】英独債利回りが週間で大幅上昇、株は再び高値更新",
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15LTYwRlQtaFJGX2w5bWtLMnlMNVM1U051VFJmUzhaTHQtdzloenA1TnpJTUhtRkwwM2JLM1dYTFRzSzBTLVN0enZKZmk0aTI5SnAwdFBub191RXk5enozY3FVeWpFM0FZU2dDUnU3VFlBeTdxVHFB?oc=5",
+   "published": "2026-11-13T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "e0b08258506f",
+   "title": "【日銀金融政策決定会合】「政策の局面変化」とタカ派姿勢示すも、市場は円安の反応",
+   "source": "マネクリ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xWjVya2pka0M0X3ZqSlFFNGhOVzJDYlIwSzYxTEo4N2R1LUpZdl96d0pxa0ROQUZ3a3UyTmlTX3ROVGlpUXJCTFVhalBKU1VNVkJRcdIBV0FVX3lxTE1CS0dJcm5LY1p6ZVFmOWVFTThRUjZkdUtrLVdUYm43WjhJcHEwWndoLTUyNXpjRF9zTnB6WVh4VmNyN3F1YWZ0VV80ZHA0cDdxb3Q5bWx6bw?oc=5",
    "published": "2026-11-13T17:00",
    "kind": "sector",
    "q": "銀行業 市況"

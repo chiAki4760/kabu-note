@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:52",
+ "updated": "2026-11-25T05:54",
  "items": [
   {
    "id": "7729e137a4b3",
@@ -449,6 +449,15 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tS0hXQ1JHSTFacl93LVN2QlgzR2JzQkl3V1BycDRqbm50RENMZWs5aUtOWEpZQVJYeGVTanBxdmdlTG5hS0NfSXg3RGJyNWduZjNRczEzQXhMdw?oc=5",
    "published": "2026-11-19T17:00",
    "kind": "company",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "dbcaf9ee93f2",
+   "title": "柏レイソルファン必見！日立時代からの伝統を受け継ぐユニフォーム",
+   "source": "SPAIA",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wcDltd3JGbmJLLUE1dUktdVIxblh0dmJZLXA3My1TMUU5YlktcHRQMFhaWXhjeTRTNFZ3RXJIZEJHRmRMTjljWHNzNWFSN1pMdlNaWkdn?oc=5",
+   "published": "2026-11-19T17:00",
+   "kind": "sector",
    "q": "\"日立製作所\""
   },
   {
@@ -1518,6 +1527,15 @@
    "title": "市民と創る新たなビジネスのかたち ――エコシステムでめざす社会課題解決 【前編】市民とともに価値創造の営みを続ける",
    "source": "Hitachi Global",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc25NTnpuTFFITVBXZXRLU1pJRUtiSmlIYnRCUnAzUjJ4ZGtCVEV6ZkxnM2JrWXpRbkw3UkVQTm95eHZmckxFakgxcjRlaGo5R0p6Ml9JazU5VmFCeUFBRkQ4VGFLM3NkM3BCNmk4WTBLTmQtMW1vU0Y1cy1ucTExdFVjX0VRTzBnNEE?oc=5",
+   "published": "2026-11-13T10:13",
+   "kind": "sector",
+   "q": "\"日立製作所\""
+  },
+  {
+   "id": "ddf8356a65fb",
+   "title": "市民と創る新たなビジネスのかたち ――エコシステムでめざす社会課題解決 【後編】未来はいつも、みんなの想いから始まる",
+   "source": "Hitachi Global",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTEZwcnhXSlZKWDlOQ2tQT2ZYYkJnVXJQZnFOM3RrLU1GS3h1VzVaY245NnUwZFVRS1hOdW9TNm8xRmRscmNnZEhkRGtPYk1RemhmVmw4NUVFZTluYVYzWXYwamJPQVRrZkFjZTdzdURhc2ctVm81STN0SVhPeVBiRlI4Z29RV0pDbEE?oc=5",
    "published": "2026-11-13T10:13",
    "kind": "sector",
    "q": "\"日立製作所\""

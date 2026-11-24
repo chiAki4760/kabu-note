@@ -1,11 +1,20 @@
 {
- "updated": "2026-11-25T03:52",
+ "updated": "2026-11-25T05:54",
  "items": [
   {
    "id": "382648b1ffea",
    "title": "【高配当株】日本郵船・ソフトバンク・積水ハウスの3社、100株で受け取る年間の配当はいくらか（LIMO）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUXNMV21LdnBpRndPa0RiX0RBUlJkQ1RKWjA4Z3ZNRVNNN2ZnVEowUUctUEhhMkcxd1NMQlNsblVWem5LRXZaZmhpd1lkZFV5MlJJV1VqcnhLWnZtR1UxUlkyRU9uYVBsOVNOR0VoeFlyOXlvbHloVWFOdzUtSlE?oc=5",
+   "published": "2026-11-24T20:20",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "07f6358df61b",
+   "title": "【高配当株】日本郵船・ソフトバンク・積水ハウスの3社、100株で受け取る年間の配当はいくらか (LIMO)",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFg3LUYzUUlaZWNNWGZpNldLTUxPaFVrS0xHclhXTEpEZzQwTm9QeEs2d2VWLThRY3Vvb1phQzhWanRwbVdrYWlhSzBBQlRmb3BiTnMwblVxeGVPTTdiZm1HNW9MNGhGMzZQcFkwMUdVdFpDemFuNHJGSGhsNDJJeHk0cXM5d3NBWFpYRFpR?oc=5",
    "published": "2026-11-24T20:20",
    "kind": "company",
    "q": "\"日本郵船\""
@@ -124,6 +133,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sNXJPZC11YVI0RGFpQ1R6NmllUUUyM1JwZEpjT2prMEgwejUwWVZROS1BdlViR29JLXRma1pzYV9yRVlvNHJrMVB0d3BxYmdBc1E?oc=5",
    "published": "2026-11-20T17:00",
+   "kind": "sector",
+   "q": "海運 運賃 市況"
+  },
+  {
+   "id": "68fece152ea1",
+   "title": "(株)商船三井【9104】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVzNadzFSTDk4c1F3VkdNRl9VcEM4TUh1aFJ1VjFvUDZubUVXSm1rcE4zOXl3Ml9GQ2oxVi1yVDJaTll1Z2Z2ejB2T1hwQTF1REE?oc=5",
+   "published": "2026-11-20T15:55",
    "kind": "sector",
    "q": "海運 運賃 市況"
   },
@@ -344,6 +362,15 @@
    "q": "\"日本郵船\""
   },
   {
+   "id": "603a49a63eb4",
+   "title": "日本初のアンモニア輸送船 郵船、CO2なし次世代燃料",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ScUIzSDIzeEotaHFNQndEUXNxQ2o5d21NSjRPX0s0QVJUZmZ4MXpzRUloYUM1ejJuSHRmVHdyb3cxeHJVTWdYd3RNYw?oc=5",
+   "published": "2026-11-17T18:35",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
    "id": "28fdeaff0788",
    "title": "世界初のアンモニア燃料大型輸送船「いざなみ」が熊本・長洲町でお披露目 日本郵船など5社が共同開発（RKK熊本放送）",
    "source": "Yahoo!ニュース",
@@ -375,6 +402,15 @@
    "title": "世界初のアンモニア燃料大型輸送船「いざなみ」が熊本・長洲町でお披露目 日本郵船など5社が共同開発",
    "source": "ｄメニューニュース",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5idGx5SFpFSkJqSFdCV0hOamRYZ2VMQ1gwOVJaYVVRaURsNWNNRUdQbDJiTHhHUVBoWDlLVW1iSE16NG9XMlJUSnJXMVR3Wkt1WVFMWGhQLU1GZFlaRGI5cUVra3VYX2VtWVp6YUdTTdIBdEFVX3lxTE8xWTMtVFZiajR0eUEySUJjTG0zVXFYaUF3Vmx1YnZGRlZneDQ3WmVYdGdjQWltQXdQYTlmMlJIWHZqUWJxSHlWY2xZd0pPMVdkSXZZa2tXekdvalJxZXVWSmoyVHloUEF4YlZTc29XMTJWRUps?oc=5",
+   "published": "2026-11-17T18:31",
+   "kind": "company",
+   "q": "\"日本郵船\""
+  },
+  {
+   "id": "458faac20333",
+   "title": "世界初のアンモニア燃料大型輸送船「いざなみ」が熊本・長洲町でお披露目 日本郵船など5社が共同開発",
+   "source": "ライブドアニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tWGkySzBYTVEybVYtTWZGVkt5RW1CNVlDdGlTc3RGUExwRjRLdGQzenp5VldyeFd5dzBmT1dwNzU4Q2I2aER2VkRRbzU1V3VXRkpzZTU5ZElOOVhsNVRv?oc=5",
    "published": "2026-11-17T18:31",
    "kind": "company",
    "q": "\"日本郵船\""

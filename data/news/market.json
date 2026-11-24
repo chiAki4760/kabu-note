@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:52",
+ "updated": "2026-11-25T05:54",
  "items": [
   {
    "id": "6b8a22984527",
@@ -7,6 +7,24 @@
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZS1jRnhYNmdZb081MXp0a093cU13bWZLcWRLM252emJvZVJ5RkI1Q0t6R2JHaEg2VUhMa3F3bGgwSzVoQ2R2MkRMbFlKRTN4cHNXNmRLZ1dmOVBnOHJETg?oc=5",
    "published": "2026-11-24T17:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7cd2de717980",
+   "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、アドバンテストや東エレクが2銘柄で約973円分押し上げ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEY4WTZWOVdsUC1jUUt4akhpOWdkcWhvYk1rMlRwc3lDTFVRb1dWdnFpS01TME9ZbjA2RUxjX1dXaTNub0xRQ3gxR3dBZmxtRTZxbEJreEZ3S3dNSHNPVzVVeGxROUV4ZXdFT000YVhQRnNQRTRYa0UzQUlUSmxpcnZGWEFsU1k?oc=5",
+   "published": "2026-11-24T16:49",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "e3aa702ce2dc",
+   "title": "TOB価格「1株1,030円」へサヤ寄せでストップ高…非公開化へ向け急騰した〈プライム値上がり1位銘柄〉の正体【11月24日の国内株式市場概況】（THE GOLD ONLINE（ゴールドオンライン））",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNms5NE5kWHZwSWx6RE5wX3FpbUVDUWpURGN3WDNMX214aDRjYXhpVUY0RUNraDhMRThseExkUXJtLVRENDFOVS0tZ25USi04QnVGaHNWQ3JTaHFscmkybjZlZGxsbGhLaXlKX1gyVUtnMVY0cDM4VE0zd21JRFE?oc=5",
+   "published": "2026-11-24T16:42",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -29,11 +47,65 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "ae7b8e34a37f",
+   "title": "日経平均は大幅反発、エヌビディアＣＥＯ復帰受けた米株高が支え（ロイター）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eklIUFJrQlhZak5mSzNkLU9HSjRBcmtoZmg1M3BNWGhtZ2VrdlBITVRDWUxRT0E1emRZMlZjdHQwLWs0VTBfWXIzVmdGSDJFeVJMWlh0WVUycHVhN2RZNVRaNk1QRkhiRDhKOUJrNm5wR215VmYzdmRESjBPMmc?oc=5",
+   "published": "2026-11-24T15:54",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f68fe06b1f67",
+   "title": "東証反発、終値は２２０７円高 フアン氏復帰で買い膨らむ",
+   "source": "東京新聞",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZVnZXRmdnbEtEMGFoeTVJNlI4Ti1Nd1NkdGNNX2M1TmFiWmZJamF5Y0V5QnV6Zl8zMHFrUDJ2RDlCcnY3UlhEMkRRcDROQmE4ZWNr?oc=5",
+   "published": "2026-11-24T15:51",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "701edeb20888",
    "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
    "published": "2026-11-24T15:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "0d0d45132949",
+   "title": "日経平均が２営業日ぶり上昇、終値は２２０７円高の５万８６４４円…プライム銘柄の６割値上がり",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aVHp2cHFSVlZMWjRsd2pLRkJpR3J4d09zVUlXM1BpQmtwdWNjNFFlZU9sS2RKVnBXeWJvTlJPZkM1MU8yYUl2RWdLenI3bTJ5MFFaNE9DcjVQVXp2RkhHRUFpdmQ?oc=5",
+   "published": "2026-11-24T15:43",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "91193c46073e",
+   "title": "日経平均、2207円98銭高の5万8644円63銭で終了＝東京株式(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEZxSmRWN2JfOExCQjRBWHFZbUZ1Yk40SkxUUWIxMURiZ2o0aWNYdVBGWVZIMXZkOXVxTUw1QmZFc2plR21SVTlSQVJHTUJNN0NnTmN4cnFlTEY3ZUNoQ1dVV1dnYnl6QTV0M0VaSGN5cTNNUkZtczlyQTVIdDQ1WXZQc2FHUUE?oc=5",
+   "published": "2026-11-24T15:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1b1ad53b4441",
+   "title": "〔東京株式〕高値でこう着＝AI関連が高い（24日後場中盤）（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDb0NrRVFkVURQUllQd3E3VVlnMFh0VWg4RERxTzVLTDRyQVVHSGROby1oZVVJQVpPQjNEYkdpWFA4OW5mSjVQRXdkRTRhOHpXMEczSHVYaTMwZzlTNFVtcjlad2pDY094UUNvVkRFcHU4QzRidC1Ea18tdUdXTDA?oc=5",
+   "published": "2026-11-24T14:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "59629b47476a",
+   "title": "日経平均、「高市ライン」で踏みとどまるか 次は米景気後退トレード警戒",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ucVJUSlg2Z2w2SW5jeFY1a0hLTVpoVEFqZ1Z2c2lFVm1WcTQtV2xVS3U5Sm90V0lscDlOZ3hSUlN3UFJoSmZISGdvRlNSaHd4ZnhIcGdQbC1qM1FkWHA0MjdYcjN0Yy0zQkRXYQ?oc=5",
+   "published": "2026-11-24T14:17",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -56,6 +128,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "508f3d984148",
+   "title": "日経平均、2150円86銭高の5万8587円51銭で始まる＝東京株式後場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wcjB0VkVFM0tLa0gya0tnVW54R2UxdS1RaDdZSmY5ZGY3eldNYUNCcGItX1pCY2FBMGRSUHZEczZ2N0tHdnZabGRtZWFYU1c4MFE3OWJST2hSRm91VjFfT0tOaE52MkhMX3B1UEpDVE1jaDNNeEk0ZzZBN0ktc2s?oc=5",
+   "published": "2026-11-24T13:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "b3dd362c83fa",
    "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移",
    "source": "株探",
@@ -65,11 +146,38 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "7623ba684726",
+   "title": "【日経平均株価考察】エヌビディアのファン氏復帰でAI・半導体関連が買われる展開か（LIMO）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54X2xsT1BSd0M4NGR5b0NkMXJKQlozWHlRdzVXWnloanhPT3VVaE9WTF9MbmpoY1VvWHhlMVU3UUNkTTE5V3NrMGlRNFlpRG1peWxLZ2QtbVZlU3hUelJVWWJEbWN6RmdQN2NrTlFoVmFPN1RFU0czVzhCeHN3UFk?oc=5",
+   "published": "2026-11-24T12:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3f7acdaaee9b",
+   "title": "日経平均株価 一時2800円超の大幅値上がり エヌビディア・フアンCEOの復帰受け 「復帰の選択肢は頭になかった」市場関係者から驚きの声（TBS NEWS DIG Powered by JNN）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83d2lWM0J0Y3RoNnRubTV6QUlwVGxwT2h1SXZHTUJlenViUDJYZjR0ZDlnamNTVHRralhXV0RBaTNpUC1JVmZsOXRQaW9uQWpMUWZlTGVibnFVRlp6WnZzX0JhZXVaVHRkZV90S1NNZGJGMTYzTnVhNFFOTm5IdG8?oc=5",
+   "published": "2026-11-24T12:21",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "acc265efea19",
    "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
    "published": "2026-11-24T12:05",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "84b5a1912c50",
+   "title": "〔東京株式〕急反発＝米AI株高引き継ぐ（24日前場）☆差替（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNUkUxTHVTd0xRNE80cUtBNEx3UUg2LVJCR2Z4bDVoX01MSkh4YU45TUZpXzlrU1lIemtXWUVWclZ2S2d1NFFtU0pJeEt3ekdBSFFMbW9PYmYwS2J5dkpjMnhndmlMTVowYUtsOVh3SDl4X2Y2NmtCZjZfaTctYWc?oc=5",
+   "published": "2026-11-24T12:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -92,6 +200,15 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "511f47d0ccce",
+   "title": "米エヌビディアのフアン氏復帰を好感、ＮＹ・東京市場で株上昇…日経平均の午前の終値は２２３９円高の５万８６７５円",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KRkhNTDRtZE8zZENvVmdkdjduNTJzMXVsMVpPQl9DSmRCT29IUWtVTnRZbzJVRlpDdnNZZnFuSGFKOEZoOS1ieTJfdF9pcjI0ZDg2OVdEdGJWWHpwYTN6T1MtN00?oc=5",
+   "published": "2026-11-24T11:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "4411a173bab0",
    "title": "東京株、一時２８００円超上昇 米ハイテク高引き継ぐ",
    "source": "時事ドットコム",
@@ -110,11 +227,65 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "4b3b88267a37",
+   "title": "日経平均、一時5万9000円台回復 AI・半導体株に買い戻し",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nQ3hlZGNRTXZRcVQtWjU4Z1lLSXlDcWtycjNNMUxkUWFyb2lCUk1BOTFxYjluUW5jUXc3YUx1UmVzZE5waV9ua1gwdTh5TnYzaXVCRjVjY2NMckVSV183Tzl1dVB2QTQwRVhMMkhEdS1haVBm?oc=5",
+   "published": "2026-11-24T11:32",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "956faf759358",
+   "title": "日経平均、2239円14銭高の5万8675円79銭で終了＝東京株式前場(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFFGejlLUHFuWG03YUJ5TzI3SmlmUlI4TlBSa2VPaERwU1ZMR01wUTEySDJILVJ2NE9IUjJHZ1ZIZGdqSE5aVXJWYkF3SWI1MFJEYzNXUmQwanFCaEwteW1VenBKOTUwU3JrcXkyanU3RzRZd2IwM2pfNjA4YXZLVUQwSGVWYmc?oc=5",
+   "published": "2026-11-24T11:31",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "98aefca923b0",
    "title": "日経平均、2600円超高＝東京株式（時事通信）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZWxwMFhWZzZweW0weUZMbEtDcWx4cG5YMkgzd1hFcWludHhweC1fa1QwTHJoTUQwMW1GeVpkTkxHWE1sRUI2SG55cVJLU0tfMmgzM1A4X3ZZSXlsa3J5bW1BS0EwWGdYQ1k5RkhBSkVwSnhZQk9sMkg3Q3JIV3c?oc=5",
    "published": "2026-11-24T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "199d720f423f",
+   "title": "日経平均、2800円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80VHM0S3NmYkhhZkx6d2ZJOFpseGFyOFJ2YWlWY1RsZXQ4YXhPZ3dLUUhZQjFCckFsdzA0b1dudDF3VUlHektWUk9QTzk0UmxuUS1CWWEtYlZHOFBYX0haU0UtQ2pCT1MyZERwaTdSMm8tVFJ0R3Z3Yld0emdYN2M?oc=5",
+   "published": "2026-11-24T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8deea71bb4d3",
+   "title": "日経平均、2700円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zNm40MUhMT21aUktEMHJrVGtTVFZhMUV6QUU0aTdRV0Zmc3ZoeWxtN28ySXhPS2dtY0JsX3BEVExCb0hjdnBMd1JmTnVxV2c5SVhDX3JjSmc3WUNzTFlKYUE5M2xaMnYwdGVhNzAyTFZtd1E2dU42Mm53QlpiTGs?oc=5",
+   "published": "2026-11-24T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "6f583d9e9852",
+   "title": "日経平均、5万9000円台に上昇＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tN01rQzBWZjlPaG5FZ25JMVNRZnBxRnVleVBWMjhVOTBsdzZNd2dkX0t5UTdFSWxBbUpJaTNNZUpQWEY0aHkzUVFobHdKY3Z0RGp0NVJTSUpQVzJ2dFJBLVplNFB4VWI1MjFsN0Q4d214T1B6XzdrMllkMEtJczg?oc=5",
+   "published": "2026-11-24T10:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "899e3826654a",
+   "title": "東京株、一時２８００円超上昇（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zWFd3T2R3WXRjQnVuMlRkRDA3c0xaSkozcFQyLXBPcUZ3MXY1eFZCQVNCQzhBbXpabjVYNlZRalRpZG85WnlRM3AxMkdubHNicGxadVN4NFZXZFd5c3AzU0hrTXo4ejRreEd5N1hMcjhldUUxTjAwZlQ4Y3dtZEE?oc=5",
+   "published": "2026-11-24T10:18",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -133,6 +304,69 @@
    "source": "朝日新聞",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uX2pxYThQeW1jT1NJRXlxNmluNXVYOUZGc0sxZDRqbV9TZlNpb1VYWVpOREpIY2FkRmw0cExLc3VJMUpQTERGRFFTY1FwZWZ4VVhwaVpTV2x4S1hodUluSS1GYXFLSVk?oc=5",
    "published": "2026-11-24T10:07",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3e604926eb45",
+   "title": "東証、一時2600円超高、5万9千円回復（共同通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kOVdfSTBNb1lXcXFDVy1XWjBad3dKdnpFMHZsaFg2UlExOHpPdXVZRE1YRUxQMkhlTENfbEE4Qk9KSURraVZwdU5Lc2lQbEpzdHZOMW9JSkV0NlJqbXA5cmNHSW1yZnpJbGFhV0JmaDhiYlpGanE0cEczZlFBTDA?oc=5",
+   "published": "2026-11-24T10:04",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "77b4d2b211b0",
+   "title": "日経平均、2400円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yTE1QdEg5U2RsY2dZSU5hSDRYbm1GS2Z5RVpLdVdiLXNhSlIycWxsb3RyVWc2N2FrTzJ4a19NSzhLcUNNSjk2OUg2bGxvVkgwR2NZXzl0MktnUE45WGptWV9mNlBveE5Wb1lhSWlfX0Q4VzRnTFNWLW9sV2R5bGs?oc=5",
+   "published": "2026-11-24T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "1e96a0de273d",
+   "title": "日経平均、2300円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tazBLOS03c0lsYWlIVXBXbmJhQ1pjaFd6Sm1IdTFjMnU5djFXQ3V4enVHRjU5VUNKUGVfeHFsbldXMUJYSjJlNjNyN1RSSkU2dWFra1ZsTENuTHlzZkplSUpxeXR2M1JIalZoS0Utc2tLcWc5dENTN2NDeU1DT1k?oc=5",
+   "published": "2026-11-24T10:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "dd92215744b3",
+   "title": "日経平均株価 一時2200円超の大幅値上がり 5万8000円台回復 エヌビディア・フアンCEOの復帰を受け",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkZ1ktTmprM2NiNGs2aG5WalBuZlU5NGFMWE9WZ0NLZk1Da005NXJLNjlLMG9mVGVjN0VObXJoX2JlRlllZmFJZ2hxUnNpbklXZEhjMmdZN3hiLXpRV1A4eWJBT3F1Qm5qSHpObkJYaGFJNkhE?oc=5",
+   "published": "2026-11-24T09:57",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "085a9b301dac",
+   "title": "日経平均、一時2000円高 エヌビディアCEO復帰で半導体株に買い殺到",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lMDdyYUhlRkluWjgzUWJ2MUx5WmZtLU9BZXdtd2IxczRmQWFQSzVsSnZkYjdwWFFEUWZkTGJpMFlVS0RfZm5jaGFYdGtxMlVNREZRS0xmdFpFZEJ5dERGYldHaVhoMlJieW9hZVpjQnQzcGZJ?oc=5",
+   "published": "2026-11-24T09:55",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4414415534fe",
+   "title": "日経平均は573円高でスタート、村田製や東エレクなどが上昇／寄り付き概況",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVNWw3TTd1TFZZVWhlcXVmaDJtWFFvVElIbVFwR2pVMmR6a3F2VWptaEREbzFoaFk3RG1BVzlhdjJaYVYxUy05SU9ubUdXNmZQWlE?oc=5",
+   "published": "2026-11-24T09:47",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "30ed6f6d61cc",
+   "title": "日経平均、一時上げ幅2000円超 5万8000円台を回復（毎日新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUG1hbGhQakhKRmRZVG5MeGxaUUFKT2tZY2NjNGxUa1JTdTVwWUduYy1HY2I2QXJjcTJyS0w3VmpvazJock9rMk9kRWRXTUJiTjgxSXZiU3p3el9fTURXMmNoNFU5WkZWQWFzMEZjVU9tSDNzSUdwNVhsSXJQd1E?oc=5",
+   "published": "2026-11-24T09:36",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
@@ -173,6 +407,87 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "049b65ffdc64",
+   "title": "日経平均、1600円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSjlfWWZ5MDlDNFl2ZllDQWhNaGJWTy1TbmNXNTNEMGROVjk2dEZpSTNHeHY5cTFXQWxvcnItU09SWHVoOFZERVBYQktrUXluOEZoVm1HYld4RkJqQzBSeUs3STFJaTlhMHhYYlczdXZvM2VPd1hIeW13ekNWbHc?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8f281e137ffd",
+   "title": "日経平均、2100円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43SktidWpXME1HMmlaVG00bGQxdHJsMlhnVDR3XzlqRDU1bkt6M1BRWm02eFhiNjk5Y1REOW9ZNmRfUUxNWGswQ2JUalY3LXJCS0ZqVzU0cTA0NlhnMGlsNVZnYThFcFgzcEFQb1YwSkFRTHJNa0NVRm5Hc0FnaUU?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "c390d1a48a8d",
+   "title": "日経平均、5万8000円台に上昇＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yT3JhVV9OYzhKX3V0Sy1ja0lybk9NU0F4MHlUcGxRVHRldDhfU1gzTUZkYXBGaXl0THBneXdFUUJkcDAwa296YjItOGdKQ0FycjR3cnVfUDNKLU5zMjZiLWhNdzJaYkNQRHFaLVhKdjl2aGZ1NzhZbS0ycjJPaGM?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "ed49df4de09c",
+   "title": "日経平均、573円34銭高の5万7009円99銭で始まる＝東京株式前場（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10LWVZX0hyQUZHYnlqaHptQXdzcHU4NzJBN21VdnFiN2JHWDl6bTN0VTNlRU1GY2c4VW1qVU5ZejR5QmhHZU9jZ2NFSjRyZmFTQUMtd1JKZWZMSXJrcGJXdTlQdGJUN1NlN3BLZERCZUlhMHU2N3ZzVHZKeWdScHM?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "dca1d15f420e",
+   "title": "日経平均、1700円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80dHMzdWZianFDUHlRQm9hTGc5OTkxUGVHQTBjdVJublBvZHlZRlVmVmtQa0pRM28wWnBpUmMtZHFNYWNtMTdXWWJlb2d2OUZ1RFUyTGtPeVg3SHpRNnpvMC1CUXBfcGppWl9rSjMzRlhoV25UWFloRll4WHJEalk?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "cc8aa9a62c3f",
+   "title": "日経平均、900円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZVhGWmxIeFVhZnExX0kxWnFsRmZBT1hmUl83Qk5MVkdwRlBRQmRyWVpXT1MwZ094eEtqdlVQa01aU0hVdG55NzE3Q2FJckl2Nk1jLUdJR09lLVhza3VYcG1ZVTlXWTVZR0VXcF9LSVdMN1ZxMHhaVVhEekpwLVE?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d318b09571d5",
+   "title": "日経平均、2200円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oS3ViYmxOR281S0xNNHB5MVF2OEoyOU8tUVVpNi0ybnhlNDRScjhwN3p6WWNxalNUNVNqT29HMjBrWWYxNjU1M2RnSDFldjFocW9yRmcwS0pXaG9LMEtqWkszeXhFSXlZN0dfcHFwaEUzWnY2eUl5eGxLR2NPZkk?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "40b617ff6613",
+   "title": "日経平均、1400円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeHhzUVFxTW9QY1otRFhsTmNXbkZWemNFRy0tTFpLYUdZblNaQU9ORkxaZTZRT05KcUdMZXR3TU9OdDdibE9QX2xHT05sZS13MC1ZWTNUTjhNWlh3cHdlLXBzVkxoYlpvTEVfQ1gyOGJ5c3FKVl9OR09iSjBCZEU?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "6f27c28468bd",
+   "title": "日経平均、2000円超高＝東京株式（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SSlJXb1RkTXpEVUVBWVV5RWd4UDhvazY5Yi1rcGdyTXJIQWtnVnlPNGhVN0NEdXRtS18tc3lhZHJrZHBnT1piVjYxelluNkFuTWp2a3pyeWlnUUJKWUk2Nld5ZmNlYlJGVWNFTVJBdUEtVVEyZDhBak9OOER2bUU?oc=5",
+   "published": "2026-11-24T09:30",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "0fc875fe8786",
    "title": "日経平均株価、一時2800円高 米国株急伸で5万9000円台回復",
    "source": "日本経済新聞",
@@ -200,11 +515,92 @@
    "q": "日経平均 東京株式市場"
   },
   {
+   "id": "09a589f954f3",
+   "title": "株価 2207円値上がり 一時2800円超も エヌビディア発表受け",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YS3V4Y3FpSzg1YllWZXBKTGZHa25ZS0Q3SHBUTmMtUXlyQ214Z3liSnBfbkRlc2I2VFRWcklwSGVwcjZTQmVucm5KZHdjaHh2OTBOUktUUGZna0gzTlEw?oc=5",
+   "published": "2026-11-24T09:24",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "8cc51b0ef14d",
+   "title": "【速報】日経平均が大幅反発 一時2000円超上げ フアン氏復帰でAI相場を巡る不安が後退 東京株式市場",
+   "source": "FNNプライムオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hVHN0bGhWY0VfaXBxbGYwYlQwTG1YdU1mcTJhcm9Od3I2TG5hVnJkT2JqdU14SkIyRHdzUmFuY2VPU3pjSXhfNy1BUVUwUQ?oc=5",
+   "published": "2026-11-24T09:23",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "f68b979c8b3b",
+   "title": "日経平均は反発で寄り付く、ＡＩ・半導体関連株先導で買い先行",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNk12eDNKOUJCWGNPVUp4SmRrbld5R093RmlnT3d0Y3E4VDkyMnFpdlVQZVJ3MUgwMndBbzhUbWZwOWlmWWMyZTRuRzYyZzRROXV2dVVYdW1NbVRNaWNFMmp3dVl0bmZ1cFhFcnR5Unc3U3dfMGJxRUgxOXEwLWJTQkdnYmFPUQ?oc=5",
+   "published": "2026-11-24T09:20",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "117c24ed3252",
+   "title": "東京株、一時2800円超上昇 米ハイテク高引き継ぐ（時事通信）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YRlE3Yml6dkZSWFkxZWNwMlVfT3R3eHV2NUFtc2E4dTk5VG9lU1UyZnlXSU1ldkhqOXhoWjdILWJpemZXSlctRUhrYmhmVUo0QWhYbmN5SzFaOHl1MEltYmZPYzdFeWRqRkswYl9JN3BBbUhtVGs1REREcUlmUUk?oc=5",
+   "published": "2026-11-24T09:12",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "7fa2a39288fc",
+   "title": "週明けの日経平均、一時１５００円超上昇…５万７９００円台で推移（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DSVZORnpNOWR5cDlZWXdZTGZiN095elV2RWp3MlJhSFd4WHRZZlB3SVZYZW1ySWhZVzVlTW4tbFhGQlBlV2FleWctejNmSm5xRkxKenNGVXB1dkxnaVZYOWZReGEwTW9DamlLRHNXUms2aGJyblUwWmw0N19kNlE?oc=5",
+   "published": "2026-11-24T09:10",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "4edb496d1bbb",
+   "title": "週明けの日経平均、一時２５００円超上昇し５万８９００円台で推移…米エヌビディア前ＣＥＯ復帰巡りハイテク株に買い",
+   "source": "読売新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52NVlLVjB5Z0lRcGlkbk5aRkxtOHdnaVZDanpUNVFZdUNDdy12c19uVDJRRmV4WWFpS0JUbDgtbk9qZ3NkZmNZQlB6YW1LTVZqSkY0UWxOVk12bk53ZmpsOXRpQmo?oc=5",
+   "published": "2026-11-24T09:10",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "facf531da18a",
+   "title": "東京株式（寄り付き）＝急反発、米株高に追随しＡＩ・半導体株への買い戻し顕著",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQmN2OWF0UkRuWUJnS2JpS2tkV1BVMFFERXJYREdXbmhON1hWLWp2bHlPYmdLSG1VZTNZQ1pUYUtDMnRlM1R1MHZ5eUtqTEhzcHlVZ0NLWjNPX3E1SENvQw?oc=5",
+   "published": "2026-11-24T09:04",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "31394fba5854",
+   "title": "東京株、AI関連主導で急反発 エヌビディアCEO復帰で心理改善、日経平均5万8000円台維持が焦点",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83aFZXNGZ4cmlPMTZ0WGRCQ2lFOVByMDl0VWtXYnZ4ODdfZkJLRngyaTM1VjI2NGlEd29FeFN1QlhXTnByNEVJME9LbGxBYXk5d1JjTTRPSmZXbjVXOEp5RmNnclRucXg4UF9KaWJtYTlVWGhD?oc=5",
+   "published": "2026-11-24T08:55",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
    "id": "a81890635ca2",
    "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場）",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
    "published": "2026-11-24T08:33",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "b21f612b4fca",
+   "title": "今日の株式見通し＝急反発、米株大幅高の流れ波及 ＡＩ株買戻しで地合い一変も",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmViV1ItSXVnQVo3TXlZcVNUMnI1SEs1YVFhRm83X3lGM2tvVFB0QW1uX3h2NlRiNWxKS0Z2UDFaQVBIck1uYVplOVdLeUFsQ2ZnS3doN0VMb2xMVjRlRDBoYjNBVGgwZG1NVk9JT2x5Q2xwUEhzWWVnT1hCZ3ZmcmlDbER0YWhrQ09GcElkaTk?oc=5",
+   "published": "2026-11-24T08:21",
    "kind": "market",
    "q": "日経平均 東京株式市場"
   },
