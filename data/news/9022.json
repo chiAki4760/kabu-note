@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-24T07:16",
+ "updated": "2026-11-25T03:52",
  "items": [
+  {
+   "id": "6bdcd939164d",
+   "title": "【市況】 日経平均は2286円高、米経済指標や企業決算に関心",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUGRyZnFVRUpVVTl0YlR2Mi1qd29qQlpnY3RORnpyQjZNVWZVekhjRlJMUEhFeEhyOVpJbUx2ZHlnTGMzeXFGMUxsZWFGbXJ5eDMyNzZaQ0MteDVKV3VGTA?oc=5",
+   "published": "2026-11-24T14:51",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
   {
    "id": "8ea9f066c62e",
    "title": "【JR東海×LIXIL】ＪＲ東海グループとLIXILとの連携による 『東海道新幹線再生アルミ』を活用した資源循環の仕組みの構築",
@@ -128,6 +137,15 @@
    "q": "\"東海旅客鉄道\""
   },
   {
+   "id": "d291c4aed9a7",
+   "title": "東証業種別ランキング：海運業が下落率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnFtbWVUR2lJX0YzYWZER3owaDFJQUMwS3lNMTYyb0tCdVhMS3E4dmFrNDZLR1hldVY0akwxV0xTS0JuT000TlJYRm1odkVsQmloNXZNNmxycHZadDR3LXVxcEdXOW9kUG9DSVA2dVlmbGl5N2pvZDhGM1RPZFpJN21JNUlCcFk?oc=5",
+   "published": "2026-11-19T15:52",
+   "kind": "sector",
+   "q": "陸運業 市況"
+  },
+  {
    "id": "600d7bd0df43",
    "title": "本日の【業種】騰落ランキング ＝ 後場寄付 【上昇トップ】サービス業 【下落トップ】非鉄金属 [12:33](株探ニュース)",
    "source": "Yahoo!ファイナンス",
@@ -150,6 +168,15 @@
    "title": "【東海旅客鉄道】373系が特別列車に！！JR東海エリアの魅力を楽しめる特別列車が2029年春にデビュー",
    "source": "千葉テレビ放送株式会社",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRzMwQkdPOXpTWS1RZVlEMTZ1QjJvUVhsc3VXSjRZYWpqRHlSczVxMS1CVnhlQTBUMTVfamdscXM4ZFlGQkViSm1fY21WclBVTlRUMGppOVV1TkNRV1VB?oc=5",
+   "published": "2026-11-18T20:27",
+   "kind": "company",
+   "q": "\"東海旅客鉄道\""
+  },
+  {
+   "id": "30119e6adfe5",
+   "title": "【東海旅客鉄道】373系が特別列車に！！JR東海エリアの魅力を楽しめる特別列車が2029年春にデビュー",
+   "source": "千葉テレビ放送株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVVml2OFlyNlJsaVZ6a1FTbzdlemFkeTRteERIOFc3a1V1NmtmLVVqMXc4OXJaMG10TXpkUTNqVUotUHRxaWRaSk12bVBHNF81WlFOT3ZVcGs4QU10T2R5eGtqZ28?oc=5",
    "published": "2026-11-18T20:27",
    "kind": "company",
    "q": "\"東海旅客鉄道\""

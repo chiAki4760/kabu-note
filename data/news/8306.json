@@ -1,12 +1,129 @@
 {
- "updated": "2026-11-24T07:16",
+ "updated": "2026-11-25T03:52",
  "items": [
+  {
+   "id": "9f432c0ace03",
+   "title": "【マーケット情報】商品市況・為替・株式（2026年11月24日時点）",
+   "source": "NNAアジア",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4yVUc4Q1BvYXpaM1ZnbVJjYk9HX1ZMdjRWeGd5aVczeFRxU3paREdWQ2tIaUc2eUV6UDNqU0NhYlZZVjV4ZGc?oc=5",
+   "published": "2026-11-25T00:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "d7e494454201",
+   "title": "台湾株式市場、1～10月の違約交割が34億台湾ドル超に急増 前年通年比3倍",
+   "source": "BigGo ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00ZEtuY0I0SFBFNXBVSFEtenV4OXdtemxFb0JEVjdMOUx2MFpNYmczUTFhRFU1QjQ1YWQyTFFaMEp3SGNhdmRMQmV3ZmxxNG8xeVNlZkpNU1JxNk8yaEhIYXRCbWNseW1iV2J6MFo1T09GdElH?oc=5",
+   "published": "2026-11-24T19:55",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "b3383edf7217",
+   "title": "消費者金融ではない「貸金業」新設へ 金融庁、大企業向け融資に限定",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ea2U4MXNpTXFUZXFScUlTa1liOXp5TDRSakFnRndySHB1TmMxRU9oc2pNdWNqdVhyLW5FTnZ5bU1SR2dZMjhtb3F6X0lqWkpxSHRWa18zTnExZ1hka2p1X0VKb3lqcDJNa3BPaw?oc=5",
+   "published": "2026-11-24T18:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "568c58aaa54d",
+   "title": "AI市況の強含みが利上げ観測を後押し、ドル指数は高値圏で推移し調整リスクを潜める",
+   "source": "Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1F0ei1fM0pId21IWFVHMG1MTmsyMlpFOWVxaXVkUm9qNWNmQTB1bXV3NVNXZmpNWi1hSmw2Mk1MRlNNSjcwdTlRUGhRNUVGeDJENTd3eVIwLURJdFdpVEdjbjJMVVRZdEZQYTdkUlYtRG1XY3lxTjFmb0JSM1VSSFJxWmZFSVN5VDZ3eGdmdVk0UFQ5UGFneG5td2Y5NWNRQmdfcTJ0SUxTcmsx?oc=5",
+   "published": "2026-11-24T15:53",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "6e5152304dce",
+   "title": "本日の【業種】騰落ランキング ＝ 大引け 【上昇トップ】非鉄金属 【下落トップ】鉱業 [15:35](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0l6RW5IaGFzc1ktaHEzMGdtU1Y0VXhZdW8yZm9mS1I4ODJDS0RHbGZoZGpTLXVhUGZNTmdVUVdDR1ZPWGFKdnJpUGNnWUdTWVNET3BfdEE3Yy1TVUN2M1d2ODdSRnZuYzN0Vi0zQjJ0d3QwMXltMGs5Nmh1T1Rsa24zLXAzRzQ?oc=5",
+   "published": "2026-11-24T15:50",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "6bdcd939164d",
+   "title": "【市況】 日経平均は2286円高、米経済指標や企業決算に関心",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUGRyZnFVRUpVVTl0YlR2Mi1qd29qQlpnY3RORnpyQjZNVWZVekhjRlJMUEhFeEhyOVpJbUx2ZHlnTGMzeXFGMUxsZWFGbXJ5eDMyNzZaQ0MteDVKV3VGTA?oc=5",
+   "published": "2026-11-24T14:51",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "d7249cd500ad",
+   "title": "【日本株】来期のPEGレシオが今期以上に低下見込みで利益成長がバリュエーション妙味を与える大型株",
+   "source": "マネクリ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1ZXdXRTdLeW1pY3dja0ZfNC1aVl9hTVJ3WXBicHhBcEc4RW8zYTVkalI0RDhrMThSWDZxZ01RZ1B2VldIc1JCRUxtbGhpMGxKQ1FEUFg0c9IBV0FVX3lxTFB1ZXdXRTdLeW1pY3dja0ZfNC1aVl9hTVJ3WXBicHhBcEc4RW8zYTVkalI0RDhrMThSWDZxZ01RZ1B2VldIc1JCRUxtbGhpMGxKQ1FEUFg0cw?oc=5",
+   "published": "2026-11-24T13:30",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "09b9f354dd6a",
+   "title": "本日の【業種】騰落ランキング ＝ 後場寄付 【上昇トップ】非鉄金属 【下落トップ】鉱業 [12:33](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXl6XzlVa2V4ZHMtUDJ5THVpS1Z1WDVnR2hTam9JS3ZHdUd2U1hnZVA5a1habHJmNHBrekw2azZaTWtOU183MHphQjJtWGxBMk9TQ29qV2xhd1Z2Qlh3aDJxdmlQQzU4TGdUQVZJY25mMThOZVUyc3Z1cGxHZkd1ZFZSNE5VYTA?oc=5",
+   "published": "2026-11-24T12:48",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "7ce6210fca33",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】非鉄金属 【下落トップ】その他製品 [11:31](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjBqcDZYZm1uZW14aVBsTmZvMS1YWThfSUFueERNVlVuUURTNXhRSDFSRTduS0llaEk4Um40aXVENjAwZk04TXJ4WGdkUlA1dk1wdGJ5cXl0SjFiVVFkU1padno1S1BLSW01SC1RVXZ5YTRoOVlhdWN0VnoyZGdnMzF1M3VxU2M?oc=5",
+   "published": "2026-11-24T11:47",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "73a36ac74879",
+   "title": "韓国の相互金融、預金23兆ウォン流出　金利上げ鈍く",
+   "source": "Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2tGaGVHWHdtaEhMc2oxSGlzU0djTS1YRWFaWkt4cjBNMTBzX1BQZ3JudXM1XzNhd2tqWEJlVUc4cE5oVVFnQUJWT0RmanZBRTdIVUoxNFpxcHU1OVZnNUVUZUFCYzBOV2FwUVFRX3NqRENxdDRMRk5RVWlCeUdWaNIBlAFBVV95cUxPQ0V0X0l0endoUWI2TEgtbnhkLVM4MTJ4V05sMGNjcURxVE53U0k3U21RTG9FUzM4ekIyekwwY3BtanNFSm1ZWFdiRmppalRfVFdnUENMSjk5SFc4bGQ4VFFFY29PY21sWEVBLU1KN01fckM1cTdaclZGV2U2QmJIdzlvTXdQMHlJcGg4SFUxenNsQUpx?oc=5",
+   "published": "2026-11-24T10:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "7de1a2209a41",
+   "title": "本日の【業種】騰落ランキング ＝ 寄付 【上昇トップ】非鉄金属 【下落トップ】鉱業 [09:06](株探ニュース)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGRiWkd1UFVnMS1vNXZEOHp4RW5sSVVaa1VTbVJNX3hkX08xb1dZdXNFZ2puUHAxQkhhSjN6cnA0bkJWakJwRHYtTWFtOXl0d29oY0JpMXJMNFotdDYwMzJUbW56TnktOUZsNGEwcmtoM1U3QVlHWExEUDlxZTlFeWxnZGpKMTA?oc=5",
+   "published": "2026-11-24T09:21",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "e8e40079b774",
    "title": "最高益の三菱UFJが強い…「日銀利上げ」だけじゃない1.6兆円を生んだ“意外な稼ぎ頭”（ビジネス＋IT）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1RCcXZRTzg3dGxmc2pfRmxmUTRpZXd1bzVHRXg4aV94UDJSWS1kTVpsLWZSTklCZFNlM2VYWVZZVDVvTmV0eDhoY0xraEdFLXNzRVRCQWQwMVJPZkFHbkdOb19fR0psemotQ05Fblc0UnNSZWg3ck9oMFBvVWlTbGd5Wk4tVDBQYXhRVFhn?oc=5",
    "published": "2026-11-24T06:50",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "e11525631349",
+   "title": "最高益の三菱UFJが強い…「日銀利上げ」だけじゃない1.6兆円を生んだ“意外な稼ぎ頭”（ビジネス＋IT）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NY2ViM25SQnppQnNXUVRNRkdkbWR5SXNLeHpSVGNhMmIxMnhZS3lpa1pmWEJrb043eTEtZkJvZ3l0dXlaNzFhVTZLc1BIaG8td3NUaERSMjlXeUNMVGdLWE5FU3lVbzJXd2RmMERuaEloaEhsd2NURnNfNUQ1Njg?oc=5",
+   "published": "2026-11-24T06:40",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "717d83b58b56",
+   "title": "JR東日本・三菱UFJ・セブン銀行、独自調査で見えた攻めの大規模IT投資（2ページ目）",
+   "source": "日経クロステック",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yMGtpcUtEd1E2Sm56TXpwS2RYSHI0TVNYMTdvWlY0RnJGcHc2Nk9Td2ZxNzlfWEZtZUppOXBMZUVEOERXcDFCWkhtRG9XTnpSTFhDLV9QQThKYkpYQlh3M0FlelhjNzFhclpEZG41YUtvQQ?oc=5",
+   "published": "2026-11-24T05:00",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -242,6 +359,15 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEenBCRUIwZzZWSmg5dmp3aGRUVzBFWXNObFpPamxmSnhTZ3U2d2RxZE9HOUxGZlVaV0NBQWM0MmhJY2FpNUE4azQ0S0huZVlOUjRqbkVtNXd1X1JJNHk4OWN3MVVseUpvd1k3cWdMM2UyeFRXVHR0Y0NwemFPVTg?oc=5",
    "published": "2026-11-20T15:52",
    "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "c7f658986401",
+   "title": "(株)三菱ＵＦＪフィナンシャル・グループ【8306】：株価・株式情報",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzcVMtWHBmTlZUNzhwemhqeXdrWDJyVHB4SFBFOGIweVJsei1DcGtsbDg0X3pBV1lNbWx3MjRzYS1zTUtpYzJ3T2JuVEdUQVhjaXc?oc=5",
+   "published": "2026-11-20T15:52",
+   "kind": "company",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
@@ -1154,6 +1280,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "42215648282d",
+   "title": "三菱UFJが国産AI開発を支援、金融サービスに活用へ 相続で円滑な手続きも",
+   "source": "khb東日本放送",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02TDY3OS1BOEM5YjZIV1dxVVVYRnZIRTMzc3MzZGl3SldIVEdaaDNMMldSYzhPLVRDYkU2UmRqS2l6aUQ4VWVKU0dKdVRIYWc?oc=5",
+   "published": "2026-11-18T09:42",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "ee579bfe1e90",
    "title": "人的資本経営を「開示」で終わらせない――MUFG中村人事部長が語る、個の自律と経営戦略をつなぐ人事",
    "source": "グッドウェイ",
@@ -1685,6 +1820,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "2be32be6aee8",
+   "title": "高配当成長 日本株（ネットリターン）ＥＴＮ[345A]：株式会社三菱UFJフィナンシャル・グループの2027年3月期 第2四半期（中間期）連結普通株式等Tier1比率・連結Tier1 比率・連結総自己資本比率について 2026年11月17日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsV2pGaWRKSEE4Z3pKcS0xdlp3TkVnaVNkMUo0ZmwyeGtTa2hRVkY1SzBEblY4OUtKelFOclh4Q0FnZ2ExTWRnSVFITzJJRXZFWjJtcllqUVpRUmxaQ1N4QVhubUUxTlZUVUE?oc=5",
+   "published": "2026-11-17T15:30",
+   "kind": "company",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "5ff370b27d70",
    "title": "三菱UFJフィナンシャル・グループ株が直近で3.7%下落した背景とは？",
    "source": "Traders Union",
@@ -1692,6 +1836,15 @@
    "published": "2026-11-17T14:02",
    "kind": "company",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "68ca1e0e0faa",
+   "title": "【市況】 後場の日経平均は515円安でスタート、イビデンや古河電工などが下落／後場の寄り付き概況",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NMmxPRXN6dkJvQ0NfcWxmR0N1SXBYRW1KUDBSX09pcUVPaWtENkVRYnhSbkNBX2NxRTRZcGNlSlMwWGx0UnNiTjMwUmJZSDk4LU95VHNWSmNrVXpBZ2Z4TA?oc=5",
+   "published": "2026-11-17T13:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "b99a3880126f",
@@ -1856,6 +2009,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "508e9c8204f1",
+   "title": "みずほフィナンシャルグループとMUFG、金融庁の一覧で新興運用業者への支援額を明示",
+   "source": "Tokyo Brief",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0F1U1IwSk04dVZhVU5maDVHTk1TV19MLXlyVXlRZC1oZy1DWG1ucVpJT05pbm9USlRZRlVQRVFBTDhqN0Zvbkc4eExPRkpCbkUwYmIyS2taNHdkdFN2eGhlaVB0UXRNZzFMWHUyLXVMMFliY0FJcUxXY0cxMVN5SG5rSU5OcUVwOXRTRA?oc=5",
+   "published": "2026-11-17T01:22",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "b6a64713c924",
    "title": "【マーケット情報】商品市況・為替・株式（2026年11月16日時点）",
    "source": "NNAアジア",
@@ -1935,6 +2097,15 @@
    "published": "2026-11-16T17:31",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "680c065a9380",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】小売業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sMkRpLWVzQUo0T21Zd2tTYndfbkRHeGIxLTBHbzYwT2Z0TFFqR1pvZjFUS29yWm9mM3ZocXhkSS0xMS1qSmk3RnpSQWQ4Z0NQTHE0OVhENTlscm5YWGhqUg?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "53d0dee589f0",
@@ -2421,6 +2592,15 @@
    "published": "2026-11-15T11:30",
    "kind": "sector",
    "q": "銀行業 市況"
+  },
+  {
+   "id": "b0b841879d28",
+   "title": "3大メガバンクの中間決算 金利上昇に伴って過去最高益更新 個人の預金集めには差が生じる",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14WThGdFhDVnFYckR1TXNXM0RpWXUtcGJ5UkQ4clA1WTkzWlBKNllRaVZjTDVzY0NyR1FTLUpvTHBmOG9jSUdIbmZ2LW1LeDVWeTFOb3JoMmRCNEVaaU85MmpFOFJjVzR0OXdZSGVuV05CQW0w?oc=5",
+   "published": "2026-11-14T17:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
    "id": "745b75be2d76",
@@ -3242,6 +3422,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "489fdbbf6213",
+   "title": "【日本市況】債券下落、米利上げ観測で売り－円は160円付近、株上昇",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5remgtUDNNZEw3VmI3SW00WEg4YmZ4QWprQ3hhMEs3LW4xai1zNjQyNDFOS0RSVXVCS2kzZzY2R3NsaFptWDdDYjZzTzZ3MF9fMkVid3lRQUR6VEZiVzZTNFBnam9fWUhKOWgyaTVFS3pzWXBqUjN3?oc=5",
+   "published": "2026-11-12T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "e8a30c0c0a97",
    "title": "三菱UFJフィナンシャル・グループの配当予想は年96円、11月13日に中間決算。2021年3月期の25円から約3.8倍、100株なら手取りは年「約7650円」",
    "source": "LIMO | くらしとお金の経済メディア",
@@ -3534,6 +3723,15 @@
    "title": "オンチェーン金融に「力強いメッセージを」、金融庁研究会で意見出る(NADA NEWS)",
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1BFTTRSWGhscFU4SHNuTFZIYV9wVElzVDUtSzByekw3OFRGa0xVbVdBV0NiSkZ2NTV4UzJhWkhSdmVjMUpLZkQ2bzhubFhNTmdYc294OVFSNko3akN3NlBIUXk3R2xUZlRuNjRmZXFEeWJYOGNNTE83S0ptOVR0ekF2VHJnZnM?oc=5",
+   "published": "2026-11-11T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "2377dacd31cb",
+   "title": "〔決算〕楽天銀行、通期連結純利益予想1150億円に上方修正＝金融事業再編で(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTENTdEM2OG4tMmdZanpydUxEVVdtZ0dKSmJmcTJVQ0xjeXN5WHE0akpVMTFYODFnR0t2ZTAta0tPS3NBbkZTUHJQTko1X0FtcWl6WUhpNUNmZ0tTeVdWZFRsNHNMUmdxRUthYTgwckZiN0R5ZnQxRXNJNTBNYjkxSF9Sb1lHUDA?oc=5",
    "published": "2026-11-11T17:00",
    "kind": "sector",
    "q": "銀行業 市況"
