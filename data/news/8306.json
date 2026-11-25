@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-25T05:54",
+ "updated": "2026-11-26T02:57",
  "items": [
+  {
+   "id": "353295d5c8df",
+   "title": "【マーケット情報】商品市況・為替・株式（2026年11月25日時点）",
+   "source": "NNAアジア",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqd0JodHJmajM1MW5DMW92UWx5bC0zTzcwdTFIZUIza2g5UHBRdTltM1dmRWhxTWFVS0NtMGVWcUx2M0VWNnc?oc=5",
+   "published": "2026-11-26T00:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "b31f78ba9165",
+   "title": "【アナリスト評価】三菱ＵＦＪＦＧ、レーティングやや強気を据置き、目標株価3,700円に引下げ（日系大手証券）(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbC1ZS3ZibHhkaFVtcHJmZWp2WkhpeC1XSS1GTlBkQU13UFhSOVdtY2tBX3laQ0d5LWNubmYxU0hKVVdPVkw4cDRscU0yT1gxUWtVUEVZYWNJTUpFS3ZXbFh1VHprYnVOc0xnVnZyTkJINzZKZ0s2VndLOXF2Y2ZvRkNZZ0RHOVk?oc=5",
+   "published": "2026-11-25T18:58",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "5b6f777ee4d9",
+   "title": "東証業種別ランキング：非鉄金属が下落率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHB5d19xTUlrWlhiZC11WWZMRU1yWFdqX0lhVjFFSXppa21RSU1oWW40dlJKQnE5bng5cDdCMER3RGJ5aTFuSy01My1ib3IxdWx6cVZuQTBrOFV1VXRaSTRucDF3U0ZRWVpLdzlvVmV1OGVHaGJCVURSUTRJX3Q0MHNONU5fODQ?oc=5",
+   "published": "2026-11-25T16:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "629563ac6b1f",
+   "title": "みずほＦＧ---大幅反落、金融庁の「貸金業」新設報道受けて競争激化懸念も(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWttbGZKV0Izc3dIRERmSWxJR1h4a0VPd19kLWVORmlpTnpWQVVZNjhqQWhFYWxYSlF0emZQTzU1al9UNEMxSVdOMXo2c214TVBZa2ZULW9nV3RCNGFBXzVBem9TZkZDV0RCRFljam04Rk5oOFEzUmVFVEU1MWEzUWZ2aG84Ync?oc=5",
+   "published": "2026-11-25T14:34",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "7dc74084b909",
+   "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBta2JSaGtPQ21fZmtlZktLZ25FNzJZeDZGcDkwaTc4VzJZUU9ETEZHTW1zcGZqNW03ZXlzQVBYN0FGa3ZoeDRtamlQWTV2aUdBLWlrMV9BaVFkUHNFcGRoaEtjMnlLZjJqZ2R4QVY2VWZQYWNP?oc=5",
+   "published": "2026-11-25T11:04",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "c3661a64ed65",
+   "title": "【欧州市況】債券上昇、株下落－テック株安や関税懸念で安全資産買い",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52cmM0U0U0WUZzQVdFMUxOU01lSWJTWlpMN0hYSUxJempTN1I2VHVMZWdhcjBCMS10eHpuZ0lwVUI1akhqem1tOWp6TVNxOWNSMmVGaWtldHVPOS1CckxXX3JKRmVlOWM3NndRWUJvbmY4akFq?oc=5",
+   "published": "2026-11-25T08:15",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "be06753e43b4",
+   "title": "「DXやAIに大金をかけてもムダ」な会社の共通点、第一生命が明かす“失敗の根本原因” ｜FinTech Journal",
+   "source": "ビジネス+IT",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tSkhvVzJWeHF1Z0c5Q0NfeGRGX2d1TUJ6TnhoSmNjc3V5YmdxNHRyWjhXTDRIRGVMYnN2RVRBN3F5bDNTLVVqUWZFRENSTGFnWVpj?oc=5",
+   "published": "2026-11-25T07:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
   {
    "id": "90de0637ab2d",
    "title": "【欧州市況】債券上昇、株下落－テック株安や関税懸念で安全資産買い",
@@ -33,6 +96,15 @@
    "title": "消費者金融ではない「貸金業」新設へ 金融庁、大企業向け融資に限定",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ea2U4MXNpTXFUZXFScUlTa1liOXp5TDRSakFnRndySHB1TmMxRU9oc2pNdWNqdVhyLW5FTnZ5bU1SR2dZMjhtb3F6X0lqWkpxSHRWa18zTnExZ1hka2p1X0VKb3lqcDJNa3BPaw?oc=5",
+   "published": "2026-11-24T18:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "a2ce1bc8e550",
+   "title": "ノンバンクとは 預金業務を担わない金融機関",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRGhBTnhJZVBtdFBjUUNKcjNzc1h6ZW9QWEc0UXZwak9uVVhyaTFsbUIxaVlkeTU0RUtxa3dRbjBtcnlnMllLNTdLNjB5U1lyM0h2dDlhRUZBdmpGTkp6T2RLZHF1MlNYODBfdw?oc=5",
    "published": "2026-11-24T18:00",
    "kind": "sector",
    "q": "銀行業 市況"
@@ -128,6 +200,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "63b7e2b3e9e2",
+   "title": "【欧州市況】債券上昇、原油安が追い風－フアンCEO復帰受け株も高い",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xZVphMFkySXhlWFVuMTQ4dDJNS2JKYkstOFl2YS1UVUZaYXlqeXllbklnS2FJSzJ2UXBseGlEQ0xheWZsTGFBdGFIdi1OMFV0LUtCY0JiOVdCYlZobzd4Yl9RX1YzQXhuVnhwS0hhVElzYUhx?oc=5",
+   "published": "2026-11-24T11:32",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "73a36ac74879",
    "title": "韓国の相互金融、預金23兆ウォン流出　金利上げ鈍く",
    "source": "Chosunbiz",
@@ -168,6 +249,15 @@
    "title": "JR東日本・三菱UFJ・セブン銀行、独自調査で見えた攻めの大規模IT投資（2ページ目）",
    "source": "日経クロステック",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yMGtpcUtEd1E2Sm56TXpwS2RYSHI0TVNYMTdvWlY0RnJGcHc2Nk9Td2ZxNzlfWEZtZUppOXBMZUVEOERXcDFCWkhtRG9XTnpSTFhDLV9QQThKYkpYQlh3M0FlelhjNzFhclpEZG41YUtvQQ?oc=5",
+   "published": "2026-11-24T05:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "0d29c85a245e",
+   "title": "JR東日本・三菱UFJ・セブン銀行、独自調査で見えた攻めの大規模IT投資（2ページ目）",
+   "source": "日経クロステック",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXNjWjJiazlHcXBZay1OYnRCb0p3YktuUnVZRWxfV3ZFWW14dzA3VWJUMEdQNHFCdERHTmVLckNDOTI2UG5LXzZGWXQwX1U4dHZZalA2UEZ5N005eU9kWkpOQTVtbXladG5lUHNwNkF6R1JrQmpKZHdZdTZkd1FqUmNkS1dTU09HdTVYazJ1aFJGQjhWcThpeEdB?oc=5",
    "published": "2026-11-24T05:00",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
@@ -920,6 +1010,15 @@
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
+   "id": "fca262c70640",
+   "title": "三菱UFJ銀行など800万件漏洩",
+   "source": "HOME広島ホームテレビ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraWtkaGZ0VlRibE1iNlo0R1BHLXZFdVNTRHhUODNINjRSdUZGODdEYW5NN2NDMDU4Snp3QjBhTmVxelFxSTZHdnRKWFc5Y0hsOGhBVElrLW1FcFM5N3Axak44aXF1RzlJ?oc=5",
+   "published": "2026-11-18T19:37",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
    "id": "294840a52143",
    "title": "三菱UFJ銀行などMUFG5社で約800万件の情報漏えい 個人を特定できる情報はなし",
    "source": "TBS NEWS DIG",
@@ -952,6 +1051,15 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iNFNZMkcxTm1ZaUFDRmJFZGhKSzdoSjlwR01adVp1d25FU1VOa1Nmbzg4NVhnQWE2cURsYjdvX1hQb2ExVEcwOVcxWERIV2dLMlI1akc2M1pURlU2U3RGVDhjWDdmRTJtSUtvd2hGVEdLcEIxMUJPR3VOY0hneUE?oc=5",
    "published": "2026-11-18T18:13",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "d7dec9791273",
+   "title": "MUFGで漏えい相次ぐ 傘下の5社で計800万件",
+   "source": "北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWbDhfc3lOUm1EcUdXaHBuT1dOTzFmeE4tcE0xTEFudjJ5LVJSbkdvcGdOWUFJUVBxMERyTWRnWXVDUDRyd2tPQWpyYzlSYy1YZFhVOTFzdFc2QQ?oc=5",
+   "published": "2026-11-18T18:07",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -1469,6 +1577,15 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "bd01333e3c42",
+   "title": "【欧州市況】欧州株は続落、ドイツ銀安い－欧州債は逃避需要で上昇",
+   "source": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NaGVVUjV3bUM3V1lEMlZSSUwtOUJXV2JUbXc4bkdRMjJJbC1DX2NpekdUZDA0aEVXZEkzaDFNZ0tXclRySmc4b1lBSFB6MFhPYlNWdDZvM3lNbUQyeTF1R0tubUQ4eEs3U3NFOW8yN0h1ZmdncHlN?oc=5",
+   "published": "2026-11-18T04:25",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "63793660d8ad",
    "title": "JPモルガン、三菱UFJの時価総額3.6倍 M&Aで高めた総合力",
    "source": "日本経済新聞",
@@ -1483,6 +1600,15 @@
    "source": "TradingKey",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3gxdXBDMEYtQnNRLUJRV3drN1k3aXBTSUhuNTIxTGd4UUl0RlZLTHpPb2FHQ3dsLVk2cThkd0VwSXF2Yk95ZERKbUFmcmxtOFd5MF91eHdVejBlTXYtM0JETWZ1cGs2SW1RRHpkQ0RTamtDY0xILXhHeXVIRDBXazlKQ3JFTjJuNVpFLUYtVQ?oc=5",
    "published": "2026-11-18T01:18",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "ebd3dda9851f",
+   "title": "三菱UFJ 東大発企業とタッグ 国産の次世代AI開発を支援",
+   "source": "au Webポータル",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XUkZVLXpPNTJrYTFFOGpVRjAtMlh3Vlg4TmRLUFU4ejlnREEtdTZsOFhlUnpRMjVBcTdjNm9QZHFHOG9WdllLcFpGbVRTdjl3LTdGVDFnN2FDdXZnUWxWMGVzUWRYMkxKb18zczNB?oc=5",
+   "published": "2026-11-18T00:12",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
@@ -2189,6 +2315,24 @@
    "q": "銀行業 市況"
   },
   {
+   "id": "b94a81b16bb9",
+   "title": "AIエージェント、銀行の取り付け騒ぎ加速させる恐れ－FRBバー理事",
+   "source": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZdmplcFVCZ0NNa1RyT1F5RXNhRlE2MFNYSEpiX2NHSy12YjFuRkxSU0F6aDFoSWx2c2JIa25lcTFKQzl3UVRNYlhXa3Z0SUdvUHhyLUtyQ1EwWjVEeUdCYzNoaWhMOVJUNk9qS0dLUnZocnpPZGtj?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "7bf71b669dd5",
+   "title": "〔米国金融証券週報・展望〕AIブームの立役者退場＝エヌビディアCEO辞任☆再送(時事通信)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORVg5XzRGb2w1amNFM3M1RV9sT1NHajAzazZOYWh3NWRhbmRKTjFKeTdjVzE1WEtWSzN1b015UnBRR0RVckxaRkhhUWV2SXUxeEYwY0llMzVrQ3QyQXZtX2c5S2FmU1Y5cDVpMEMwY0tFV2JBdlc1dDBjaHI3bUZHYzRqV00xWEU?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
    "id": "53d0dee589f0",
    "title": "日本公庫京都支店、府内3金融機関と覚書＝危機事象時に連携(時事通信)",
    "source": "Yahoo!ファイナンス",
@@ -2267,6 +2411,15 @@
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LTTU1SGhHT2VyeXJPOXBzb3NYZ25tNE1CejlMcUxnU3pKRHdoT1JDUC1QRFVVNnhRTDd0OHFIUGNPNVNFcWVPX3BjeFhnVEVhZnY1WU9ITjNLeVpGZGxMNg?oc=5",
    "published": "2026-11-16T12:24",
    "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "eeb41496a45e",
+   "title": "三菱ＵＦＪフィナンシャル・グループ[8306]：変更報告書（特例対象株券等） 提出者：株式会社三菱ＵＦＪフィナンシャル・グループ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTkNXTHpoZEZwdHZmZmxDMXh4MGVnbGlTU1pIQlZQeldLWU9rY3RyYzRmUHJFWk9JMldiajhFNjZMbHZwRHBLUW1iTG1IX1FfenJ4ZWFiaE5XNnZlelJZQ3Ztay1vbXJwM0p6Qw?oc=5",
+   "published": "2026-11-16T12:24",
+   "kind": "company",
    "q": "\"三菱UFJフィナンシャル・グループ\""
   },
   {
@@ -3192,6 +3345,15 @@
    "title": "【日銀金融政策決定会合】「政策の局面変化」とタカ派姿勢示すも、市場は円安の反応",
    "source": "マネクリ",
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xWjVya2pka0M0X3ZqSlFFNGhOVzJDYlIwSzYxTEo4N2R1LUpZdl96d0pxa0ROQUZ3a3UyTmlTX3ROVGlpUXJCTFVhalBKU1VNVkJRcdIBV0FVX3lxTE1CS0dJcm5LY1p6ZVFmOWVFTThRUjZkdUtrLVdUYm43WjhJcHEwWndoLTUyNXpjRF9zTnB6WVh4VmNyN3F1YWZ0VV80ZHA0cDdxb3Q5bWx6bw?oc=5",
+   "published": "2026-11-13T17:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "8e355c9b3514",
+   "title": "（朝）米国市場は主要3指数が下落　エヌビディアのCEO辞任と中東情勢を巡る懸念が重し",
+   "source": "マネクリ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMW1vbzRyaVBMbHBPWEU2dmR5WlBxMGhiUDFkcE9JR2FDdm1kZGNUaUNhQWw1S1dWSDNWY1c5YjFYemVXbF9GWF9pYTRaZGNCa21tZtIBV0FVX3lxTE1hd3E3OFRKenFaTG5PWmV5Y2l1V0ZXekhkSG0zdDdoWnJId2NwX285MDNRRmxvczJvcFgtV2lrWVV0TE5rWXF4WnBMTDJ0cE5xdnJHSHZWaw?oc=5",
    "published": "2026-11-13T17:00",
    "kind": "sector",
    "q": "銀行業 市況"

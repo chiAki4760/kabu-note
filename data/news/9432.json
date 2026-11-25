@@ -1,6 +1,330 @@
 {
- "updated": "2026-11-25T05:54",
+ "updated": "2026-11-26T02:57",
  "items": [
+  {
+   "id": "b07759edbed3",
+   "title": "【アナリスト予想】ＮＴＴ、27年3月期経常予想。対前週0.4%下降。(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmR3bGpTQ1FnQlVKXzFKdThvdkJzQlZrcEtiandqV243VV9laHdTUmYzdDBReEVwa2hJM1pqT09Ma1Nrak5QTGo4aWRRcno5NFYwMF82WXg3TVVXcEpjV29TZlJVOTZqSnBxREpaZ3RNMHpUMXh4eGw3ZERhQTd0Y3QzRmYyODg?oc=5",
+   "published": "2026-11-25T22:47",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "9dc8baad065b",
+   "title": "【アナリスト評価】ＮＴＴ、レーティングやや強気を据置き、目標株価180円に引上げ（日系大手証券）(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeDF2bkFPRXhEeC1MNnFMOTdUVXB3M084bTVMZFZTOC02NzB4MlR1bWJzZGdrS2xKQ2FLYktVYzRHdlVwOVJTelpHTkdKZnJ3VTJKNm5NVFZtWktZODNzRUZyT1VYOEU2WTBwT1kwQzdqTmh0YjNyOXZ6MWlXcE0wM0NUWjIyVEk?oc=5",
+   "published": "2026-11-25T22:10",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "522f79e10ae4",
+   "title": "【NTTドコモビジネスX】再配達や決済の手続きもメッセージ画面で完結へ！企業の顧客コミュニケーションを変える新たな選択肢",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xcXhlcC1VMHVQcU94YTBKcnRFbXNGYTFlNm9xNVVodlRQT2gwNVB6MG4zOWQtZjQ2Sm9kT2EydUZfQ2paNVliMTJpQkZBdw?oc=5",
+   "published": "2026-11-25T20:43",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "453044dc2882",
+   "title": "【NTTドコモ】対象のApple Watchが割引になる「Apple Watch 26秋冬おトク割」を開始！適用される契約プランと条件とは？",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iS0tQYlhENjkzV1JTNm1Td2hLRWZtelA1TDZaRlhIWU44V0NRQm9BeU5CZ1ZLbHkwN0FzbXhIRDRiSGNZWTlsZG0ydE8yUQ?oc=5",
+   "published": "2026-11-25T20:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4a1fa7969bc6",
+   "title": "NTT東西の「フレッツ光」、2027年4月1日申込分から工事費が標準的な例で5500円上がる。3月31日までなら改定前（LIMO）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mal90R0tNM2FmYmNtcDZIcTA2cWRBUjBZZnF5WlRYX2tkNFB3U1JNVnVzSXVTdHRvcklOYTA2WWk2Z09FTzBxRjVlQ2swM3Z3UzNtZFFWZUpFWkFzejBIc2RTRWlPd0VyczZkN3NqUWc1S1pMbGFEODNxLVpSQlU?oc=5",
+   "published": "2026-11-25T20:05",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7906e73c5f53",
+   "title": "【NTTドコモ・12月7日提供開始】回答内容に応じて質問が変わる「対話型アンケート」を導入！従来の画面形式との違いと特徴",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NYW1uVEZmU0RyRDJwdlpzSlFidXR5dVJ6SllIektsX3VTV0N5anVLV01feW5DakdBbnV2ZEtQSlVzQWdSXzhMeENENWR5QQ?oc=5",
+   "published": "2026-11-25T20:03",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "072a5e83c526",
+   "title": "NTTデータ NACCS接続をクラウドサービス化 | ロジスティクス | ニュース",
+   "source": "Daily Cargo電子版",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaSUQ4Sll5MVFjbEh0TXc1djY2dGpqR216djMtOXhRdTNWUGpNUWhHVmZ5ejVSSWMwTkkxUDlEVHZjZmRpRzFtTFl0bGJYX2x5Z2EwTGtEc054WjYxX2Ixa0djejJBcWNoZGc?oc=5",
+   "published": "2026-11-25T19:33",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "11ea97c5e81a",
+   "title": "NTTドコモビジネスら3者、2027年の自動運転レベル4を目指す協定締結",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oYUdPOF91OEJheXUxU0c3YlVEWjJSUlpsUTJFdWVKcG1hQjR5RkdYZmtkTl9aekVUR3VreWt6Z2RIUVE5V1NGQmdYa0hwbjlzVjRCMVJhN0xGNURzLWdFQThsbw?oc=5",
+   "published": "2026-11-25T19:21",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fd834f2e4ef7",
+   "title": "NTT、タイでの400MWデータセンター事業に向けB.Grimmと協力覚書を締結",
+   "source": "Data Center Cafe",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVUtIMElYS2FiM0VTcFM0UW1hYUZBYXNBX3pzYWJBb182WkJzeXg4YXBMUFEwWVpaODMyVS1DbGpnbThELVRIakpZRkFNcThnWHh4eTRqYWdMNmx2RWNDMzJWcDBKNTVQM3VRcDJCT21uTXVGSVZIbThTQ0tnSHl2TDdpTEtmcWxHb2FYeHNrMm5CbFZKN3VTeWhqUQ?oc=5",
+   "published": "2026-11-25T18:22",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "0840756f1a48",
+   "title": "メディアドゥ、NTTソルマーレ「コミックシーモア」不正アクセスで一時取引停止も業績予想修正基準に該当せず",
+   "source": "Media Innovation",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qR05iMjJETFdZZFlHUkZ2QWk5TVYxelFydGN1SUtKSUtOcjZ1WTR1dUNMYUExUWctb3NmY2NGbGZVTlYyUDJaWU0weHdjcHkzYURiX0lDYVFNVm5TX0hMTDF5bV9ydks4ZHc?oc=5",
+   "published": "2026-11-25T17:15",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6ff87b1daa44",
+   "title": "「PRIDE指標2026」におけるゴールドの受賞について",
+   "source": "NTT西日本",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxUEJmeXh1N0x2OWg2b3hRU3RJTzVhdUtLWU5KaEUteEdZQ3N5RkNGaDkyZ0Yweko3WVJrVWRVQXRJOTR0RDdtQmRlSXdYam83TC1SY0ZPX0FvdEd1em55ODVONEVubUxKTVNr?oc=5",
+   "published": "2026-11-25T17:10",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b2305b11944f",
+   "title": "【NTT東日本・NTT西日本・理研・東大・NII】次世代光通信「IOWN」の800Gbps回線で大容量研究データの高速転送に成功！最大約775Gbpsを記録",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tSHFKRlR2RmFPV3V2S2h1RHdOVENHR0pfX1MtRExaQlhQOFRWQVNuVHNDRGFDcmVIaUp1TVpMbmRvaWp4SWtKLTd6TWZudw?oc=5",
+   "published": "2026-11-25T17:02",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "36fbeb897eab",
+   "title": "【独自】ヤクルトが青汁の「キューサイ」買収を検討、ユーグレナが“稼ぎ頭”を売却か…・NTTドコモに代理店100社削減構想が浮上・関西電力に迫る使用済み核燃料「満杯」の危機",
+   "source": "ダイヤモンド・オンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02a2NRWklGaHJPZmlEZlhPMENfUHdNWmZvTHEwd2o3a3p0a1RHTHhFMXA2UDg4QWFQcGp1UExCbHBWeVhhY2EtNVNrWG8?oc=5",
+   "published": "2026-11-25T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "5dd76d499ba3",
+   "title": "持続可能な社会の実現をめざした教育の実践に向けて東洋大学とNTT東日本が連携協定を締結",
+   "source": "NTT東日本",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZSmNLekZPV1lzVXNTV2xTSHh0RUtTZkUyNWx1NWVZTThlZnhwXzE1d1pGajlTOC1tcXo1d1E3dGlkSEV0ZUtLamdnREZFU1VJa3Z6TldyekQ3aXNRam9SYjFZU0Y3WUZJTGc?oc=5",
+   "published": "2026-11-25T16:33",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "482873f6da1f",
+   "title": "NTTドコモ四国支社 ×香川大学サイバー防犯ボランティア「SETOKU」 「たかまつ元気DAY！2026」に共同ブースを出展 ～親子3世代で「健康的なデジタル活用」と特殊詐欺対策を体験～",
+   "source": "香川大学",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XZG9rNHYxSDh3a3lNNzhWVHMxQUhFeXBTQXlIcUNYdTRndXBFcUpaRW1oaXRlSFVVZWZNc2ZrU0ZDNGJ3WWxLNXpuakhUS19CcjN0UUk5dkh5Mzc4?oc=5",
+   "published": "2026-11-25T16:18",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e39ca8156c2d",
+   "title": "NTTドコモ、繋がりやすさが向上した5G対応ホームルーター「home 5G HR03」",
+   "source": "エルミタージュ秋葉原",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWmstbXFueFZCNm9NVjZKSTR6ck84UmxsNW04YU5kREpCUlZPWHlUZ29NUmZHQS12RDBPRUt4RmpqSFRUMTdqUDFQTGEyTWoyZlkzVXdzMnVoTWxmb1FibQ?oc=5",
+   "published": "2026-11-25T16:11",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7461299c09ea",
+   "title": "NTTドコモ Presents Lemino BOXINGダブル世界タイトルマッチ 前日計量＞計量をクリアした石井（撮影・河野 光希）",
+   "source": "スポニチ Sponichi Annex",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUzFwUzlhbTh5UGx4SjFhY1c5VnNEMm5fMkV0a0twNjd4RVRUalZqMFBxNkYzNi05c2VfTUxxcGp0cVJncDVLNjdiSklSM0lsM0luSlgtZkQ1ek9ad3hRNTh4UXlBcVRqdm1sVGNMS0ZFUGdsZlhIX3lCQUNiVko5S001Z1RidHRCdVB1SA?oc=5",
+   "published": "2026-11-25T16:11",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "45095d3d0c5a",
+   "title": "NTTジャパンラグビー リーグワン2026-27 レフリーパネル決定のお知らせ",
+   "source": "ジャパンラグビーリーグワン",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rUWdKYXN0RDJ5azZjMnFOcjBYUDVCQzFiUXlwcjhpY0tDcTdZMTd5c0RneGUtcHdkZ0xJVjdYbUZCNTUwdVE?oc=5",
+   "published": "2026-11-25T16:05",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "fb8f2bb7e39b",
+   "title": "【NTTデータ】専用サーバーや端末ソフトの管理が不要に！Webブラウザから輸出入申告ができるクラウド型通関サービスを2027年4月1日に提供開始",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VX0Q4UkR3SUFXN2JTWDZxRC1Fa1JVQXpjR1V1Um5oQVZ6X3JiRVhWU3kyN25ROFotMDlZajk2aTVvVDlZX1JiOXRQTlNYSFJf?oc=5",
+   "published": "2026-11-25T15:51",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "99206f7a7928",
+   "title": "ＮＴＴ都市開発リート投資法人[8956]：資金の借入に関するお知らせ 2026年11月25日(適時開示) ：日経会社情報DIGITAL",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fanUxcVlpZkR1Wjc1cy1yWnZuYzdPQkxHS0MtUEZpcGVkTDBCQ19vOWxjOUF4TGhmYnVxamhMZ2IxVlp6ZnJZblVpdnRSOGFPdFk5eXl0OXdrYXFiVVppTHBvS1REeFNmbWc?oc=5",
+   "published": "2026-11-25T15:30",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "30df2512c647",
+   "title": "ドコモ、Galaxy S23シリーズやGalaxy A55 5Gなど8機種にAndroid 17へのOSアップデートを配信開始",
+   "source": "OREFOLDER",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41elpEbjVVXzBiWXlxUHFQS1lkUXQ3eDFBVmJyV19sSmJwX1p5eUJtT0pGMlhSWnA0eXY4MHd0MTlsbHdnN3h0ZGZMUno1VTd3MkVya01ocHJySmdDSG9HZGlB?oc=5",
+   "published": "2026-11-25T15:16",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "63e3f5e02610",
+   "title": "NTTジャパンラグビーリーグワン2026-27 第10節、第15節、第16節 試合日程・会場決定のお知らせ",
+   "source": "クボタスピアーズ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ca2ppbTRaNjdVdUs1SGxBaVdPOFJPRG5OaXVwa01oUTZ3MVczdDVCZHhqdjNScWZpZWRCQ2Y4dklmcWY4UGpDaWFrN1loWGJueHo0eEVWNlVjUkNSYzBnX1dQVS0wN29C?oc=5",
+   "published": "2026-11-25T14:40",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "1b500fb22429",
+   "title": "NTTリーグワン2026-27 第16節 三菱重工相模原ダイナボアーズ戦のチケット価格と席種決定のお知らせ",
+   "source": "コベルコ神戸スティーラーズ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zNml0YThwMDlhVUkxdGdmZXJwekE1R2pSbFUyakwzMW1DTzZIbVFBSDJUSFR3TFIxbHliVFd4TWt2V1BMQ3JJLTZoam9EZ2M0aEFrN2Yzdw?oc=5",
+   "published": "2026-11-25T14:20",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b2f5191d56f0",
+   "title": "NTTデータ、保険窓販電子化を信組にも 近畿産業は5000時間減見込む",
+   "source": "ニッキンONLINE",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90X0tHd1gyb2xKWmJzMzQyZkxiN2Z4SUtSRkFOMVhyVF8xTHJrclgtaW5TZUF2QnBwWVBBQklGRko1T19vRnF2cGpwZ2dWVy1scWhrSnlB?oc=5",
+   "published": "2026-11-25T14:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "51dbee835c10",
+   "title": "NTT東日本のクラウドサービス、ChatGPT推奨率が0％から29％に LANYがLLMO支援",
+   "source": "Media Innovation",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQ0o2a2hDa0llNjVkR3lpOGxrcnZvbDdpSHVoQkg4TXQzYWlrSlB6ZjkyVUl5Wl9OU0YweVVqdURxaEl6a1E0RDBjU3pFQjE1OFZwSEs0Qk1kaTl5elpxWmZ3eVlDcTBDX0E?oc=5",
+   "published": "2026-11-25T13:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "943c01d53b36",
+   "title": "NTTドコモ、常時表示対応の1.93型有機ELを搭載した「スマートウォッチ03」にQVC限定カラーを追加",
+   "source": "kakaku.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QdVFFMi1IcHdRRzZsNXFxQThna3JkdVdqZjI5cGs1cS1RdGthMUhjVFIxWDdpX1RWb1hYcXlGU3Q3X3pRb0hvZmZ1X1lkZmRTQ19Nb2xsTGdhakEzUGZKV1daRHN6Q0RiNkhDbnFXYw?oc=5",
+   "published": "2026-11-25T11:45",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "123df095ed86",
+   "title": "スパイラルローキャス「すぐメールPlus+」、NTT DXパートナー「シン・オートコール」との連携検討を開始（PR TIMES）",
+   "source": "毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pazVqZzJxRnIzMHlua0x6UWY2cF9ES01mVzExMlB1ZE5uRGpCU1dVRDFGSm1RRlllX0cwMnUtX2ZsVjhrT1pZSEVhbFRhWVE1eWk0SU5lME1GdFNhcmNLUW9ob1ZUeUxF?oc=5",
+   "published": "2026-11-25T11:23",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e267d9325840",
+   "title": "NTTドコモ、最大11529.4MbpsのWi-Fi 7と10Gbps有線LANに対応したホームルーター「home 5G HR03」",
+   "source": "kakaku.com",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSMFR1ZEp5SDNOOFNDanhEWU9mUWZXT3hvLVlIRlFlTnFwYlZ5enJENE5uRm9ON3hjZXlFM3ZfT2R0ODlkQ3pEQ1c1enBJaWpUeXhoczFhZHNjSGNrSjVMWjdJR25MTGJ5cUtOS3VuNA?oc=5",
+   "published": "2026-11-25T11:05",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "92117a2e27f6",
+   "title": "NTTドコモビジネス、Microsoft Japan Partner of the Year 2026で 「Sustainability Changemaker Award」を受賞",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBzT09HRFBZRTJUYUhoRmI4VXNfMDNyMmdGcFdEWWJrUHEzUEM0WWtkWlVPNEt1ZGUycldxck4yTkl5a25NeVpmal9sck81Zw?oc=5",
+   "published": "2026-11-25T11:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "6f527a156752",
+   "title": "ドコモ、5G対応ホームルーター「home 5G HR03」を11月26日に発売",
+   "source": "NTTドコモ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uXy1WdUVXMU9GdzJjSllyVnpLUk5ucTYzejZPeEEzY3FkZXh4aFpFTHN5d2F4ZzBKcDN6QW1zMl90RzhrRzRXUU54S3djeFVuNHFSZ2duVzIwV2Iwa0pzVTF5VFI0UDdrc0dTN1hB?oc=5",
+   "published": "2026-11-25T10:01",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ddebf5af5b0b",
+   "title": "「スマートウォッチ03」の限定カラー・限定オプション品をQVCで発売",
+   "source": "NTTドコモ",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tcHNXTURkVHBSd2QweVhsVDBHU2lFS2QxZnNfVGF4dHpUc1F2Wk5CUVJiamNnMm1oMWVra0xhWlpFaFdBdFltQ2x2QUJIQ1Fta3VxWXZFV1gtWlVfMmlUdEFFSzI2dUltdXJVTDdR?oc=5",
+   "published": "2026-11-25T09:01",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ff399389fd51",
+   "title": "Retail-CIXとNTT AI-CIX、卸・小売のデータ連携とAIによる在庫最適化の実証実験を北海道で開始",
+   "source": "LIGARE（リガーレ）",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJTGMwVmZZbDAtY0RDa0ZtZEl3MjJhMFFFOXdBb0lidENlbm1CMU9ObGhHeXcwX1laWWRZYXJQUWYta2R2aWpsX0xscnRRcGt5bnpiRUVmUDhTZw?oc=5",
+   "published": "2026-11-25T08:34",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "8637b96501fc",
+   "title": "顧客接点データを収益化へ、NTTドコモビジネスが「ANCAR Marketing」発表 コールデータ活用で営業・マーケティング高度化",
+   "source": "ペイメントナビ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jUTV0eV9vMDdwUVI5ckNPZHVvRW5hSjhRRmFsQzFabnhrUGdDb2o1cmxYTGlFMXYxaXNEam1TSTY4bXBzN2xVZXJSeDV2WGV1RktMYmdjOWFKV3M?oc=5",
+   "published": "2026-11-25T08:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c9645f6366b1",
+   "title": "売上1000億円を掲げた「NTTの宇宙事業」の詳細。衛星と地上を光でつなぐ通信で2029年に事業化へ",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFNyeXJYLWZTZEZoSXF6MDE2dmZDaTBmRWp3SlA2XzBGQy0tSnVQU3Q5M3RHR2hzV0I5TEMtUmVjak5OS0oxSWZKcnNUalhhTk1KNlBPVlRtcmVvdDVfaHZJWk9ndEV3WUZSSko1eWZ3ZUNWT0RObXU1SkFBaC1ud0lWXzdoeWJC?oc=5",
+   "published": "2026-11-25T07:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f43d2f198876",
+   "title": "売上1000億円を掲げた「NTTの宇宙事業」の詳細。衛星と地上を光でつなぐ通信で2029年に事業化へ",
+   "source": "Business Insider Japan",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWFsUm9fWFdxaWhqZXZDQkNGVkhNUEItVmt2bUhPNjhpRVhSUEVXckxqdnRBOUNYdHM0bFdfdVY4UEFta3RKd0x1Rk9uVVQ3WlFXc0s1SjlBb21JNWFQMFRxU091R0tzNXdRNWFUREFraTVPazBvOTBGMFNKdGZVTHkyTk1WdUdfMU5v?oc=5",
+   "published": "2026-11-25T06:30",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e185838560fa",
+   "title": "ブリ定置網400年来の技、氷見高校生がデータ解析 NTT西などが連携",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qeDE3dG1BSVFNSWxKNFR0cHJza0E0TmVaMEFwQXYyeU81Q01qa3BKZVBhV2dvUFd1aGQ4ZTJ0NkE4MzRiNGxUemRfQ1ZlTUpiTVdUeTBtQ2p5Vllwelc2Z1FwcWxxejVqaWtUVQ?oc=5",
+   "published": "2026-11-25T05:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
   {
    "id": "3348b1413983",
    "title": "【情報・通信27社】倒産危険度ランキング2027最新版！22位フジ・メディアHD、11位「株探」運営会社、1位は？",
@@ -20,11 +344,155 @@
    "q": "\"NTT\""
   },
   {
+   "id": "f428d325cf43",
+   "title": "総務省、チリ政府と情報通信分野で協力の覚書…ＮＴＴ「ＩＯＷＮ」など日本発の通信インフラ普及を後押し（読売新聞オンライン）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VT0lSemRjUEs1TkN0aGJKOEZzbElodmpscmd0VmZMUDZERnotLVpiYzJlU0FWRjJuakJPX19fVlRib0I3TzZPMHRxUHZyUEpKZzdBM00tY0lxOGJJaU9oaUN4Q0N6QTBSaEhCNThDOUVBd2FjTUhSNS0yZ0xkMkE?oc=5",
+   "published": "2026-11-24T23:51",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "acd638e85194",
+   "title": "【アナリスト予想】ＮＴＴ、27年3月期経常予想。対前週0.1%下降。(アイフィス株予報)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0EtZWZfcG1neklrSkEwNnZhMjNDNThCMmJmVERnelBzNU8yenBPMWF5SFp1NkpIREJ4M2pXOTRRcHZYQXRnZzNsSlluU3A0OUxkMlQzRzJsUHNCUFJRdVZickZxMm1GZ3Z3bzRSdl9vRzA2M2FPeHFzVm9ubXRsanNWS2h3MWM?oc=5",
+   "published": "2026-11-24T22:47",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "49dab60915e9",
+   "title": "B.GrimmとNTT、タイで400 MWのAIデータセンター事業を推進",
+   "source": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlBhVkk4TDhzVUFkTkVrMWVZVnZCTVhud3NfS2N1cFR3bVZZTEhUQUZUcjJPYWNzbmlZT3h2dEJfRzg0N3FRck1CeXBvY2poQWVaS3prczhOcUZRaW9BZFlsSlFmVzBMcVNkekhOSFBVZjg4eWlyQTVwd3lOeVV2enJ1dDB5Yk52QjhISEhaR3pZVHFNWl81SA?oc=5",
+   "published": "2026-11-24T21:21",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "699e75874310",
+   "title": "NTTとispace、月面インフラの実現へ連携協定 高速光通信とレーザー給電を共同検討",
+   "source": "NOVAIST",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sYUNXNTVOQ09xWG9reFduZGZVbDlmenloeEhzS0l1WUp3blFzZ2hWOXIySmw4aEcydWo4NkxXS2pwR1ZvNUJ5YkdXanA2RUdNbTFiV29VeXpWcms3aVhDSFN2YTNYaEE?oc=5",
+   "published": "2026-11-24T20:25",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e620b441c083",
+   "title": "自動運転バス実用化へ連携 熊本県、九州産交バス、NTTドコモビジネスが協定",
+   "source": "熊本日日新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRkw5UWhhMUI4TFljeGZqd2llRDN4QkN6YjB2YTZDYVF6NG1uanQ3UG1qc1ZaTFdVTklWX185Y254M0ZfUENzV3JzRnRMNXM?oc=5",
+   "published": "2026-11-24T19:37",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
    "id": "41cab2dec4f5",
    "title": "非常時の通信手段「JAPANローミング」と「00000JAPAN」の違い、NTTドコモがXで解説 初心者は必見（ITmedia Mobile）",
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kRkdxMGkxWWZQMHlfX2JVRUg5ckR3dnpTMjVTM3BEY05QWnFNLVJET2VGT3hhU0R2bUhtOVhRaG1EcHZFSWJkZTVGeDZ2XzZ1c2Y1TU5CWndkckJLcDM5YnhyX0Nua1RsYUFmMXFsMFpkXzJSTG4zWjlzY3dCWE0?oc=5",
    "published": "2026-11-24T19:28",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "f188dab95eb4",
+   "title": "非常時の通信手段「JAPANローミング」と「00000JAPAN」の違い、NTTドコモがXで解説　初心者は必見 - ITmedia Mobile",
+   "source": "ITmedia",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pNllzODFIMC03eS1RbWdtSXNoMXlSejJLQWl2Qm5LdUtNM0dMZDFGMHU0cnMtTVM1bUJXMy1RalVKdHZ3YlY1X013VVhGQ1RMczVKQ1pZS1FhcWtEbkN4MmZrOF9RQ3lROGxFZVAwb9IBaEFVX3lxTFBYUm9GMlFXOU9zczNYeS02cTY2d2xUM24xQ3ZqSC0zQ2NBMW5PYzQ4c29ESERnUkM3NEhyRU5pTFZmTHFiT2xxbzFqLWpPZHJFLTJMVkdrNFdZQzhsWWdEV0duNFdTaGRn?oc=5",
+   "published": "2026-11-24T19:25",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "dc11a80b59ca",
+   "title": "自動運転バス実用化へ 熊本県・九州産交バス・NTTドコモビジネスが連携協定「産客混載」モデルも推進（RKK熊本放送）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Qb3hacHNzcUpwNzRraXJIOERxNkNRZzBRbnhYb3Ftb0doN21NYUo3ME1GZXhOZG1FdU9Da3NHNGRzdTJ5UEpOVFM5c2p4RjR0V19peGR6VDh2b0FUcDYwMHhhRDBmZGMwLWF5bDJfdGRMYVVYREtVU1lzcVR6Q1U?oc=5",
+   "published": "2026-11-24T19:11",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "94f6ed66f2e3",
+   "title": "自動運転バス実用化へ 熊本県・九州産交バス・NTTドコモビジネスが連携協定「産客混載」モデルも推進",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wdTVMTk85NlpnbDE5ZnhvZWNnTk4zWU01TlhWbkF5eEQ5QVlUbkdocktMOUhjSF9uV2czYVdIYlJwT3VSQmF3dUxITEZVNlUtNmlRNUhKMGJYQQ?oc=5",
+   "published": "2026-11-24T19:10",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4d6958fc860c",
+   "title": "【NTT・新AI技術】古い設計書と実際のプログラムの食い違いをAIが自動修正！既存システムの改修を助ける新技術を確立",
+   "source": "DXマガジン",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40VDZpalh1emtFR2ZSM2hiTzBRVnMxS09CZXlDU0dyb0Z5bDUteC1NVk1qN214djNqRmQ5WlA3MDgzYlZFc2p3d29hUDNISzQ?oc=5",
+   "published": "2026-11-24T18:53",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "b15d87dbea90",
+   "title": "NTTデータ経営研、AIで業務高度化 組織知の共有基盤を支援 AIコンサルティングサービス「SPARK」第2弾",
+   "source": "株式会社インプレス",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Td1hIZkExLUJ1OW5HYTRaYkw2bl9GSkJxcVRXbDRScnZ1UDlhQmRuN2NKYnRzNjdhclJER1ZNV2lTU29Dd2lIcVI5bVBmTU90TC1xM2tGVFZtN18xR3BMNk5XTQ?oc=5",
+   "published": "2026-11-24T18:50",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7645773d4666",
+   "title": "熊本県、2027年度までにレベル4自動運転バスの社会実装へ - NTTドコモビジネスらと連携",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CMEtSel9NNW1aMUZ6SXpqZXVSSW5XT1NKcWhiSEVuQjJzRXdDTWY5czBJWmNOSmNiQ2lBRHc0Mm51SXZKaXlDRGZ5NzI3VG8wU2s1MGtraGNYVlNZY3F2aXAyVkFVZHNl?oc=5",
+   "published": "2026-11-24T18:41",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "47b374db0a6c",
+   "title": "【日系企業】NTTと東芝がタイ投資拡大を検討、データセンターとHDDで日本勢に期待",
+   "source": "バンコク週報",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TNlNScEdEd2tVeTdoTUdLdjFweWpRLTQxZGU4OXo2bllXMkNrUjVweVM4N3l5eHUtVXpUbkZtWXluWk1uZlF3WFZQcTR3ZEpy?oc=5",
+   "published": "2026-11-24T17:46",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "87bd88af09d3",
+   "title": "NTT docomo Business ROOKIE 2026スーパーフォーミュラ第11戦・第12戦鈴鹿 レースレポート",
+   "source": "autosport web",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NTEJNWGt2MzZ3bUJLYmx4aEVoZ2hSTTR3WVZaMlV1QklMaG03elcwaE9GNUhUcDNWTklYX1RlMlJzNXpSVEVJT3Y0ZWZSR0Vxa0dGekJ3?oc=5",
+   "published": "2026-11-24T17:14",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "8c6d30aaebc1",
+   "title": "NTTとispace、IOWNの光通信技術で地球と月をつなぐ構想 月面探査車へのレーザー給電も共同検討",
+   "source": "Ledge.ai",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vNzdUdnhlME16Q1lRVVUzb29LN2RraHZGQWhKSy1uX1NtS19ySGp3dnlNN2hGZVRDLUtYeHNUc284Tlp3WkdFSGVGMy1XNklfYTZmNk55ZTNJSnVKd01QS09MVS1vdm12SmY5aHhnTUFOSndUQ2ZPUQ?oc=5",
+   "published": "2026-11-24T17:09",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "3345afe7aac5",
+   "title": "WOWOW、NTTドコモと「Lemino」を共同事業化し配信事業を成長の柱へ 有料会員300万件突破、2029年度にグループ加入660万件を目指す 投稿日時： 2026/11/24 17:00[ログミーファイナンス]",
+   "source": "みんかぶ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYc2hxSGZMVlJxdy1KbS1tMVFqY1NjZDFJSnl5c2tlck1abG1sekhGeWJhRGR4X3RGUXpTckpYck8xY002cUE?oc=5",
+   "published": "2026-11-24T17:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "aba5a73f4da9",
+   "title": "【写真】KDDI・NTTのように連続増配できるか…ソフトバンク株のリスクは配当性向約70%とAI投資（栫井駿介）",
+   "source": "現代ビジネス",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nT08xYTBEaW5ZWVNxTzFQbVBsQThjcl9yVl94ZUR1U01fTXBmX0ZpLWppUERfUmhzU2UyMGN4TllKVnMxWEthTDVuVVpUYlVXQ3lqbTN3?oc=5",
+   "published": "2026-11-24T16:29",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -52,6 +520,123 @@
    "source": "ダイヤモンド・オンライン",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxY2hidFZQNnRKVVJkNWd0a1IzWWFWS0VsWVdhTUdzSDNONWNDS01BcmFkaTBPQ2JDTzZZVmxYOHF0OVVzeWN3bW9FUFA?oc=5",
    "published": "2026-11-24T16:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "57dd6dd086a2",
+   "title": "豊洲のNTTデータが「親子でけん玉に挑戦」を開催 親子で“技”にチャレンジしてみて！",
+   "source": "とよすと",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xRmZaY2lyUlRDUm4yVlI5VE1rVHRvd2Y2TzZ5NV9MZktnZHVfOGNBSzNoelZOU2Y2T2JZaXBlSnExajZ4TGxpSHBNOXhnV0J4VHc2RUtpUEVmWEFuZkd6eV9EaXhEN21LSUE?oc=5",
+   "published": "2026-11-24T15:22",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "ee880c0f666d",
+   "title": "月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？（ITmedia NEWS）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jUkROZXRDQUxmWmxpMEdLT2Z0U0dWejU2bXVpd0ZnZjJ1Yy1aMjEzVkpWdUktaTBEMkYwbWI5bVI4MzJGUGxSUXNySzgzdklrNWJsTmkzUzR5ZUlkX1RrWjRnU3YzSVo5ZVpHd2VNdHZ3ckdhY3ZLTUpzNzFsZDg?oc=5",
+   "published": "2026-11-24T15:10",
+   "kind": "sector",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "489e2c8432cf",
+   "title": "NTTデータ経営研究所、社内情報をAIエージェントが活用可能な組織知へ変える「AI-era Knowledge Management」",
+   "source": "クラウド Watch",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vYm0wSWpGNlQxVVZzTnhOcVMtS3BfbWswWG53SURac0EzOEVyNDA0QUlCUHYydWNPSzNueW55c1p1QmxQWHVjbHd0Q1YtaXM4NHkzeGs2YzFrdzJsdEF6aHVDelN4WGs?oc=5",
+   "published": "2026-11-24T13:34",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "552ee99c58c6",
+   "title": "NTTリーグワン2026-27 ホストゲームでの「お楽しみLINE抽選会」実施のお知らせ",
+   "source": "コベルコ神戸スティーラーズ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4UHFOTlQ0LUd4TGxrY2x6TmVjOEdVNFBxbkJSNjJMQWEwOU1JekVoWUxiNzlhU05aYjdpYkNEXzBrcms1N2NRNUM2eWZ6d1hFc3JiWllpWQ?oc=5",
+   "published": "2026-11-24T13:04",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "74e25575b678",
+   "title": "熊本県、九州産交バス、NTTドコモビジネスが自動運転バスに関する包括連携協定を締結",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tR1dCZ3pmSXRyZ0gxS1JCdDNXbkUtNGJmUEVzUFl0dDZJMDMxOXNGNl9mR0NFMmN0UGY3Q2tSQm1oWXN5b3Vqa2pOenZWMnFTS1YxaDhVdm9GS1FpQmlqMg?oc=5",
+   "published": "2026-11-24T13:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "e1584c05654b",
+   "title": "大学生が5種類の出汁で食育ワークショップ、NTT東日本が「海とミライのがっこう」と連携",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XamdKMHl5YUlTNG9IYzBqME5LRUloN1BraFIzWDNuM0lmRVB6TjFIRzlmb1gxYS1RLVdXWTRwTHNHSG12R3AtTC1Rb0h6cHRmakE5SjRnQWUxWUJQ?oc=5",
+   "published": "2026-11-24T12:22",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4f7a6b947ad0",
+   "title": "データセンターの排熱でエビを育てる。NTTのちょっと不思議な取り組み",
+   "source": "Gizmodo",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0TENFeWNkR09memVUSnA0ZlY5V3cxZno2NmlJVTZHbU0xaGN6ZnE0UXNTX0JzMlVUNGRCTGl3UFB3NW1SdWlWMUFwSmt1UmVDSkpGdDY3WTU1b0RaRE1HYlF0clJ4cEFiY0piUkthTmlfUmpnSkx3?oc=5",
+   "published": "2026-11-24T12:00",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "7ef00759a63e",
+   "title": "データセンターの排熱をエビの陸上養殖に活用 NTTドコモビジネスなどが実証実験へ",
+   "source": "KAB 熊本朝日放送",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XSHBmN1V3MXJKb0t4d3EyaU91aUlaQU5mNElMSjlTUXFMUl9HSGE4dTY3Y212cGZHQmpoR0Nycm1tUV9PdXFkVmRieHdFVDVjc3M0bzJB?oc=5",
+   "published": "2026-11-24T10:44",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "d364d6d81d16",
+   "title": "データセンターの排熱をエビの陸上養殖に活用 NTTドコモビジネスなどが実証実験へ",
+   "source": "KSBニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Sng4VkNhVmkyYzNFc0VQMHFqS1BHOW5Mb1h2QWNXY0gzaUZxS1B4UjRZV1kzc2dKVkdDWGxKWFlyQlp6YjE1N3VKMkcyWG1QcnB5a3h3?oc=5",
+   "published": "2026-11-24T10:31",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "57f88b1b27eb",
+   "title": "データセンターの排熱をエビの陸上養殖に活用 NTTドコモビジネスなどが実証実験へ",
+   "source": "テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByaHZYNVRFRGVCdGoza2RrWlNxT1d6N3lnSXNuS2F3WkE2enkzTUJtQjcwY3FLVmM4elZ5MzhnUzNHT0FfNHJyaXZHTGFHVWxKWFliZXJDUDVPZ0w4RFZIbG1TRmEzV08wWG40VUxsMHR6Zw?oc=5",
+   "published": "2026-11-24T10:31",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "08e983ac6ed8",
+   "title": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMm1HNE5EdnRmejFldHNIVHBHUWM0emh4cHlVREpNaWp4T0s1ZnpKdmM2VmNzMnZlWHdydVEtSk92c1NfMGlFVjBva01Bei15WV9pd1U0dEMtTDI1VU9jTEtCQ3lJSVd6?oc=5",
+   "published": "2026-11-24T09:44",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "4aaa33380a48",
+   "title": "NTTデータ、クラウドの脆弱性や設定不備を一元管理する「A-gate View」提供開始",
+   "source": "Infoseek",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kd3Q2R1lIdHNoMWlteklkeHhJNXg4UG9vc2QtOHFJZDRXZVdJY04wYWhlZ0RsWVdXLW5xaEhGaTl1N0lVa1hfMF9VcEQ3dUtJZE00MVFRd0plcnB2YVhz?oc=5",
+   "published": "2026-11-24T09:44",
+   "kind": "company",
+   "q": "\"NTT\""
+  },
+  {
+   "id": "c83e36b2dbf1",
+   "title": "ジェイフロンティア、NTT西日本の自動運転EVバス実証に参画 車内でオンライン診療を案内",
+   "source": "LIGARE（リガーレ）",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43QkpxVmE3OGprOWZHTHVGcGdhaUZhbm1sYWlWSldOWG5pNnpOTGpTOHR0X1dHeUJRai1TTXpFLU9MOUE0S1VJZnVycndxRWxUeVlB?oc=5",
+   "published": "2026-11-24T08:33",
    "kind": "company",
    "q": "\"NTT\""
   },
@@ -447,6 +1032,15 @@
    "title": "韓越貿易が過去最高へ…韓国政府、2030年1500億ドル目標の前倒し達成に照準",
    "source": "亜州日報",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iZFA4bmJzbU1MQW1KZzZXUzNmUzc4UGdYQTI1ZU5aQ2p2azFRZ1NNS1J5cDE2YVpfSGZpVzVDR0JTUkZCelJTek1uNVBzT3lqYjJkNmxyN0ZjdzU2?oc=5",
+   "published": "2026-11-20T11:06",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
+   "id": "5bc7bc553878",
+   "title": "韓越貿易が過去最高へ…韓国政府、2030年1500億ドル目標の前倒し達成に照準",
+   "source": "亜州日報",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XYU5PVUd1emJOd050TmNCMWI0TGhfTk5YTDFhX04wYVc2TnVXaUZSSnRYN3NqV0htQkxSQVZrOHhXSjI2OHppcEZCd3A1WlJpd0c5RmczcVgwZG8?oc=5",
    "published": "2026-11-20T11:06",
    "kind": "sector",
    "q": "情報・通信業 市況"
@@ -1334,6 +1928,15 @@
    "q": "\"NTT\""
   },
   {
+   "id": "d29715ca7dc2",
+   "title": "ローレンス・フラーの市況解説｜ナスダック下落と均等加重S&P500の健全性を分析",
+   "source": "Investlingo",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EbHRJNzByckx2dEpkYkk2R1pET1ByQkIzT0VSal8wTTAyLXgzazJieWJBZUc3cW5Icndia3VfSXJuQnl2YklscXRQTVJJLWREYkhBRmp0S001VWFCT1RucXhLR1NuUVo5UHY4UEJ0OA?oc=5",
+   "published": "2026-11-17T22:32",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
+  },
+  {
    "id": "d80dcad71bf4",
    "title": "NTTデータ、古い基幹システムを生成AIで刷新 保守工数5割削減",
    "source": "日本経済新聞",
@@ -2025,6 +2628,15 @@
    "published": "2026-11-16T17:00",
    "kind": "company",
    "q": "\"NTT\""
+  },
+  {
+   "id": "680c065a9380",
+   "title": "本日の【業種】騰落ランキング ＝ 前引け 【上昇トップ】小売業 【下落トップ】非鉄金属 [11:31]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sMkRpLWVzQUo0T21Zd2tTYndfbkRHeGIxLTBHbzYwT2Z0TFFqR1pvZjFUS29yWm9mM3ZocXhkSS0xMS1qSmk3RnpSQWQ4Z0NQTHE0OVhENTlscm5YWGhqUg?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "sector",
+   "q": "情報・通信業 市況"
   },
   {
    "id": "b16fac8c9373",
