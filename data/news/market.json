@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:57",
+ "updated": "2026-11-26T05:14",
  "items": [
   {
    "id": "c437d1515bb7",
@@ -378,6 +378,15 @@
    "published": "2026-11-25T07:00",
    "kind": "market",
    "q": "日銀 金利 円相場"
+  },
+  {
+   "id": "c696e93c44e8",
+   "title": "17日 日経平均終値 最高値更新 TOPIX終値 初の4000台に",
+   "source": "テレ東BIZ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xdDVxUEk5dVBicG5FMzVJazM5b2lsQmpUWktmbzVVVnNFLTIydXdfS2pNS2dETU0tTmZtYlJ4WXhiV1diWFAzZmlsQ0kxSUY4SDBlbg?oc=5",
+   "published": "2026-11-25T02:49",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
   },
   {
    "id": "6b8a22984527",
@@ -1797,6 +1806,15 @@
    "title": "日経平均は892円安でスタート、ソフトバンクGやアドバンテストなどが下落／寄り付き概況",
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbkxPZTZZdVNJMzF3MUdKTl9MMzZyWkJLcG5jelVWUUlnTXc2M3RFLVc0M2dwLTVPTnBEdW1vSE5rR01NZjJyeUNCMjlHYXBWSHc?oc=5",
+   "published": "2026-11-20T09:40",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "dcace0a2e9d0",
+   "title": "【市況】 日経平均は892円安でスタート、ソフトバンクGやアドバンテストなどが下落／寄り付き概況",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XLVNBVWJweWxuTGxJNng3Ty10SUJOR3YtY3FkeXI0b0dZWW9WRllsSGhEalN5bUNIMnE3enNFb2J4SE93U1EyQi15Z0dQS05oSXVtbUZpeEJyVWh1cEtXWg?oc=5",
    "published": "2026-11-20T09:40",
    "kind": "market",
    "q": "日経平均 東京株式市場"
@@ -4290,6 +4308,15 @@
    "title": "来週の日経平均見通し（11/16～11/20）｜6万円台回復で反発続くか？今夜の米PPI・エヌビディア決算・アンソロピック上場に注目 2026年11月13日",
    "source": "外為どっとコム",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4LUxQRW8ySXdBX1Ywb2xMdEdMQ2JwQjZ2X1hnQ0JHa3dBNzk3LUl6RnBBSk5wZ0MxRktiRHJTeXlVSlRMa1FSNHBwSDVTMHpwZjQxUGhqWlotSTIwQ3QtNmRsVQ?oc=5",
+   "published": "2026-11-13T17:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "823bb4e32e46",
+   "title": "日経平均株価が反発 終値は322円高の6万1142円",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dEJOeHJTODM4aTJabGFwamQySzU4MHJrQ3ozOWw1enFJaEp3WlFnSVhrNWxjZ1A1MU5TOVI1d2lIX3doVDdsbUJtYTVxU1hYc2k1ZHY0WGZ3M05qdy12Ti04cGk2NWZtVFJSQg?oc=5",
    "published": "2026-11-13T17:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
