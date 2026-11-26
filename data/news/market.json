@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:42",
+ "updated": "2026-11-27T04:51",
  "items": [
   {
    "id": "a4a26220f3d9",
@@ -1694,6 +1694,15 @@
    "q": "日銀 金利 円相場"
   },
   {
+   "id": "15c6a35e6471",
+   "title": "ECBの政策金利が3％に達しても、欧州経済に及ぼす影響は深刻ではないと考える理由 野村證券・岸田英樹",
+   "source": "野村證券",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vTVZSeTNrbUJiZDUzXzNOeldQODVLT2Nsc0pHbkFURGZOVmZ2MkhhNWRvWUhNLXBGaUpNQWVNc2NLQmczOWRZc1JLQkVJR1IyVDlQSmFfOUV5bGdOTXdJ?oc=5",
+   "published": "2026-11-20T17:00",
+   "kind": "market",
+   "q": "日銀 金利 円相場"
+  },
+  {
    "id": "454c2529def9",
    "title": "東京株、３００７円安 ＡＩ・半導体中心に急落：時事ドットコム",
    "source": "時事ドットコム",
@@ -2742,6 +2751,15 @@
    "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でマイナス転換",
    "source": "株探",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FNGtadGxVVm4tR0NESi1PT2lqTXktY1FqUVBjTGp3NnhzODFrbHpFN0tSdFU4U3RCM0RYQnZsOEdadWxfaEhkLXJNN3ktUVcxalhiaG9UeWhaaTRiSGs4dA?oc=5",
+   "published": "2026-11-19T12:32",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "3200c2afaddf",
+   "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でマイナス転換",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QRkhRRzRYT0c3Z05hU19Lbjcyclh4aHYxT3c2MUMySWFIQmhGTXNwTW9vbHROVmh5ckZ0b2dXYUNaTi0zeTNyeExpQjc0bDhPbHEwSDlTTjJWaEVzWF9KeFJfR2tlZw?oc=5",
    "published": "2026-11-19T12:32",
    "kind": "market",
    "q": "日経平均 東京株式市場"
@@ -4731,6 +4749,15 @@
    "title": "日経平均株価が反発 終値は322円高の6万1142円",
    "source": "日本経済新聞",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dEJOeHJTODM4aTJabGFwamQySzU4MHJrQ3ozOWw1enFJaEp3WlFnSVhrNWxjZ1A1MU5TOVI1d2lIX3doVDdsbUJtYTVxU1hYc2k1ZHY0WGZ3M05qdy12Ti04cGk2NWZtVFJSQg?oc=5",
+   "published": "2026-11-13T17:00",
+   "kind": "market",
+   "q": "日経平均 東京株式市場"
+  },
+  {
+   "id": "d619f5b1687e",
+   "title": "東京株式（寄り付き）＝反発、米市場下落も値頃感の買い流入",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZFN1QW9Dc3ZmbTJ4UG5ZbFRHejY3b0tHR2s1cGNCeFRacWZpZDRWMVdCeU1JY3dWVXRoNUk4aFFEeDhsRmdTYXdhQ3h1RXlSS1E1bGthY1JON0ZZVl9DQw?oc=5",
    "published": "2026-11-13T17:00",
    "kind": "market",
    "q": "日経平均 東京株式市場"
