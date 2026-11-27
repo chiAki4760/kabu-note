@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:27",
+ "updated": "2026-11-28T04:40",
  "items": [
   {
    "id": "30e019474167",
@@ -35,6 +35,33 @@
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBjMmk4ZVNJV3VfZTNoNUVGT1p5d0hQZ0NZSVFkcDRHdDJPM1JWNzFDQXdnQm8zSWplU0lTbEZxVXJGNjc1WTJpZ01R?oc=5",
    "published": "2026-11-27T15:00",
    "kind": "company",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "0a0fbc1d15a2",
+   "title": "三菱造船、アンモニア燃料車専船4隻に設備供給",
+   "source": "LOGISTICS TODAY",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50NHdXTUhhbEJBaTNWU3dWRWI3eU1naVZBdDFmakNHREQwcUtqQVM4MEh4V0hTTFl5QjFOYVN5bDdWNWZib0xkXzl3?oc=5",
+   "published": "2026-11-27T11:59",
+   "kind": "sector",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "4191e6710335",
+   "title": "グランド・クラシカ",
+   "source": "フネコ - Funeco",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LWlhTQ3R6ektHS0NuQUh1OThfUF93Tjg0TzAxLUZ5SEVPTlRMLWhXamYxb0M3TGt2UGJIemRac2tEbVhTZFQxQ3YyMmZHWGc?oc=5",
+   "published": "2026-11-27T06:18",
+   "kind": "sector",
+   "q": "\"川崎汽船\""
+  },
+  {
+   "id": "5751c3a809fa",
+   "title": "ウインドワード",
+   "source": "Funeco",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xNjdKVWo0cUFWdGJGaFhmeGxveks2Z1owcHg3bGhwa0lIMWowaHJXak1iT0pod05mVUlDNlpNc2RPejh1NGVB?oc=5",
+   "published": "2026-11-27T03:40",
+   "kind": "sector",
    "q": "\"川崎汽船\""
   },
   {

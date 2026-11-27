@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:27",
+ "updated": "2026-11-28T04:40",
  "items": [
   {
    "id": "2ee859f3dca5",
@@ -29,11 +29,29 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "b592f65e43c1",
+   "title": "中国や洪水があったタイで苦戦…トヨタ自動車の10月世界生産台数 前年同月比8.1%減と4か月連続で前年割れ（東海テレビ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2ZjSDdZQ0dONWdfaHdtTzZXMHFqMExyWUNuUm9vVFh2UVBuT1FlcjdXTWpwYmw0b2hrbDRlUXpCS3ZTY1ZhTFhEUWZRQUNJX2lLakI0V1FnWmpSR2J2NkxrVDZrZDBDa2p5b3hhdmRNSVJ1ZW9BQmljeFhhMVZUNVFMYmQzZVczU0ozR3J3?oc=5",
+   "published": "2026-11-27T19:09",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "aa1135b458d0",
    "title": "トヨタ自動車 世界販売台数 4カ月連続前年割れ 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
    "source": "ABEMA",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WQVQwYVJlVFV3ODd2U0xXbXRKdkl3RmVtWUxiZGhsVWlCRTdOVTJZZU95WkNTZHFiTWlueDRXSzRkOVptZUliRlRMcFFwaW0wb1FWQnRQMERPLUk?oc=5",
    "published": "2026-11-27T18:50",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "c017977efe3a",
+   "title": "トヨタ、自動運転の最新技術を北米で公開 熟練ドライバーをAI学習【動画あり】：ニュース",
+   "source": "中日BIZナビ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42TndCNFE1dlJMekk2RFVBaWRzemdnU0x1bzQ0ZlFlYlEtN1RhTFRtUUFNMmtrTHFoemNYQkxOVzhfQTlFSUVkOTMtT3pVTmh6alBaUTlfTkVxaUVzM01j?oc=5",
+   "published": "2026-11-27T18:24",
    "kind": "company",
    "q": "\"トヨタ自動車\""
   },
@@ -47,12 +65,30 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "a8fd4410d2b1",
+   "title": "アイシン「ハイドレイド」搭載ヘアケア機器を展示、トヨタ『e-Palette』で水素由来電力により稼働…トヨタ・ハイドロジェン・フェスティバル 1枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzhzN1dBV3VYMzRDSE5XbDVGb0pwR1BVem1jVHVka084dkdsOHR3d3k3azZ5Q1JRTkNVN1dpbXEzcUpVb0xVdkJtSFFKNndyZkFLeWRBVjlDY3doYkNfSWtHODB1d3pIUUJCWnJYV3ljZ3JyTEhILWt1UlZ4S3dTbl9CaEdiSndYaDA5a0ctYTk?oc=5",
+   "published": "2026-11-27T18:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "a054361cc0aa",
    "title": "日系3社の中国販売、10月も二桁減 ホンダは33カ月連続 広州ショーで反攻",
    "source": "BigGo ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yQWFPWHpsUVJjNm9GZkliWWZ6OVFaVTRhUWNqV3UyLWhmQ2I3cUJVS2FZVzcxTnY5RHhNMkZCcEdKWWdFMllmdG9DOERvOEFFeC03UlRuTVdJenk3cVA0dmwzenFvdnhFaG5kblVsYTdkT2xG?oc=5",
    "published": "2026-11-27T17:56",
    "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d88372a488c5",
+   "title": "トヨタ自動車 世界販売台数 4カ月連続前年割れ",
+   "source": "ABEMA",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSXBQcFZScTZKdGtPU2VDcjI1b3FlTHNRdk1CTWZGeHo1bU53V3Itb1g2UWlEb1BhOGx6SzI5Y0pVYzhfQVZYTU9Da0RHMlJWSmdOWkRBTUwyODMwdWJFbkREMUdiMWQwRHUxX2k4eTdFYk1sRXN3ZDlnM2lPakhUSlh6Y0pqaW4tVjU5QV9RSXpTdDVKSmNWeHY2YUUwOGpDYnZjUVdIWi04WG0tN0F3cEpCak9OLUF0YWVUdlVCcDQ0bnlCUm1lWUlmN1lBVDh1bWdtQUtCbU5Nd3Z4YXR4Z3Znc1B3M2JI?oc=5",
+   "published": "2026-11-27T17:46",
+   "kind": "company",
    "q": "\"トヨタ自動車\""
   },
   {
@@ -101,6 +137,15 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "1ef207f08340",
+   "title": "トヨタ10月世界生産8％減 ガソリン高で中国苦戦：ニュース",
+   "source": "中日BIZナビ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YQmtSLVRlR3pIVG15Q1VjY0xaSWZsMVZFZFU3NXZLYjJMNWFnOV8wU2NKSXdfRkJwTlNDWmNVVzg1OTZseDNYVXNiWTY1SjFPLWRaRHg3S0pwc3hXQWs4?oc=5",
+   "published": "2026-11-27T13:30",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "a7438ee392a8",
    "title": "【トヨタ自動車】3度目の延期申し入れ 電気自動車向けの電池工場の建設計画 福岡県苅田町に61億円で用地を取得",
    "source": "Yahoo!ニュース",
@@ -125,6 +170,15 @@
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HNGY0THVrRTZIbjdNck1CbG1vLUhITlNmTzg1RVg2NXMxOWRreTAxRzVWV1dpa2tXVWtmYjdCbVFLTmhfcW1fQ3FBZXJIdVN2TUhWcDJDUDVLSnotdFU2ajRSUWk?oc=5",
    "published": "2026-11-27T12:34",
    "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "5249b9a3b646",
+   "title": "新世代ロボティクスと自動車メーカーとの関係は？…ヒューマノイド、フィジカルAIなど、11月の注目記事ベスト10",
+   "source": "carview!",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTTZWX3BCRXlOV3g3OEhDNzFSRndhUDc0azRzWWhfUFE2eVlYRjM5SjFDbEVzSUlZdTJlc3hRWTBmZThMVDR5anF3MDlPWWp0dFRsYkhtSGt0ek9VS1dtNW42Q2FURDJaNElWMEpWYjRhc205QlZ4eWZHLW1ZVUJtZDFSZ0p4a0pv?oc=5",
+   "published": "2026-11-27T12:30",
+   "kind": "sector",
    "q": "\"トヨタ自動車\""
   },
   {
@@ -173,6 +227,15 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "7b2bf26eab36",
+   "title": "トヨタ電池工場、３度目建設延期 福岡、ＥＶ需要見極め",
+   "source": "山陽新聞",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aNW5iaDdEeTdtc1FkV2xncWtDM3ZXdnBjaWdrd3dCVFJDNEI5YjI3WXZtLWU5SFc0VTlKNTNxOTdZTkcxVHJ1S1UtU1NtYUdORDJ6bkVOUE9lSE5V?oc=5",
+   "published": "2026-11-27T11:36",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "918ddf9873bf",
    "title": "トヨタ、福岡EV電池工場を3度目延期 「継続保有」を県に要請",
    "source": "BigGo ファイナンス",
@@ -209,10 +272,28 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "24f9d5bb099b",
+   "title": "近助タクシー 効果見える化 永平寺町とトヨタ 共同研究へ",
+   "source": "中日新聞Web",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESVN5emh1RHVLS1ctYVZ4VXphd2lPQjVVODVrSExOWGhXMDJoZTFwRnprcEh5eFdwTGV6bXJyeXdic2RWT0FPRWRoVnhNdmFJUHZmMw?oc=5",
+   "published": "2026-11-27T05:05",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "788464badb76",
    "title": "トヨタ、世界生産２．１％増 12月～27年２月計画 国内日当たり１万４千台超の高水準",
    "source": "中部経済新聞",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81S1g3YjI0RVNGeTkyUXU2X3M4TVo3V09Tb1pJUHJ1d3dlZGJpcjlTZHhsTHVLeGNPZmdYMmUyYng0MmNBWVB5QnJMOEVTa1ViTXZfbWU1VjBBa2FHOVRqRVk3WEgwQTVHZG0xcDVkQTczaFE?oc=5",
+   "published": "2026-11-27T05:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "b988b45138b0",
+   "title": "トヨタ、世界生産２．１％増 12月～27年２月計画 国内日当たり１万４千台超の高水準",
+   "source": "47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YOF94TDZ1Rko4NUhMVXJUSnhuSEh6MVUtNFdfUVFOdHd6U29YdC02MnpvUFZtZ1hYdEo0X09mako2MmhDbVZZZTdhaw?oc=5",
    "published": "2026-11-27T05:00",
    "kind": "company",
    "q": "\"トヨタ自動車\""
@@ -232,6 +313,15 @@
    "source": "au Webポータル",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91QW10TWNpVjNscnhTR3RPMUxfeFg2ZV9YTkpGS1p4UWdERGZ2c29YdXVGajl3QUk5a01BMnhFSGRyRW1zTE4xRUYtQkg4cHBjUHoySW9SQlV4ckVXdlFpa3JNZUlMNURsNVk0OUxB?oc=5",
    "published": "2026-11-27T00:02",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d8f10af95a0d",
+   "title": "トヨタが福岡・苅田の新電池工場建設計画を再延期 EV需要見極め：ニュース",
+   "source": "中日BIZナビ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UR21LZzdhdDVmaGFSLW91YWVheTJ2eWdOc09taEJTMzlZZ3BNY3p2OHZEWjhFX0NwWl9YX21pQ1M2bk5WU3FjY0I2T3g4em9DRkd1N0xRazQ2MTlyZ3Rz?oc=5",
+   "published": "2026-11-26T23:36",
    "kind": "company",
    "q": "\"トヨタ自動車\""
   },
@@ -497,6 +587,15 @@
    "q": "\"トヨタ自動車\""
   },
   {
+   "id": "51d8d138ea62",
+   "title": "【3年ぶり日本復活】トヨタ新型カムリ、旧型（10代目）と何が違う？価格・スペック・向いている人を徹底比較",
+   "source": "MSRweb",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Xa3E0SjN5YkRMT1ZhLUw5Q1pqang2SUk2ZHRfQWFRUmpudmo0TFdFUkpBUFg5dC1tY2drWVl3VDlUVldWNXJV?oc=5",
+   "published": "2026-11-26T09:56",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
    "id": "1a304679b960",
    "title": "トヨタ自動車、米国製の新型カムリを１２月２３日に国内発売、約３年ぶりに販売復活",
    "source": "https://kabu-ir.com/",
@@ -519,6 +618,15 @@
    "title": "医療用消耗品廃棄物の移送の世界市場（2026年～2032年）、市場規模（院内搬送、院外搬送）・分析レポートを発表",
    "source": "アットプレス",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zNU14cXBscnIxS0xRY2RBUTVYRjFEckdTYUxkcWRCUE90b24zT0RXbWloTTJnT2NCMi1jVmFOaEx4Tk9nc01qV1BnUjUzbDg?oc=5",
+   "published": "2026-11-26T09:00",
+   "kind": "sector",
+   "q": "輸送用機器 市況"
+  },
+  {
+   "id": "d73785e515f8",
+   "title": "医療用消耗品廃棄物の移送の世界市場（2026年～2032年）、市場規模（院内搬送、院外搬送）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RT0hJN2ZYZHE1NDZ0MFJHVTJ6a0hjLXdhQzNpc3lYd015VE9mSGlfOE9TSmVZbzB3NDU0S0lQdk5yeUg2XzIySHp5THFfTFk?oc=5",
    "published": "2026-11-26T09:00",
    "kind": "sector",
    "q": "輸送用機器 市況"
@@ -591,6 +699,15 @@
    "title": "トヨタ自動車東日本ハンドボール部「レガロッソ宮城」 業務と両立しながら日本最高峰リーグで戦う選手たち",
    "source": "FNNプライムオンライン",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyamRhRy1YY1N3TUhLUTUzbVZMRVZJQTdGT2g2ZlFNcXlxOFJQWUsyV0x6X2NDclZDVGlvdVBDYVBCU2w5SjVmUmpDRl94QQ?oc=5",
+   "published": "2026-11-26T05:50",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "f1fc2ae91fc5",
+   "title": "トヨタ自動車東日本ハンドボール部「レガロッソ宮城」 業務と両立しながら日本最高峰リーグで戦う選手たち（仙台放送）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZ09udlZIYlV5b19jUXZ6MWFUb05VdmZhdE5lWlNocGxHQ1hBSWlMT3p0ZkZ4eXJGRlQyQVJiNERsMXFSLVQzYXN2UVFSM0pmSlJnSVlFMkpSZEFrN3d3Snk2Z0ZOcmRPeExkN0JEalJQNWktWDl4VXFjd0loTUU?oc=5",
    "published": "2026-11-26T05:50",
    "kind": "company",
    "q": "\"トヨタ自動車\""
@@ -969,6 +1086,15 @@
    "title": "トヨタ『カムリ』新型、米国生産の右ハンドルで日本導入…430万円から 6枚目の写真・画像",
    "source": "レスポンス（Response.jp）",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFZYaUV2R3VYNnpPR2Z0ZnFJWmNYZ0swVGZXaGRCRVNqQmhtbEJGS1dEU2llNFVKOEtmQTlublpWZ3BaU1EwaXRYN2tTenp1MW45UkZJVUREbFVwa1d6Y3BySEhKNlRRYnlEemsyYl80U01mZmtTMVJ3S3NUUWc5QWZfQy04RWNEQkpBOVpfOA?oc=5",
+   "published": "2026-11-25T16:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "b0aee32d2cf4",
+   "title": "トヨタ『カムリ』新型、米国生産の右ハンドルで日本導入…430万円から 7枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JUHNkTU94T0dJcnRJNDh3RFVZMGQ1a29nYmZ6Vm41Z3VqZXR3R05BYVM4bHlESVVjSGwtYkNKRmw4MXJzSjdvcURYNnBEQXVraVNjYWFxWkVhTnNMb1lGQ21fSXpYTXpnUW9XM3pNb2NvZw?oc=5",
    "published": "2026-11-25T16:00",
    "kind": "company",
    "q": "\"トヨタ自動車\""
@@ -1601,6 +1727,15 @@
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zQ1pybWt3bE02XzFzdHBnc3I4d29EWHpMcmZpQkp4b3lYaTlaNGdTLXhkeEZQRjk0cEVVQ2YxX3l4VHg1MkluQ210ZlBhbnVuU0w3TUhWenNpZlU?oc=5",
    "published": "2026-11-21T05:00",
    "kind": "sector",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "4ec47ed6b771",
+   "title": "トヨタ、米で「軽トラ」生産 来年後半から法人向け販売へ（ロイター）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yczk2ampnbGtXVlQ5UGlZUVJkdkozZUtXelljdjRIdENSWU82ejNVYVdLajdHREFPSlhNNWFKRUQ2eXd6WkU5R01PYzI2MU1jczZxS2ZwWElmY3hnWXQxMHp4Sk1nRXhDbDJlRWl0SzJlSW5sbElQQUF1ZGJPZmM?oc=5",
+   "published": "2026-11-21T02:54",
+   "kind": "company",
    "q": "\"トヨタ自動車\""
   },
   {
@@ -2329,6 +2464,24 @@
    "source": "Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VMXA2M2l5ckRpZlJ5cFd1RW1WZkRZd3hPeVpXR2dnRlQ4MThrQjIzeWI2Y05OTFFndmpLMGlYU0dPWDlBcTdsOUVJUGE4cVdvX2tLR2tiN3l3dVRELS1LR1R6bjFBaGJGU1RLb1QxRDV5aWtDRmlGWXhYOTg0Tnc?oc=5",
    "published": "2026-11-18T18:41",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "d90f84ed7162",
+   "title": "トヨタ博物館で初開催！ナイトミュージアムで19世紀のベンツや1950年代のキャデラック、トヨタ ソアラやレクサスなどヘッドライトの進化を紹介（ウォーカープラス）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRWZ1QUxBVXNBcDY3eG5aZUoyVkI5ZFRZTm9BSzljMUJpbGE3Ml9jNFdGQnV0NHU4eUQ0UWl2alJ3dkd3V0RwSEdXU2E1ZkJDdWxMTm5WZHcxRnBGMjd6MHBjdWpBTjNUb1BMWUVVbUFVNWRjaUVNNUlqVHFvQ1U?oc=5",
+   "published": "2026-11-18T17:00",
+   "kind": "company",
+   "q": "\"トヨタ自動車\""
+  },
+  {
+   "id": "2b115afd0d11",
+   "title": "アルファードに勝利！ トヨタ「ルーミー」が10年目も売れ続ける理由とは？ フルモデルチェンジなしで販売5位、なぜ家族は選び続けるのか（Merkmal）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zNUg3bGVMeDIwVk9ralZCcnRiWnBDb2RaUUdTZk1XUUF6b3lobWdlZ1ZpM295RGFabE1VWmMwNjBMTmZlVFB1RTNpVFdaeWFDUmR2TTN3QjBpS0I0RTlaeUJGdW1Sb3AwUFZSY0xhRExWcU45cjB6WnhvZVZnMDQ?oc=5",
+   "published": "2026-11-18T17:00",
    "kind": "company",
    "q": "\"トヨタ自動車\""
   },

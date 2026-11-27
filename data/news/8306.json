@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:27",
+ "updated": "2026-11-28T04:40",
  "items": [
   {
    "id": "a4ced89a5fda",
@@ -106,6 +106,15 @@
    "source": "Yahoo!ファイナンス",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3VvUXRsRkhaODJoT3dCRUNRT05aYzdwSDhfN3ZuZ0J0N0EyS0VkT2pPVkZuLS00c1ZBd01KWVpyNEhteVduX0F6QzhTRnp5VExkQjBERDgtMW9EZEFGYURTT3QwblJFbGlDM0tmbTk3RnMtMXM3SE9xdnh6NEtNUzlmWDd5T1k?oc=5",
    "published": "2026-11-27T15:50",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "b8975acf4ee7",
+   "title": "東証業種別ランキング：非鉄金属が上昇率トップ(フィスコ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWY4dHVxSkJBTW93M0c3ak92RGU5T3dGTWc3bExNQ01IOS12WWp6Q2NFbjRtU2YtMUg5RTBMYXhwUEkzRms2SE9fWTZnalJuVzVfRkswR0RYa2pLSEl0V0hXeEdQWjRuaDk0cHBBZG11Z3p2dmFMQURweEZuSlhPbUxoV3E1a0k?oc=5",
+   "published": "2026-11-27T15:42",
    "kind": "sector",
    "q": "銀行業 市況"
   },
@@ -1062,6 +1071,15 @@
    "published": "2026-11-21T01:58",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "332ee9a4dad8",
+   "title": "楽天証券から\"口座大移動\"は起きるのか？ネット証券の覇権争いで漁夫の利を得るSBIホールディングス（8473）、今こそ押さえておきたい3つのポイント｜日本個別株デューデリジェンスセンター",
+   "source": "note",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iY1lvNFdSSm5JQV84RVBHTUUyYkkxVXZWSkVXel9SSTlLc1g5eEtFanJWdWJqc3NJMkhvdk1xUjBOcS1pRGhOdGJtUVFTbVZVeFBkYVJNRDdDZ3c?oc=5",
+   "published": "2026-11-21T00:00",
+   "kind": "sector",
+   "q": "銀行業 市況"
   },
   {
    "id": "957978e9a3fc",
@@ -2032,6 +2050,15 @@
    "source": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9saV8wWFFyUElreWtSTjZVWGR2eTJFT2Q2T2E5dFFNeHo0Q3ZxUlJjTEdaX2dIa2JBNUJZS2J3em5HNko3QTJoRThrYXdkWWJXN2U2OGItZ21GTnJaWHBIN0NZVGQtNFZMV1JlbHZ5Y2U1NGJHXzlJ?oc=5",
    "published": "2026-11-18T10:22",
+   "kind": "sector",
+   "q": "銀行業 市況"
+  },
+  {
+   "id": "369e6cd1209b",
+   "title": "【要人発言】日銀総裁「政策金利を引き続き引き上げ、金融緩和の度合いを調整」(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNelZmclZ4MFBidUFHbHBtd0x4VkVBejhINHdPMm42eXlQdnN0a2dMVFlSd2NiWlQzZnhrSGo3a05ibHk0dEM5UGpkenJrSDhTWEdacGJKVVI4ZWpPMUgtNXlJak1hMVVXQUllVThLWUI0OFZ6aXIzVllmVGtDaU9rR1VzSzBmX0U?oc=5",
+   "published": "2026-11-18T10:10",
    "kind": "sector",
    "q": "銀行業 市況"
   },
@@ -3012,6 +3039,15 @@
    "title": "三菱UFJの年間配当金、11月13日の中間決算で96円から100円に引き上げ。100株の配当金は税引後7969円、同額の普通預金の利息の5倍超",
    "source": "LIMO | くらしとお金の経済メディア",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hMVdLQmR5TWI3YXdxcXN0V0ZGaWNpTXhES0U3RlB6MlJHS0lIUmZJSThmZjVFNVNYM0s4OTZGYURMcllGbExwYWNYejE?oc=5",
+   "published": "2026-11-16T17:00",
+   "kind": "sector",
+   "q": "\"三菱UFJフィナンシャル・グループ\""
+  },
+  {
+   "id": "ad191a682e37",
+   "title": "千代建について、三菱ＵＦＪは保有割合が5％を超えたと報告 [大量保有報告書]",
+   "source": "株探",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYb2dhR0tiSi1yQWtKOTU5NTZyQUJ5N1FMSVlVMDNPZGVnblQ5X0ZEcFZmb1J4ZENtdXNxT1hxVHFvZWE1WFpIVml5eXlPM2lON285YkFlRXMwenJ2UXdUYw?oc=5",
    "published": "2026-11-16T17:00",
    "kind": "sector",
    "q": "\"三菱UFJフィナンシャル・グループ\""
